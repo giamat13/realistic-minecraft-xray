@@ -11,7 +11,7 @@
     227
    ],
    "share": 0.363,
-   "material": "concrete_powder",
+   "material": "concrete",
    "thickness_cm": 100.0
   },
   {
@@ -22,7 +22,7 @@
     221
    ],
    "share": 0.234,
-   "material": "concrete_powder",
+   "material": "concrete",
    "thickness_cm": 100.0
   },
   {
@@ -33,7 +33,7 @@
     233
    ],
    "share": 0.207,
-   "material": "concrete_powder",
+   "material": "concrete",
    "thickness_cm": 100.0
   },
   {
@@ -44,7 +44,7 @@
     240
    ],
    "share": 0.113,
-   "material": "concrete_powder",
+   "material": "concrete",
    "thickness_cm": 100.0
   },
   {
@@ -55,7 +55,7 @@
     212
    ],
    "share": 0.062,
-   "material": "concrete_powder",
+   "material": "concrete",
    "thickness_cm": 100.0
   },
   {
@@ -66,7 +66,7 @@
     249
    ],
    "share": 0.02,
-   "material": "concrete_powder",
+   "material": "concrete",
    "thickness_cm": 100.0
   }
  ]

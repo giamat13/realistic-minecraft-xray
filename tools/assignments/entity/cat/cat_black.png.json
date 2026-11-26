@@ -55,8 +55,8 @@
     18
    ],
    "share": 0.003,
-   "material": "glass",
-   "thickness_cm": 0.2
+   "material": "water",
+   "thickness_cm": 1.5
   },
   {
    "id": 5,

@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_spear_in_hand.png",
+ "depicts": "golden spear held in hand: gold tip, wooden shaft, hand skin",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    64,
+    41,
+    14
+   ],
+   "share": 0.484,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    126,
+    90,
+    30
+   ],
+   "share": 0.27,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    248,
+    234,
+    92
+   ],
+   "share": 0.098,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    225,
+    161,
+    20
+   ],
+   "share": 0.082,
+   "material": "gold",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.041,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    171,
+    82,
+    40
+   ],
+   "share": 0.025,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

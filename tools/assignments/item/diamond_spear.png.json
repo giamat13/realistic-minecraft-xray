@@ -1,0 +1,73 @@
+{
+ "path": "item/diamond_spear.png",
+ "depicts": "copper-tipped spear: wooden shaft with copper spear head (same structure as item/copper_spear.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    11,
+    51,
+    44
+   ],
+   "share": 0.284,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    39,
+    13
+   ],
+   "share": 0.243,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    48,
+    222,
+    192
+   ],
+   "share": 0.149,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    203,
+    254,
+    246
+   ],
+   "share": 0.135,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    145,
+    93,
+    38
+   ],
+   "share": 0.122,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    30,
+    138,
+    119
+   ],
+   "share": 0.068,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

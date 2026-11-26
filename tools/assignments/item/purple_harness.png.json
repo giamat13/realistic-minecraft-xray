@@ -44,8 +44,8 @@
     199
    ],
    "share": 0.092,
-   "material": "leather",
-   "thickness_cm": 0.4
+   "material": "iron",
+   "thickness_cm": 0.3
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     167
    ],
    "share": 0.092,
-   "material": "steel",
-   "thickness_cm": 0.2
+   "material": "iron",
+   "thickness_cm": 0.3
   },
   {
    "id": 5,
@@ -66,8 +66,8 @@
     233
    ],
    "share": 0.012,
-   "material": "steel",
-   "thickness_cm": 0.1
+   "material": "iron",
+   "thickness_cm": 0.3
   }
  ]
 }

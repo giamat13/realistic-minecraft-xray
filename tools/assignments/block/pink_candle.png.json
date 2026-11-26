@@ -12,7 +12,7 @@
    ],
    "share": 0.429,
    "material": "wax",
-   "thickness_cm": 3.0
+   "thickness_cm": 12.5
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.286,
    "material": "wax",
-   "thickness_cm": 3.0
+   "thickness_cm": 12.5
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
    ],
    "share": 0.19,
    "material": "wax",
-   "thickness_cm": 3.0
+   "thickness_cm": 12.5
   },
   {
    "id": 3,
@@ -56,7 +56,7 @@
    ],
    "share": 0.048,
    "material": "wax",
-   "thickness_cm": 3.0
+   "thickness_cm": 12.5
   }
  ]
 }

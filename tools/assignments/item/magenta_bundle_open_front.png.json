@@ -1,0 +1,73 @@
+{
+ "path": "item/magenta_bundle_open_front.png",
+ "depicts": "open black bundle, front view (dyed fabric pouch with leather strap) (same structure as item/black_bundle_open_front.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    123,
+    28,
+    114
+   ],
+   "share": 0.387,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    168,
+    50,
+    158
+   ],
+   "share": 0.286,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    204,
+    73,
+    185
+   ],
+   "share": 0.126,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    220,
+    99,
+    202
+   ],
+   "share": 0.101,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    86,
+    52
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

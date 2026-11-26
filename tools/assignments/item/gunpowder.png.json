@@ -1,0 +1,73 @@
+{
+ "path": "item/gunpowder.png",
+ "depicts": "gunpowder pile item: fine black grains",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    82,
+    82
+   ],
+   "share": 0.239,
+   "material": "gunpowder",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.216,
+   "material": "gunpowder",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    114,
+    114,
+    114
+   ],
+   "share": 0.205,
+   "material": "gunpowder",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.193,
+   "material": "gunpowder",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    138,
+    138,
+    138
+   ],
+   "share": 0.091,
+   "material": "gunpowder",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    62,
+    62,
+    62
+   ],
+   "share": 0.057,
+   "material": "gunpowder",
+   "thickness_cm": 1.5
+  }
+ ]
+}

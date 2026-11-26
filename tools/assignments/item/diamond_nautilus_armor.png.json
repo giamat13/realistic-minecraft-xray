@@ -1,0 +1,73 @@
+{
+ "path": "item/diamond_nautilus_armor.png",
+ "depicts": "copper nautilus shell armour, copper plate with spiral pattern (same structure as item/copper_nautilus_armor.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    23,
+    142,
+    135
+   ],
+   "share": 0.533,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    161,
+    251,
+    232
+   ],
+   "share": 0.184,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    67,
+    222,
+    201
+   ],
+   "share": 0.105,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    30,
+    183,
+    171
+   ],
+   "share": 0.092,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.086,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    184,
+    173
+   ],
+   "share": 0.0,
+   "material": "copper",
+   "thickness_cm": 0.2
+  }
+ ]
+}

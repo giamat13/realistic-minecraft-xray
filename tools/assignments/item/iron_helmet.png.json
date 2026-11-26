@@ -1,0 +1,73 @@
+{
+ "path": "item/iron_helmet.png",
+ "depicts": "copper armour helmet, copper plate with shaded rim (same structure as item/copper_helmet.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    25,
+    25,
+    25
+   ],
+   "share": 0.346,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.244,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    202,
+    202,
+    202
+   ],
+   "share": 0.218,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.115,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    107,
+    107
+   ],
+   "share": 0.064,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.013,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

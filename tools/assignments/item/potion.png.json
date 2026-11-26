@@ -1,0 +1,73 @@
+{
+ "path": "item/potion.png",
+ "depicts": "empty glass bottle: thin blue-tinted glass with rim highlights (identical texture to item/glass_bottle.png)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    143,
+    194
+   ],
+   "share": 0.381,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    191,
+    215,
+    240
+   ],
+   "share": 0.333,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    67,
+    33
+   ],
+   "share": 0.095,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    173,
+    208
+   ],
+   "share": 0.071,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    204,
+    175,
+    165
+   ],
+   "share": 0.071,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    212,
+    109,
+    73
+   ],
+   "share": 0.048,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

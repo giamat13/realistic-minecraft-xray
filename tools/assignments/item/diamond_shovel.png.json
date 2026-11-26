@@ -1,0 +1,73 @@
+{
+ "path": "item/diamond_shovel.png",
+ "depicts": "copper shovel: wooden handle with copper blade (same structure as item/copper_shovel.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    42,
+    16
+   ],
+   "share": 0.34,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    10,
+    48,
+    41
+   ],
+   "share": 0.226,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    188,
+    163
+   ],
+   "share": 0.151,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    51,
+    235,
+    203
+   ],
+   "share": 0.151,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    128,
+    96,
+    36
+   ],
+   "share": 0.132,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    52,
+    102,
+    75
+   ],
+   "share": 0.0,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/diamond_helmet.png",
+ "depicts": "copper armour helmet, copper plate with shaded rim (same structure as item/copper_helmet.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    10,
+    48,
+    41
+   ],
+   "share": 0.59,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    30,
+    187,
+    176
+   ],
+   "share": 0.179,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    237,
+    217
+   ],
+   "share": 0.167,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    251,
+    232
+   ],
+   "share": 0.051,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.013,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    35,
+    117,
+    107
+   ],
+   "share": 0.0,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

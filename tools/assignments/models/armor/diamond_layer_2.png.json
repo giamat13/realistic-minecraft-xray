@@ -1,0 +1,73 @@
+{
+ "path": "models/armor/diamond_layer_2.png",
+ "depicts": "Diamond leggings armour layer (diamond plate with cyan shading) (identical texture to entity/equipment/humanoid_leggings/diamond.png)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    203,
+    185
+   ],
+   "share": 0.571,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    237,
+    217
+   ],
+   "share": 0.164,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    44,
+    224,
+    216
+   ],
+   "share": 0.132,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    243,
+    227
+   ],
+   "share": 0.089,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    236,
+    255,
+    251
+   ],
+   "share": 0.029,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    180,
+    253,
+    238
+   ],
+   "share": 0.014,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  }
+ ]
+}

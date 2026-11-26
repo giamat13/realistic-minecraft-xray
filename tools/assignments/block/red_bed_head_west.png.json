@@ -11,8 +11,8 @@
     75
    ],
    "share": 0.301,
-   "material": "planks",
-   "thickness_cm": 30.0
+   "material": "wood_oak",
+   "thickness_cm": 100.0
   },
   {
    "id": 1,
@@ -22,8 +22,8 @@
     52
    ],
    "share": 0.179,
-   "material": "planks",
-   "thickness_cm": 30.0
+   "material": "wood_oak",
+   "thickness_cm": 100.0
   },
   {
    "id": 2,

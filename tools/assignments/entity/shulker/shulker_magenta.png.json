@@ -22,8 +22,8 @@
     171
    ],
    "share": 0.072,
-   "material": "soft_tissue",
-   "thickness_cm": 10.0
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
   },
   {
    "id": 2,

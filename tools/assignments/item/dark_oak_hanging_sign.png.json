@@ -1,0 +1,73 @@
+{
+ "path": "item/dark_oak_hanging_sign.png",
+ "depicts": "dark oak hanging sign with iron chains: wooden board and chain links",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    49,
+    26
+   ],
+   "share": 0.493,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    46,
+    29,
+    13
+   ],
+   "share": 0.25,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    151,
+    90
+   ],
+   "share": 0.081,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    112,
+    76,
+    39
+   ],
+   "share": 0.068,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

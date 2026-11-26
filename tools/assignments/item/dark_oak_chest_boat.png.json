@@ -1,0 +1,73 @@
+{
+ "path": "item/dark_oak_chest_boat.png",
+ "depicts": "dark oak boat with chest icon: wooden hull and planks",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    27,
+    12
+   ],
+   "share": 0.351,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    64,
+    30
+   ],
+   "share": 0.241,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    48,
+    28
+   ],
+   "share": 0.19,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    169,
+    114,
+    37
+   ],
+   "share": 0.086,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    85,
+    37
+   ],
+   "share": 0.075,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    105,
+    29
+   ],
+   "share": 0.057,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  }
+ ]
+}

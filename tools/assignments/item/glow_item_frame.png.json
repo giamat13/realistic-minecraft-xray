@@ -1,0 +1,73 @@
+{
+ "path": "item/glow_item_frame.png",
+ "depicts": "glow item frame item: wooden frame around a glow ink sac center",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    168,
+    132,
+    75
+   ],
+   "share": 0.435,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    191,
+    123
+   ],
+   "share": 0.265,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    135,
+    92,
+    47
+   ],
+   "share": 0.212,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    51,
+    43,
+    30
+   ],
+   "share": 0.047,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.024,
+   "material": "glowstone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    201,
+    192,
+    186
+   ],
+   "share": 0.018,
+   "material": "glowstone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

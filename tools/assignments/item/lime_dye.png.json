@@ -1,0 +1,73 @@
+{
+ "path": "item/lime_dye.png",
+ "depicts": "black dye item (ink sac blob with dye pigment fragments) (same structure as item/black_dye.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    131,
+    23
+   ],
+   "share": 0.267,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    50,
+    27
+   ],
+   "share": 0.267,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    198,
+    16
+   ],
+   "share": 0.206,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    175,
+    234,
+    90
+   ],
+   "share": 0.153,
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    118,
+    89
+   ],
+   "share": 0.069,
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    176,
+    166,
+    123
+   ],
+   "share": 0.038,
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
+  }
+ ]
+}

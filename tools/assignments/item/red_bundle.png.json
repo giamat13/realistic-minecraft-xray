@@ -1,0 +1,73 @@
+{
+ "path": "item/red_bundle.png",
+ "depicts": "black bundle item (dyed fabric pouch with leather strap) (same structure as item/black_bundle.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    166,
+    39,
+    33
+   ],
+   "share": 0.336,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    221,
+    61,
+    51
+   ],
+   "share": 0.313,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    23,
+    22
+   ],
+   "share": 0.252,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    129,
+    86,
+    52
+   ],
+   "share": 0.053,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.038,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    195,
+    141
+   ],
+   "share": 0.008,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

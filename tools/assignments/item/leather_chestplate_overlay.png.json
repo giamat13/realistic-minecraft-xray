@@ -1,0 +1,6 @@
+{
+ "path": "item/leather_chestplate_overlay.png",
+ "depicts": "redstone dust overlay layer (fully transparent sprite, no visible material) (identical texture to block/redstone_dust_overlay.png)",
+ "kind": "block",
+ "clusters": []
+}

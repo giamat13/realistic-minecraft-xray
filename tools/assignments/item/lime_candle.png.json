@@ -1,0 +1,73 @@
+{
+ "path": "item/lime_candle.png",
+ "depicts": "black dyed candle item (wax candle body with dark dye) (same structure as item/black_candle.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    103,
+    181,
+    21
+   ],
+   "share": 0.582,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    132,
+    13
+   ],
+   "share": 0.187,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    155,
+    223,
+    57
+   ],
+   "share": 0.143,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    175,
+    234,
+    90
+   ],
+   "share": 0.055,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    48,
+    101
+   ],
+   "share": 0.022,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.011,
+   "material": "wax",
+   "thickness_cm": 2.0
+  }
+ ]
+}

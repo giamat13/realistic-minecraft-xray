@@ -23,7 +23,7 @@
    ],
    "share": 0.177,
    "material": "soft_tissue",
-   "thickness_cm": 3.0
+   "thickness_cm": 4.0
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
    ],
    "share": 0.07,
    "material": "soft_tissue",
-   "thickness_cm": 3.0
+   "thickness_cm": 1.5
   },
   {
    "id": 3,
@@ -44,8 +44,8 @@
     59
    ],
    "share": 0.05,
-   "material": "soft_tissue",
-   "thickness_cm": 3.0
+   "material": "keratin",
+   "thickness_cm": 0.2
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     23
    ],
    "share": 0.005,
-   "material": "keratin",
-   "thickness_cm": 0.2
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
   },
   {
    "id": 5,
@@ -66,8 +66,8 @@
     198
    ],
    "share": 0.002,
-   "material": "soft_tissue",
-   "thickness_cm": 0.3
+   "material": "keratin",
+   "thickness_cm": 0.2
   }
  ]
 }

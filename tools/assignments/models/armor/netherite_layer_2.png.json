@@ -1,0 +1,73 @@
+{
+ "path": "models/armor/netherite_layer_2.png",
+ "depicts": "Netherite leggings armour layer (dark netherite plate with grey highlights) (identical texture to entity/equipment/humanoid_leggings/netherite.png)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    48,
+    49
+   ],
+   "share": 0.386,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    69,
+    72
+   ],
+   "share": 0.191,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    36,
+    31,
+    32
+   ],
+   "share": 0.147,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    106,
+    118
+   ],
+   "share": 0.11,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    23,
+    17,
+    17
+   ],
+   "share": 0.099,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    93,
+    86,
+    93
+   ],
+   "share": 0.066,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  }
+ ]
+}

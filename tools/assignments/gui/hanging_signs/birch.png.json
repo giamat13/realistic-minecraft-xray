@@ -11,7 +11,7 @@
     120
    ],
    "share": 0.505,
-   "material": "wood_soft",
+   "material": "planks",
    "thickness_cm": 1.5
   },
   {
@@ -22,7 +22,7 @@
     103
    ],
    "share": 0.207,
-   "material": "wood_soft",
+   "material": "planks",
    "thickness_cm": 1.5
   },
   {
@@ -33,7 +33,7 @@
     130
    ],
    "share": 0.16,
-   "material": "wood_soft",
+   "material": "planks",
    "thickness_cm": 1.5
   },
   {

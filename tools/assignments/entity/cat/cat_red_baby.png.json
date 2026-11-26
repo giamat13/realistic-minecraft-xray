@@ -45,7 +45,7 @@
    ],
    "share": 0.025,
    "material": "soft_tissue",
-   "thickness_cm": 4.0
+   "thickness_cm": 2.0
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     13
    ],
    "share": 0.006,
-   "material": "water",
-   "thickness_cm": 1.5
+   "material": "glass",
+   "thickness_cm": 0.2
   },
   {
    "id": 5,
@@ -67,7 +67,7 @@
    ],
    "share": 0.003,
    "material": "soft_tissue",
-   "thickness_cm": 0.5
+   "thickness_cm": 0.3
   }
  ]
 }

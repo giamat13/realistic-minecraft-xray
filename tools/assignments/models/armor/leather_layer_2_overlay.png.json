@@ -1,0 +1,73 @@
+{
+ "path": "models/armor/leather_layer_2_overlay.png",
+ "depicts": "Leather leggings tooled overlay (brown tooled leather, transparent background) (identical texture to entity/equipment/humanoid_leggings/leather_overlay.png)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    52,
+    32
+   ],
+   "share": 0.463,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    106,
+    64,
+    41
+   ],
+   "share": 0.176,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    56,
+    32
+   ],
+   "share": 0.148,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    60,
+    32
+   ],
+   "share": 0.13,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    74,
+    44,
+    24
+   ],
+   "share": 0.074,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    72,
+    41
+   ],
+   "share": 0.009,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "path": "particle/explosion_2.png",
+ "depicts": "explosion blast-cloud puff frame 0 (small hot smoke-flash, shaped as a dense disc) (same structure as particle/explosion_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "smoke",
+   "thickness_cm": 1.0
+  }
+ ]
+}

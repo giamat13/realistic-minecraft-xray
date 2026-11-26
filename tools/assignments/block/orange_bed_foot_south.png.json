@@ -12,7 +12,7 @@
    ],
    "share": 0.341,
    "material": "wool",
-   "thickness_cm": 20.0
+   "thickness_cm": 15.0
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.288,
    "material": "wood_oak",
-   "thickness_cm": 4.0
+   "thickness_cm": 100.0
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
    ],
    "share": 0.197,
    "material": "wood_oak",
-   "thickness_cm": 4.0
+   "thickness_cm": 100.0
   },
   {
    "id": 3,
@@ -44,8 +44,8 @@
     0
    ],
    "share": 0.144,
-   "material": "wool",
-   "thickness_cm": 20.0
+   "material": "wood_oak",
+   "thickness_cm": 100.0
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     98
    ],
    "share": 0.03,
-   "material": "wood_oak",
-   "thickness_cm": 4.0
+   "material": "wool",
+   "thickness_cm": 100.0
   },
   {
    "id": 5,
@@ -67,7 +67,7 @@
    ],
    "share": 0.0,
    "material": "wool",
-   "thickness_cm": 20.0
+   "thickness_cm": 15.0
   }
  ]
 }

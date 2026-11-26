@@ -1,0 +1,62 @@
+{
+ "path": "models/armor/leather_layer_1_overlay.png",
+ "depicts": "Leather armour tooled overlay (brown tooled leather, transparent background) (identical texture to entity/equipment/humanoid/leather_overlay.png)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    44,
+    24
+   ],
+   "share": 0.288,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    60,
+    32
+   ],
+   "share": 0.25,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    64,
+    41
+   ],
+   "share": 0.212,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    90,
+    56,
+    32
+   ],
+   "share": 0.212,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    82,
+    52,
+    32
+   ],
+   "share": 0.038,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

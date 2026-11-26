@@ -1,0 +1,73 @@
+{
+ "path": "item/dark_oak_sign.png",
+ "depicts": "dark oak sign item: wooden board with text and post",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    47,
+    23
+   ],
+   "share": 0.432,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    36,
+    17
+   ],
+   "share": 0.159,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    37,
+    25,
+    12
+   ],
+   "share": 0.144,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    185,
+    151,
+    90
+   ],
+   "share": 0.106,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    112,
+    76,
+    39
+   ],
+   "share": 0.083,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    83,
+    60,
+    31
+   ],
+   "share": 0.076,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

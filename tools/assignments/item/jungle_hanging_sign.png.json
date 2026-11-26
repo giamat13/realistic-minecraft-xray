@@ -11,7 +11,7 @@
     90
    ],
    "share": 0.426,
-   "material": "wood_soft",
+   "material": "wood_oak",
    "thickness_cm": 1.0
   },
   {
@@ -22,7 +22,7 @@
     12
    ],
    "share": 0.149,
-   "material": "wood_dark",
+   "material": "wood_oak",
    "thickness_cm": 1.0
   },
   {
@@ -33,7 +33,7 @@
     66
    ],
    "share": 0.142,
-   "material": "wood_soft",
+   "material": "wood_oak",
    "thickness_cm": 1.0
   },
   {
@@ -44,7 +44,7 @@
     40
    ],
    "share": 0.122,
-   "material": "wood_soft",
+   "material": "wood_oak",
    "thickness_cm": 1.0
   },
   {

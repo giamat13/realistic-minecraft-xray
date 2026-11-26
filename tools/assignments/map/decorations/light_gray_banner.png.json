@@ -1,0 +1,29 @@
+{
+ "path": "map/decorations/light_gray_banner.png",
+ "depicts": "white banner map icon: wool cloth banner on a pole (same structure as map/decorations/white_banner.png; variant)",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.667,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    157,
+    157,
+    151
+   ],
+   "share": 0.333,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

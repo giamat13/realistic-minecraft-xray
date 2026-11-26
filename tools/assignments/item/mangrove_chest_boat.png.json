@@ -1,0 +1,73 @@
+{
+ "path": "item/mangrove_chest_boat.png",
+ "depicts": "acacia wood boat carrying a wooden chest item (planks hull and chest) (same structure as item/acacia_chest_boat.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    122,
+    66,
+    47
+   ],
+   "share": 0.259,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    22,
+    16
+   ],
+   "share": 0.247,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    89,
+    31,
+    33
+   ],
+   "share": 0.161,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    158,
+    111,
+    34
+   ],
+   "share": 0.144,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    62,
+    50,
+    32
+   ],
+   "share": 0.132,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    154,
+    87,
+    66
+   ],
+   "share": 0.057,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  }
+ ]
+}

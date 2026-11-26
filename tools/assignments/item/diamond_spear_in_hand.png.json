@@ -1,0 +1,73 @@
+{
+ "path": "item/diamond_spear_in_hand.png",
+ "depicts": "copper spear held in the hand sprite: wooden shaft with copper spearhead (same structure as item/copper_spear_in_hand.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    22,
+    42,
+    31
+   ],
+   "share": 0.344,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    84,
+    51,
+    18
+   ],
+   "share": 0.311,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    143,
+    91,
+    38
+   ],
+   "share": 0.123,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    48,
+    220,
+    190
+   ],
+   "share": 0.098,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    203,
+    254,
+    246
+   ],
+   "share": 0.082,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    30,
+    138,
+    119
+   ],
+   "share": 0.041,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

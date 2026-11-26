@@ -1,0 +1,73 @@
+{
+ "path": "models/armor/netherite_layer_1.png",
+ "depicts": "Netherite armour layer (dark netherite plate with steel outline) (identical texture to entity/equipment/humanoid/netherite.png)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    52,
+    61
+   ],
+   "share": 0.363,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    35,
+    35
+   ],
+   "share": 0.278,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    93,
+    86,
+    93
+   ],
+   "share": 0.152,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    81,
+    68,
+    78
+   ],
+   "share": 0.132,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    118,
+    106,
+    118
+   ],
+   "share": 0.067,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    15,
+    15,
+    15
+   ],
+   "share": 0.009,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

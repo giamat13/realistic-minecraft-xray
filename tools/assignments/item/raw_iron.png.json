@@ -1,0 +1,73 @@
+{
+ "path": "item/raw_iron.png",
+ "depicts": "raw copper ore chunk with malachite patches (same structure as item/raw_copper.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    158,
+    131,
+    105
+   ],
+   "share": 0.28,
+   "material": "copper_ore_rock",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    87,
+    77,
+    57
+   ],
+   "share": 0.232,
+   "material": "malachite",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    243,
+    210,
+    188
+   ],
+   "share": 0.19,
+   "material": "copper",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    52,
+    41
+   ],
+   "share": 0.143,
+   "material": "malachite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    216,
+    175,
+    147
+   ],
+   "share": 0.095,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    244,
+    237
+   ],
+   "share": 0.06,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  }
+ ]
+}

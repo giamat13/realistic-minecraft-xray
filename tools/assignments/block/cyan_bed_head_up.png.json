@@ -12,7 +12,7 @@
    ],
    "share": 0.281,
    "material": "wool",
-   "thickness_cm": 37.5
+   "thickness_cm": 15.0
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.258,
    "material": "wool",
-   "thickness_cm": 37.5
+   "thickness_cm": 15.0
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
    ],
    "share": 0.219,
    "material": "wool",
-   "thickness_cm": 37.5
+   "thickness_cm": 20.0
   },
   {
    "id": 3,
@@ -45,7 +45,7 @@
    ],
    "share": 0.18,
    "material": "wool",
-   "thickness_cm": 37.5
+   "thickness_cm": 15.0
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     71
    ],
    "share": 0.062,
-   "material": "wool",
-   "thickness_cm": 37.5
+   "material": "textile",
+   "thickness_cm": 10.0
   },
   {
    "id": 5,
@@ -67,7 +67,7 @@
    ],
    "share": 0.0,
    "material": "wool",
-   "thickness_cm": 37.5
+   "thickness_cm": 15.0
   }
  ]
 }

@@ -1,0 +1,73 @@
+{
+ "path": "item/diamond_hoe.png",
+ "depicts": "copper hoe: wooden handle with copper head (same structure as item/copper_hoe.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    26,
+    41,
+    28
+   ],
+   "share": 0.431,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    62,
+    24
+   ],
+   "share": 0.294,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    188,
+    163
+   ],
+   "share": 0.157,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.098,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    235,
+    203
+   ],
+   "share": 0.02,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    56,
+    80,
+    52
+   ],
+   "share": 0.0,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

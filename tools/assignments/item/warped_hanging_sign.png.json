@@ -1,0 +1,73 @@
+{
+ "path": "item/warped_hanging_sign.png",
+ "depicts": "acacia hanging sign item (wooden board with carved text and iron chains) (same structure as item/acacia_hanging_sign.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    137,
+    134
+   ],
+   "share": 0.426,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    31,
+    99,
+    91
+   ],
+   "share": 0.223,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    14,
+    55,
+    52
+   ],
+   "share": 0.189,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.054,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    50,
+    50,
+    50
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

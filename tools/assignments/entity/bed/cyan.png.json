@@ -44,8 +44,8 @@
     90
    ],
    "share": 0.145,
-   "material": "wool",
-   "thickness_cm": 15.0
+   "material": "textile",
+   "thickness_cm": 10.0
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     226
    ],
    "share": 0.104,
-   "material": "textile",
-   "thickness_cm": 10.0
+   "material": "air",
+   "thickness_cm": 1.0
   },
   {
    "id": 5,
@@ -66,8 +66,8 @@
     0
    ],
    "share": 0.065,
-   "material": "air",
-   "thickness_cm": 1.0
+   "material": "textile",
+   "thickness_cm": 10.0
   }
  ]
 }

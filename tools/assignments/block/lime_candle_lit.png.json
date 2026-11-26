@@ -22,8 +22,8 @@
     60
    ],
    "share": 0.19,
-   "material": "fire",
-   "thickness_cm": 2.0
+   "material": "wax",
+   "thickness_cm": 12.5
   },
   {
    "id": 2,
@@ -44,8 +44,8 @@
     26
    ],
    "share": 0.048,
-   "material": "wax",
-   "thickness_cm": 12.5
+   "material": "fire",
+   "thickness_cm": 1.0
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     40
    ],
    "share": 0.048,
-   "material": "wax",
-   "thickness_cm": 12.5
+   "material": "fire",
+   "thickness_cm": 2.0
   },
   {
    "id": 5,
@@ -67,7 +67,7 @@
    ],
    "share": 0.048,
    "material": "textile",
-   "thickness_cm": 0.2
+   "thickness_cm": 0.3
   }
  ]
 }

@@ -1,0 +1,73 @@
+{
+ "path": "item/desert_pyramid_map.png",
+ "depicts": "desert pyramid map item: paper map with ink marks",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    121,
+    86
+   ],
+   "share": 0.272,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    249,
+    234,
+    202
+   ],
+   "share": 0.241,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    203,
+    165
+   ],
+   "share": 0.237,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.132,
+   "material": "ink",
+   "thickness_cm": 0.01
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    96,
+    65
+   ],
+   "share": 0.088,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    185,
+    160,
+    99
+   ],
+   "share": 0.031,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_shovel.png",
+ "depicts": "golden shovel icon: gold blade and wooden handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    50,
+    18
+   ],
+   "share": 0.302,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    247,
+    249,
+    108
+   ],
+   "share": 0.226,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    134,
+    98,
+    30
+   ],
+   "share": 0.189,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.17,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    177,
+    21
+   ],
+   "share": 0.075,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    78,
+    30
+   ],
+   "share": 0.038,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -55,8 +55,8 @@
     101
    ],
    "share": 0.022,
-   "material": "textile",
-   "thickness_cm": 0.1
+   "material": "wax",
+   "thickness_cm": 2.0
   },
   {
    "id": 5,
@@ -66,8 +66,8 @@
     52
    ],
    "share": 0.011,
-   "material": "textile",
-   "thickness_cm": 0.1
+   "material": "wax",
+   "thickness_cm": 2.0
   }
  ]
 }

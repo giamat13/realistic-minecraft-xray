@@ -1,0 +1,73 @@
+{
+ "path": "item/jungle_sign.png",
+ "depicts": "acacia standing sign item (wooden board with carved text and wooden post) (same structure as item/acacia_sign.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    165,
+    117,
+    80
+   ],
+   "share": 0.492,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    49,
+    16
+   ],
+   "share": 0.152,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    96,
+    66,
+    37
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    25,
+    11
+   ],
+   "share": 0.106,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    187,
+    138,
+    103
+   ],
+   "share": 0.091,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    121,
+    91,
+    46
+   ],
+   "share": 0.03,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

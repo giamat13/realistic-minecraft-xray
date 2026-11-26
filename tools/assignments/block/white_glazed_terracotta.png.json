@@ -11,7 +11,7 @@
     251
    ],
    "share": 0.457,
-   "material": "ceramic_glaze",
+   "material": "terracotta",
    "thickness_cm": 100.0
   },
   {
@@ -22,7 +22,7 @@
     77
    ],
    "share": 0.191,
-   "material": "ceramic_glaze",
+   "material": "terracotta",
    "thickness_cm": 100.0
   },
   {
@@ -33,7 +33,7 @@
     199
    ],
    "share": 0.148,
-   "material": "ceramic_glaze",
+   "material": "terracotta",
    "thickness_cm": 100.0
   },
   {
@@ -44,7 +44,7 @@
     219
    ],
    "share": 0.086,
-   "material": "ceramic_glaze",
+   "material": "terracotta",
    "thickness_cm": 100.0
   },
   {
@@ -55,7 +55,7 @@
     211
    ],
    "share": 0.062,
-   "material": "ceramic_glaze",
+   "material": "terracotta",
    "thickness_cm": 100.0
   },
   {

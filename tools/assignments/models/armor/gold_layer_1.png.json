@@ -1,0 +1,73 @@
+{
+ "path": "models/armor/gold_layer_1.png",
+ "depicts": "Gold armour layer (gold plate with pale highlights) (identical texture to entity/equipment/humanoid/gold.png)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    234,
+    190,
+    52
+   ],
+   "share": 0.454,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    211,
+    150,
+    50
+   ],
+   "share": 0.235,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    254,
+    245,
+    100
+   ],
+   "share": 0.191,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    245,
+    184,
+    28
+   ],
+   "share": 0.079,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    255,
+    189
+   ],
+   "share": 0.025,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.017,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

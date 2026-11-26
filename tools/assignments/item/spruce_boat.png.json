@@ -1,0 +1,73 @@
+{
+ "path": "item/spruce_boat.png",
+ "depicts": "acacia wood boat item (hull planks seen from the side, dark outline) (same structure as item/acacia_boat.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    128,
+    93,
+    49
+   ],
+   "share": 0.291,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    69,
+    44
+   ],
+   "share": 0.2,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    55,
+    37
+   ],
+   "share": 0.2,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    52,
+    40,
+    27
+   ],
+   "share": 0.182,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    155,
+    111,
+    59
+   ],
+   "share": 0.067,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    23,
+    15
+   ],
+   "share": 0.061,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  }
+ ]
+}

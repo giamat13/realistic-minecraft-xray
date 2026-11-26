@@ -34,7 +34,7 @@
    ],
    "share": 0.004,
    "material": "soft_tissue",
-   "thickness_cm": 0.3
+   "thickness_cm": 3.0
   },
   {
    "id": 3,
@@ -44,8 +44,8 @@
     40
    ],
    "share": 0.002,
-   "material": "blood",
-   "thickness_cm": 0.3
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     76
    ],
    "share": 0.002,
-   "material": "soft_tissue",
-   "thickness_cm": 1.0
+   "material": "keratin",
+   "thickness_cm": 0.2
   },
   {
    "id": 5,

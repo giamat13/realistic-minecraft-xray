@@ -1,0 +1,73 @@
+{
+ "path": "item/green_harness.png",
+ "depicts": "black horse harness item (dyed leather straps with iron buckles) (same structure as item/black_harness.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    52,
+    23
+   ],
+   "share": 0.442,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    97,
+    33
+   ],
+   "share": 0.202,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    95,
+    60
+   ],
+   "share": 0.172,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    164,
+    167
+   ],
+   "share": 0.092,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    109,
+    110
+   ],
+   "share": 0.08,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    208,
+    234,
+    233
+   ],
+   "share": 0.012,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

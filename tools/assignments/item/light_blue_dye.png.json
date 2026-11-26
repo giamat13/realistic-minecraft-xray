@@ -11,7 +11,7 @@
     193
    ],
    "share": 0.285,
-   "material": "dye_pigment",
+   "material": "ink",
    "thickness_cm": 0.5
   },
   {
@@ -22,8 +22,8 @@
     248
    ],
    "share": 0.27,
-   "material": "dye_pigment",
-   "thickness_cm": 0.3
+   "material": "ink",
+   "thickness_cm": 0.5
   },
   {
    "id": 2,
@@ -33,8 +33,8 @@
     28
    ],
    "share": 0.168,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "material": "ink",
+   "thickness_cm": 0.5
   },
   {
    "id": 3,
@@ -55,8 +55,8 @@
     74
    ],
    "share": 0.095,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
   },
   {
    "id": 5,
@@ -66,8 +66,8 @@
     110
    ],
    "share": 0.066,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
   }
  ]
 }

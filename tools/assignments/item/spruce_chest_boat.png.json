@@ -1,0 +1,73 @@
+{
+ "path": "item/spruce_chest_boat.png",
+ "depicts": "acacia wood boat carrying a wooden chest item (planks hull and chest) (same structure as item/acacia_chest_boat.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    61,
+    49,
+    34
+   ],
+   "share": 0.316,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    96,
+    44
+   ],
+   "share": 0.282,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    163,
+    113,
+    46
+   ],
+   "share": 0.144,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    27,
+    13
+   ],
+   "share": 0.138,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    73,
+    39
+   ],
+   "share": 0.092,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    66,
+    47,
+    11
+   ],
+   "share": 0.029,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  }
+ ]
+}

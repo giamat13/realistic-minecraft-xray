@@ -1,0 +1,73 @@
+{
+ "path": "item/cherry_boat.png",
+ "depicts": "acacia wood boat item (hull planks seen from the side, dark outline) (same structure as item/acacia_boat.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    190,
+    183
+   ],
+   "share": 0.297,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.2,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    223,
+    162,
+    156
+   ],
+   "share": 0.194,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    95,
+    99
+   ],
+   "share": 0.182,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    241,
+    210,
+    204
+   ],
+   "share": 0.067,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    142,
+    56,
+    68
+   ],
+   "share": 0.061,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  }
+ ]
+}

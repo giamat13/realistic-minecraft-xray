@@ -33,7 +33,7 @@
     44
    ],
    "share": 0.156,
-   "material": "wood_dark",
+   "material": "wood_soft",
    "thickness_cm": 100.0
   },
   {
@@ -44,7 +44,7 @@
     32
    ],
    "share": 0.078,
-   "material": "wood_dark",
+   "material": "wood_soft",
    "thickness_cm": 100.0
   },
   {

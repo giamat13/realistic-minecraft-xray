@@ -44,7 +44,7 @@
     169
    ],
    "share": 0.057,
-   "material": "iron",
+   "material": "steel",
    "thickness_cm": 0.2
   },
   {
@@ -66,7 +66,7 @@
     25
    ],
    "share": 0.005,
-   "material": "gold",
+   "material": "steel",
    "thickness_cm": 0.1
   }
  ]

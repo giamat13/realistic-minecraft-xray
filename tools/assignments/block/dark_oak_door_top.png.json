@@ -12,7 +12,7 @@
    ],
    "share": 0.672,
    "material": "wood_dark",
-   "thickness_cm": 18.75
+   "thickness_cm": 4.5
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.312,
    "material": "wood_dark",
-   "thickness_cm": 18.75
+   "thickness_cm": 4.5
   },
   {
    "id": 2,

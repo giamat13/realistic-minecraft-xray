@@ -1,0 +1,73 @@
+{
+ "path": "item/dark_oak_door.png",
+ "depicts": "dark oak door item icon: wooden door panels, iron hinge, brass knob",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    52,
+    26
+   ],
+   "share": 0.393,
+   "material": "wood_dark",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    50,
+    33,
+    15
+   ],
+   "share": 0.343,
+   "material": "wood_dark",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    68,
+    44,
+    22
+   ],
+   "share": 0.229,
+   "material": "wood_dark",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.021,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    204,
+    148,
+    0
+   ],
+   "share": 0.007,
+   "material": "brass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    219,
+    89
+   ],
+   "share": 0.007,
+   "material": "gold",
+   "thickness_cm": 0.2
+  }
+ ]
+}

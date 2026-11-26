@@ -1,0 +1,73 @@
+{
+ "path": "item/warped_door.png",
+ "depicts": "bamboo door item (bamboo planks panels) (same structure as item/bamboo_door.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    58,
+    142,
+    140
+   ],
+   "share": 0.371,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    106,
+    96
+   ],
+   "share": 0.3,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    35,
+    173,
+    167
+   ],
+   "share": 0.271,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    89,
+    107
+   ],
+   "share": 0.021,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    72,
+    63,
+    81
+   ],
+   "share": 0.021,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    17,
+    56,
+    53
+   ],
+   "share": 0.014,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  }
+ ]
+}

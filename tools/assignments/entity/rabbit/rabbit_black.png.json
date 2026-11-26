@@ -66,8 +66,8 @@
     94
    ],
    "share": 0.002,
-   "material": "keratin",
-   "thickness_cm": 0.2
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
   }
  ]
 }

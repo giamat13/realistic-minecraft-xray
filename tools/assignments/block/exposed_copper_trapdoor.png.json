@@ -12,7 +12,7 @@
    ],
    "share": 0.289,
    "material": "copper",
-   "thickness_cm": 19.0
+   "thickness_cm": 4.5
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.255,
    "material": "copper",
-   "thickness_cm": 19.0
+   "thickness_cm": 4.5
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
    ],
    "share": 0.196,
    "material": "copper",
-   "thickness_cm": 19.0
+   "thickness_cm": 4.5
   },
   {
    "id": 3,
@@ -45,7 +45,7 @@
    ],
    "share": 0.137,
    "material": "copper",
-   "thickness_cm": 19.0
+   "thickness_cm": 4.5
   },
   {
    "id": 4,
@@ -56,7 +56,7 @@
    ],
    "share": 0.108,
    "material": "copper",
-   "thickness_cm": 19.0
+   "thickness_cm": 4.5
   },
   {
    "id": 5,
@@ -67,7 +67,7 @@
    ],
    "share": 0.015,
    "material": "copper",
-   "thickness_cm": 19.0
+   "thickness_cm": 4.5
   }
  ]
 }

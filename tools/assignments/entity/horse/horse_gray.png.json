@@ -55,8 +55,8 @@
     33
    ],
    "share": 0.001,
-   "material": "keratin",
-   "thickness_cm": 0.5
+   "material": "steel",
+   "thickness_cm": 0.1
   },
   {
    "id": 5,

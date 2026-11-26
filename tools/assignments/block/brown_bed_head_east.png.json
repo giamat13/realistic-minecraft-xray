@@ -12,7 +12,7 @@
    ],
    "share": 0.415,
    "material": "wood_oak",
-   "thickness_cm": 19.0
+   "thickness_cm": 100.0
   },
   {
    "id": 1,
@@ -22,8 +22,8 @@
     68
    ],
    "share": 0.211,
-   "material": "planks",
-   "thickness_cm": 19.0
+   "material": "wood_oak",
+   "thickness_cm": 100.0
   },
   {
    "id": 2,
@@ -33,7 +33,7 @@
     215
    ],
    "share": 0.114,
-   "material": "wool",
+   "material": "textile",
    "thickness_cm": 10.0
   },
   {
@@ -44,8 +44,8 @@
     87
    ],
    "share": 0.114,
-   "material": "planks",
-   "thickness_cm": 19.0
+   "material": "wool",
+   "thickness_cm": 15.0
   },
   {
    "id": 4,
@@ -56,7 +56,7 @@
    ],
    "share": 0.089,
    "material": "wool",
-   "thickness_cm": 10.0
+   "thickness_cm": 15.0
   },
   {
    "id": 5,
@@ -66,7 +66,7 @@
     236
    ],
    "share": 0.057,
-   "material": "wool",
+   "material": "textile",
    "thickness_cm": 10.0
   }
  ]

@@ -11,7 +11,7 @@
     238
    ],
    "share": 0.223,
-   "material": "planks",
+   "material": "wood_soft",
    "thickness_cm": 2.0
   },
   {
@@ -22,7 +22,7 @@
     225
    ],
    "share": 0.178,
-   "material": "planks",
+   "material": "wood_soft",
    "thickness_cm": 2.0
   },
   {
@@ -33,7 +33,7 @@
     181
    ],
    "share": 0.171,
-   "material": "planks",
+   "material": "wood_soft",
    "thickness_cm": 2.0
   },
   {
@@ -44,7 +44,7 @@
     205
    ],
    "share": 0.164,
-   "material": "planks",
+   "material": "wood_soft",
    "thickness_cm": 2.0
   },
   {
@@ -55,7 +55,7 @@
     199
    ],
    "share": 0.142,
-   "material": "planks",
+   "material": "wood_soft",
    "thickness_cm": 2.0
   },
   {
@@ -66,7 +66,7 @@
     248
    ],
    "share": 0.121,
-   "material": "planks",
+   "material": "wood_soft",
    "thickness_cm": 2.0
   }
  ]

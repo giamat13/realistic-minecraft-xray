@@ -1,0 +1,73 @@
+{
+ "path": "item/charcoal.png",
+ "depicts": "charcoal lump item icon: carbon char, dark matte",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    24,
+    22,
+    17
+   ],
+   "share": 0.475,
+   "material": "charcoal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    41,
+    36,
+    28
+   ],
+   "share": 0.353,
+   "material": "charcoal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    66,
+    59,
+    47
+   ],
+   "share": 0.086,
+   "material": "charcoal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    78,
+    69,
+    54
+   ],
+   "share": 0.036,
+   "material": "charcoal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    85,
+    67
+   ],
+   "share": 0.036,
+   "material": "charcoal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    125,
+    111,
+    88
+   ],
+   "share": 0.014,
+   "material": "charcoal",
+   "thickness_cm": 1.0
+  }
+ ]
+}

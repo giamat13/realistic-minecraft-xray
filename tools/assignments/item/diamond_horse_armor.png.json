@@ -1,0 +1,73 @@
+{
+ "path": "item/diamond_horse_armor.png",
+ "depicts": "copper horse armour: copper plates with verdigris patina on the saddle cloth (same structure as item/copper_horse_armor.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    48,
+    212,
+    195
+   ],
+   "share": 0.292,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    26,
+    170,
+    167
+   ],
+   "share": 0.281,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    170,
+    4
+   ],
+   "share": 0.18,
+   "material": "malachite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    251,
+    232
+   ],
+   "share": 0.157,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    111,
+    108,
+    15
+   ],
+   "share": 0.045,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.045,
+   "material": "malachite",
+   "thickness_cm": 0.05
+  }
+ ]
+}

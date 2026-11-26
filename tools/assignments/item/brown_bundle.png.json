@@ -11,7 +11,7 @@
     48
    ],
    "share": 0.374,
-   "material": "leather",
+   "material": "textile",
    "thickness_cm": 0.4
   },
   {
@@ -22,7 +22,7 @@
     91
    ],
    "share": 0.198,
-   "material": "leather",
+   "material": "textile",
    "thickness_cm": 0.4
   },
   {
@@ -33,7 +33,7 @@
     115
    ],
    "share": 0.153,
-   "material": "leather",
+   "material": "textile",
    "thickness_cm": 0.4
   },
   {
@@ -66,8 +66,8 @@
     141
    ],
    "share": 0.008,
-   "material": "textile",
-   "thickness_cm": 0.2
+   "material": "leather",
+   "thickness_cm": 0.4
   }
  ]
 }

@@ -1,0 +1,73 @@
+{
+ "path": "item/diamond.png",
+ "depicts": "bamboo stalk item (green bamboo culm with leaves) (same structure as item/bamboo.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    218,
+    200
+   ],
+   "share": 0.3,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    19,
+    102,
+    99
+   ],
+   "share": 0.267,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    240,
+    255,
+    252
+   ],
+   "share": 0.167,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    26,
+    164,
+    164
+   ],
+   "share": 0.142,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    161,
+    251,
+    232
+   ],
+   "share": 0.125,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    190,
+    181
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

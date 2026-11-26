@@ -12,7 +12,7 @@
    ],
    "share": 0.364,
    "material": "wool",
-   "thickness_cm": 100.0
+   "thickness_cm": 15.0
   },
   {
    "id": 1,
@@ -33,7 +33,7 @@
     51
    ],
    "share": 0.144,
-   "material": "wood_dark",
+   "material": "wood_oak",
    "thickness_cm": 100.0
   },
   {
@@ -66,8 +66,8 @@
     62
    ],
    "share": 0.053,
-   "material": "wood_dark",
-   "thickness_cm": 100.0
+   "material": "wool",
+   "thickness_cm": 15.0
   }
  ]
 }

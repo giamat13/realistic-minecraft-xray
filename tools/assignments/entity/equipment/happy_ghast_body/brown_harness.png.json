@@ -55,7 +55,7 @@
     222
    ],
    "share": 0.023,
-   "material": "steel",
+   "material": "brass",
    "thickness_cm": 0.2
   },
   {
@@ -66,8 +66,8 @@
     26
    ],
    "share": 0.014,
-   "material": "brass",
-   "thickness_cm": 0.2
+   "material": "steel",
+   "thickness_cm": 0.1
   }
  ]
 }

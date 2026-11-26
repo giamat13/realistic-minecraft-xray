@@ -11,7 +11,7 @@
     229
    ],
    "share": 0.348,
-   "material": "wood_oak",
+   "material": "wood_soft",
    "thickness_cm": 1.5
   },
   {
@@ -22,7 +22,7 @@
     171
    ],
    "share": 0.326,
-   "material": "wood_oak",
+   "material": "wood_soft",
    "thickness_cm": 1.5
   },
   {
@@ -33,7 +33,7 @@
     119
    ],
    "share": 0.114,
-   "material": "wood_oak",
+   "material": "wood_soft",
    "thickness_cm": 1.5
   },
   {
@@ -44,7 +44,7 @@
     243
    ],
    "share": 0.098,
-   "material": "wood_oak",
+   "material": "wood_soft",
    "thickness_cm": 1.5
   },
   {
@@ -55,7 +55,7 @@
     70
    ],
    "share": 0.068,
-   "material": "wood_oak",
+   "material": "wood_soft",
    "thickness_cm": 2.0
   },
   {
@@ -66,7 +66,7 @@
     39
    ],
    "share": 0.045,
-   "material": "wood_oak",
+   "material": "wood_soft",
    "thickness_cm": 2.0
   }
  ]

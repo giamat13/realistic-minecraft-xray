@@ -11,8 +11,8 @@
     20
    ],
    "share": 0.458,
-   "material": "leather",
-   "thickness_cm": 0.2
+   "material": "textile",
+   "thickness_cm": 0.4
   },
   {
    "id": 1,
@@ -22,8 +22,8 @@
     30
    ],
    "share": 0.183,
-   "material": "leather",
-   "thickness_cm": 0.2
+   "material": "textile",
+   "thickness_cm": 0.4
   },
   {
    "id": 2,
@@ -33,8 +33,8 @@
     5
    ],
    "share": 0.16,
-   "material": "leather",
-   "thickness_cm": 0.2
+   "material": "textile",
+   "thickness_cm": 0.4
   },
   {
    "id": 3,
@@ -45,7 +45,7 @@
    ],
    "share": 0.153,
    "material": "leather",
-   "thickness_cm": 0.2
+   "thickness_cm": 0.4
   },
   {
    "id": 4,
@@ -56,7 +56,7 @@
    ],
    "share": 0.038,
    "material": "leather",
-   "thickness_cm": 0.2
+   "thickness_cm": 0.4
   },
   {
    "id": 5,
@@ -67,7 +67,7 @@
    ],
    "share": 0.008,
    "material": "leather",
-   "thickness_cm": 0.2
+   "thickness_cm": 0.4
   }
  ]
 }

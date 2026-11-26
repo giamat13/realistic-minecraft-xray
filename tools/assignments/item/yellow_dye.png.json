@@ -11,8 +11,8 @@
     38
    ],
    "share": 0.385,
-   "material": "dye_pigment",
-   "thickness_cm": 1.0
+   "material": "ink",
+   "thickness_cm": 0.5
   },
   {
    "id": 1,
@@ -22,7 +22,7 @@
     25
    ],
    "share": 0.231,
-   "material": "dye_pigment",
+   "material": "ink",
    "thickness_cm": 0.5
   },
   {
@@ -33,8 +33,8 @@
     172
    ],
    "share": 0.147,
-   "material": "dye_pigment",
-   "thickness_cm": 1.0
+   "material": "ink",
+   "thickness_cm": 0.5
   },
   {
    "id": 3,
@@ -45,7 +45,7 @@
    ],
    "share": 0.14,
    "material": "dye_pigment",
-   "thickness_cm": 1.0
+   "thickness_cm": 0.5
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     89
    ],
    "share": 0.063,
-   "material": "glass",
-   "thickness_cm": 0.2
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
   },
   {
    "id": 5,
@@ -66,8 +66,8 @@
     123
    ],
    "share": 0.035,
-   "material": "glass",
-   "thickness_cm": 0.2
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
   }
  ]
 }

@@ -1,0 +1,73 @@
+{
+ "path": "item/mangrove_sign.png",
+ "depicts": "acacia standing sign item (wooden board with carved text and wooden post) (same structure as item/acacia_sign.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    117,
+    53,
+    50
+   ],
+   "share": 0.492,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    29,
+    30
+   ],
+   "share": 0.197,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    33,
+    25,
+    11
+   ],
+   "share": 0.106,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    132,
+    71,
+    54
+   ],
+   "share": 0.091,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    55,
+    36
+   ],
+   "share": 0.091,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    94,
+    75,
+    45
+   ],
+   "share": 0.023,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

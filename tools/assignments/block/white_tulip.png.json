@@ -12,7 +12,7 @@
    ],
    "share": 0.289,
    "material": "plant_tissue",
-   "thickness_cm": 3.0
+   "thickness_cm": 5.0
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.289,
    "material": "plant_tissue",
-   "thickness_cm": 3.0
+   "thickness_cm": 5.0
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
    ],
    "share": 0.222,
    "material": "plant_tissue",
-   "thickness_cm": 3.0
+   "thickness_cm": 5.0
   },
   {
    "id": 3,

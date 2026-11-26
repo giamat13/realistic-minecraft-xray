@@ -1,0 +1,73 @@
+{
+ "path": "item/gray_bundle_open_front.png",
+ "depicts": "open black bundle, front view (dyed fabric pouch with leather strap) (same structure as item/black_bundle_open_front.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    61,
+    76,
+    78
+   ],
+   "share": 0.387,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    99,
+    101
+   ],
+   "share": 0.286,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    123,
+    131
+   ],
+   "share": 0.126,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    126,
+    144,
+    154
+   ],
+   "share": 0.101,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    86,
+    52
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

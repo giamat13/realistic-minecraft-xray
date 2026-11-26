@@ -1,0 +1,73 @@
+{
+ "path": "item/white_dye.png",
+ "depicts": "black dye item (ink sac blob with dye pigment fragments) (same structure as item/black_dye.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    237,
+    238,
+    244
+   ],
+   "share": 0.336,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    82,
+    121
+   ],
+   "share": 0.231,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    56,
+    30,
+    27
+   ],
+   "share": 0.14,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    185,
+    185,
+    203
+   ],
+   "share": 0.119,
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    154,
+    149,
+    154
+   ],
+   "share": 0.098,
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    140,
+    114,
+    86
+   ],
+   "share": 0.077,
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/guardian_spawn_egg.png",
+ "depicts": "guardian spawn egg: egg shell and fish-like spotted creature (fictional, egg-shell analogue)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    61,
+    104,
+    88
+   ],
+   "share": 0.431,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    37,
+    51,
+    90
+   ],
+   "share": 0.178,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    119,
+    158,
+    145
+   ],
+   "share": 0.161,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    54,
+    25
+   ],
+   "share": 0.144,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    242,
+    115,
+    45
+   ],
+   "share": 0.052,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    77,
+    140,
+    206
+   ],
+   "share": 0.034,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  }
+ ]
+}

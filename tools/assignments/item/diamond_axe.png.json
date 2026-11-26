@@ -1,0 +1,73 @@
+{
+ "path": "item/diamond_axe.png",
+ "depicts": "copper axe: copper head with oak wooden handle (same structure as item/copper_axe.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    41,
+    16
+   ],
+   "share": 0.317,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    11,
+    50,
+    43
+   ],
+   "share": 0.233,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    40,
+    182,
+    157
+   ],
+   "share": 0.2,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    87,
+    33
+   ],
+   "share": 0.133,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    235,
+    203
+   ],
+   "share": 0.083,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    30,
+    138,
+    119
+   ],
+   "share": 0.033,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

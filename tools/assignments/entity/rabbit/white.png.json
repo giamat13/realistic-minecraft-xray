@@ -12,7 +12,7 @@
    ],
    "share": 0.513,
    "material": "soft_tissue",
-   "thickness_cm": 10.0
+   "thickness_cm": 8.0
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.33,
    "material": "soft_tissue",
-   "thickness_cm": 10.0
+   "thickness_cm": 8.0
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
    ],
    "share": 0.136,
    "material": "soft_tissue",
-   "thickness_cm": 10.0
+   "thickness_cm": 4.0
   },
   {
    "id": 3,
@@ -45,7 +45,7 @@
    ],
    "share": 0.017,
    "material": "soft_tissue",
-   "thickness_cm": 10.0
+   "thickness_cm": 4.0
   },
   {
    "id": 4,

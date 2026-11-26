@@ -1,0 +1,73 @@
+{
+ "path": "item/desert_village_map.png",
+ "depicts": "desert village map item: paper map with ink marks",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    222,
+    202,
+    163
+   ],
+   "share": 0.276,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    145,
+    124,
+    88
+   ],
+   "share": 0.254,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    249,
+    234,
+    202
+   ],
+   "share": 0.219,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.114,
+   "material": "ink",
+   "thickness_cm": 0.01
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    96,
+    65
+   ],
+   "share": 0.088,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    185,
+    160,
+    97
+   ],
+   "share": 0.048,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

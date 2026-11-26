@@ -1,0 +1,73 @@
+{
+ "path": "item/chainmail_leggings.png",
+ "depicts": "chainmail leggings icon: interlocked steel rings, gaps show through",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    25,
+    25,
+    25
+   ],
+   "share": 0.308,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    203,
+    203
+   ],
+   "share": 0.231,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.183,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.173,
+   "material": "steel",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    107,
+    107
+   ],
+   "share": 0.087,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.019,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

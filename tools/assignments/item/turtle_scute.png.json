@@ -1,0 +1,62 @@
+{
+ "path": "item/turtle_scute.png",
+ "depicts": "a turtle scute plate (keratin shell plate, green-tinted) (identical texture to item/scute.png)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    71,
+    191,
+    74
+   ],
+   "share": 0.281,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    32,
+    106,
+    67
+   ],
+   "share": 0.25,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    63,
+    164,
+    66
+   ],
+   "share": 0.188,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    56,
+    141,
+    58
+   ],
+   "share": 0.141,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    125,
+    73
+   ],
+   "share": 0.141,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

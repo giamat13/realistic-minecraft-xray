@@ -1,0 +1,29 @@
+{
+ "path": "particle/cherry_11.png",
+ "depicts": "cherry blossom petal particle, pink petal with darker edge (same structure as particle/cherry_6.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    118,
+    174
+   ],
+   "share": 0.857,
+   "material": "plant_tissue",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    218,
+    107,
+    166
+   ],
+   "share": 0.143,
+   "material": "plant_tissue",
+   "thickness_cm": 0.05
+  }
+ ]
+}

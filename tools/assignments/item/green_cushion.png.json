@@ -1,0 +1,62 @@
+{
+ "path": "item/green_cushion.png",
+ "depicts": "black cushion item (dyed wool pillow) (same structure as item/black_cushion.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    138,
+    30
+   ],
+   "share": 0.25,
+   "material": "wool",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    113,
+    21
+   ],
+   "share": 0.231,
+   "material": "wool",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    90,
+    30
+   ],
+   "share": 0.212,
+   "material": "wool",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    34,
+    51,
+    27
+   ],
+   "share": 0.173,
+   "material": "wool",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    43,
+    69,
+    34
+   ],
+   "share": 0.135,
+   "material": "wool",
+   "thickness_cm": 3.0
+  }
+ ]
+}

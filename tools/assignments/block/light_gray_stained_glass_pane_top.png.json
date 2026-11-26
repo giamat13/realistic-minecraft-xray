@@ -12,7 +12,7 @@
    ],
    "share": 0.375,
    "material": "glass",
-   "thickness_cm": 0.4
+   "thickness_cm": 100.0
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.344,
    "material": "glass",
-   "thickness_cm": 0.4
+   "thickness_cm": 100.0
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
    ],
    "share": 0.25,
    "material": "glass",
-   "thickness_cm": 0.4
+   "thickness_cm": 100.0
   },
   {
    "id": 3,
@@ -45,7 +45,7 @@
    ],
    "share": 0.031,
    "material": "glass",
-   "thickness_cm": 0.4
+   "thickness_cm": 100.0
   }
  ]
 }

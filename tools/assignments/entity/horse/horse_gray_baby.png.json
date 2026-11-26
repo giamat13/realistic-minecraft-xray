@@ -22,8 +22,8 @@
     80
    ],
    "share": 0.305,
-   "material": "muscle",
-   "thickness_cm": 10.0
+   "material": "keratin",
+   "thickness_cm": 0.5
   },
   {
    "id": 2,
@@ -44,8 +44,8 @@
     97
    ],
    "share": 0.126,
-   "material": "muscle",
-   "thickness_cm": 10.0
+   "material": "steel",
+   "thickness_cm": 0.1
   },
   {
    "id": 4,
@@ -55,7 +55,7 @@
     0
    ],
    "share": 0.003,
-   "material": "keratin",
+   "material": "steel",
    "thickness_cm": 0.1
   },
   {
