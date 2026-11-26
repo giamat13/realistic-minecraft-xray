@@ -67,6 +67,19 @@ RULES = [
 DEFAULT_CLASS = (105, 170, 95)
 ORE_ALPHA = 230
 
+# Per-pixel material classes for mixed block textures, first match wins. Each
+# entry is (lo, hi, block_alpha). Pixels matching none use the file's own class.
+PIXEL_CLASS_RANGES = (
+    (35.0, 90.0, 25),     # foliage
+    (30.0, 70.0, 18),     # water_blue
+    (60.0, 110.0, 45),    # snow_white
+    (80.0, 135.0, 70),    # earth_brown
+    (105.0, 170.0, 95),   # rock_gray
+)
+MIXED_MIN_SHARE = 0.12    # a pixel-class must cover this share of valid pixels...
+MIXED_MIN_CLASSES = 2     # ...and this many classes must qualify for a mixed texture
+MIXED_ALPHA_LIMIT = 200   # only block files whose class alpha is below this are split
+
 _TOKEN_RE = re.compile(r"[a-z0-9]+")
 _ORE_RE = re.compile(r"_ores?_")
 
@@ -123,6 +136,75 @@ def _ore_split(lum, rgb, valid, host_lo, host_hi, host_alpha):
     return gray, alpha
 
 
+def _hsv(rgb):
+    """Return (hue in degrees, saturation, value) for an HxWx3 float RGB array."""
+    mx = rgb.max(axis=-1)
+    d = mx - rgb.min(axis=-1)
+    sat = np.where(mx > 0, d / np.maximum(mx, 1e-9), 0.0)
+    ds = np.maximum(d, 1e-9)
+    r, g, b = rgb[..., 0], rgb[..., 1], rgb[..., 2]
+    sector = np.where(mx == r, np.mod((g - b) / ds, 6.0),
+                      np.where(mx == g, (b - r) / ds + 2.0, (r - g) / ds + 4.0))
+    hue = np.where(d > 1e-9, np.mod(60.0 * sector, 360.0), 0.0)
+    return hue, sat, mx
+
+
+def _pixel_classes(rgb, valid):
+    """Class index per pixel: 0..4 from PIXEL_CLASS_RANGES, 5 = file's own class, -1 = transparent."""
+    hue, sat, val = _hsv(rgb)
+    conds = (
+        (sat > 0.25) & (hue >= 70) & (hue <= 170),                 # foliage
+        (sat > 0.25) & (hue >= 170) & (hue <= 260) & (val > 0.4),  # water_blue
+        (sat < 0.12) & (val > 0.85),                               # snow_white
+        (sat > 0.2) & (hue >= 10) & (hue <= 45) & (val < 0.65),    # earth_brown
+        (sat < 0.2) & (val > 0.15) & (val <= 0.85),                # rock_gray
+    )
+    cls = np.full(valid.shape, -1, np.int16)
+    left = valid.copy()
+    for k, cond in enumerate(conds):
+        take = left & cond
+        cls[take] = k
+        left &= ~take
+    cls[left] = len(conds)
+    return cls
+
+
+def _majority3(cls, n):
+    """3x3 majority vote over a class map; transparent (-1) pixels stay -1 and vote for nothing."""
+    h, w = cls.shape
+    pad = np.pad(cls, 1, constant_values=-1)
+    votes = np.zeros((n,) + cls.shape, np.int16)
+    for dy in range(3):
+        for dx in range(3):
+            win = pad[dy:dy + h, dx:dx + w]
+            for k in range(n):
+                votes[k] += (win == k)
+    votes *= 2  # doubled so a tie goes to the pixel's own class
+    for k in range(n):
+        votes[k] += (cls == k)
+    best = np.argmax(votes, axis=0).astype(np.int16)
+    return np.where(cls >= 0, best, -1).astype(np.int16)
+
+
+def _mixed_split(rgb, lum, valid, src_a, own_lo, own_hi, own_alpha):
+    """Per-pixel (gray, alpha) for a block texture made of several materials, or None if not mixed."""
+    ranges = PIXEL_CLASS_RANGES + ((own_lo, own_hi, own_alpha),)
+    cls = _pixel_classes(rgb, valid)
+    n_valid = float(valid.sum())
+    shares = [float((cls == k).sum()) / n_valid for k in range(len(ranges))]
+    if sum(s >= MIXED_MIN_SHARE for s in shares) < MIXED_MIN_CLASSES:
+        return None
+    cls = _majority3(cls, len(ranges))
+    gray = np.zeros(valid.shape)
+    alpha = np.zeros(valid.shape)
+    for k, (lo, hi, a) in enumerate(ranges):
+        m = cls == k
+        if m.any():
+            gray = np.where(m, lo + (hi - lo) * _unit(lum, m), gray)
+            alpha = np.where(m, src_a * a / 255.0, alpha)
+    return gray, alpha
+
+
 def process(rel, rgba):
     """Convert one RGBA array (HxWx4 uint8) to its realistic X-ray version."""
     h, w = rgba.shape[:2]
@@ -151,8 +233,14 @@ def process(rel, rgba):
             gray, ap = _ore_split(lum, rgb, valid, lo, hi, block_alpha)
             alpha = src_a * ap / 255.0
         else:
-            gray = _stretch(lum, valid, lo, hi)
-            alpha = src_a * block_alpha / 255.0
+            mixed = None
+            if block_alpha < MIXED_ALPHA_LIMIT:
+                mixed = _mixed_split(rgb, lum, valid, src_a, lo, hi, block_alpha)
+            if mixed is not None:
+                gray, alpha = mixed
+            else:
+                gray = _stretch(lum, valid, lo, hi)
+                alpha = src_a * block_alpha / 255.0
 
     g = np.clip(np.rint(gray), 0, 255).astype(np.int16)
     a = np.clip(np.rint(alpha), 0, 255).astype(np.int16)
@@ -183,20 +271,9 @@ def main(argv=None):
         names = zf.namelist()
         pngs = sorted(n for n in names if n.startswith(PREFIX) and n.endswith(".png"))
         metas = sorted(n for n in names if n.startswith(PREFIX) and n.endswith(".png.mcmeta"))
-        expected = set(pngs) | set(metas)
         print(f"jar: {args.jar}\n{len(pngs)} PNGs, {len(metas)} mcmeta files", flush=True)
 
         os.makedirs(OUT_ROOT, exist_ok=True)
-        removed = 0
-        for dirpath, _, files in os.walk(OUT_ROOT):
-            for f in files:
-                if f.endswith(".png") or f.endswith(".png.mcmeta"):
-                    rel = os.path.relpath(os.path.join(dirpath, f), OUT_ROOT).replace(os.sep, "/")
-                    if PREFIX + rel not in expected:
-                        os.remove(os.path.join(dirpath, f))
-                        removed += 1
-        if removed:
-            print(f"removed {removed} stale files not present in the jar", flush=True)
 
         for i, name in enumerate(pngs, 1):
             rel = name[len(PREFIX):]
@@ -226,6 +303,25 @@ def main(argv=None):
         return 1
     return 0
 
+
+def _selftest():
+    """Synthetic grass-on-dirt side texture: top 5 rows green, rest brown."""
+    arr = np.zeros((16, 16, 4), np.uint8)
+    arr[:5, :, :3] = (60, 160, 40)
+    arr[5:, :, :3] = (110, 75, 45)
+    arr[..., 3] = 255
+    out = process("block/grass_block_side.png", arr)
+    top = float(out[:5, :, 3].mean())
+    bottom = float(out[5:, :, 3].mean())
+    assert top < 40, f"top alpha too high: {top:.1f}"
+    assert bottom > 55, f"bottom alpha too low: {bottom:.1f}"
+    assert np.array_equal(out[..., 0], out[..., 1]) and np.array_equal(out[..., 1], out[..., 2]), "not grayscale"
+    print(f"selftest passed: top alpha {top:.1f}, bottom alpha {bottom:.1f}")
+    return 0
+
+
+if __name__ == "__main__" and "--selftest" in sys.argv:
+    sys.exit(_selftest())
 
 if __name__ == "__main__":
     sys.exit(main())

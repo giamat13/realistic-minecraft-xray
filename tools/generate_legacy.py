@@ -20,14 +20,19 @@ legacy = sorted((p.name for p in V.iterdir() if p.is_dir() and (p / "DONE").exis
 print("legacy versions:", legacy)
 
 # 1. textures
+import zipfile
+with zipfile.ZipFile('/tmp/mc/client.jar') as _z:
+    cur = {n[len('assets/minecraft/textures/'):] for n in _z.namelist() if n.startswith('assets/minecraft/textures/')}
+seen = set()
 new_png = new_meta = 0
 for ver in legacy:
     root = V / ver / "assets/minecraft/textures"
     for f in sorted(root.rglob("*")):
         rel = f.relative_to(root).as_posix()
         dst = pathlib.Path(gt.OUT_ROOT) / rel
-        if dst.exists():
+        if rel in cur or rel in seen or f.is_dir():
             continue
+        seen.add(rel)
         if f.name.endswith(".png"):
             arr = np.asarray(Image.open(f).convert("RGBA"))
             dst.parent.mkdir(parents=True, exist_ok=True)
