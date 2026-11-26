@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/flower_pot_cross_emissive",
+  "textures": {
+    "cross_emissive": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/open_eyeblossom_emissive"
+    },
+    "plant": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/open_eyeblossom"
+    }
+  }
+}

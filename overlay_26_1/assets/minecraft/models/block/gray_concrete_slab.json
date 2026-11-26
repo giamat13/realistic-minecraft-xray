@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/gray_concrete"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/gray_concrete"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/gray_concrete"
+    }
+  }
+}

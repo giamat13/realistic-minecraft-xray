@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/template_command_block",
+  "textures": {
+    "back": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/chain_command_block_back"
+    },
+    "front": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/chain_command_block_front"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/chain_command_block_conditional"
+    }
+  }
+}

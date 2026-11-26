@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/red_nether_bricks"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/red_nether_bricks"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/red_nether_bricks"
+    }
+  }
+}

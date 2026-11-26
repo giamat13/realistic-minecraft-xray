@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/flowerbed_4",
+  "textures": {
+    "flowerbed": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/wildflowers"
+    },
+    "stem": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/wildflowers_stem"
+    }
+  }
+}

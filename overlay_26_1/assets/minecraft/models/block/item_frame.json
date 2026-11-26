@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/template_item_frame",
+  "textures": {
+    "particle": {
+      "force_translucent": true,
+      "sprite": "block/birch_planks"
+    },
+    "wood": {
+      "force_translucent": true,
+      "sprite": "block/birch_planks"
+    },
+    "back": {
+      "force_translucent": true,
+      "sprite": "block/item_frame"
+    }
+  }
+}

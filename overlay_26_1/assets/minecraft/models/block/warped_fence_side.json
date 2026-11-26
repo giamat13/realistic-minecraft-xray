@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/warped_planks"
+    }
+  }
+}

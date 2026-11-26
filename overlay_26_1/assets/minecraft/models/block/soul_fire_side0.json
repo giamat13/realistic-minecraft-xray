@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_fire_side",
+  "textures": {
+    "fire": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/soul_fire_0"
+    }
+  }
+}

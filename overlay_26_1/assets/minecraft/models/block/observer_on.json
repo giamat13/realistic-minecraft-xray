@@ -1,0 +1,9 @@
+{
+  "parent": "block/observer",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "block/observer_back_on"
+    }
+  }
+}

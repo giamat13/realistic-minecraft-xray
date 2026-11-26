@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_hanging_lantern",
+  "textures": {
+    "lantern": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/soul_lantern"
+    }
+  }
+}

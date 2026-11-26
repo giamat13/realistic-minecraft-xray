@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/oak_sapling"
+    }
+  }
+}

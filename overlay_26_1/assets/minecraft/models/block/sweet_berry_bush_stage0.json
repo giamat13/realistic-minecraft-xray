@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/sweet_berry_bush_stage0"
+    }
+  }
+}

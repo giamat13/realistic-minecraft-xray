@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:block/cube_directional",
+  "textures": {
+    "down": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/jigsaw_side"
+    },
+    "east": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/jigsaw_side"
+    },
+    "north": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/jigsaw_top"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/jigsaw_top"
+    },
+    "south": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/jigsaw_bottom"
+    },
+    "up": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/jigsaw_lock"
+    },
+    "west": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/jigsaw_side"
+    }
+  }
+}

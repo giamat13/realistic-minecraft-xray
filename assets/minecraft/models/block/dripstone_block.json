@@ -1,9 +1,4 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/dripstone_block"
-    }
-  }
+  "textures": {},
+  "elements": []
 }

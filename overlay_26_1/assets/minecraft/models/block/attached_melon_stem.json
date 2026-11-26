@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/stem_fruit",
+  "textures": {
+    "stem": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/melon_stem"
+    },
+    "upperstem": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/attached_melon_stem"
+    }
+  }
+}

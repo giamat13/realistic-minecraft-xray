@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/mangrove_log"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/mangrove_log"
+    }
+  }
+}

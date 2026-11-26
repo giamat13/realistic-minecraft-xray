@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/red_sandstone_top"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cut_red_sandstone"
+    }
+  }
+}

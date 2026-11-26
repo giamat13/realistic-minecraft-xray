@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/tinted_cross",
+  "textures": {
+    "cross": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/large_fern_bottom"
+    }
+  }
+}

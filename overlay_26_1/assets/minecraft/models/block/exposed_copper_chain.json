@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_chain",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/exposed_copper_chain"
+    }
+  }
+}

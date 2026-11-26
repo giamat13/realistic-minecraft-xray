@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_azalea",
+  "textures": {
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/azalea_side"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/azalea_top"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/bamboo_mosaic"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/bamboo_mosaic"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/bamboo_mosaic"
+    }
+  }
+}

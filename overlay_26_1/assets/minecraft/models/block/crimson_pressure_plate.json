@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/crimson_planks"
+    }
+  }
+}

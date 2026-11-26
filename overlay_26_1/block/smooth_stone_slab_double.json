@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/smooth_stone"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/smooth_stone_slab_side"
+    }
+  }
+}

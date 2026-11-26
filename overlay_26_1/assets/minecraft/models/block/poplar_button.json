@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/poplar_planks"
+    }
+  }
+}

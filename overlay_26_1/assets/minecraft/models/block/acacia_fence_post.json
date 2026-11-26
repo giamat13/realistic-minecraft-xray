@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/acacia_planks"
+    }
+  }
+}

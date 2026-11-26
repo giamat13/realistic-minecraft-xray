@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/exposed_copper_door_bottom"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/exposed_copper_door_top"
+    }
+  }
+}

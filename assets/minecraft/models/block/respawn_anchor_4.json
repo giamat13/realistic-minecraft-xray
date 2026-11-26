@@ -1,17 +1,4 @@
 {
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "bottom": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/respawn_anchor_bottom"
-    },
-    "side": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/respawn_anchor_side4"
-    },
-    "top": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/respawn_anchor_top"
-    }
-  }
+  "textures": {},
+  "elements": []
 }

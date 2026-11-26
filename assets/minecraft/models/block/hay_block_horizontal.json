@@ -1,13 +1,4 @@
 {
-  "parent": "minecraft:block/cube_column_horizontal",
-  "textures": {
-    "end": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/hay_block_top"
-    },
-    "side": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/hay_block_side"
-    }
-  }
+  "textures": {},
+  "elements": []
 }

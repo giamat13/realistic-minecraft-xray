@@ -1,9 +1,4 @@
 {
-  "parent": "block/template_single_face",
-  "textures": {
-    "texture": {
-      "force_translucent": true,
-      "sprite": "block/mushroom_block_inside"
-    }
-  }
+  "textures": {},
+  "elements": []
 }

@@ -1,7 +1,19 @@
 {
   "pack": {
-    "min_format": 97,
-    "max_format": 97,
-    "description": "Realistic X-Ray - black & white, density-based transparency for everything"
+    "pack_format": 15,
+    "min_format": 13,
+    "max_format": 999,
+    "supported_formats": { "min_inclusive": 13, "max_inclusive": 999 },
+    "description": "Realistic X-Ray (1.19.4 - 26.3) - black & white, density-based"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_26_1",
+        "min_format": 84,
+        "max_format": 999,
+        "formats": { "min_inclusive": 84, "max_inclusive": 999 }
+      }
+    ]
   }
 }

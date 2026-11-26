@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_lightning_rod",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/lightning_rod"
+    }
+  }
+}

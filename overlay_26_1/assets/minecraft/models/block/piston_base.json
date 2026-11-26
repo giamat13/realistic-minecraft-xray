@@ -1,0 +1,17 @@
+{
+  "parent": "block/piston_extended",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "block/piston_bottom"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "block/piston_side"
+    },
+    "inside": {
+      "force_translucent": true,
+      "sprite": "block/piston_inner"
+    }
+  }
+}

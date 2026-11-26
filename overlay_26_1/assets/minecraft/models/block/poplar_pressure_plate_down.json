@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/pressure_plate_down",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/poplar_planks"
+    }
+  }
+}

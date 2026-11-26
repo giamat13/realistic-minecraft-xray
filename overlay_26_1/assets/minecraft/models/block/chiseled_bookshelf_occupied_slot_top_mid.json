@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_chiseled_bookshelf_slot_top_mid",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/chiseled_bookshelf_occupied"
+    }
+  }
+}

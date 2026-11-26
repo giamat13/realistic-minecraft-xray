@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/door_top_left",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/acacia_door_bottom"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/acacia_door_top"
+    }
+  }
+}

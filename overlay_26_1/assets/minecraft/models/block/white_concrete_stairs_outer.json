@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/white_concrete"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/white_concrete"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/white_concrete"
+    }
+  }
+}

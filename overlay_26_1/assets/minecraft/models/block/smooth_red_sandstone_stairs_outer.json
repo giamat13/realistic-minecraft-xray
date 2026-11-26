@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/red_sandstone_top"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/red_sandstone_top"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/red_sandstone_top"
+    }
+  }
+}

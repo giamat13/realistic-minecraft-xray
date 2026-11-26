@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_fire_floor",
+  "textures": {
+    "fire": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/fire_0"
+    }
+  }
+}

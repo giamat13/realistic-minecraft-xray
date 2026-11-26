@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stem_growth3",
+  "textures": {
+    "stem": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/pumpkin_stem"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cross_emissive",
+  "textures": {
+    "cross": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/open_eyeblossom"
+    },
+    "cross_emissive": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/open_eyeblossom_emissive"
+    }
+  }
+}

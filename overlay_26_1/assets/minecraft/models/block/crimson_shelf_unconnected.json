@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_shelf_unconnected",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/crimson_shelf"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/stripped_crimson_stem"
+    }
+  }
+}

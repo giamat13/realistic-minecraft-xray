@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/sandstone_top"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cut_sandstone"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/sandstone_top"
+    }
+  }
+}

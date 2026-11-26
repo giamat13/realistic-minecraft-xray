@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/blackstone_top"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/blackstone"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/blackstone_top"
+    }
+  }
+}

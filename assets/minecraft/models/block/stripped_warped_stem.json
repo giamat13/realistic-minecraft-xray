@@ -1,13 +1,4 @@
 {
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/stripped_warped_stem_top"
-    },
-    "side": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/stripped_warped_stem"
-    }
-  }
+  "textures": {},
+  "elements": []
 }

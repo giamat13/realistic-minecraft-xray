@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_candle",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/orange_candle"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/orange_candle"
+    }
+  }
+}

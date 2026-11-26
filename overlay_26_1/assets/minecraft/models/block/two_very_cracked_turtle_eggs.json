@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_two_turtle_eggs",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/turtle_egg_very_cracked"
+    }
+  }
+}

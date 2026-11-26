@@ -1,9 +1,4 @@
 {
-  "parent": "minecraft:block/leaves",
-  "textures": {
-    "all": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/cherry_leaves"
-    }
-  }
+  "textures": {},
+  "elements": []
 }

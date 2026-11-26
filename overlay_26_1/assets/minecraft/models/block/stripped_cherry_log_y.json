@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_y",
+  "textures": {
+    "end": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/stripped_cherry_log_top"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/stripped_cherry_log"
+    }
+  }
+}

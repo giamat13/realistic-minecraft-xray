@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_single_face",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/brown_mushroom_block"
+    }
+  }
+}

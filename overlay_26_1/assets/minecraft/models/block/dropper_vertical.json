@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/orientable_vertical",
+  "textures": {
+    "front": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dropper_front_vertical"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/furnace_top"
+    }
+  }
+}

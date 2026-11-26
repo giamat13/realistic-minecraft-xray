@@ -2,7 +2,7 @@
 so partial alpha of the X-ray textures is honoured. Reads the vanilla jar."""
 import json, sys, zipfile, pathlib
 jar = sys.argv[1] if len(sys.argv) > 1 else "/tmp/mc/client.jar"
-out = pathlib.Path("assets/minecraft/models/block")
+OVERLAY = "overlay_26_1/"
 n = 0
 with zipfile.ZipFile(jar) as z:
     for name in z.namelist():
@@ -19,7 +19,7 @@ with zipfile.ZipFile(jar) as z:
                 tex[k] = {"force_translucent": True, "sprite": v}
             elif isinstance(v, dict):
                 v["force_translucent"] = True
-        p = pathlib.Path(name)
+        p = pathlib.Path(OVERLAY + name)
         p.parent.mkdir(parents=True, exist_ok=True)
         p.write_text(json.dumps(m, indent=2))
         n += 1

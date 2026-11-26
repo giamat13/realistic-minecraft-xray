@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_sign_rot_2",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/mangrove_sign"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/mangrove_planks"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cherry_planks"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cherry_planks"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cherry_planks"
+    }
+  }
+}

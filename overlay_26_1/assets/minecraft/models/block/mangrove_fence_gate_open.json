@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_fence_gate_open",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/mangrove_planks"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_shelf_left",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/jungle_shelf"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/stripped_jungle_log"
+    }
+  }
+}

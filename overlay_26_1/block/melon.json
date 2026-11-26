@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/melon_top"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/melon_side"
+    }
+  }
+}

@@ -1,33 +1,6 @@
 {
-  "parent": "minecraft:block/cube",
   "textures": {
-    "down": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/dark_oak_planks"
-    },
-    "east": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/cartography_table_side3"
-    },
-    "north": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/cartography_table_side3"
-    },
-    "particle": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/cartography_table_side3"
-    },
-    "south": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/cartography_table_side1"
-    },
-    "up": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/cartography_table_top"
-    },
-    "west": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/cartography_table_side2"
-    }
-  }
+    "particle": "minecraft:block/cartography_table_side3"
+  },
+  "elements": []
 }

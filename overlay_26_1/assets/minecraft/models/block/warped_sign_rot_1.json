@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_sign_rot_1",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/warped_sign"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/warped_planks"
+    }
+  }
+}

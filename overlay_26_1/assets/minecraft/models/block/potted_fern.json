@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/tinted_flower_pot_cross",
+  "textures": {
+    "plant": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/fern"
+    }
+  }
+}

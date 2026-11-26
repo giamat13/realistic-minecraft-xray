@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_daylight_detector",
+  "textures": {
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/daylight_detector_side"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/daylight_detector_top"
+    }
+  }
+}

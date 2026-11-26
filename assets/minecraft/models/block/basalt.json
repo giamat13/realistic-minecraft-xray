@@ -1,13 +1,4 @@
 {
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/basalt_top"
-    },
-    "side": {
-      "force_translucent": true,
-      "sprite": "minecraft:block/basalt_side"
-    }
-  }
+  "textures": {},
+  "elements": []
 }

@@ -1,0 +1,59 @@
+{
+  "textures": {
+    "particle": {
+      "force_translucent": true,
+      "sprite": "block/cake_side"
+    },
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "block/cake_bottom"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "block/cake_top"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "block/cake_side"
+    },
+    "inside": {
+      "force_translucent": true,
+      "sprite": "block/cake_inner"
+    }
+  },
+  "elements": [
+    {
+      "from": [
+        5,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        8,
+        15
+      ],
+      "faces": {
+        "down": {
+          "texture": "#bottom",
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#top"
+        },
+        "north": {
+          "texture": "#side"
+        },
+        "south": {
+          "texture": "#side"
+        },
+        "west": {
+          "texture": "#inside"
+        },
+        "east": {
+          "texture": "#side"
+        }
+      }
+    }
+  ]
+}

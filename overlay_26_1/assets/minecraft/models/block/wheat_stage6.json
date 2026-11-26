@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/wheat_stage6"
+    }
+  }
+}

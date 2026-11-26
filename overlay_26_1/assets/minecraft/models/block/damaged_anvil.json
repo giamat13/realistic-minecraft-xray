@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_anvil",
+  "textures": {
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/damaged_anvil_top"
+    }
+  }
+}
