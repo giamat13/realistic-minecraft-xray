@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_nether_bricks.png",
+ "depicts": "chiseled nether bricks: dark red fired brick with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    25,
+    13,
+    16
+   ],
+   "share": 0.262,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    47,
+    24,
+    28
+   ],
+   "share": 0.258,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    62,
+    30,
+    36
+   ],
+   "share": 0.176,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    36,
+    42
+   ],
+   "share": 0.129,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    33,
+    17,
+    20
+   ],
+   "share": 0.109,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    56,
+    24,
+    30
+   ],
+   "share": 0.066,
+   "material": "brick",
+   "thickness_cm": 100.0
+  }
+ ]
+}

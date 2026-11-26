@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_quartz_block.png",
+ "depicts": "chiseled quartz block side: white quartz with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    234,
+    230
+   ],
+   "share": 0.301,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    221,
+    217,
+    203
+   ],
+   "share": 0.23,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    222,
+    208
+   ],
+   "share": 0.16,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    238,
+    230,
+    222
+   ],
+   "share": 0.141,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    226,
+    218
+   ],
+   "share": 0.121,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    242,
+    239,
+    237
+   ],
+   "share": 0.047,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  }
+ ]
+}

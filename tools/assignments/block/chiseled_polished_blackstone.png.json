@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_polished_blackstone.png",
+ "depicts": "chiseled polished blackstone: dark basalt-like stone with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    78,
+    75,
+    84
+   ],
+   "share": 0.25,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    60,
+    57,
+    71
+   ],
+   "share": 0.23,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    49,
+    44,
+    54
+   ],
+   "share": 0.207,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    31,
+    18,
+    27
+   ],
+   "share": 0.152,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    39,
+    34,
+    28
+   ],
+   "share": 0.133,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    22,
+    15,
+    16
+   ],
+   "share": 0.027,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

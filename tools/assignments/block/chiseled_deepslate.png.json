@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_deepslate.png",
+ "depicts": "chiseled deepslate block: dark grey deepslate with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    36,
+    36,
+    36
+   ],
+   "share": 0.289,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    76,
+    79
+   ],
+   "share": 0.188,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.172,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    56,
+    55,
+    55
+   ],
+   "share": 0.164,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    65,
+    65,
+    65
+   ],
+   "share": 0.156,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    88,
+    88
+   ],
+   "share": 0.031,
+   "material": "slate",
+   "thickness_cm": 100.0
+  }
+ ]
+}

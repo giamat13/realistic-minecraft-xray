@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_resin_bricks.png",
+ "depicts": "chiseled resin bricks: orange-amber resin blocks with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    173,
+    58,
+    22
+   ],
+   "share": 0.426,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    228,
+    100,
+    22
+   ],
+   "share": 0.219,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    199,
+    73,
+    10
+   ],
+   "share": 0.195,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    135,
+    55
+   ],
+   "share": 0.102,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    163,
+    55
+   ],
+   "share": 0.059,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    201,
+    84,
+    25
+   ],
+   "share": 0.0,
+   "material": "resin",
+   "thickness_cm": 100.0
+  }
+ ]
+}
