@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_bars_cap",
+  "textures": {
+    "bars": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/copper_bars"
+    },
+    "edge": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/copper_bars"
+    }
+  }
+}

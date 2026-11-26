@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stem_growth6",
+  "textures": {
+    "stem": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/melon_stem"
+    }
+  }
+}

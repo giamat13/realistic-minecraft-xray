@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/lime_wool"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/lime_wool"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/lime_wool"
+    }
+  }
+}

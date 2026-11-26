@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:block/template_sculk_shrieker",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/sculk_shrieker_bottom"
+    },
+    "inner_top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/sculk_shrieker_can_summon_inner_top"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/sculk_shrieker_bottom"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/sculk_shrieker_side"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/sculk_shrieker_top"
+    }
+  }
+}

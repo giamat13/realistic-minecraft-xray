@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/template_bed_head",
+  "textures": {
+    "east": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/purple_bed_head_east"
+    },
+    "up": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/purple_bed_head_up"
+    },
+    "west": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/purple_bed_head_west"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/oxidized_cut_copper"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/oxidized_cut_copper"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/oxidized_cut_copper"
+    }
+  }
+}

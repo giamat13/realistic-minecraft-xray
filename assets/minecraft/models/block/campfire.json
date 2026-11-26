@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_campfire",
+  "textures": {
+    "fire": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/campfire_fire"
+    },
+    "lit_log": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/campfire_log_lit"
+    }
+  }
+}

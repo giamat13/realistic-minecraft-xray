@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_custom_fence_gate",
+  "textures": {
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/bamboo_fence_gate_particle"
+    },
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/bamboo_fence_gate"
+    }
+  }
+}

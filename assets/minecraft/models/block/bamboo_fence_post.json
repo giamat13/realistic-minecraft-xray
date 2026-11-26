@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/bamboo_fence_particle"
+    },
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/bamboo_fence"
+    }
+  }
+}

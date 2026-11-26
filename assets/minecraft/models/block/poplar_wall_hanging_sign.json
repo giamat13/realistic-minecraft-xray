@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_wall_hanging_sign",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/poplar_hanging_sign"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/stripped_poplar_log"
+    }
+  }
+}

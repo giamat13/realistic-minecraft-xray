@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:block/template_cake_with_candle",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cake_bottom"
+    },
+    "candle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/lime_candle_lit"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cake_side"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cake_side"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cake_top"
+    }
+  }
+}

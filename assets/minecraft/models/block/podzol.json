@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dirt"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/podzol_side"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/podzol_top"
+    }
+  }
+}

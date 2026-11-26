@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/black_wool"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/stone"
+    }
+  }
+}

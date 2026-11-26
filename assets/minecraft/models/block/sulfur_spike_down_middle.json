@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/pointed_dripstone",
+  "textures": {
+    "cross": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/sulfur_spike_down_middle"
+    }
+  }
+}

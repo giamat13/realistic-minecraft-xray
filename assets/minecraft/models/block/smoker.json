@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/smoker_bottom"
+    },
+    "front": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/smoker_front"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/smoker_side"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/smoker_top"
+    }
+  }
+}

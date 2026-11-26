@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/blast_furnace_front"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/blast_furnace_side"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/blast_furnace_top"
+    }
+  }
+}

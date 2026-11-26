@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:block/dried_ghast",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dried_ghast_hydration_0_bottom"
+    },
+    "east": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dried_ghast_hydration_0_east"
+    },
+    "north": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dried_ghast_hydration_0_north"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dried_ghast_hydration_0_north"
+    },
+    "south": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dried_ghast_hydration_0_south"
+    },
+    "tentacles": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dried_ghast_hydration_0_tentacles"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dried_ghast_hydration_0_top"
+    },
+    "west": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dried_ghast_hydration_0_west"
+    }
+  }
+}

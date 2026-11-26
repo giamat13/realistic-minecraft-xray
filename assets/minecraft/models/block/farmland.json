@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/template_cube_bottom_top_indented",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dirt"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/dirt"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/farmland"
+    }
+  }
+}

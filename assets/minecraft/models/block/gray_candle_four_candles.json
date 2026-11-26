@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_four_candles",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/gray_candle"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/gray_candle"
+    }
+  }
+}

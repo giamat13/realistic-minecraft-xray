@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/flowerbed_3",
+  "textures": {
+    "flowerbed": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/pink_petals"
+    },
+    "stem": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/pink_petals_stem"
+    }
+  }
+}

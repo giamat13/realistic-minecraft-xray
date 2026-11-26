@@ -1,0 +1,31 @@
+{
+  "textures": {
+    "particle": {
+      "force_translucent": true,
+      "sprite": "block/composter_compost"
+    },
+    "inside": {
+      "force_translucent": true,
+      "sprite": "block/composter_compost"
+    }
+  },
+  "elements": [
+    {
+      "from": [
+        2,
+        0,
+        2
+      ],
+      "to": [
+        14,
+        3,
+        14
+      ],
+      "faces": {
+        "up": {
+          "texture": "#inside"
+        }
+      }
+    }
+  ]
+}

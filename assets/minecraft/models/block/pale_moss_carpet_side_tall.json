@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/mossy_carpet_side",
+  "textures": {
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/pale_moss_carpet_side_tall"
+    }
+  }
+}

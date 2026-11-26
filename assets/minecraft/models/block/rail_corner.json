@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/rail_curved",
+  "textures": {
+    "rail": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/rail_corner"
+    }
+  }
+}

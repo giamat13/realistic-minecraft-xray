@@ -1,0 +1,21 @@
+{
+  "parent": "block/crafter",
+  "textures": {
+    "top": {
+      "force_translucent": true,
+      "sprite": "block/crafter_top_triggered"
+    },
+    "south": {
+      "force_translucent": true,
+      "sprite": "block/crafter_south_triggered"
+    },
+    "west": {
+      "force_translucent": true,
+      "sprite": "block/crafter_west_triggered"
+    },
+    "east": {
+      "force_translucent": true,
+      "sprite": "block/crafter_east_triggered"
+    }
+  }
+}

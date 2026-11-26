@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/template_piston",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/piston_bottom"
+    },
+    "platform": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/piston_top_sticky"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/piston_side"
+    }
+  }
+}

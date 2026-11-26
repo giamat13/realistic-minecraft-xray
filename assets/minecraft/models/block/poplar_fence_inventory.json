@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/poplar_planks"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/lime_shulker_box"
+    }
+  }
+}

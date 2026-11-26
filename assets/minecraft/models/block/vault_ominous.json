@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:block/template_vault",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/vault_bottom_ominous"
+    },
+    "front": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/vault_front_off_ominous"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/vault_side_off_ominous"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/vault_top_ominous"
+    }
+  }
+}

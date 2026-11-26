@@ -1,0 +1,9 @@
+{
+  "parent": "block/calibrated_sculk_sensor",
+  "textures": {
+    "tendrils": {
+      "force_translucent": true,
+      "sprite": "block/sculk_sensor_tendril_inactive"
+    }
+  }
+}

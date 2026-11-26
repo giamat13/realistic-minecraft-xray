@@ -1,0 +1,9 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": {
+      "force_translucent": true,
+      "sprite": "block/pitcher_crop_top"
+    }
+  }
+}

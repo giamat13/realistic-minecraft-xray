@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/weathered_copper_door_bottom"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/weathered_copper_door_top"
+    }
+  }
+}

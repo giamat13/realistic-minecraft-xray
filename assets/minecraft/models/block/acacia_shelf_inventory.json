@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_shelf_inventory",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/acacia_shelf"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/stripped_acacia_log"
+    }
+  }
+}

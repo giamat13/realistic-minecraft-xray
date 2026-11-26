@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_lightning_rod",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "block/lightning_rod_on"
+    }
+  }
+}

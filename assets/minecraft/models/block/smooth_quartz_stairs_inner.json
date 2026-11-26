@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/quartz_block_bottom"
+    },
+    "side": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/quartz_block_bottom"
+    },
+    "top": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/quartz_block_bottom"
+    }
+  }
+}

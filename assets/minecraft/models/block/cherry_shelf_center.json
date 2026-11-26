@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_shelf_center",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/cherry_shelf"
+    },
+    "particle": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/stripped_cherry_log"
+    }
+  }
+}

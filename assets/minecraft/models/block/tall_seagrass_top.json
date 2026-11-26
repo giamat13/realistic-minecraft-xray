@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_seagrass",
+  "textures": {
+    "texture": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/tall_seagrass_top"
+    }
+  }
+}

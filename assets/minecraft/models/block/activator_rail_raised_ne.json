@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_rail_raised_ne",
+  "textures": {
+    "rail": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/activator_rail"
+    }
+  }
+}

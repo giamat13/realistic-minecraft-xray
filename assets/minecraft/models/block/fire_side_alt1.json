@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_fire_side_alt",
+  "textures": {
+    "fire": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/fire_1"
+    }
+  }
+}
