@@ -1,0 +1,73 @@
+{
+ "path": "entity/slime/slime.png",
+ "depicts": "slime mob: translucent green slime body (slime 10 cm) with dark eye/mouth features (ink 0.1 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    118,
+    194,
+    100
+   ],
+   "share": 0.568,
+   "material": "slime",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    162,
+    63
+   ],
+   "share": 0.238,
+   "material": "slime",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    98,
+    182,
+    74
+   ],
+   "share": 0.11,
+   "material": "slime",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    22,
+    40,
+    16
+   ],
+   "share": 0.07,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    10,
+    10,
+    10
+   ],
+   "share": 0.012,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    115,
+    10
+   ],
+   "share": 0.002,
+   "material": "slime",
+   "thickness_cm": 10.0
+  }
+ ]
+}

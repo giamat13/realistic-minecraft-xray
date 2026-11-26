@@ -1,0 +1,73 @@
+{
+ "path": "item/brush.png",
+ "depicts": "brush (suspicious sand/gravel tool): wooden handle, leather brush plate, feather bristles",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    211,
+    160,
+    139
+   ],
+   "share": 0.278,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    107,
+    88
+   ],
+   "share": 0.267,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    104,
+    73,
+    30
+   ],
+   "share": 0.189,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    195,
+    156
+   ],
+   "share": 0.178,
+   "material": "feather",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    171,
+    76,
+    41
+   ],
+   "share": 0.056,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    32,
+    24,
+    10
+   ],
+   "share": 0.033,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  }
+ ]
+}

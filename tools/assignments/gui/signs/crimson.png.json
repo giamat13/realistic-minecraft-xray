@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/crimson.png",
+ "depicts": "crimson standing-sign texture: purple-red nether stem wood board and post",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    102,
+    51,
+    72
+   ],
+   "share": 0.329,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    125,
+    57,
+    85
+   ],
+   "share": 0.326,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    78,
+    39,
+    57
+   ],
+   "share": 0.307,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    24,
+    16
+   ],
+   "share": 0.022,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    156,
+    27,
+    27
+   ],
+   "share": 0.009,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    123,
+    0,
+    0
+   ],
+   "share": 0.006,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  }
+ ]
+}

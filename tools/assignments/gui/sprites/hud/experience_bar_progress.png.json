@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/experience_bar_progress.png",
+ "depicts": "182x5 green experience bar fill with bright highlight",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    21,
+    45,
+    26
+   ],
+   "share": 0.401,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    143,
+    61
+   ],
+   "share": 0.19,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    63,
+    100,
+    34
+   ],
+   "share": 0.182,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    121,
+    170,
+    82
+   ],
+   "share": 0.146,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    142,
+    198,
+    98
+   ],
+   "share": 0.073,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    169,
+    230,
+    119
+   ],
+   "share": 0.009,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

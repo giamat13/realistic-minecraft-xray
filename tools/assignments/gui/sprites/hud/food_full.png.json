@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/food_full.png",
+ "depicts": "9x9 full cooked drumstick food icon: red meat, brown crust, charred dark edge, cream bone tip, fat",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    120,
+    78
+   ],
+   "share": 0.3,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    201,
+    36,
+    36
+   ],
+   "share": 0.3,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    113,
+    73,
+    38
+   ],
+   "share": 0.25,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    247,
+    220
+   ],
+   "share": 0.05,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    223,
+    177,
+    143
+   ],
+   "share": 0.05,
+   "material": "fat",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    213,
+    170
+   ],
+   "share": 0.05,
+   "material": "bone",
+   "thickness_cm": 1.0
+  }
+ ]
+}

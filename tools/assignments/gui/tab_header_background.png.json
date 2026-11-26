@@ -1,0 +1,6 @@
+{
+ "path": "gui/tab_header_background.png",
+ "depicts": "fully transparent 16x16 tab header background: no visible pixels, empty sprite (nothing to attenuate)",
+ "kind": "gui",
+ "clusters": []
+}

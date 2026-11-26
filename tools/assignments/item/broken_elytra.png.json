@@ -1,0 +1,73 @@
+{
+ "path": "item/broken_elytra.png",
+ "depicts": "broken elytra: wing membrane (textile analogue) with chitin wing frame",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.288,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    78,
+    78,
+    78
+   ],
+   "share": 0.26,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    144,
+    144,
+    190
+   ],
+   "share": 0.154,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    120,
+    120,
+    120
+   ],
+   "share": 0.154,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    140,
+    140,
+    162
+   ],
+   "share": 0.144,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    96,
+    107
+   ],
+   "share": 0.0,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

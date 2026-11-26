@@ -1,0 +1,62 @@
+{
+ "path": "item/dried_kelp.png",
+ "depicts": "dried kelp sheet: dark brown dried seaweed leaf",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    35,
+    30
+   ],
+   "share": 0.28,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    13,
+    12,
+    10
+   ],
+   "share": 0.233,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    51,
+    36
+   ],
+   "share": 0.207,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    97,
+    92,
+    80
+   ],
+   "share": 0.14,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    71,
+    63,
+    49
+   ],
+   "share": 0.14,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  }
+ ]
+}

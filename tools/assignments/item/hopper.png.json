@@ -1,0 +1,73 @@
+{
+ "path": "item/hopper.png",
+ "depicts": "iron hopper block item (funnel with spout)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    63,
+    64,
+    63
+   ],
+   "share": 0.306,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    48,
+    48,
+    48
+   ],
+   "share": 0.194,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    76,
+    74
+   ],
+   "share": 0.148,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    97,
+    98
+   ],
+   "share": 0.12,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    82,
+    85,
+    82
+   ],
+   "share": 0.12,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    56,
+    56,
+    56
+   ],
+   "share": 0.111,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

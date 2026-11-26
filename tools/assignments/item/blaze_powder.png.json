@@ -1,0 +1,73 @@
+{
+ "path": "item/blaze_powder.png",
+ "depicts": "blaze powder item (fine glowing orange-yellow powder)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    54,
+    0
+   ],
+   "share": 0.554,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    208,
+    119,
+    3
+   ],
+   "share": 0.129,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    254,
+    174,
+    0
+   ],
+   "share": 0.129,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    226,
+    43
+   ],
+   "share": 0.099,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    181
+   ],
+   "share": 0.069,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    110
+   ],
+   "share": 0.02,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  }
+ ]
+}

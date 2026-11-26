@@ -1,0 +1,73 @@
+{
+ "path": "entity/skeleton/stray_overlay.png",
+ "depicts": "stray hooded cloak overlay (cloth) over the skeleton",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    114,
+    115
+   ],
+   "share": 0.652,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    91,
+    92
+   ],
+   "share": 0.197,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    78,
+    79
+   ],
+   "share": 0.115,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    223,
+    225
+   ],
+   "share": 0.019,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    190,
+    190,
+    190
+   ],
+   "share": 0.014,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    179,
+    212,
+    227
+   ],
+   "share": 0.002,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

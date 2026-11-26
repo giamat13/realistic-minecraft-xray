@@ -1,0 +1,73 @@
+{
+ "path": "item/bow_pulling_0.png",
+ "depicts": "bow drawn back (pull stage 0): wood limb, string, arrow with steel head and feather fletching",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    95,
+    75,
+    38
+   ],
+   "share": 0.636,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.273,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    107,
+    107
+   ],
+   "share": 0.045,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    164,
+    164
+   ],
+   "share": 0.023,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.011,
+   "material": "feather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.011,
+   "material": "feather",
+   "thickness_cm": 0.3
+  }
+ ]
+}

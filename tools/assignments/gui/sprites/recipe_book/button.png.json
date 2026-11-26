@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/recipe_book/button.png",
+ "depicts": "recipe-book toggle button (20x18): grey steel plate with black outline, two greens of an inner icon and light highlight edges (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.273,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    5,
+    3,
+    1
+   ],
+   "share": 0.236,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    44,
+    91,
+    44
+   ],
+   "share": 0.187,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    165,
+    82
+   ],
+   "share": 0.129,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.089,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.086,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/horse_spawn_egg.png",
+ "depicts": "spawn egg (horse variant) egg-shaped shell with brown patches",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    47,
+    12
+   ],
+   "share": 0.449,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    133,
+    89,
+    40
+   ],
+   "share": 0.278,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    30,
+    16,
+    4
+   ],
+   "share": 0.212,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    145,
+    123
+   ],
+   "share": 0.03,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    245,
+    238
+   ],
+   "share": 0.02,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    233,
+    215,
+    198
+   ],
+   "share": 0.01,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

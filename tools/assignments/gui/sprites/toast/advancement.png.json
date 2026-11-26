@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/toast/advancement.png",
+ "depicts": "advancement toast background panel, dark grey plastic banner with outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    33,
+    33
+   ],
+   "share": 0.784,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.143,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.073,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

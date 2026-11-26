@@ -1,0 +1,73 @@
+{
+ "path": "item/bordure_indented_banner_pattern.png",
+ "depicts": "banner pattern paper sheet with dyed bordure stripes",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.366,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    123,
+    88
+   ],
+   "share": 0.22,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    101,
+    76,
+    63
+   ],
+   "share": 0.146,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    210,
+    188
+   ],
+   "share": 0.128,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    178,
+    166,
+    132
+   ],
+   "share": 0.116,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    53,
+    35
+   ],
+   "share": 0.024,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

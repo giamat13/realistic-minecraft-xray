@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/player_list/remove_player_highlighted.png",
+ "depicts": "remove-player player-list pictogram, highlighted: darker red X mark with black outline pixels (abstract UI glyph)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    2,
+    2
+   ],
+   "share": 0.406,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    86,
+    2,
+    2
+   ],
+   "share": 0.406,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    13,
+    13,
+    13
+   ],
+   "share": 0.156,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    56,
+    56,
+    56
+   ],
+   "share": 0.031,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    5,
+    5
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

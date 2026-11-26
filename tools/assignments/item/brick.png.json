@@ -1,0 +1,73 @@
+{
+ "path": "item/brick.png",
+ "depicts": "clay brick: fired clay brick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    132,
+    65,
+    46
+   ],
+   "share": 0.363,
+   "material": "brick",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    183,
+    90,
+    64
+   ],
+   "share": 0.267,
+   "material": "brick",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    35,
+    25
+   ],
+   "share": 0.148,
+   "material": "brick",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    45,
+    22,
+    16
+   ],
+   "share": 0.096,
+   "material": "brick",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    98,
+    69
+   ],
+   "share": 0.096,
+   "material": "brick",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    97,
+    47,
+    34
+   ],
+   "share": 0.03,
+   "material": "brick",
+   "thickness_cm": 1.5
+  }
+ ]
+}

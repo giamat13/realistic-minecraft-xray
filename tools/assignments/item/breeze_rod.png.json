@@ -1,0 +1,73 @@
+{
+ "path": "item/breeze_rod.png",
+ "depicts": "Breeze rod: fictional wind-charged blue-violet metal rod (closest analogue steel)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    90,
+    132
+   ],
+   "share": 0.314,
+   "material": "steel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    186,
+    170,
+    201
+   ],
+   "share": 0.216,
+   "material": "steel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    87,
+    108,
+    157
+   ],
+   "share": 0.216,
+   "material": "steel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    130,
+    196
+   ],
+   "share": 0.196,
+   "material": "steel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    149,
+    141,
+    211
+   ],
+   "share": 0.039,
+   "material": "steel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    108,
+    118,
+    171
+   ],
+   "share": 0.02,
+   "material": "steel",
+   "thickness_cm": 1.0
+  }
+ ]
+}

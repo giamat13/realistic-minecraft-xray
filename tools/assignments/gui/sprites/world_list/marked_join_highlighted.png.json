@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/world_list/marked_join_highlighted.png",
+ "depicts": "world-list marked join icon hover (32x32): blue-tinted play-arrow glyph, abstract UI icon",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    7,
+    62
+   ],
+   "share": 0.468,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    146,
+    201
+   ],
+   "share": 0.255,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    252,
+    255,
+    255
+   ],
+   "share": 0.17,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    52,
+    62,
+    117
+   ],
+   "share": 0.106,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

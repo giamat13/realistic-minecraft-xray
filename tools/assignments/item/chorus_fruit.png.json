@@ -1,0 +1,73 @@
+{
+ "path": "item/chorus_fruit.png",
+ "depicts": "chorus fruit item: purple lobed fruit with pale highlights and a stem",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    99,
+    64,
+    98
+   ],
+   "share": 0.345,
+   "material": "fruit",
+   "thickness_cm": 7.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    96,
+    131
+   ],
+   "share": 0.291,
+   "material": "fruit",
+   "thickness_cm": 7.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    177,
+    145,
+    177
+   ],
+   "share": 0.164,
+   "material": "fruit",
+   "thickness_cm": 7.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    58,
+    20,
+    58
+   ],
+   "share": 0.127,
+   "material": "fruit",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    247,
+    244,
+    247
+   ],
+   "share": 0.036,
+   "material": "fruit",
+   "thickness_cm": 7.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    225,
+    215,
+    225
+   ],
+   "share": 0.036,
+   "material": "fruit",
+   "thickness_cm": 7.0
+  }
+ ]
+}

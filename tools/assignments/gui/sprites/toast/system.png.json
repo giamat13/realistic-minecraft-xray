@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/toast/system.png",
+ "depicts": "system toast background panel, dark blue plastic banner with outline and yellow/olive glyph accents",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    8,
+    44,
+    76
+   ],
+   "share": 0.866,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    100,
+    133
+   ],
+   "share": 0.084,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    202,
+    182,
+    13
+   ],
+   "share": 0.003,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    92,
+    92,
+    0
+   ],
+   "share": 0.002,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.002,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

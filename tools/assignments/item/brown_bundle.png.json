@@ -1,0 +1,73 @@
+{
+ "path": "item/brown_bundle.png",
+ "depicts": "brown bundle: leather bag with cord strap",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    135,
+    85,
+    48
+   ],
+   "share": 0.374,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    204,
+    141,
+    91
+   ],
+   "share": 0.198,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    234,
+    164,
+    115
+   ],
+   "share": 0.153,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    177,
+    113,
+    65
+   ],
+   "share": 0.137,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    89,
+    55,
+    30
+   ],
+   "share": 0.13,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    195,
+    141
+   ],
+   "share": 0.008,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

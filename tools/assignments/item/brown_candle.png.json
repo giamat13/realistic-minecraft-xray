@@ -1,0 +1,73 @@
+{
+ "path": "item/brown_candle.png",
+ "depicts": "brown dyed candle: wax body with cotton wick (top)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    91,
+    55,
+    30
+   ],
+   "share": 0.407,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    129,
+    81,
+    47
+   ],
+   "share": 0.363,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    110,
+    66
+   ],
+   "share": 0.143,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    202,
+    131,
+    80
+   ],
+   "share": 0.055,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    48,
+    101
+   ],
+   "share": 0.022,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.011,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

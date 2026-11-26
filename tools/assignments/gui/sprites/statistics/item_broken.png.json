@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/statistics/item_broken.png",
+ "depicts": "statistics item-broken icon: a broken wooden pickaxe with shattered iron head fragments",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    40,
+    15
+   ],
+   "share": 0.328,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    68,
+    68,
+    68
+   ],
+   "share": 0.207,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    125,
+    94,
+    36
+   ],
+   "share": 0.19,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.138,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    204,
+    204,
+    204
+   ],
+   "share": 0.138,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    119,
+    108,
+    89
+   ],
+   "share": 0.0,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

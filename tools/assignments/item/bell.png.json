@@ -1,0 +1,73 @@
+{
+ "path": "item/bell.png",
+ "depicts": "bell item (bronze bell with wooden frame beam)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    223,
+    66
+   ],
+   "share": 0.289,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    38,
+    24
+   ],
+   "share": 0.202,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    163,
+    86,
+    28
+   ],
+   "share": 0.202,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    249,
+    155
+   ],
+   "share": 0.184,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    150,
+    50
+   ],
+   "share": 0.114,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    131,
+    91,
+    74
+   ],
+   "share": 0.009,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  }
+ ]
+}

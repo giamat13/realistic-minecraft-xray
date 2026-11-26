@@ -1,0 +1,73 @@
+{
+ "path": "item/copper_helmet.png",
+ "depicts": "copper armour helmet, copper plate with shaded rim",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    78,
+    35,
+    22
+   ],
+   "share": 0.59,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    214,
+    109,
+    72
+   ],
+   "share": 0.167,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    78,
+    49
+   ],
+   "share": 0.115,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    57,
+    33
+   ],
+   "share": 0.064,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    153,
+    130
+   ],
+   "share": 0.051,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    212,
+    203
+   ],
+   "share": 0.013,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

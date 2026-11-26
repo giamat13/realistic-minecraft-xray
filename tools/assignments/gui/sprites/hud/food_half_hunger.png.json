@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/food_half_hunger.png",
+ "depicts": "9x9 half-eaten drumstick food icon in rotten-hunger colouring: dark red meat, olive flesh, yellow fat, bone tip",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    6,
+    6
+   ],
+   "share": 0.429,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    225,
+    195,
+    88
+   ],
+   "share": 0.214,
+   "material": "fat",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    120,
+    78
+   ],
+   "share": 0.143,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    235,
+    126
+   ],
+   "share": 0.071,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    81,
+    45
+   ],
+   "share": 0.071,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    60,
+    27
+   ],
+   "share": 0.071,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  }
+ ]
+}

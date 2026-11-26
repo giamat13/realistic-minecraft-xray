@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/villager/trade_arrow.png",
+ "depicts": "10x9 villager trade arrow: light grey arrow pointing right, abstract UI indicator",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 1.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

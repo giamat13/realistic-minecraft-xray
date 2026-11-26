@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/food_full_hunger.png",
+ "depicts": "9x9 full drumstick icon with hunger (rotten-tinted) colouring: olive-brown flesh, dark red meat, bone tip",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    113,
+    62
+   ],
+   "share": 0.4,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    78,
+    9,
+    9
+   ],
+   "share": 0.3,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    192,
+    97
+   ],
+   "share": 0.1,
+   "material": "fat",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    132,
+    78
+   ],
+   "share": 0.1,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    235,
+    126
+   ],
+   "share": 0.05,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    60,
+    27
+   ],
+   "share": 0.05,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/copper_door.png",
+ "depicts": "copper door item icon: copper panel with iron hinges and knob, window cutouts",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    123,
+    91
+   ],
+   "share": 0.447,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    194,
+    107,
+    76
+   ],
+   "share": 0.193,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    154,
+    80,
+    56
+   ],
+   "share": 0.175,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    98,
+    71
+   ],
+   "share": 0.105,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    77,
+    80,
+    70
+   ],
+   "share": 0.07,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    67,
+    67,
+    67
+   ],
+   "share": 0.009,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

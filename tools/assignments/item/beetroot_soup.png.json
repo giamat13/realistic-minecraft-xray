@@ -1,0 +1,73 @@
+{
+ "path": "item/beetroot_soup.png",
+ "depicts": "beetroot soup item (red soup in a wooden bowl)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    64,
+    45,
+    11
+   ],
+   "share": 0.351,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    123,
+    22,
+    16
+   ],
+   "share": 0.23,
+   "material": "water",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    31,
+    21,
+    2
+   ],
+   "share": 0.162,
+   "material": "wood_dark",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    113,
+    79,
+    15
+   ],
+   "share": 0.122,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    83,
+    57,
+    9
+   ],
+   "share": 0.068,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    184,
+    42,
+    48
+   ],
+   "share": 0.068,
+   "material": "vegetable",
+   "thickness_cm": 0.5
+  }
+ ]
+}

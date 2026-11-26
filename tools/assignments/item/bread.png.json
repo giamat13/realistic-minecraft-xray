@@ -1,0 +1,73 @@
+{
+ "path": "item/bread.png",
+ "depicts": "bread loaf: golden crumb with brown crust",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    137,
+    39
+   ],
+   "share": 0.304,
+   "material": "bread",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    102,
+    30
+   ],
+   "share": 0.239,
+   "material": "bread",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    101,
+    75,
+    23
+   ],
+   "share": 0.196,
+   "material": "bread",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    46,
+    14
+   ],
+   "share": 0.109,
+   "material": "bread",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    162,
+    121,
+    36
+   ],
+   "share": 0.109,
+   "material": "bread",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    80,
+    59,
+    18
+   ],
+   "share": 0.043,
+   "material": "bread",
+   "thickness_cm": 4.0
+  }
+ ]
+}

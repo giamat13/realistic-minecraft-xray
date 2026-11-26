@@ -1,0 +1,73 @@
+{
+ "path": "item/blade_pottery_sherd.png",
+ "depicts": "blade pottery sherd item (fired clay sherd with glazed decoration)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    41,
+    33
+   ],
+   "share": 0.261,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.217,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    95,
+    56,
+    47
+   ],
+   "share": 0.204,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    117,
+    66,
+    54
+   ],
+   "share": 0.159,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.108,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.051,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

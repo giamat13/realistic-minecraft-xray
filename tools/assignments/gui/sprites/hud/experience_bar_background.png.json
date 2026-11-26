@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/experience_bar_background.png",
+ "depicts": "182x5 dark green-grey experience bar track (empty trough)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    9,
+    16,
+    12
+   ],
+   "share": 0.404,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    41,
+    53,
+    47
+   ],
+   "share": 0.241,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    23,
+    34,
+    28
+   ],
+   "share": 0.152,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    54,
+    67,
+    60
+   ],
+   "share": 0.079,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    46,
+    58,
+    51
+   ],
+   "share": 0.079,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    32,
+    44,
+    37
+   ],
+   "share": 0.044,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

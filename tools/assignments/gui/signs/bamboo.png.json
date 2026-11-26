@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/bamboo.png",
+ "depicts": "bamboo standing-sign texture: pale yellow-green bamboo board and post with segment grooves",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    185,
+    169,
+    75
+   ],
+   "share": 0.256,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    217,
+    194,
+    94
+   ],
+   "share": 0.247,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    204,
+    106
+   ],
+   "share": 0.206,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    199,
+    178,
+    77
+   ],
+   "share": 0.196,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    187,
+    80
+   ],
+   "share": 0.076,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    217,
+    126
+   ],
+   "share": 0.019,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  }
+ ]
+}

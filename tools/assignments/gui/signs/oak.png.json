@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/oak.png",
+ "depicts": "oak standing-sign texture: light oak board with grain and darker post (wood, 12.5 cm)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    181,
+    150,
+    92
+   ],
+   "share": 0.475,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    156,
+    127,
+    73
+   ],
+   "share": 0.272,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    125,
+    97,
+    55
+   ],
+   "share": 0.212,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    95,
+    74,
+    43
+   ],
+   "share": 0.025,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    56,
+    43,
+    24
+   ],
+   "share": 0.009,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    76,
+    61,
+    38
+   ],
+   "share": 0.006,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  }
+ ]
+}

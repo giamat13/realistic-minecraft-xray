@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/toast/tutorial.png",
+ "depicts": "tutorial toast background panel, light grey plastic banner with outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.782,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.144,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.074,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

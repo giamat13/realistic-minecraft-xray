@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/spruce.png",
+ "depicts": "spruce standing-sign texture: brown spruce board with grain and dark post (wood, 12.5 cm)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    127,
+    94,
+    56
+   ],
+   "share": 0.475,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    80,
+    46
+   ],
+   "share": 0.253,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    68,
+    36
+   ],
+   "share": 0.193,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    47,
+    28,
+    10
+   ],
+   "share": 0.035,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    59,
+    39,
+    19
+   ],
+   "share": 0.035,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    77,
+    51,
+    23
+   ],
+   "share": 0.009,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  }
+ ]
+}

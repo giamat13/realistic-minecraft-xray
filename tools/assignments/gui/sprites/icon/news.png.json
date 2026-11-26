@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/icon/news.png",
+ "depicts": "news icon: newspaper page with dark ink text lines and border on white paper",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    38,
+    40
+   ],
+   "share": 0.591,
+   "material": "ink",
+   "thickness_cm": 0.01
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.409,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

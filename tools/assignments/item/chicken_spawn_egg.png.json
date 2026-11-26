@@ -1,0 +1,73 @@
+{
+ "path": "item/chicken_spawn_egg.png",
+ "depicts": "chicken spawn egg item: egg-shaped beige shell with red-pigment spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    167,
+    157,
+    145
+   ],
+   "share": 0.478,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.256,
+   "material": "calcite",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 2,
+   "rgb": [
+    114,
+    102,
+    85
+   ],
+   "share": 0.2,
+   "material": "calcite",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    0,
+    0
+   ],
+   "share": 0.033,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    135,
+    0,
+    0
+   ],
+   "share": 0.022,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    246,
+    72,
+    72
+   ],
+   "share": 0.011,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "item/brown_cushion.png",
+ "depicts": "brown stuffed cushion/pillow item with seam shading",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    44,
+    24
+   ],
+   "share": 0.308,
+   "material": "textile",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    177,
+    113,
+    65
+   ],
+   "share": 0.25,
+   "material": "textile",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    142,
+    88,
+    49
+   ],
+   "share": 0.231,
+   "material": "textile",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    109,
+    65,
+    34
+   ],
+   "share": 0.212,
+   "material": "textile",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    76,
+    42
+   ],
+   "share": 0.0,
+   "material": "textile",
+   "thickness_cm": 5.0
+  }
+ ]
+}

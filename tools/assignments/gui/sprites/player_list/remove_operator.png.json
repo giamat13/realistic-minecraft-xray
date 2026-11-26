@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/player_list/remove_operator.png",
+ "depicts": "remove-operator player-list pictogram (tiny 8x7 glyph in olive-yellow with a blue accent, abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    211,
+    199,
+    102
+   ],
+   "share": 0.413,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    238,
+    230,
+    160
+   ],
+   "share": 0.261,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    149,
+    63
+   ],
+   "share": 0.152,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    115,
+    40
+   ],
+   "share": 0.087,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    23,
+    144,
+    246
+   ],
+   "share": 0.065,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    156,
+    202,
+    238
+   ],
+   "share": 0.022,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

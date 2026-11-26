@@ -1,0 +1,73 @@
+{
+ "path": "item/chest_minecart.png",
+ "depicts": "minecart carrying a wooden chest: iron cart body, oak chest, dark iron wheels and outline",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    45,
+    47,
+    43
+   ],
+   "share": 0.39,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    149,
+    104,
+    32
+   ],
+   "share": 0.289,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    149,
+    152,
+    155
+   ],
+   "share": 0.176,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    112,
+    115
+   ],
+   "share": 0.113,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    9,
+    9,
+    10
+   ],
+   "share": 0.025,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    205,
+    205,
+    205
+   ],
+   "share": 0.006,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

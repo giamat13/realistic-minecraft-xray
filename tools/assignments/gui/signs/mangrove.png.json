@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/mangrove.png",
+ "depicts": "mangrove standing-sign texture: reddish-brown mangrove board with grain and dark post (wood, 12.5 cm as block sign convention)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    117,
+    52,
+    52
+   ],
+   "share": 0.415,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    66,
+    52
+   ],
+   "share": 0.304,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    36,
+    35
+   ],
+   "share": 0.193,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    83,
+    67,
+    41
+   ],
+   "share": 0.07,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    66,
+    52,
+    34
+   ],
+   "share": 0.013,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    82,
+    48
+   ],
+   "share": 0.006,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  }
+ ]
+}

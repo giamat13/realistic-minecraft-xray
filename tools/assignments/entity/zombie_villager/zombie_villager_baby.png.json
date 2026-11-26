@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/zombie_villager_baby.png",
+ "depicts": "baby zombie villager base layer: green skin, olive and pale robe cloth, dark hair and eye details",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    113,
+    147,
+    71
+   ],
+   "share": 0.485,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    79,
+    80,
+    49
+   ],
+   "share": 0.287,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    206,
+    194,
+    163
+   ],
+   "share": 0.131,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    46,
+    47,
+    30
+   ],
+   "share": 0.091,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    153,
+    43,
+    43
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/advancements/challenge_frame_obtained.png",
+ "depicts": "challenge advancement frame, obtained: gold-plated rounded frame with black outline and bronze shading",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    126,
+    15
+   ],
+   "share": 0.673,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.169,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    54,
+    6
+   ],
+   "share": 0.079,
+   "material": "bronze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    219,
+    162,
+    19
+   ],
+   "share": 0.079,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    138,
+    102,
+    12
+   ],
+   "share": 0.0,
+   "material": "bronze",
+   "thickness_cm": 0.1
+  }
+ ]
+}

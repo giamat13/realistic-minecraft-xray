@@ -1,0 +1,18 @@
+{
+ "path": "item/empty_slot_smithing_template_armor_trim.png",
+ "depicts": "GUI empty slot placeholder outline of a smithing template card",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

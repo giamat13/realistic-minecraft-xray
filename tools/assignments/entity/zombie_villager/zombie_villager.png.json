@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/zombie_villager.png",
+ "depicts": "adult zombie villager base layer: green-grey skin, brown robe cloth, red and white eye/feature details",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    88,
+    116,
+    55
+   ],
+   "share": 0.356,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    60,
+    67,
+    41
+   ],
+   "share": 0.333,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    99,
+    93,
+    91
+   ],
+   "share": 0.225,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    109,
+    146,
+    68
+   ],
+   "share": 0.083,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    43,
+    43
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

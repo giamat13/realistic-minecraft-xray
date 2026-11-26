@@ -1,0 +1,73 @@
+{
+ "path": "item/blue_bundle.png",
+ "depicts": "blue bundle item (dyed fabric pouch with leather strap)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    82,
+    175
+   ],
+   "share": 0.336,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    79,
+    125,
+    209
+   ],
+   "share": 0.313,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    60,
+    133
+   ],
+   "share": 0.252,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    129,
+    86,
+    52
+   ],
+   "share": 0.053,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.038,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    195,
+    141
+   ],
+   "share": 0.008,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

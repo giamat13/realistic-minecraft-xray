@@ -1,0 +1,18 @@
+{
+ "path": "item/empty_armor_slot_shield.png",
+ "depicts": "GUI empty armour slot icon: grey shield silhouette outline",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

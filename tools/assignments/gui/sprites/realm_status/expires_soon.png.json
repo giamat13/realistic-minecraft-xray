@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/realm_status/expires_soon.png",
+ "depicts": "realm-status \"expires soon\" indicator (10x56): dark-grey plastic panel with light-grey outline and a yellow warning/hourglass glyph (abstract status icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    46,
+    46
+   ],
+   "share": 0.593,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.257,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    81,
+    47
+   ],
+   "share": 0.093,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    194,
+    192,
+    43
+   ],
+   "share": 0.048,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    228,
+    229,
+    139
+   ],
+   "share": 0.005,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    251,
+    252,
+    208
+   ],
+   "share": 0.004,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

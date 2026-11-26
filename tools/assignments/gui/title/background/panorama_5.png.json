@@ -1,0 +1,18 @@
+{
+ "path": "gui/title/background/panorama_5.png",
+ "depicts": "title-screen panorama face 5 (1x1 placeholder): single teal-grey sky colour, environment sky texture",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    98,
+    111,
+    113
+   ],
+   "share": 1.0,
+   "material": "air",
+   "thickness_cm": 1000.0
+  }
+ ]
+}

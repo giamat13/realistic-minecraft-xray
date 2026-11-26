@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/tooltip/frame.png",
+ "depicts": "item tooltip frame border, purple gradient outline (bright edges steel, darker shades plastic)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    0,
+    253
+   ],
+   "share": 0.319,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    0,
+    128
+   ],
+   "share": 0.3,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    70,
+    0,
+    224
+   ],
+   "share": 0.113,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    0,
+    197
+   ],
+   "share": 0.094,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    48,
+    0,
+    152
+   ],
+   "share": 0.094,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    55,
+    0,
+    175
+   ],
+   "share": 0.081,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

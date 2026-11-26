@@ -1,0 +1,40 @@
+{
+ "path": "entity/spider/spider_eyes.png",
+ "depicts": "spider glowing red eye overlay: glossy eye lenses (blood 0.3 cm, glossy highlight glass 0.3 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    166,
+    2,
+    2
+   ],
+   "share": 0.5,
+   "material": "blood",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    0,
+    0
+   ],
+   "share": 0.3,
+   "material": "blood",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    14,
+    14
+   ],
+   "share": 0.2,
+   "material": "glass",
+   "thickness_cm": 0.3
+  }
+ ]
+}

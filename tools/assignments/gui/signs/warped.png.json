@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/warped.png",
+ "depicts": "warped standing-sign texture: teal nether fungal stem board and purple-tinted post (fungus stem, 12.5 cm)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    39,
+    127,
+    126
+   ],
+   "share": 0.332,
+   "material": "fungus",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    104,
+    93
+   ],
+   "share": 0.329,
+   "material": "fungus",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    18,
+    93,
+    87
+   ],
+   "share": 0.263,
+   "material": "fungus",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    77,
+    39,
+    56
+   ],
+   "share": 0.051,
+   "material": "fungus",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    45,
+    92
+   ],
+   "share": 0.022,
+   "material": "fungus",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    17,
+    155,
+    133
+   ],
+   "share": 0.003,
+   "material": "fungus",
+   "thickness_cm": 12.5
+  }
+ ]
+}

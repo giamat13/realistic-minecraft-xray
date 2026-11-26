@@ -1,0 +1,73 @@
+{
+ "path": "item/frog_spawn_egg.png",
+ "depicts": "frog spawn egg item: egg-shaped shell with orange-brown body and pale highlights",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    113,
+    63,
+    37
+   ],
+   "share": 0.267,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    95,
+    58
+   ],
+   "share": 0.233,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    121,
+    73
+   ],
+   "share": 0.208,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    84,
+    47,
+    28
+   ],
+   "share": 0.117,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    198,
+    139,
+    85
+   ],
+   "share": 0.1,
+   "material": "calcite",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 5,
+   "rgb": [
+    230,
+    171,
+    118
+   ],
+   "share": 0.075,
+   "material": "calcite",
+   "thickness_cm": 0.03
+  }
+ ]
+}

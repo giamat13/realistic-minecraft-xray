@@ -1,0 +1,73 @@
+{
+ "path": "item/hoglin_spawn_egg.png",
+ "depicts": "spawn egg (hoglin variant) egg-shaped shell with brown speckles and dark outline",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    177,
+    116,
+    86
+   ],
+   "share": 0.419,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    222,
+    158,
+    123
+   ],
+   "share": 0.237,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    120,
+    59,
+    35
+   ],
+   "share": 0.212,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    235,
+    161
+   ],
+   "share": 0.066,
+   "material": "fat",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    33,
+    44,
+    53
+   ],
+   "share": 0.04,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    80,
+    85,
+    87
+   ],
+   "share": 0.025,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

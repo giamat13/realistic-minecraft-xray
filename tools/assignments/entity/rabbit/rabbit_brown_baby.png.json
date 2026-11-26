@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_brown_baby.png",
+ "depicts": "baby brown rabbit model texture: brown fur over skin, darker shading, dark claws, pink inner ear",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    157,
+    113,
+    77
+   ],
+   "share": 0.697,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    188,
+    158,
+    129
+   ],
+   "share": 0.177,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    54,
+    37
+   ],
+   "share": 0.07,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    135,
+    92,
+    59
+   ],
+   "share": 0.05,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    39,
+    23
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    247,
+    184,
+    198
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

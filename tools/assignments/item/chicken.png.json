@@ -1,0 +1,73 @@
+{
+ "path": "item/chicken.png",
+ "depicts": "chicken mob texture: feathered white/pinkish body over soft tissue (wattle/skin and shading)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    240,
+    192,
+    176
+   ],
+   "share": 0.273,
+   "material": "feather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    180,
+    123,
+    101
+   ],
+   "share": 0.25,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    223,
+    169,
+    148
+   ],
+   "share": 0.152,
+   "material": "feather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    134,
+    82,
+    69
+   ],
+   "share": 0.129,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    231,
+    220
+   ],
+   "share": 0.106,
+   "material": "feather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    193,
+    146,
+    128
+   ],
+   "share": 0.091,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  }
+ ]
+}

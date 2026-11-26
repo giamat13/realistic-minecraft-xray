@@ -1,0 +1,73 @@
+{
+ "path": "item/blaze_rod.png",
+ "depicts": "blaze rod item (brass-yellow rod with orange tones, stick roughly 1 cm thick)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    180,
+    101,
+    17
+   ],
+   "share": 0.373,
+   "material": "brass",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    190,
+    152,
+    30
+   ],
+   "share": 0.235,
+   "material": "brass",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    166,
+    61,
+    1
+   ],
+   "share": 0.176,
+   "material": "brass",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    243,
+    45
+   ],
+   "share": 0.118,
+   "material": "brass",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    248,
+    126
+   ],
+   "share": 0.059,
+   "material": "brass",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    193,
+    0
+   ],
+   "share": 0.039,
+   "material": "brass",
+   "thickness_cm": 0.8
+  }
+ ]
+}

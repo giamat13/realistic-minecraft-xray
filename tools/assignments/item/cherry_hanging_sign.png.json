@@ -1,0 +1,73 @@
+{
+ "path": "item/cherry_hanging_sign.png",
+ "depicts": "cherry wood hanging sign: pink cherry-wood board hung from iron chains",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    217,
+    148,
+    153
+   ],
+   "share": 0.568,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    120,
+    118
+   ],
+   "share": 0.189,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    132,
+    53,
+    57
+   ],
+   "share": 0.081,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    50,
+    50,
+    50
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

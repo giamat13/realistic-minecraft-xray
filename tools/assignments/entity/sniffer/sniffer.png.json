@@ -1,0 +1,73 @@
+{
+ "path": "entity/sniffer/sniffer.png",
+ "depicts": "sniffer mob: large red-brown body (soft_tissue 40 cm), green plant sprouts (plant_tissue 5 cm), dark legs and hooves (keratin 3 cm), orange/yellow beak (keratin 1-2 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    99,
+    18,
+    14
+   ],
+   "share": 0.6,
+   "material": "soft_tissue",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    113,
+    76
+   ],
+   "share": 0.178,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    32,
+    51,
+    51
+   ],
+   "share": 0.156,
+   "material": "keratin",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    138,
+    30
+   ],
+   "share": 0.028,
+   "material": "keratin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    247,
+    196,
+    53
+   ],
+   "share": 0.025,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    67,
+    155,
+    136
+   ],
+   "share": 0.013,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/blue_candle.png",
+ "depicts": "blue dyed candle item (wax candle body with blue dye)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    55,
+    74,
+    159
+   ],
+   "share": 0.396,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    55,
+    121
+   ],
+   "share": 0.209,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    69,
+    90,
+    190
+   ],
+   "share": 0.187,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    69,
+    115,
+    199
+   ],
+   "share": 0.143,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    132,
+    208
+   ],
+   "share": 0.055,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.011,
+   "material": "wax",
+   "thickness_cm": 2.0
+  }
+ ]
+}

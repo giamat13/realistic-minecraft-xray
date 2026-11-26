@@ -1,0 +1,73 @@
+{
+ "path": "entity/spider/cave_spider.png",
+ "depicts": "cave spider mob: dark teal chitin exoskeleton (shell_chitin 1.0 cm), dark red eye spots (blood 0.2 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    11,
+    29,
+    26
+   ],
+   "share": 0.758,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    11,
+    52,
+    51
+   ],
+   "share": 0.194,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    68,
+    57
+   ],
+   "share": 0.028,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    50,
+    1,
+    1
+   ],
+   "share": 0.012,
+   "material": "blood",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    144,
+    135,
+    124
+   ],
+   "share": 0.004,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    14,
+    14
+   ],
+   "share": 0.003,
+   "material": "blood",
+   "thickness_cm": 0.2
+  }
+ ]
+}

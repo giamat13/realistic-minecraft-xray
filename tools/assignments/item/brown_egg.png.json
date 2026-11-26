@@ -1,0 +1,73 @@
+{
+ "path": "item/brown_egg.png",
+ "depicts": "brown chicken egg: calcite eggshell with albumen/yolk interior",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    176,
+    96,
+    76
+   ],
+   "share": 0.289,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    214,
+    119,
+    81
+   ],
+   "share": 0.244,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    102,
+    49,
+    41
+   ],
+   "share": 0.156,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    64,
+    54
+   ],
+   "share": 0.156,
+   "material": "calcite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    148,
+    83,
+    70
+   ],
+   "share": 0.111,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    146,
+    114
+   ],
+   "share": 0.044,
+   "material": "calcite",
+   "thickness_cm": 0.05
+  }
+ ]
+}

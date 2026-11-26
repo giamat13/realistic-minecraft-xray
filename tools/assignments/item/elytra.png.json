@@ -1,0 +1,73 @@
+{
+ "path": "item/elytra.png",
+ "depicts": "elytra wing item: thin leather-like fabric membrane with dark frame",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    75,
+    75
+   ],
+   "share": 0.238,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.23,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    114,
+    113,
+    127
+   ],
+   "share": 0.213,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    131,
+    148
+   ],
+   "share": 0.197,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    105,
+    105,
+    105
+   ],
+   "share": 0.074,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    143,
+    179
+   ],
+   "share": 0.049,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

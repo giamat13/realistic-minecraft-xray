@@ -1,0 +1,73 @@
+{
+ "path": "item/hopper_minecart.png",
+ "depicts": "minecart with a hopper on top, iron body and wheels",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    70,
+    69
+   ],
+   "share": 0.308,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    48,
+    49
+   ],
+   "share": 0.258,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    102,
+    104
+   ],
+   "share": 0.245,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    133,
+    136,
+    141
+   ],
+   "share": 0.094,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    167,
+    172,
+    173
+   ],
+   "share": 0.069,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    9,
+    9,
+    10
+   ],
+   "share": 0.025,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

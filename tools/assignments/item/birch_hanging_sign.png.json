@@ -1,0 +1,73 @@
+{
+ "path": "item/birch_hanging_sign.png",
+ "depicts": "birch hanging sign item (birch board with carved text and iron chains)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    191,
+    175,
+    120
+   ],
+   "share": 0.446,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    47,
+    34,
+    12
+   ],
+   "share": 0.149,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    199,
+    138
+   ],
+   "share": 0.122,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    109,
+    68
+   ],
+   "share": 0.122,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    62,
+    62,
+    62
+   ],
+   "share": 0.108,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

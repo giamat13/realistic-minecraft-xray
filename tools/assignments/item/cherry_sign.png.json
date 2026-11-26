@@ -1,0 +1,73 @@
+{
+ "path": "item/cherry_sign.png",
+ "depicts": "cherry wood standing sign: pink cherry-wood board with painted text on a wood stick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    188,
+    182
+   ],
+   "share": 0.462,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    122,
+    120
+   ],
+   "share": 0.182,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    167,
+    160
+   ],
+   "share": 0.136,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    132,
+    53,
+    57
+   ],
+   "share": 0.106,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    49,
+    29,
+    40
+   ],
+   "share": 0.091,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    47,
+    60
+   ],
+   "share": 0.023,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  }
+ ]
+}

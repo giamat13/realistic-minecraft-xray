@@ -1,0 +1,73 @@
+{
+ "path": "item/brown_dye.png",
+ "depicts": "brown dye lump (dye pigment blob) on a small wooden/tan base",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    83,
+    60
+   ],
+   "share": 0.247,
+   "material": "dye_pigment",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    61,
+    30,
+    17
+   ],
+   "share": 0.24,
+   "material": "dye_pigment",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    102,
+    55,
+    29
+   ],
+   "share": 0.207,
+   "material": "dye_pigment",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    185,
+    117,
+    78
+   ],
+   "share": 0.2,
+   "material": "dye_pigment",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    119,
+    89
+   ],
+   "share": 0.073,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    176,
+    166,
+    123
+   ],
+   "share": 0.033,
+   "material": "paper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

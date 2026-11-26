@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/toast/tree.png",
+ "depicts": "tree-gathering toast icon: green oak-like leaves over a brown trunk",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    35,
+    107,
+    7
+   ],
+   "share": 0.267,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    41,
+    126,
+    8
+   ],
+   "share": 0.206,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    61,
+    4
+   ],
+   "share": 0.2,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    84,
+    51
+   ],
+   "share": 0.139,
+   "material": "wood_oak",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    63,
+    50,
+    30
+   ],
+   "share": 0.122,
+   "material": "wood_dark",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    152,
+    120,
+    73
+   ],
+   "share": 0.067,
+   "material": "wood_oak",
+   "thickness_cm": 20.0
+  }
+ ]
+}

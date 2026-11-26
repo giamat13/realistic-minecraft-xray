@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/realm_status/closed.png",
+ "depicts": "realm-status \"closed\" indicator (10x28): dark-grey plastic panel with light-grey bevel and a red round lamp/lens (abstract status icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    45,
+    45
+   ],
+   "share": 0.629,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    192,
+    191,
+    191
+   ],
+   "share": 0.257,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    146,
+    25,
+    3
+   ],
+   "share": 0.061,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    192,
+    33,
+    4
+   ],
+   "share": 0.036,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    203,
+    124,
+    84
+   ],
+   "share": 0.018,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    98,
+    83,
+    79
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

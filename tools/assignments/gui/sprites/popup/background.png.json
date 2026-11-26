@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/popup/background.png",
+ "depicts": "popup dialog background panel (236x34): dark-grey plastic panel with black and light-grey bevelled border (abstract UI panel)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    48,
+    48,
+    48
+   ],
+   "share": 0.616,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.191,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.097,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.064,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    34,
+    34,
+    34
+   ],
+   "share": 0.033,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    130,
+    130
+   ],
+   "share": 0.001,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "item/blue_bundle_open_back.png",
+ "depicts": "open blue bundle, back view (dyed fabric pouch interior)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    56,
+    123
+   ],
+   "share": 0.38,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    65,
+    144
+   ],
+   "share": 0.225,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    77,
+    165
+   ],
+   "share": 0.169,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    69,
+    90,
+    190
+   ],
+   "share": 0.141,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    115,
+    199
+   ],
+   "share": 0.085,
+   "material": "textile",
+   "thickness_cm": 0.4
+  }
+ ]
+}

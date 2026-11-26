@@ -1,0 +1,73 @@
+{
+ "path": "item/dragon_breath.png",
+ "depicts": "dragon breath item: purple-pink ethereal vapour cloud in a bottle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    219,
+    217,
+    236
+   ],
+   "share": 0.405,
+   "material": "smoke",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    146,
+    180
+   ],
+   "share": 0.215,
+   "material": "smoke",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    93,
+    143,
+    194
+   ],
+   "share": 0.203,
+   "material": "potion_liquid",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    54,
+    126
+   ],
+   "share": 0.101,
+   "material": "potion_liquid",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    67,
+    33
+   ],
+   "share": 0.051,
+   "material": "potion_liquid",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    212,
+    109,
+    73
+   ],
+   "share": 0.025,
+   "material": "smoke",
+   "thickness_cm": 3.0
+  }
+ ]
+}

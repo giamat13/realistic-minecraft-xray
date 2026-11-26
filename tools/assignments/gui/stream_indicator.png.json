@@ -1,0 +1,73 @@
+{
+ "path": "gui/stream_indicator.png",
+ "depicts": "GUI stream live-indicator animated strip (16x16 frames): red glowing LED dot in a grey metal ring, physical indicator lamp",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    199,
+    34,
+    0
+   ],
+   "share": 0.379,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.226,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    48,
+    34
+   ],
+   "share": 0.203,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    34,
+    8
+   ],
+   "share": 0.13,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    226,
+    46,
+    0
+   ],
+   "share": 0.062,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    158,
+    53,
+    31
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

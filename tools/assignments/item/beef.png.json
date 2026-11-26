@@ -1,0 +1,73 @@
+{
+ "path": "item/beef.png",
+ "depicts": "raw beef food item (red muscle meat with fat marbling)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    225,
+    78,
+    69
+   ],
+   "share": 0.417,
+   "material": "muscle",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    173,
+    29,
+    23
+   ],
+   "share": 0.213,
+   "material": "muscle",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    10,
+    6
+   ],
+   "share": 0.148,
+   "material": "muscle",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    230,
+    126,
+    110
+   ],
+   "share": 0.139,
+   "material": "fat",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    23,
+    19
+   ],
+   "share": 0.083,
+   "material": "muscle",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    60,
+    52
+   ],
+   "share": 0.0,
+   "material": "muscle",
+   "thickness_cm": 8.0
+  }
+ ]
+}

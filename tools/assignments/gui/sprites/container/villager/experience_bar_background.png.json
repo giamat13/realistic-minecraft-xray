@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/container/villager/experience_bar_background.png",
+ "depicts": "102x5 villager experience-bar empty background: dark green-black recessed bar track",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    14,
+    17,
+    16
+   ],
+   "share": 0.407,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    61,
+    42
+   ],
+   "share": 0.3,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    38,
+    51,
+    41
+   ],
+   "share": 0.18,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    19,
+    31,
+    26
+   ],
+   "share": 0.045,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    61,
+    76,
+    56
+   ],
+   "share": 0.043,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    23,
+    37,
+    27
+   ],
+   "share": 0.024,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

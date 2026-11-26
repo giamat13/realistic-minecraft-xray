@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/toast/movement_keys.png",
+ "depicts": "tutorial toast movement-keys icon, grey plastic keycaps (WASD/arrow keys) with dark gaps",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.282,
+   "material": "plastic",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    168,
+    168,
+    168
+   ],
+   "share": 0.207,
+   "material": "plastic",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.188,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    200,
+    200,
+    200
+   ],
+   "share": 0.155,
+   "material": "plastic",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.09,
+   "material": "plastic",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    133,
+    133,
+    133
+   ],
+   "share": 0.077,
+   "material": "plastic",
+   "thickness_cm": 0.5
+  }
+ ]
+}

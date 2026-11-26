@@ -1,0 +1,73 @@
+{
+ "path": "item/copper_lantern.png",
+ "depicts": "copper lantern: copper frame with verdigris patina and a lit flame in the centre",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    151,
+    78,
+    54
+   ],
+   "share": 0.5,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    194,
+    107,
+    76
+   ],
+   "share": 0.143,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    235,
+    153
+   ],
+   "share": 0.143,
+   "material": "malachite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    178,
+    110
+   ],
+   "share": 0.107,
+   "material": "malachite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    238,
+    252,
+    238
+   ],
+   "share": 0.071,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    70,
+    130,
+    77
+   ],
+   "share": 0.036,
+   "material": "malachite",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/statistics/item_dropped.png",
+ "depicts": "statistics item-dropped icon: small green leafy plant with brown stem",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    26,
+    24,
+    21
+   ],
+   "share": 0.264,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    66,
+    0
+   ],
+   "share": 0.223,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    49,
+    117,
+    0
+   ],
+   "share": 0.198,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    4,
+    45,
+    0
+   ],
+   "share": 0.149,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    101,
+    67,
+    0
+   ],
+   "share": 0.083,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    44,
+    0
+   ],
+   "share": 0.083,
+   "material": "wood_dark",
+   "thickness_cm": 0.5
+  }
+ ]
+}

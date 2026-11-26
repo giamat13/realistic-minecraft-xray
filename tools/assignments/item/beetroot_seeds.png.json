@@ -1,0 +1,40 @@
+{
+ "path": "item/beetroot_seeds.png",
+ "depicts": "beetroot seeds item (small beige seed grains)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    69,
+    43
+   ],
+   "share": 0.409,
+   "material": "seed_grain",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    133,
+    111,
+    74
+   ],
+   "share": 0.348,
+   "material": "seed_grain",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    176,
+    117
+   ],
+   "share": 0.242,
+   "material": "seed_grain",
+   "thickness_cm": 0.3
+  }
+ ]
+}

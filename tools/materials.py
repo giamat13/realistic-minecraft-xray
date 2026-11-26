@@ -86,7 +86,7 @@ MATERIALS = {
  "fat": M(0.95, fr=dict(H=.114, C=.598, N=.007, O=.278, Na=.001, S=.001, Cl=.001)),
  "bone": M(1.85, fr=dict(H=.034, C=.155, N=.042, O=.435, Na=.001, Mg=.002, P=.103, S=.003, Ca=.225)),
  "tooth_enamel": M(2.9, "Ca5(PO4)3OH"), "hydroxyapatite": M(3.16, "Ca5(PO4)3OH"), "blood": M(1.06, fr=dict(H=.102, C=.11, N=.033, O=.745, Na=.001, Fe=.001, Cl=.003)),
- "leather": M(0.9, fr=dict(C=.5, O=.25, N=.17, H=.065, S=.01)), "keratin": M(0.2, fr=dict(C=.5, O=.22, N=.17, H=.065, S=.03)),
+ "leather": M(0.9, fr=dict(C=.5, O=.25, N=.17, H=.065, S=.01)), "keratin": M(1.3, fr=dict(C=.5, O=.22, N=.17, H=.065, S=.03)),
  "feather": M(0.1, fr=dict(C=.5, O=.22, N=.17, H=.065, S=.03)), "silk": M(0.03, fr=dict(C=.45, O=.3, N=.18, H=.06)), "slime": M(1.0, "H2O"),
  "organic_gel": M(1.0, fr=dict(H=.1, O=.8, C=.09, N=.01)), "egg": M(1.03, fr=dict(O=.75, C=.12, H=.1, N=.02, Ca=.01)), "shell_chitin": M(1.4, "C8H13O5N"),
  "plastic": M(0.95, "C2H4"), "rubber": M(1.1, "C5H8"), "pvc": M(1.4, "C2H3Cl"), "tnt": M(1.65, "C7H5N3O6"), "gunpowder": M(1.7, fr=dict(K=.7 * .4, N=.1, S=.1, C=.15, O=.4)),

@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/dark_oak.png",
+ "depicts": "dark oak standing-sign texture: dark brown board with grain and post",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    49,
+    24
+   ],
+   "share": 0.484,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    48,
+    30,
+    14
+   ],
+   "share": 0.19,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    62,
+    41,
+    18
+   ],
+   "share": 0.187,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    56,
+    37,
+    18
+   ],
+   "share": 0.095,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    63,
+    49,
+    29
+   ],
+   "share": 0.035,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    68,
+    40
+   ],
+   "share": 0.009,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  }
+ ]
+}

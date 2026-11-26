@@ -1,0 +1,73 @@
+{
+ "path": "gui/tab_button.png",
+ "depicts": "GUI tab button atlas (256x256): dark brown wooden-looking tab panels with black and white edge lines, abstract UI sprite drawn as wood",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    30,
+    21
+   ],
+   "share": 0.51,
+   "material": "wood_dark",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    16,
+    11
+   ],
+   "share": 0.371,
+   "material": "wood_dark",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.064,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.042,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    84,
+    76,
+    69
+   ],
+   "share": 0.007,
+   "material": "wood_dark",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    69,
+    64
+   ],
+   "share": 0.006,
+   "material": "wood_dark",
+   "thickness_cm": 0.3
+  }
+ ]
+}

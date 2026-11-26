@@ -1,0 +1,73 @@
+{
+ "path": "item/copper_leggings.png",
+ "depicts": "copper armour leggings, copper plate",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    28,
+    17
+   ],
+   "share": 0.308,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    147,
+    71,
+    44
+   ],
+   "share": 0.24,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    214,
+    109,
+    72
+   ],
+   "share": 0.192,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    95,
+    44,
+    28
+   ],
+   "share": 0.173,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    153,
+    130
+   ],
+   "share": 0.067,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    212,
+    203
+   ],
+   "share": 0.019,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

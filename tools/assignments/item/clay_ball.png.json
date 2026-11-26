@@ -1,0 +1,73 @@
+{
+ "path": "item/clay_ball.png",
+ "depicts": "clay ball item: a ~2 cm grey-blue sphere of wet clay with shaded edges",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    120,
+    143
+   ],
+   "share": 0.312,
+   "material": "clay",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    168,
+    178
+   ],
+   "share": 0.26,
+   "material": "clay",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    57,
+    68
+   ],
+   "share": 0.156,
+   "material": "clay",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    68,
+    90
+   ],
+   "share": 0.135,
+   "material": "clay",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    148,
+    153,
+    164
+   ],
+   "share": 0.073,
+   "material": "clay",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    175,
+    185,
+    214
+   ],
+   "share": 0.062,
+   "material": "clay",
+   "thickness_cm": 2.0
+  }
+ ]
+}

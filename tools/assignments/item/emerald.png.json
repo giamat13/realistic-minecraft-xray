@@ -1,0 +1,73 @@
+{
+ "path": "item/emerald.png",
+ "depicts": "emerald gem item, faceted green gem",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    65,
+    0
+   ],
+   "share": 0.292,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    152,
+    38
+   ],
+   "share": 0.25,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    36,
+    228,
+    108
+   ],
+   "share": 0.24,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    253,
+    211
+   ],
+   "share": 0.156,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    130,
+    246,
+    173
+   ],
+   "share": 0.062,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    45,
+    167,
+    79
+   ],
+   "share": 0.0,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  }
+ ]
+}

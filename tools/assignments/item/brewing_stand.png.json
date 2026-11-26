@@ -1,0 +1,73 @@
+{
+ "path": "item/brewing_stand.png",
+ "depicts": "brewing stand: iron stand rod and base with glass-enclosed potion bottles",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    89,
+    89,
+    89
+   ],
+   "share": 0.514,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    49,
+    49
+   ],
+   "share": 0.143,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    207,
+    120,
+    48
+   ],
+   "share": 0.129,
+   "material": "potion_liquid",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    192,
+    60
+   ],
+   "share": 0.1,
+   "material": "potion_liquid",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    130,
+    130,
+    130
+   ],
+   "share": 0.086,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    227,
+    218,
+    118
+   ],
+   "share": 0.029,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

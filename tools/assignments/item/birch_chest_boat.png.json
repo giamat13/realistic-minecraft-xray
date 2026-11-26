@@ -1,0 +1,73 @@
+{
+ "path": "item/birch_chest_boat.png",
+ "depicts": "birch wood boat carrying a wooden chest item (birch hull and chest)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    69,
+    46
+   ],
+   "share": 0.236,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    219,
+    207,
+    146
+   ],
+   "share": 0.19,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    50,
+    40,
+    22
+   ],
+   "share": 0.178,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    155,
+    109,
+    34
+   ],
+   "share": 0.161,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    185,
+    169,
+    112
+   ],
+   "share": 0.132,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    129,
+    112,
+    79
+   ],
+   "share": 0.103,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  }
+ ]
+}

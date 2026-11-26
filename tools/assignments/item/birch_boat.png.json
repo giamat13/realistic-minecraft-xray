@@ -1,0 +1,73 @@
+{
+ "path": "item/birch_boat.png",
+ "depicts": "birch wood boat item (pale birch hull planks)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    219,
+    207,
+    146
+   ],
+   "share": 0.23,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    165,
+    150,
+    99
+   ],
+   "share": 0.2,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    129,
+    112,
+    79
+   ],
+   "share": 0.2,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    91,
+    80,
+    56
+   ],
+   "share": 0.182,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    200,
+    183,
+    122
+   ],
+   "share": 0.127,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    70,
+    51,
+    43
+   ],
+   "share": 0.061,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  }
+ ]
+}

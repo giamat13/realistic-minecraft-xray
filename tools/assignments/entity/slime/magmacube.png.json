@@ -1,0 +1,73 @@
+{
+ "path": "entity/slime/magmacube.png",
+ "depicts": "magma cube mob: dark slime-jelly body (slime 10 cm) with glowing molten magma cores (lava 2 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    2,
+    0
+   ],
+   "share": 0.549,
+   "material": "slime",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    20,
+    0,
+    0
+   ],
+   "share": 0.376,
+   "material": "slime",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    210,
+    80,
+    13
+   ],
+   "share": 0.039,
+   "material": "lava",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    120,
+    33
+   ],
+   "share": 0.028,
+   "material": "lava",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    170,
+    67
+   ],
+   "share": 0.007,
+   "material": "lava",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    250,
+    235,
+    114
+   ],
+   "share": 0.001,
+   "material": "lava",
+   "thickness_cm": 2.0
+  }
+ ]
+}

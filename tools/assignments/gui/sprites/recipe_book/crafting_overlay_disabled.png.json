@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/recipe_book/crafting_overlay_disabled.png",
+ "depicts": "recipe-book crafting-grid overlay panel, disabled (24x24): reddish-grey plastic panel with black/white bevel and slot dividers (abstract UI panel)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    147,
+    107,
+    107
+   ],
+   "share": 0.571,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.149,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.135,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.073,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.073,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

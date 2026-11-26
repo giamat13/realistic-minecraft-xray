@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/hud/heart/container_hardcore_blinking.png",
+ "depicts": "9x9 empty hardcore heart container outline, blink frame with white edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    40,
+    40,
+    40
+   ],
+   "share": 0.63,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.37,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

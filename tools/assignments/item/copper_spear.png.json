@@ -1,0 +1,73 @@
+{
+ "path": "item/copper_spear.png",
+ "depicts": "copper-tipped spear: wooden shaft with copper spear head",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    48,
+    24
+   ],
+   "share": 0.284,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    28,
+    13
+   ],
+   "share": 0.257,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    150,
+    87,
+    43
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    243,
+    144,
+    118
+   ],
+   "share": 0.108,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    197,
+    97,
+    62
+   ],
+   "share": 0.095,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    212,
+    203
+   ],
+   "share": 0.081,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

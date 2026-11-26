@@ -1,0 +1,73 @@
+{
+ "path": "item/beetroot.png",
+ "depicts": "beetroot vegetable item (dark red root with leafy top)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    26,
+    19
+   ],
+   "share": 0.464,
+   "material": "vegetable",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    39,
+    44
+   ],
+   "share": 0.188,
+   "material": "vegetable",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    182,
+    72,
+    76
+   ],
+   "share": 0.174,
+   "material": "vegetable",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    143,
+    45,
+    47
+   ],
+   "share": 0.13,
+   "material": "vegetable",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    192,
+    114,
+    121
+   ],
+   "share": 0.029,
+   "material": "vegetable",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    221,
+    181,
+    183
+   ],
+   "share": 0.014,
+   "material": "vegetable",
+   "thickness_cm": 6.0
+  }
+ ]
+}

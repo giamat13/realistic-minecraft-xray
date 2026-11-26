@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/statistics/item_picked_up.png",
+ "depicts": "statistics item-picked-up icon: wooden chest with gold clasp",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    87,
+    23
+   ],
+   "share": 0.365,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    38,
+    5
+   ],
+   "share": 0.27,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    88,
+    62,
+    14
+   ],
+   "share": 0.216,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    24,
+    14,
+    0
+   ],
+   "share": 0.135,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    203,
+    146,
+    3
+   ],
+   "share": 0.007,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    188,
+    132,
+    2
+   ],
+   "share": 0.007,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

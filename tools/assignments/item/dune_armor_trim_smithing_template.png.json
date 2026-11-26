@@ -1,0 +1,73 @@
+{
+ "path": "item/dune_armor_trim_smithing_template.png",
+ "depicts": "smithing template card with a sand-coloured dune emblem and teal outline",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    221,
+    209,
+    165
+   ],
+   "share": 0.345,
+   "material": "paper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    182,
+    157,
+    97
+   ],
+   "share": 0.315,
+   "material": "sandstone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    111,
+    55
+   ],
+   "share": 0.139,
+   "material": "sandstone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    60,
+    184,
+    195
+   ],
+   "share": 0.085,
+   "material": "diamond",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    145,
+    250,
+    250
+   ],
+   "share": 0.067,
+   "material": "diamond",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    237,
+    206
+   ],
+   "share": 0.048,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

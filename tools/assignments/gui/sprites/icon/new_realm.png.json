@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/icon/new_realm.png",
+ "depicts": "new realm icon: green grassy-block glyph with blue water sparkles and yellow highlights (abstract GUI icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    177,
+    37
+   ],
+   "share": 0.274,
+   "material": "grass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    222,
+    193,
+    86
+   ],
+   "share": 0.254,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    59,
+    171
+   ],
+   "share": 0.242,
+   "material": "water",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    70,
+    94,
+    202
+   ],
+   "share": 0.115,
+   "material": "water",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    212,
+    218,
+    252
+   ],
+   "share": 0.063,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    221,
+    96
+   ],
+   "share": 0.052,
+   "material": "grass",
+   "thickness_cm": 0.5
+  }
+ ]
+}

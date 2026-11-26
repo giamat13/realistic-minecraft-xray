@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/world_list/warning_highlighted.png",
+ "depicts": "world-list warning icon hover (32x32): orange exclamation glyph with dark brown outline, abstract UI icon",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    60,
+    39,
+    0
+   ],
+   "share": 0.758,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    170,
+    0
+   ],
+   "share": 0.182,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    252,
+    255,
+    255
+   ],
+   "share": 0.03,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    71,
+    0
+   ],
+   "share": 0.03,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

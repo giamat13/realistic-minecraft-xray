@@ -1,0 +1,73 @@
+{
+ "path": "item/flower_pot.png",
+ "depicts": "flower pot item: fired terracotta clay pot",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    34,
+    25
+   ],
+   "share": 0.31,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    51,
+    37
+   ],
+   "share": 0.167,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    66,
+    49
+   ],
+   "share": 0.167,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    156,
+    104,
+    87
+   ],
+   "share": 0.131,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    56,
+    24,
+    18
+   ],
+   "share": 0.119,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    138,
+    81,
+    67
+   ],
+   "share": 0.107,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

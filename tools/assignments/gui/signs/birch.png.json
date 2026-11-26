@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/birch.png",
+ "depicts": "birch standing-sign texture: pale birch board with grain lines and birch-bark post",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    200,
+    183,
+    123
+   ],
+   "share": 0.661,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    167,
+    151,
+    107
+   ],
+   "share": 0.25,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    218,
+    215,
+    208
+   ],
+   "share": 0.038,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    240,
+    238,
+    235
+   ],
+   "share": 0.032,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.016,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    190,
+    174
+   ],
+   "share": 0.003,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  }
+ ]
+}

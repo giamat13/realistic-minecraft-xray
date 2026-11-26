@@ -1,0 +1,73 @@
+{
+ "path": "environment/celestial/moon/new_moon.png",
+ "depicts": "new moon phase sprite: dark space sky around the unlit basalt lunar disc",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    1,
+    2
+   ],
+   "share": 0.488,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    4,
+    6,
+    11
+   ],
+   "share": 0.188,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    8,
+    11,
+    20
+   ],
+   "share": 0.129,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    11,
+    17,
+    29
+   ],
+   "share": 0.113,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    15,
+    21,
+    37
+   ],
+   "share": 0.055,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    43,
+    47,
+    56
+   ],
+   "share": 0.027,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/spectator/teleport_to_team.png",
+ "depicts": "spectator teleport-to-team icon, beige panel with dark outline and blue/green/red team colour bands",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    124,
+    102
+   ],
+   "share": 0.393,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    50,
+    47,
+    41
+   ],
+   "share": 0.283,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    170
+   ],
+   "share": 0.208,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    170,
+    0
+   ],
+   "share": 0.069,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    170,
+    0,
+    0
+   ],
+   "share": 0.029,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    240,
+    247,
+    244
+   ],
+   "share": 0.017,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

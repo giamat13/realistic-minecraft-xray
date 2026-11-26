@@ -1,0 +1,73 @@
+{
+ "path": "gui/title/minceraft.png",
+ "depicts": "title-screen Minecraft-style title logo (1024x256): pale grey bevelled lettering on dark background, text glyphs",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    1,
+    0,
+    0
+   ],
+   "share": 0.361,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    181,
+    170,
+    166
+   ],
+   "share": 0.241,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    201,
+    190,
+    186
+   ],
+   "share": 0.204,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    51,
+    50
+   ],
+   "share": 0.153,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    149,
+    140,
+    137
+   ],
+   "share": 0.023,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    106,
+    100,
+    97
+   ],
+   "share": 0.019,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

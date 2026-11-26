@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/hud/heart/absorbing_hardcore_half.png",
+ "depicts": "9x9 golden absorption heart (hardcore half) icon with pale gold highlights",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    212,
+    175,
+    55
+   ],
+   "share": 0.6,
+   "material": "gold",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    212,
+    162,
+    0
+   ],
+   "share": 0.2,
+   "material": "gold",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    190,
+    174,
+    119
+   ],
+   "share": 0.1,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    208,
+    191,
+    137
+   ],
+   "share": 0.05,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    183,
+    128
+   ],
+   "share": 0.05,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

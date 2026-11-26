@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/recipe_book/filter_disabled_highlighted.png",
+ "depicts": "recipe-book filter toggle icon, disabled and highlighted (26x16): brick-red and tan wood glyph on blue-grey plate with black outline (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    148,
+    202
+   ],
+   "share": 0.524,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    65,
+    63
+   ],
+   "share": 0.216,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    175,
+    67,
+    45
+   ],
+   "share": 0.079,
+   "material": "brick",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    165,
+    125,
+    74
+   ],
+   "share": 0.07,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.06,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.05,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

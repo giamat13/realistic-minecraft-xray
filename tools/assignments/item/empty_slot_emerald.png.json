@@ -1,0 +1,18 @@
+{
+ "path": "item/empty_slot_emerald.png",
+ "depicts": "GUI empty slot placeholder outline of an emerald gem",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "emerald",
+   "thickness_cm": 0.1
+  }
+ ]
+}

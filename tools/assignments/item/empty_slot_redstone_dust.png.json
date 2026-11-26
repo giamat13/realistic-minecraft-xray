@@ -1,0 +1,18 @@
+{
+ "path": "item/empty_slot_redstone_dust.png",
+ "depicts": "GUI empty slot placeholder outline of a redstone dust pile",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "redstone_dust",
+   "thickness_cm": 0.1
+  }
+ ]
+}

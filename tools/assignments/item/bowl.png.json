@@ -1,0 +1,73 @@
+{
+ "path": "item/bowl.png",
+ "depicts": "wooden bowl seen from the front (rim, interior, wall)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    61,
+    41,
+    9
+   ],
+   "share": 0.311,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    57,
+    9
+   ],
+   "share": 0.189,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    113,
+    79,
+    15
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    31,
+    21,
+    2
+   ],
+   "share": 0.162,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    67,
+    48,
+    11
+   ],
+   "share": 0.149,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    48,
+    33,
+    9
+   ],
+   "share": 0.014,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  }
+ ]
+}

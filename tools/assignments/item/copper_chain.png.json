@@ -1,0 +1,40 @@
+{
+ "path": "item/copper_chain.png",
+ "depicts": "copper chain armour item, small linked copper rings",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    92,
+    66
+   ],
+   "share": 0.586,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    65,
+    43
+   ],
+   "share": 0.414,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    154,
+    81,
+    56
+   ],
+   "share": 0.0,
+   "material": "copper",
+   "thickness_cm": 0.2
+  }
+ ]
+}

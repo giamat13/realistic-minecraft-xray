@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/statistics/item_crafted.png",
+ "depicts": "statistics item-crafted icon: anvil-like iron/wood workstation silhouette (grey-brown body, brown wooden top)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    99,
+    93
+   ],
+   "share": 0.446,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    55,
+    53
+   ],
+   "share": 0.272,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    59,
+    24,
+    0
+   ],
+   "share": 0.098,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    248,
+    246,
+    244
+   ],
+   "share": 0.087,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    93,
+    7
+   ],
+   "share": 0.054,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    211,
+    209,
+    203
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

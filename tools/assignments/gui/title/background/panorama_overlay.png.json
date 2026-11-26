@@ -1,0 +1,6 @@
+{
+ "path": "gui/title/background/panorama_overlay.png",
+ "depicts": "fully transparent 1x1 title-screen panorama overlay: no visible pixels, nothing to attenuate",
+ "kind": "gui",
+ "clusters": []
+}

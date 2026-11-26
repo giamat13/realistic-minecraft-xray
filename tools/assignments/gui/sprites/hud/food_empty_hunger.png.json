@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/hud/food_empty_hunger.png",
+ "depicts": "9x9 empty drumstick hunger icon in green (rotten hunger effect) outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    18,
+    65,
+    11
+   ],
+   "share": 0.512,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    40,
+    40
+   ],
+   "share": 0.488,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  }
+ ]
+}

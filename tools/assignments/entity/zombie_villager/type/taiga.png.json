@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/type/taiga.png",
+ "depicts": "adult zombie villager biome overlay, taiga type: dark brown and black robe cloth, pale olive skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    44,
+    37
+   ],
+   "share": 0.342,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    94,
+    75,
+    59
+   ],
+   "share": 0.242,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    23,
+    23,
+    23
+   ],
+   "share": 0.165,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    142,
+    111
+   ],
+   "share": 0.112,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    181,
+    174,
+    133
+   ],
+   "share": 0.075,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    209,
+    197,
+    164
+   ],
+   "share": 0.064,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/book.png",
+ "depicts": "closed book: leather cover edges with paper page block and spine",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    68,
+    21
+   ],
+   "share": 0.428,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    48,
+    30,
+    6
+   ],
+   "share": 0.401,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    183,
+    183,
+    183
+   ],
+   "share": 0.079,
+   "material": "paper",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    153,
+    153
+   ],
+   "share": 0.059,
+   "material": "paper",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.026,
+   "material": "paper",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    91,
+    91
+   ],
+   "share": 0.007,
+   "material": "paper",
+   "thickness_cm": 1.0
+  }
+ ]
+}

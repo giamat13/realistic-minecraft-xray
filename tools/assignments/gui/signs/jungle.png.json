@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/jungle.png",
+ "depicts": "jungle standing-sign texture: tan jungle board with darker grain and post",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    159,
+    113,
+    75
+   ],
+   "share": 0.608,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    184,
+    135,
+    100
+   ],
+   "share": 0.304,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    86,
+    69,
+    25
+   ],
+   "share": 0.041,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    52,
+    18
+   ],
+   "share": 0.019,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    102,
+    81,
+    32
+   ],
+   "share": 0.019,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    125,
+    93,
+    38
+   ],
+   "share": 0.009,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  }
+ ]
+}

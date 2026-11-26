@@ -1,0 +1,18 @@
+{
+ "path": "item/empty_slot_lapis_lazuli.png",
+ "depicts": "GUI empty slot placeholder outline of a lapis lazuli gem",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "lapis_lazuli",
+   "thickness_cm": 0.1
+  }
+ ]
+}

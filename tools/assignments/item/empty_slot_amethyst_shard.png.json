@@ -1,0 +1,18 @@
+{
+ "path": "item/empty_slot_amethyst_shard.png",
+ "depicts": "GUI empty slot placeholder outline of an amethyst shard",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  }
+ ]
+}

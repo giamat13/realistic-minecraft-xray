@@ -1,0 +1,73 @@
+{
+ "path": "item/blue_bundle_open_front.png",
+ "depicts": "open blue bundle, front view (dyed fabric pouch with leather strap)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    61,
+    136
+   ],
+   "share": 0.387,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    101,
+    194
+   ],
+   "share": 0.294,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    77,
+    165
+   ],
+   "share": 0.118,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    135,
+    220
+   ],
+   "share": 0.101,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    86,
+    52
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

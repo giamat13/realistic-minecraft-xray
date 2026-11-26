@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/hud/food_empty.png",
+ "depicts": "9x9 empty drumstick hunger icon: unfilled grey meat outline with black edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.512,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    40,
+    40
+   ],
+   "share": 0.488,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  }
+ ]
+}

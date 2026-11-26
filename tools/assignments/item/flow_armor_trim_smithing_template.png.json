@@ -1,0 +1,73 @@
+{
+ "path": "item/flow_armor_trim_smithing_template.png",
+ "depicts": "flow armor trim smithing template: thin plastic-card plate with a cyan diamond-style trim gem pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    161,
+    150,
+    207
+   ],
+   "share": 0.321,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    121,
+    180
+   ],
+   "share": 0.303,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    62,
+    84,
+    121
+   ],
+   "share": 0.242,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    95,
+    223,
+    223
+   ],
+   "share": 0.073,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    131,
+    248,
+    248
+   ],
+   "share": 0.042,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    55,
+    180,
+    194
+   ],
+   "share": 0.018,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  }
+ ]
+}

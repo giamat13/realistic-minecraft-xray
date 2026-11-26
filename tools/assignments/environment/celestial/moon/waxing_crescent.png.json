@@ -1,0 +1,73 @@
+{
+ "path": "environment/celestial/moon/waxing_crescent.png",
+ "depicts": "moon waxing-crescent phase sprite: dark space sky around a thin lit basalt lunar crescent",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    1,
+    1,
+    3
+   ],
+   "share": 0.551,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    6,
+    9,
+    16
+   ],
+   "share": 0.254,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    12,
+    18,
+    32
+   ],
+   "share": 0.174,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    95,
+    103,
+    122
+   ],
+   "share": 0.011,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    43,
+    47,
+    56
+   ],
+   "share": 0.008,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    80,
+    86,
+    102
+   ],
+   "share": 0.003,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  }
+ ]
+}

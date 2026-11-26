@@ -1,0 +1,73 @@
+{
+ "path": "gui/slider.png",
+ "depicts": "256px slider widget GUI sprite: dark grey track panel with light-grey knob, white and black bevel outlines (abstract UI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    44,
+    44
+   ],
+   "share": 0.446,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    114,
+    114,
+    114
+   ],
+   "share": 0.367,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.054,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.054,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    89,
+    89,
+    89
+   ],
+   "share": 0.052,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    172,
+    172,
+    172
+   ],
+   "share": 0.026,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

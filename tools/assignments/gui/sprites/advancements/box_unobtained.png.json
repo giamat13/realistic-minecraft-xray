@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/advancements/box_unobtained.png",
+ "depicts": "advancement box frame, unobtained state: blue glazed bevelled bar with black outline (abstract UI frame)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    3,
+    106,
+    150
+   ],
+   "share": 0.786,
+   "material": "ceramic_glaze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.107,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    1,
+    46,
+    64
+   ],
+   "share": 0.053,
+   "material": "ceramic_glaze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    4,
+    137,
+    193
+   ],
+   "share": 0.053,
+   "material": "ceramic_glaze",
+   "thickness_cm": 0.1
+  }
+ ]
+}

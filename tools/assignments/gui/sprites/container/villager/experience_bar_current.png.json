@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/container/villager/experience_bar_current.png",
+ "depicts": "102x5 villager experience-bar fill: glowing green experience fill over dark track (XP orb glow, closest analogue phosphor)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    14,
+    17,
+    16
+   ],
+   "share": 0.407,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    105,
+    152,
+    67
+   ],
+   "share": 0.2,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    238,
+    122
+   ],
+   "share": 0.196,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    148,
+    206,
+    101
+   ],
+   "share": 0.192,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    132,
+    186,
+    88
+   ],
+   "share": 0.004,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    137,
+    61
+   ],
+   "share": 0.002,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  }
+ ]
+}

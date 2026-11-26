@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/toast/mouse.png",
+ "depicts": "tutorial toast mouse icon, grey plastic computer mouse with pvc lead",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.421,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.231,
+   "material": "plastic",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.198,
+   "material": "plastic",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.124,
+   "material": "plastic",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    199,
+    199
+   ],
+   "share": 0.017,
+   "material": "pvc",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    142,
+    142,
+    142
+   ],
+   "share": 0.008,
+   "material": "pvc",
+   "thickness_cm": 0.2
+  }
+ ]
+}

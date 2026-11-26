@@ -1,0 +1,73 @@
+{
+ "path": "environment/celestial/moon/full_moon.png",
+ "depicts": "full moon phase sprite: dark space sky around a basalt lunar surface disc",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    4,
+    6,
+    10
+   ],
+   "share": 0.938,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    99,
+    117
+   ],
+   "share": 0.023,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    228,
+    255
+   ],
+   "share": 0.018,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    175,
+    184,
+    204
+   ],
+   "share": 0.012,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    144,
+    151,
+    165
+   ],
+   "share": 0.006,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    116,
+    125,
+    147
+   ],
+   "share": 0.004,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  }
+ ]
+}

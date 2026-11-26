@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/heart/frozen_half.png",
+ "depicts": "9x9 frozen (ice-coated) heart icon, half state: cyan ice with frost highlights",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    186,
+    216
+   ],
+   "share": 0.333,
+   "material": "ice",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    128,
+    229,
+    239
+   ],
+   "share": 0.238,
+   "material": "ice",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    247,
+    255
+   ],
+   "share": 0.143,
+   "material": "ice",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    1,
+    190,
+    242
+   ],
+   "share": 0.143,
+   "material": "ice",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    225,
+    252,
+    255
+   ],
+   "share": 0.095,
+   "material": "snow_packed",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    106,
+    204,
+    230
+   ],
+   "share": 0.048,
+   "material": "ice",
+   "thickness_cm": 0.3
+  }
+ ]
+}

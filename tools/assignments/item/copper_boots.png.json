@@ -1,0 +1,73 @@
+{
+ "path": "item/copper_boots.png",
+ "depicts": "copper armour boots, polished copper plate with darker shading",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    28,
+    17
+   ],
+   "share": 0.295,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    95,
+    44,
+    28
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    214,
+    109,
+    72
+   ],
+   "share": 0.193,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    72,
+    45
+   ],
+   "share": 0.17,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    153,
+    130
+   ],
+   "share": 0.068,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    212,
+    203
+   ],
+   "share": 0.023,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

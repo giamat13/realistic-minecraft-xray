@@ -1,0 +1,73 @@
+{
+ "path": "item/birch_sign.png",
+ "depicts": "birch standing sign item (birch board with carved text and post)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    202,
+    186,
+    128
+   ],
+   "share": 0.477,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    46,
+    34,
+    13
+   ],
+   "share": 0.197,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    159,
+    116
+   ],
+   "share": 0.152,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    106,
+    71
+   ],
+   "share": 0.121,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    247,
+    248,
+    245
+   ],
+   "share": 0.045,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    222,
+    211,
+    213
+   ],
+   "share": 0.008,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  }
+ ]
+}

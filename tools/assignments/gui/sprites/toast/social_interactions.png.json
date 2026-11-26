@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/toast/social_interactions.png",
+ "depicts": "social interactions toast icon: a white/cyan speech bubble with blue text lines and grey tail",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.418,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    195,
+    241,
+    244
+   ],
+   "share": 0.306,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    132,
+    188,
+    211
+   ],
+   "share": 0.097,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    166,
+    159,
+    159
+   ],
+   "share": 0.09,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    152,
+    208,
+    231
+   ],
+   "share": 0.09,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/blaze_spawn_egg.png",
+ "depicts": "blaze spawn egg item (egg-shaped shell with orange and yellow patches)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    2,
+    1
+   ],
+   "share": 0.239,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    221,
+    52
+   ],
+   "share": 0.201,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    180,
+    97,
+    5
+   ],
+   "share": 0.179,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    55,
+    1
+   ],
+   "share": 0.164,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    242,
+    154,
+    31
+   ],
+   "share": 0.149,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    252,
+    106
+   ],
+   "share": 0.067,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

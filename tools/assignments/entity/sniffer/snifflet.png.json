@@ -1,0 +1,73 @@
+{
+ "path": "entity/sniffer/snifflet.png",
+ "depicts": "baby sniffer mob (same palette): soft_tissue body 20 cm, plant sprouts plant_tissue 3 cm, keratin legs 2 cm and beak 1 cm",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    18,
+    15
+   ],
+   "share": 0.626,
+   "material": "soft_tissue",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    54,
+    112,
+    56
+   ],
+   "share": 0.141,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    42,
+    50
+   ],
+   "share": 0.091,
+   "material": "keratin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    211,
+    133,
+    31
+   ],
+   "share": 0.057,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    157,
+    77
+   ],
+   "share": 0.045,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    250,
+    211,
+    69
+   ],
+   "share": 0.038,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  }
+ ]
+}

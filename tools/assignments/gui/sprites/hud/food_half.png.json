@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/food_half.png",
+ "depicts": "9x9 half-eaten cooked drumstick food icon: red meat, brown crust, charred edge, bone tip, fat",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    189,
+    30,
+    30
+   ],
+   "share": 0.429,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    170,
+    120,
+    78
+   ],
+   "share": 0.143,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    70,
+    36
+   ],
+   "share": 0.143,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    229,
+    204,
+    167
+   ],
+   "share": 0.143,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    247,
+    220
+   ],
+   "share": 0.071,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    215,
+    151,
+    122
+   ],
+   "share": 0.071,
+   "material": "fat",
+   "thickness_cm": 0.3
+  }
+ ]
+}

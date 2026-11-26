@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/container/villager/scroller.png",
+ "depicts": "6x27 villager trade-list scroll-bar handle: light grey panel with dark grip lines and white highlight edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.469,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.185,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.185,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.16,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

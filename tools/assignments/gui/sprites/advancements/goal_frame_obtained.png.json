@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/advancements/goal_frame_obtained.png",
+ "depicts": "goal advancement frame, obtained: gold-plated round frame with black outline and bronze shading",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    126,
+    15
+   ],
+   "share": 0.713,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.147,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    219,
+    162,
+    19
+   ],
+   "share": 0.07,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    54,
+    6
+   ],
+   "share": 0.07,
+   "material": "bronze",
+   "thickness_cm": 0.1
+  }
+ ]
+}

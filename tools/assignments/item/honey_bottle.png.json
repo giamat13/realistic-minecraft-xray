@@ -1,0 +1,73 @@
+{
+ "path": "item/honey_bottle.png",
+ "depicts": "glass bottle full of honey",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    233,
+    126,
+    27
+   ],
+   "share": 0.308,
+   "material": "honey",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    100,
+    148,
+    196
+   ],
+   "share": 0.244,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    191,
+    215,
+    240
+   ],
+   "share": 0.179,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    177,
+    84,
+    30
+   ],
+   "share": 0.128,
+   "material": "honey",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    211,
+    45
+   ],
+   "share": 0.103,
+   "material": "honey",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    204,
+    175,
+    165
+   ],
+   "share": 0.038,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

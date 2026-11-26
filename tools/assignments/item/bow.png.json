@@ -1,0 +1,73 @@
+{
+ "path": "item/bow.png",
+ "depicts": "wooden longbow with string and leather grip",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    61,
+    24
+   ],
+   "share": 0.4,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.229,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    68,
+    68,
+    68
+   ],
+   "share": 0.143,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.114,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    107,
+    107
+   ],
+   "share": 0.086,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.029,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

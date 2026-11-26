@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/statistics/sort_down.png",
+ "depicts": "statistics sort-descending arrow icon, grey bevelled plastic triangle with dark outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.468,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.277,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.17,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.085,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

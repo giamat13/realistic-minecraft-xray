@@ -1,0 +1,73 @@
+{
+ "path": "item/birch_door.png",
+ "depicts": "birch wooden door item (pale birch panels with iron-coloured hinge detail)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    202,
+    140
+   ],
+   "share": 0.429,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.214,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    248,
+    244,
+    225
+   ],
+   "share": 0.171,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    144,
+    100
+   ],
+   "share": 0.143,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    91,
+    62,
+    31
+   ],
+   "share": 0.036,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    212,
+    202,
+    153
+   ],
+   "share": 0.007,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "item/black_bundle_open_back.png",
+ "depicts": "open black bundle, back view (dyed fabric pouch interior)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    17,
+    16,
+    22
+   ],
+   "share": 0.38,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    26,
+    24,
+    39
+   ],
+   "share": 0.225,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    33,
+    32,
+    53
+   ],
+   "share": 0.169,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    42,
+    41,
+    68
+   ],
+   "share": 0.141,
+   "material": "textile",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    56,
+    54,
+    79
+   ],
+   "share": 0.085,
+   "material": "textile",
+   "thickness_cm": 0.4
+  }
+ ]
+}

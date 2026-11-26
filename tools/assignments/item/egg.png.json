@@ -1,0 +1,73 @@
+{
+ "path": "item/egg.png",
+ "depicts": "raw chicken egg item: cream albumen and yolk inside a thin calcite shell",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    223,
+    206,
+    155
+   ],
+   "share": 0.356,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    179,
+    165,
+    125
+   ],
+   "share": 0.233,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    78,
+    59
+   ],
+   "share": 0.156,
+   "material": "calcite",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    107,
+    81
+   ],
+   "share": 0.156,
+   "material": "calcite",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 4,
+   "rgb": [
+    142,
+    130,
+    91
+   ],
+   "share": 0.056,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    240,
+    230,
+    198
+   ],
+   "share": 0.044,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

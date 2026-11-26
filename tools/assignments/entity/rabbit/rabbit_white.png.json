@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_white.png",
+ "depicts": "white rabbit model texture (fur over skin): white fur body, pink ears, small red eye markings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    247,
+    247
+   ],
+   "share": 0.552,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    226,
+    219,
+    219
+   ],
+   "share": 0.438,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    245,
+    169,
+    178
+   ],
+   "share": 0.004,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    29,
+    40
+   ],
+   "share": 0.002,
+   "material": "blood",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    224,
+    83,
+    76
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    251,
+    198,
+    204
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/hud/effect_background_ambient.png",
+ "depicts": "24x24 dark status-effect panel with teal ambient-beacon frame",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    33,
+    33
+   ],
+   "share": 0.702,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    84,
+    84
+   ],
+   "share": 0.149,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    168,
+    168
+   ],
+   "share": 0.149,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

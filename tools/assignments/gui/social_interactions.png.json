@@ -1,0 +1,73 @@
+{
+ "path": "gui/social_interactions.png",
+ "depicts": "social-interactions GUI icon sheet: dark UI panel, light grey person/ bar shapes, white highlight, red and blue paint accents",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.505,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    196,
+    196
+   ],
+   "share": 0.23,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    248,
+    253,
+    254
+   ],
+   "share": 0.132,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    96,
+    96,
+    96
+   ],
+   "share": 0.123,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    170,
+    54,
+    35
+   ],
+   "share": 0.006,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    38,
+    142,
+    172
+   ],
+   "share": 0.003,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

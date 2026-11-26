@@ -1,0 +1,73 @@
+{
+ "path": "entity/snow_golem.png",
+ "depicts": "snow golem mob: packed snow body (snow_packed 30 cm), wooden stick arms (wood_oak 5 cm), black eye/mouth (ink 0.3 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    244,
+    253,
+    253
+   ],
+   "share": 0.93,
+   "material": "snow_packed",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.03,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    104,
+    78,
+    30
+   ],
+   "share": 0.024,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    68,
+    68
+   ],
+   "share": 0.008,
+   "material": "snow_packed",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.006,
+   "material": "ink",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    145,
+    145,
+    145
+   ],
+   "share": 0.003,
+   "material": "snow_packed",
+   "thickness_cm": 30.0
+  }
+ ]
+}

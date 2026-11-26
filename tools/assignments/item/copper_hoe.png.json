@@ -1,0 +1,73 @@
+{
+ "path": "item/copper_hoe.png",
+ "depicts": "copper hoe: wooden handle with copper head",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    87,
+    57,
+    25
+   ],
+   "share": 0.412,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    48,
+    29,
+    13
+   ],
+   "share": 0.314,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.098,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    109,
+    72
+   ],
+   "share": 0.078,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    227,
+    130,
+    108
+   ],
+   "share": 0.078,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    252,
+    153,
+    130
+   ],
+   "share": 0.02,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

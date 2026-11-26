@@ -1,0 +1,40 @@
+{
+ "path": "item/barrier.png",
+ "depicts": "barrier item icon (red circle with slash marking an invisible block)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    0,
+    0
+   ],
+   "share": 0.678,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    182,
+    0,
+    0
+   ],
+   "share": 0.322,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    0,
+    0
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "item/honeycomb.png",
+ "depicts": "honeycomb piece: wax cells, some filled with honey",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    234,
+    142,
+    22
+   ],
+   "share": 0.275,
+   "material": "wax",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    107,
+    43
+   ],
+   "share": 0.254,
+   "material": "wax",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    222,
+    41
+   ],
+   "share": 0.174,
+   "material": "honey",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    250,
+    191,
+    41
+   ],
+   "share": 0.174,
+   "material": "honey",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    229,
+    123,
+    36
+   ],
+   "share": 0.123,
+   "material": "wax",
+   "thickness_cm": 1.0
+  }
+ ]
+}

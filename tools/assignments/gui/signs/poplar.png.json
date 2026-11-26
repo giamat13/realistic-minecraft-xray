@@ -1,0 +1,73 @@
+{
+ "path": "gui/signs/poplar.png",
+ "depicts": "poplar standing-sign texture: grey-beige poplar board with grain and darker post (wood, 12.5 cm)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    168,
+    158,
+    142
+   ],
+   "share": 0.304,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    142,
+    130,
+    121
+   ],
+   "share": 0.253,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    106,
+    104
+   ],
+   "share": 0.184,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    156,
+    144,
+    134
+   ],
+   "share": 0.171,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    83,
+    63,
+    44
+   ],
+   "share": 0.07,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    67,
+    50,
+    38
+   ],
+   "share": 0.019,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  }
+ ]
+}
