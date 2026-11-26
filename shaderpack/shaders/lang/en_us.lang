@@ -1,0 +1,4 @@
+option.WINDOW_LOW=Faintest visible
+option.WINDOW_HIGH=Full white
+option.DUAL_ENERGY=Separate creatures (dual energy)
+option.RANGE=Range (blocks)
