@@ -46,4 +46,12 @@ def mats(n): return [(c["material"], c["thickness_cm"]) for c in json.load(open(
 cols = ["white", "red", "blue", "green", "black"]
 ms = [sorted(set(mats(f"{c}_wool"))) for c in cols]
 check("wool colours share materials", all(m == ms[0] for m in ms))
+import zipfile
+with zipfile.ZipFile(texsrc.JAR) as z:
+    mm = [n for n in z.namelist() if n.startswith("assets/minecraft/models/block/") and n.endswith(".json") and json.loads(z.read(n)).get("textures")]
+check("every 26.3 block model with textures exists in overlay_26_1", all(pathlib.Path("overlay_26_1", n).exists() for n in mm), f"{len(mm)} models")
+left = sum(1 for f in pathlib.Path("overlay_26_1").rglob("*.json") for v in json.loads(f.read_text())["textures"].values()
+           if (isinstance(v, str) and not v.startswith("#")) or (isinstance(v, dict) and not v.get("force_translucent")))
+check("no non-translucent sprite left in overlay", left == 0)
+check("pack.mcmeta valid", "pack" in json.load(open("pack.mcmeta")))
 sys.exit(0 if ok else 1)

@@ -1,7 +1,5 @@
 """Backport support for Minecraft 1.19.4 .. 1.21.11.
 
-1. Textures that exist only in older versions are converted with the same
-   X-ray rules (newest version wins when a path exists in several).
 2. Before 26.1 a resource pack cannot make a block translucent, so light
    cube-shaped blocks (rock, earth, wood, leaves, glass, ...) get an EMPTY
    model (classic x-ray) and dense ones (ores, metals) stay solid.
@@ -11,38 +9,13 @@ import io, json, os, sys, pathlib
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
 from PIL import Image
-import generate_textures as gt
+TEX = pathlib.Path("assets/minecraft/textures")
 
 V = pathlib.Path("/tmp/mc/v")
 def key(s): return [int(x) if x.isdigit() else x for x in s.replace("-", ".").split(".")]
 legacy = sorted((p.name for p in V.iterdir() if p.is_dir() and (p / "DONE").exists()
                  and key(p.name) < [26]), key=key, reverse=True)
 print("legacy versions:", legacy)
-
-# 1. textures
-import zipfile
-with zipfile.ZipFile('/tmp/mc/client.jar') as _z:
-    cur = {n[len('assets/minecraft/textures/'):] for n in _z.namelist() if n.startswith('assets/minecraft/textures/')}
-seen = set()
-new_png = new_meta = 0
-for ver in legacy:
-    root = V / ver / "assets/minecraft/textures"
-    for f in sorted(root.rglob("*")):
-        rel = f.relative_to(root).as_posix()
-        dst = pathlib.Path(gt.OUT_ROOT) / rel
-        if rel in cur or rel in seen or f.is_dir():
-            continue
-        seen.add(rel)
-        if f.name.endswith(".png"):
-            arr = np.asarray(Image.open(f).convert("RGBA"))
-            dst.parent.mkdir(parents=True, exist_ok=True)
-            Image.fromarray(gt.process(rel, arr)).save(dst)
-            new_png += 1
-        elif f.name.endswith(".png.mcmeta"):
-            dst.parent.mkdir(parents=True, exist_ok=True)
-            dst.write_bytes(f.read_bytes())
-            new_meta += 1
-print("extra legacy textures:", new_png, "mcmeta:", new_meta)
 
 # 2. empty models for light cube blocks
 CUBES = ("cube", "cube_all", "cube_column", "cube_column_horizontal", "cube_bottom_top",
@@ -64,8 +37,10 @@ for ver in legacy:
         parent = m.get("parent", "").replace("minecraft:", "").replace("block/", "")
         tx = tex_of(m)
         if parent not in CUBES or not tx or "elements" in m: continue
-        lo, hi, alpha, ore = gt.classify(tx + ".png")
-        if ore or alpha > 130:
+        p = TEX / (tx + ".png")                      # decide from the PHYSICS-rendered texture, not names
+        if not p.exists(): continue
+        al = np.asarray(Image.open(p).convert("RGBA"))[..., 3].astype(float)
+        if al.mean() > 130 or al.max() > 200:        # dense (metal-bearing / heavy) -> stays solid
             n_keep += 1; continue
         out.mkdir(parents=True, exist_ok=True)
         keep = {k: v for k, v in m.get("textures", {}).items() if k == "particle"}

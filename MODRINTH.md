@@ -18,10 +18,11 @@
 
 Real X-ray: density decides how a block looks.
 
-- Everything is strictly black and white.
+- Everything is strictly black and white, and every texture (blocks, items, GUI, mobs, particles) was assigned real materials per region and run through an X-ray attenuation simulation with real NIST XCOM data.
 - Dense materials (ancient debris, netherite, gold, diamond, iron, ores) are bright and nearly opaque.
 - Medium materials (stone, deepslate, obsidian) are translucent gray.
 - Light materials (dirt, sand, wood, leaves, water, glass) almost vanish.
+- Heavy-metal ores (gold, copper, iron, redstone) stand out; diamond, coal and emerald are nearly invisible against stone, just like in a real radiograph.
 - Mixed textures are split by region: for example the grass strip on a grass block side is see-through while the dirt below is denser. Ores show a faint host rock with bright metal blobs.
 - Covers every block, item, GUI element, mob, particle, sky texture and effect in each supported version.
 
