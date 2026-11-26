@@ -1,0 +1,51 @@
+{
+ "path": "block/pink_bed_foot_up.png",
+ "depicts": "top view of a pink bed foot half, pink wool mattress",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    137,
+    172
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    238,
+    121,
+    156
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    246,
+    153,
+    180
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    101,
+    148
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 56.0
+  }
+ ]
+}

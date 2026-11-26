@@ -1,0 +1,73 @@
+{
+ "path": "entity/bee/bee_nectar_baby.png",
+ "depicts": "baby nectar honey bee mob skin: beige fatty abdomen with cream chitin, dark orange and dark stripes, yellow stripe",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    190,
+    151
+   ],
+   "share": 0.285,
+   "material": "fat",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    252,
+    231,
+    215
+   ],
+   "share": 0.285,
+   "material": "shell_chitin",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 2,
+   "rgb": [
+    163,
+    77,
+    24
+   ],
+   "share": 0.146,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 3,
+   "rgb": [
+    57,
+    38,
+    38
+   ],
+   "share": 0.139,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 4,
+   "rgb": [
+    236,
+    190,
+    80
+   ],
+   "share": 0.131,
+   "material": "fat",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    201,
+    209
+   ],
+   "share": 0.015,
+   "material": "shell_chitin",
+   "thickness_cm": 0.01
+  }
+ ]
+}

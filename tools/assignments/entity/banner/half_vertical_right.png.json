@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/half_vertical_right.png",
+ "depicts": "banner half-vertical-right pattern layer: dyed wool cloth right half band",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.416,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.253,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.153,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.083,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    223,
+    223,
+    223
+   ],
+   "share": 0.069,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    215,
+    215,
+    215
+   ],
+   "share": 0.027,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

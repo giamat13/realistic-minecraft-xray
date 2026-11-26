@@ -1,0 +1,73 @@
+{
+ "path": "entity/armadillo/armadillo.png",
+ "depicts": "armadillo mob (same texture as entity/armadillo.png): pinkish-brown skin with bony shell plates",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    184,
+    122,
+    116
+   ],
+   "share": 0.37,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    143,
+    84,
+    81
+   ],
+   "share": 0.324,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    102,
+    53,
+    54
+   ],
+   "share": 0.247,
+   "material": "bone",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    223,
+    150,
+    131
+   ],
+   "share": 0.056,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    245,
+    218,
+    211
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    32,
+    36,
+    49
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

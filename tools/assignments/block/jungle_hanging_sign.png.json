@@ -1,0 +1,73 @@
+{
+ "path": "block/jungle_hanging_sign.png",
+ "depicts": "jungle hanging sign (32x32): softwood sign board (real board ~2 cm) with dark iron chain links at the top corners",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    126,
+    71
+   ],
+   "share": 0.46,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    177,
+    131,
+    87
+   ],
+   "share": 0.259,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    143,
+    99
+   ],
+   "share": 0.128,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    66,
+    72,
+    89
+   ],
+   "share": 0.093,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.052,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    100,
+    124
+   ],
+   "share": 0.006,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

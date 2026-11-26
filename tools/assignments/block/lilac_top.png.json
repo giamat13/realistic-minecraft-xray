@@ -1,0 +1,73 @@
+{
+ "path": "block/lilac_top.png",
+ "depicts": "lilac upper half: purple flower petal clusters, green leaves and dark green stems, mostly transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    158,
+    97,
+    159
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    155,
+    43
+   ],
+   "share": 0.2,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    211,
+    128,
+    211
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    182,
+    107,
+    178
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    222,
+    147,
+    241
+   ],
+   "share": 0.12,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    23,
+    124,
+    4
+   ],
+   "share": 0.08,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/spawner.png",
+ "depicts": "monster spawner: dark steel cage bars around a dark basalt core with purple glow",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    24,
+    44,
+    57
+   ],
+   "share": 0.312,
+   "material": "steel",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    30,
+    24,
+    39
+   ],
+   "share": 0.239,
+   "material": "basalt",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    36,
+    53
+   ],
+   "share": 0.182,
+   "material": "basalt",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    42,
+    68,
+    85
+   ],
+   "share": 0.159,
+   "material": "steel",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    98,
+    120
+   ],
+   "share": 0.097,
+   "material": "steel",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    110,
+    4,
+    83
+   ],
+   "share": 0.011,
+   "material": "phosphor",
+   "thickness_cm": 2.0
+  }
+ ]
+}

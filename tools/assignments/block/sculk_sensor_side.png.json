@@ -1,0 +1,73 @@
+{
+ "path": "block/sculk_sensor_side.png",
+ "depicts": "sculk sensor side face (half-height sculk block, bottom half filled, top half air)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    13,
+    18,
+    23
+   ],
+   "share": 0.352,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    8,
+    40,
+    48
+   ],
+   "share": 0.312,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    4,
+    68,
+    83
+   ],
+   "share": 0.195,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    17,
+    27,
+    33
+   ],
+   "share": 0.117,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.016,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.008,
+   "material": "phosphor",
+   "thickness_cm": 50.0
+  }
+ ]
+}

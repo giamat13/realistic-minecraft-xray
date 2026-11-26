@@ -1,0 +1,62 @@
+{
+ "path": "block/stripped_poplar_log.png",
+ "depicts": "stripped poplar log side: bark removed, pale grey-cream exposed softwood with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    167,
+    155,
+    140
+   ],
+   "share": 0.441,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    149,
+    139
+   ],
+   "share": 0.273,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    170,
+    161,
+    145
+   ],
+   "share": 0.137,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    158,
+    145,
+    135
+   ],
+   "share": 0.109,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    154,
+    141,
+    131
+   ],
+   "share": 0.039,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

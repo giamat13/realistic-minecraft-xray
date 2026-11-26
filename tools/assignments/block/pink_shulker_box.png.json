@@ -1,0 +1,73 @@
+{
+ "path": "block/pink_shulker_box.png",
+ "depicts": "pink shulker box, hard chitin-like shell box with pink dye",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    243,
+    138,
+    169
+   ],
+   "share": 0.43,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    101,
+    142
+   ],
+   "share": 0.191,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    113,
+    154
+   ],
+   "share": 0.18,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    130,
+    164
+   ],
+   "share": 0.113,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    201,
+    92,
+    133
+   ],
+   "share": 0.082,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    235,
+    124,
+    160
+   ],
+   "share": 0.004,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

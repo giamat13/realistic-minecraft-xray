@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_copper_bulb_lit_powered.png",
+ "depicts": "weathered copper bulb, lit and powered: copper block with glowing lamp and a red redstone indicator",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    221,
+    150,
+    68
+   ],
+   "share": 0.297,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    171,
+    132
+   ],
+   "share": 0.277,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    131,
+    87
+   ],
+   "share": 0.246,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    205,
+    118
+   ],
+   "share": 0.125,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    140,
+    102
+   ],
+   "share": 0.039,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    26,
+    26
+   ],
+   "share": 0.016,
+   "material": "redstone_dust",
+   "thickness_cm": 0.5
+  }
+ ]
+}

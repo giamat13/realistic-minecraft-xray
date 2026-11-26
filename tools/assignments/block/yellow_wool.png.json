@@ -1,0 +1,73 @@
+{
+ "path": "block/yellow_wool.png",
+ "depicts": "yellow wool block, woven sheep wool fibres",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    188,
+    30
+   ],
+   "share": 0.25,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    251,
+    204,
+    44
+   ],
+   "share": 0.18,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    253,
+    211,
+    52
+   ],
+   "share": 0.164,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    248,
+    196,
+    36
+   ],
+   "share": 0.16,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    243,
+    180,
+    24
+   ],
+   "share": 0.137,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    216,
+    62
+   ],
+   "share": 0.109,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

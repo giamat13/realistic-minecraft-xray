@@ -1,0 +1,73 @@
+{
+ "path": "entity/guardian_elder.png",
+ "depicts": "elder guardian: spiky greyish-tan fish-like sea monster; body skin over muscle, dark eyes and mouth (fictional, closest analogue a spiny fish)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    168,
+    150
+   ],
+   "share": 0.763,
+   "material": "soft_tissue",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    133,
+    117
+   ],
+   "share": 0.148,
+   "material": "soft_tissue",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    212,
+    199
+   ],
+   "share": 0.039,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    99,
+    92,
+    88
+   ],
+   "share": 0.027,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    44,
+    51,
+    96
+   ],
+   "share": 0.017,
+   "material": "muscle",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    13,
+    20,
+    37
+   ],
+   "share": 0.007,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}

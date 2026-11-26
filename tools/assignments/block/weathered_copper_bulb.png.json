@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_copper_bulb.png",
+ "depicts": "weathered copper bulb: copper bulb block with green patina (unlit)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    90,
+    79
+   ],
+   "share": 0.316,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    102,
+    160,
+    112
+   ],
+   "share": 0.207,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    113,
+    100
+   ],
+   "share": 0.176,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    111,
+    128,
+    80
+   ],
+   "share": 0.152,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    121,
+    182,
+    151
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.023,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

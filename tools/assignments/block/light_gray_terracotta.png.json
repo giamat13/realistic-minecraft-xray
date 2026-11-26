@@ -1,0 +1,73 @@
+{
+ "path": "block/light_gray_terracotta.png",
+ "depicts": "light gray (dyed) terracotta block face: fired clay with fine mottled surface",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    135,
+    107,
+    97
+   ],
+   "share": 0.367,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    138,
+    109,
+    99
+   ],
+   "share": 0.191,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    105,
+    96
+   ],
+   "share": 0.16,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    136,
+    108,
+    99
+   ],
+   "share": 0.148,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    135,
+    105,
+    96
+   ],
+   "share": 0.125,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    104,
+    94
+   ],
+   "share": 0.008,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

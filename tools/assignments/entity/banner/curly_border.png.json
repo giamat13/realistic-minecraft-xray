@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/curly_border.png",
+ "depicts": "banner curly-border pattern layer: dyed wool cloth wavy edge motif",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.301,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.206,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.19,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    240,
+    240,
+    240
+   ],
+   "share": 0.07,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    215,
+    215,
+    215
+   ],
+   "share": 0.065,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

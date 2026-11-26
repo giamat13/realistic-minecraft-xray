@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/stripe_left.png",
+ "depicts": "banner stripe-left pattern layer: dyed wool cloth left vertical stripe",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.37,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.202,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.192,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.179,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.05,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    210,
+    210,
+    210
+   ],
+   "share": 0.007,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

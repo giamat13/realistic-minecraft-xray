@@ -1,0 +1,73 @@
+{
+ "path": "entity/fish/pufferfish.png",
+ "depicts": "pufferfish (inflated body): spiny keratin skin, pale belly fat, thin fin membranes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    184,
+    126,
+    32
+   ],
+   "share": 0.285,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    225,
+    189,
+    124
+   ],
+   "share": 0.276,
+   "material": "fat",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    252,
+    229,
+    189
+   ],
+   "share": 0.209,
+   "material": "fat",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    228,
+    159,
+    21
+   ],
+   "share": 0.176,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    43,
+    32
+   ],
+   "share": 0.035,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    110,
+    166,
+    190
+   ],
+   "share": 0.019,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

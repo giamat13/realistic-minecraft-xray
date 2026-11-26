@@ -1,0 +1,73 @@
+{
+ "path": "block/loom_front.png",
+ "depicts": "loom front face: oak wood frame and panels; the light bands are woven cloth/strap decals on a solid 1 m wooden block, beam crosses wood",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    133,
+    76
+   ],
+   "share": 0.277,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    82,
+    50
+   ],
+   "share": 0.25,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    160,
+    105
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    171,
+    153,
+    144
+   ],
+   "share": 0.109,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    147,
+    124,
+    114
+   ],
+   "share": 0.109,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    53,
+    40,
+    26
+   ],
+   "share": 0.078,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

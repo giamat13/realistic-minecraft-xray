@@ -1,0 +1,73 @@
+{
+ "path": "colormap/dry_foliage.png",
+ "depicts": "biome colormap for dry foliage: brown dead leaf colours, lookup data (closest analogue straw)",
+ "kind": "colormap",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    162,
+    118,
+    71
+   ],
+   "share": 0.288,
+   "material": "straw",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    99,
+    53
+   ],
+   "share": 0.224,
+   "material": "straw",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    143,
+    91,
+    51
+   ],
+   "share": 0.209,
+   "material": "straw",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    163,
+    106,
+    70
+   ],
+   "share": 0.14,
+   "material": "straw",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    152,
+    119,
+    81
+   ],
+   "share": 0.074,
+   "material": "straw",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    101,
+    63
+   ],
+   "share": 0.065,
+   "material": "straw",
+   "thickness_cm": 1.0
+  }
+ ]
+}

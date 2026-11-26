@@ -1,0 +1,73 @@
+{
+ "path": "block/pink_terracotta.png",
+ "depicts": "pink terracotta block, fired unglazed clay",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    77,
+    77
+   ],
+   "share": 0.293,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    78,
+    79
+   ],
+   "share": 0.273,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    80,
+    80
+   ],
+   "share": 0.191,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    167,
+    82,
+    82
+   ],
+   "share": 0.133,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    158,
+    75,
+    76
+   ],
+   "share": 0.105,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    163,
+    73,
+    73
+   ],
+   "share": 0.004,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

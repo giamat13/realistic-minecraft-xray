@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_spruce_log_top.png",
+ "depicts": "stripped spruce log end grain: golden-brown annual rings and pale heartwood",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    122,
+    90,
+    52
+   ],
+   "share": 0.273,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    77,
+    46
+   ],
+   "share": 0.258,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    97,
+    58
+   ],
+   "share": 0.227,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    103,
+    86,
+    49
+   ],
+   "share": 0.137,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    112,
+    82,
+    46
+   ],
+   "share": 0.086,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    90,
+    68,
+    36
+   ],
+   "share": 0.02,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/trial_spawner_top_active_ominous.png",
+ "depicts": "trial spawner top face, active ominous: dark steel plate with cyan glowing cores",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    107,
+    127
+   ],
+   "share": 0.363,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    68,
+    85
+   ],
+   "share": 0.34,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    32,
+    43,
+    58
+   ],
+   "share": 0.234,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    1,
+    138,
+    138
+   ],
+   "share": 0.031,
+   "material": "phosphor",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    255,
+    255
+   ],
+   "share": 0.016,
+   "material": "phosphor",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    39,
+    204,
+    204
+   ],
+   "share": 0.016,
+   "material": "phosphor",
+   "thickness_cm": 5.0
+  }
+ ]
+}

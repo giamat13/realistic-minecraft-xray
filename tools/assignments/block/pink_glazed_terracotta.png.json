@@ -1,0 +1,73 @@
+{
+ "path": "block/pink_glazed_terracotta.png",
+ "depicts": "pink glazed terracotta block, fired clay with pink glaze and symmetric pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    244,
+    181,
+    203
+   ],
+   "share": 0.461,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    139,
+    170
+   ],
+   "share": 0.203,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    113,
+    152
+   ],
+   "share": 0.109,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    101,
+    143
+   ],
+   "share": 0.094,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    244,
+    151,
+    179
+   ],
+   "share": 0.086,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    182,
+    172
+   ],
+   "share": 0.047,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

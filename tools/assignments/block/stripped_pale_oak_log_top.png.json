@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_pale_oak_log_top.png",
+ "depicts": "stripped pale oak log end grain: near-white rings and pale heartwood",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    232,
+    227,
+    225
+   ],
+   "share": 0.305,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    249,
+    239,
+    239
+   ],
+   "share": 0.289,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    210,
+    198,
+    199
+   ],
+   "share": 0.148,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    251,
+    248
+   ],
+   "share": 0.141,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    221,
+    206,
+    205
+   ],
+   "share": 0.098,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    199,
+    184,
+    184
+   ],
+   "share": 0.02,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

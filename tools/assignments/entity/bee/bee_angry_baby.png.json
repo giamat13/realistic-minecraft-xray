@@ -1,0 +1,73 @@
+{
+ "path": "entity/bee/bee_angry_baby.png",
+ "depicts": "baby angry honey bee mob skin: striped chitin shell with fatty abdomen, legs, dark stinger and red anger marks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    136,
+    60,
+    19
+   ],
+   "share": 0.438,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 1,
+   "rgb": [
+    246,
+    206,
+    87
+   ],
+   "share": 0.277,
+   "material": "fat",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    120,
+    49
+   ],
+   "share": 0.102,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    248,
+    238
+   ],
+   "share": 0.088,
+   "material": "shell_chitin",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    48,
+    43,
+    55
+   ],
+   "share": 0.051,
+   "material": "shell_chitin",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    9,
+    28
+   ],
+   "share": 0.044,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  }
+ ]
+}

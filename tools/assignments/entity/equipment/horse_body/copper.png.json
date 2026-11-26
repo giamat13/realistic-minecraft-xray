@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/horse_body/copper.png",
+ "depicts": "Copper horse armour plates (oxidised copper with malachite-like verdigris patina, steel outline)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    189,
+    95,
+    63
+   ],
+   "share": 0.336,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    240,
+    136,
+    105
+   ],
+   "share": 0.321,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    19,
+    19,
+    19
+   ],
+   "share": 0.11,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    172,
+    145
+   ],
+   "share": 0.104,
+   "material": "malachite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    80,
+    99,
+    93
+   ],
+   "share": 0.084,
+   "material": "malachite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    212,
+    203
+   ],
+   "share": 0.046,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/light_gray_glazed_terracotta.png",
+ "depicts": "light gray glazed terracotta block face: fired terracotta body with white and teal painted glaze pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    205,
+    209,
+    211
+   ],
+   "share": 0.355,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    100,
+    117,
+    122
+   ],
+   "share": 0.234,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    152,
+    152,
+    152
+   ],
+   "share": 0.199,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    22,
+    157,
+    157
+   ],
+   "share": 0.117,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    193,
+    198,
+    200
+   ],
+   "share": 0.066,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    83,
+    86
+   ],
+   "share": 0.027,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

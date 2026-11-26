@@ -1,0 +1,62 @@
+{
+ "path": "block/lily_pad.png",
+ "depicts": "lily pad: flat floating waterlily leaf (grey-scale tint mask), about 1 mm thick plant tissue",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.36,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    92,
+    92
+   ],
+   "share": 0.26,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    163,
+    163,
+    163
+   ],
+   "share": 0.233,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    127,
+    127,
+    127
+   ],
+   "share": 0.1,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.047,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  }
+ ]
+}

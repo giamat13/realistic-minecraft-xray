@@ -1,0 +1,73 @@
+{
+ "path": "entity/bear/polarbear.png",
+ "depicts": "adult polar bear mob: white fur over muscle and skin, dark nose and eyes, grey claws",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    246,
+    246
+   ],
+   "share": 0.506,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    234,
+    233,
+    222
+   ],
+   "share": 0.267,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    214,
+    205
+   ],
+   "share": 0.188,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    189,
+    182,
+    172
+   ],
+   "share": 0.031,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    24,
+    32,
+    24
+   ],
+   "share": 0.007,
+   "material": "ink",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    139,
+    141,
+    139
+   ],
+   "share": 0.0,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

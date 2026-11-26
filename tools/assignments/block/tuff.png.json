@@ -1,0 +1,62 @@
+{
+ "path": "block/tuff.png",
+ "depicts": "tuff block: compacted volcanic ash rock, grey-green speckled",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    106,
+    110,
+    111
+   ],
+   "share": 0.297,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    93,
+    93,
+    82
+   ],
+   "share": 0.277,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    131,
+    123
+   ],
+   "share": 0.27,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    77,
+    80,
+    70
+   ],
+   "share": 0.121,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    160,
+    162,
+    151
+   ],
+   "share": 0.035,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  }
+ ]
+}

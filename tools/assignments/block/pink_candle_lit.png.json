@@ -1,0 +1,73 @@
+{
+ "path": "block/pink_candle_lit.png",
+ "depicts": "lit pink candle, pink wax cylinder with flame and dark wick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    197,
+    89,
+    131
+   ],
+   "share": 0.333,
+   "material": "wax",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    226,
+    108,
+    148
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    248,
+    148,
+    166
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    254,
+    201,
+    180
+   ],
+   "share": 0.143,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    237,
+    200
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

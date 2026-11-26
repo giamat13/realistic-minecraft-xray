@@ -1,0 +1,73 @@
+{
+ "path": "block/sculk_catalyst_bottom.png",
+ "depicts": "sculk catalyst bottom face (sculk block with pale bone-like inset)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    97,
+    109,
+    119
+   ],
+   "share": 0.434,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    129,
+    153,
+    136
+   ],
+   "share": 0.34,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    11,
+    32,
+    39
+   ],
+   "share": 0.172,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    5,
+    65,
+    79
+   ],
+   "share": 0.043,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    162,
+    175,
+    134
+   ],
+   "share": 0.008,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    5,
+    98,
+    93
+   ],
+   "share": 0.004,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  }
+ ]
+}

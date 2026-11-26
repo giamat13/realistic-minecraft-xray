@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid_leggings/gold.png",
+ "depicts": "Gold leggings armour layer (gold plate with pale highlights)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    180,
+    42
+   ],
+   "share": 0.45,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    211,
+    150,
+    50
+   ],
+   "share": 0.254,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    216,
+    61
+   ],
+   "share": 0.164,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    242,
+    94
+   ],
+   "share": 0.104,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    255,
+    189
+   ],
+   "share": 0.025,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.004,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

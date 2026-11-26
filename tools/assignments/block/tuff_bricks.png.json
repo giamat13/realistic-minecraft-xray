@@ -1,0 +1,73 @@
+{
+ "path": "block/tuff_bricks.png",
+ "depicts": "tuff bricks: carved and mortared tuff blocks with darker seams",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    113,
+    116,
+    109
+   ],
+   "share": 0.25,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    95,
+    104,
+    102
+   ],
+   "share": 0.211,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    87,
+    78
+   ],
+   "share": 0.188,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    65,
+    71,
+    61
+   ],
+   "share": 0.18,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    133,
+    131,
+    122
+   ],
+   "share": 0.148,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    145,
+    142,
+    128
+   ],
+   "share": 0.023,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "path": "block/lightning_rod_on.png",
+ "depicts": "powered lightning rod overlay: fully white glow mask (electric arc glow treated as plasma)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  }
+ ]
+}

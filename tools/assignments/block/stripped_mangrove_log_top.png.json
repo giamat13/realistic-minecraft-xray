@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_mangrove_log_top.png",
+ "depicts": "stripped mangrove log end grain: dark red-brown rings",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    111,
+    43,
+    45
+   ],
+   "share": 0.453,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    119,
+    57,
+    52
+   ],
+   "share": 0.203,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    93,
+    28,
+    30
+   ],
+   "share": 0.168,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    100,
+    36,
+    35
+   ],
+   "share": 0.098,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    49,
+    49
+   ],
+   "share": 0.055,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    127,
+    66,
+    52
+   ],
+   "share": 0.023,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

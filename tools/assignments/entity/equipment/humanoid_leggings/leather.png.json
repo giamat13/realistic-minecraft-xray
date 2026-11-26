@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid_leggings/leather.png",
+ "depicts": "Leather leggings armour layer (undyed grey leather)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.346,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.225,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    197,
+    197
+   ],
+   "share": 0.164,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    181,
+    181
+   ],
+   "share": 0.132,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    215,
+    215,
+    215
+   ],
+   "share": 0.089,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    225,
+    223,
+    223
+   ],
+   "share": 0.043,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

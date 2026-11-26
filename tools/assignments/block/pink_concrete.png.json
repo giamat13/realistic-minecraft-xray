@@ -1,0 +1,73 @@
+{
+ "path": "block/pink_concrete.png",
+ "depicts": "pink concrete block, solid hardened cement with aggregate",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    101,
+    143
+   ],
+   "share": 0.332,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    214,
+    102,
+    144
+   ],
+   "share": 0.301,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    100,
+    142
+   ],
+   "share": 0.293,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    100,
+    141
+   ],
+   "share": 0.059,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    100,
+    141
+   ],
+   "share": 0.012,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    214,
+    102,
+    143
+   ],
+   "share": 0.004,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

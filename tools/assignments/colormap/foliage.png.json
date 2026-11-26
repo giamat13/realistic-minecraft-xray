@@ -1,0 +1,73 @@
+{
+ "path": "colormap/foliage.png",
+ "depicts": "biome colormap for tree foliage: green leaf colours, lookup data (closest analogue foliage)",
+ "kind": "colormap",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    97,
+    157,
+    79
+   ],
+   "share": 0.275,
+   "material": "foliage",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    156,
+    67
+   ],
+   "share": 0.195,
+   "material": "foliage",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    157,
+    112
+   ],
+   "share": 0.179,
+   "material": "foliage",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    138,
+    167,
+    57
+   ],
+   "share": 0.154,
+   "material": "foliage",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    174,
+    43
+   ],
+   "share": 0.127,
+   "material": "foliage",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    183,
+    21
+   ],
+   "share": 0.07,
+   "material": "foliage",
+   "thickness_cm": 1.0
+  }
+ ]
+}

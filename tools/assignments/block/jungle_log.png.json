@@ -1,0 +1,73 @@
+{
+ "path": "block/jungle_log.png",
+ "depicts": "jungle log side: jungle tree bark (dark brown, rough) on softwood trunk",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    68,
+    25
+   ],
+   "share": 0.477,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    63,
+    52,
+    18
+   ],
+   "share": 0.273,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    104,
+    78,
+    32
+   ],
+   "share": 0.145,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    93,
+    38
+   ],
+   "share": 0.047,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    88,
+    32
+   ],
+   "share": 0.039,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    118,
+    102,
+    38
+   ],
+   "share": 0.02,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

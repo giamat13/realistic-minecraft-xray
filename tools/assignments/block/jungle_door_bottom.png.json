@@ -1,0 +1,73 @@
+{
+ "path": "block/jungle_door_bottom.png",
+ "depicts": "jungle wood door lower half: light softwood panels with iron hinge/handle pieces; real door slab ~4.5 cm",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    182,
+    132,
+    95
+   ],
+   "share": 0.453,
+   "material": "wood_soft",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    156,
+    110,
+    70
+   ],
+   "share": 0.281,
+   "material": "wood_soft",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    77,
+    51
+   ],
+   "share": 0.23,
+   "material": "wood_soft",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    164,
+    120
+   ],
+   "share": 0.023,
+   "material": "wood_soft",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.008,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.004,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

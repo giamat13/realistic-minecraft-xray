@@ -1,0 +1,6 @@
+{
+ "path": "entity/conduit/wind_vertical.png",
+ "depicts": "vertical conduit wind sprite, fully transparent in the first frame (no visible pixels); pale cyan water mist in the animation, steam:0.2 if any pixel shows",
+ "kind": "entity",
+ "clusters": []
+}

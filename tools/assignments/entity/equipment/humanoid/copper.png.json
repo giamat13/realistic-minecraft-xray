@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid/copper.png",
+ "depicts": "Copper armour layer (copper plate with copper highlights)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    93,
+    61
+   ],
+   "share": 0.309,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    166,
+    82,
+    55
+   ],
+   "share": 0.235,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    212,
+    106,
+    69
+   ],
+   "share": 0.224,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    231,
+    124,
+    86
+   ],
+   "share": 0.122,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    153,
+    130
+   ],
+   "share": 0.069,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    251,
+    195,
+    182
+   ],
+   "share": 0.042,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

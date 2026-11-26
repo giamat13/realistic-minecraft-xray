@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/cross.png",
+ "depicts": "banner cross pattern layer: dyed wool cloth cross stripe",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    228,
+    228,
+    228
+   ],
+   "share": 0.309,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.232,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    225,
+    225,
+    225
+   ],
+   "share": 0.188,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.054,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    212,
+    212,
+    212
+   ],
+   "share": 0.014,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

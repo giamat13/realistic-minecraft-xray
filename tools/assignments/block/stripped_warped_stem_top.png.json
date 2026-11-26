@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_warped_stem_top.png",
+ "depicts": "stripped warped stem end grain: teal fungal stem cross-section",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    142,
+    140
+   ],
+   "share": 0.391,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    131,
+    130
+   ],
+   "share": 0.273,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    46,
+    95,
+    81
+   ],
+   "share": 0.148,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    112,
+    103
+   ],
+   "share": 0.098,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    154,
+    149
+   ],
+   "share": 0.07,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    31,
+    87,
+    82
+   ],
+   "share": 0.02,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

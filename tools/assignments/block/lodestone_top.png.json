@@ -1,0 +1,62 @@
+{
+ "path": "block/lodestone_top.png",
+ "depicts": "lodestone block top: naturally magnetised magnetite (Fe3O4), grey with lighter ring pattern, 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    171,
+    177,
+    184
+   ],
+   "share": 0.281,
+   "material": "magnetite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    127,
+    127
+   ],
+   "share": 0.262,
+   "material": "magnetite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    162,
+    164,
+    172
+   ],
+   "share": 0.211,
+   "material": "magnetite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.152,
+   "material": "magnetite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.094,
+   "material": "magnetite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

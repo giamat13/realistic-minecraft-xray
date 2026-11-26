@@ -1,0 +1,73 @@
+{
+ "path": "block/magenta_wool.png",
+ "depicts": "magenta wool block: dyed sheep wool fibres, 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    181,
+    60,
+    171
+   ],
+   "share": 0.246,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    195,
+    73,
+    184
+   ],
+   "share": 0.207,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    173,
+    52,
+    163
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    201,
+    81,
+    192
+   ],
+   "share": 0.141,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    188,
+    67,
+    177
+   ],
+   "share": 0.133,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    213,
+    95,
+    208
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

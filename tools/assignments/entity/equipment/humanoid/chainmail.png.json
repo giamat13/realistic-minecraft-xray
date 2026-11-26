@@ -1,0 +1,62 @@
+{
+ "path": "entity/equipment/humanoid/chainmail.png",
+ "depicts": "Chainmail armour layer (riveted iron mail rings, grey)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    164,
+    165,
+    164
+   ],
+   "share": 0.339,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    148,
+    145,
+    148
+   ],
+   "share": 0.306,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    189,
+    189
+   ],
+   "share": 0.131,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    180,
+    180
+   ],
+   "share": 0.123,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    161,
+    164
+   ],
+   "share": 0.1,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

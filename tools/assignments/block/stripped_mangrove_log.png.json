@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_mangrove_log.png",
+ "depicts": "stripped mangrove log side: bark removed, reddish-brown exposed mangrove wood",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    122,
+    55,
+    49
+   ],
+   "share": 0.336,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    61,
+    47
+   ],
+   "share": 0.289,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    117,
+    49,
+    49
+   ],
+   "share": 0.238,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    111,
+    46,
+    45
+   ],
+   "share": 0.07,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    109,
+    44,
+    45
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    128,
+    69,
+    51
+   ],
+   "share": 0.02,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/piston_inner.png",
+ "depicts": "inner face of a piston, grey iron piston head and arm surface",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    76,
+    76
+   ],
+   "share": 0.324,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    50,
+    50,
+    50
+   ],
+   "share": 0.168,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    135,
+    135,
+    135
+   ],
+   "share": 0.16,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.156,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    119,
+    119,
+    119
+   ],
+   "share": 0.129,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    173,
+    173,
+    173
+   ],
+   "share": 0.062,
+   "material": "iron",
+   "thickness_cm": 100.0
+  }
+ ]
+}

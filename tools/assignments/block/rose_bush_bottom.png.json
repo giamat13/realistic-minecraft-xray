@@ -1,0 +1,73 @@
+{
+ "path": "block/rose_bush_bottom.png",
+ "depicts": "rose bush lower half (green leaves, red petals, woody brown stems; cross-plane plant sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    37,
+    88,
+    39
+   ],
+   "share": 0.447,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    76,
+    149,
+    41
+   ],
+   "share": 0.201,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    175,
+    36,
+    34
+   ],
+   "share": 0.173,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    240,
+    52,
+    48
+   ],
+   "share": 0.117,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    116,
+    35,
+    3
+   ],
+   "share": 0.061,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    98,
+    84,
+    38
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  }
+ ]
+}

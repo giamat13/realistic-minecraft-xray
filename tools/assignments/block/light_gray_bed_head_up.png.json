@@ -1,0 +1,73 @@
+{
+ "path": "block/light_gray_bed_head_up.png",
+ "depicts": "light gray bed head end, top face: white pillow wool over grey blanket",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    118,
+    108
+   ],
+   "share": 0.219,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.219,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    204,
+    210,
+    210
+   ],
+   "share": 0.219,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    91,
+    92,
+    83
+   ],
+   "share": 0.129,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    166,
+    169,
+    166
+   ],
+   "share": 0.117,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    140,
+    142,
+    132
+   ],
+   "share": 0.098,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

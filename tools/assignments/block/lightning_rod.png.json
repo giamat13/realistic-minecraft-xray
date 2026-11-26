@@ -1,0 +1,73 @@
+{
+ "path": "block/lightning_rod.png",
+ "depicts": "copper lightning rod: thin weathered-free copper rod (about 1.5 cm diameter) on a transparent background",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    123,
+    91
+   ],
+   "share": 0.3,
+   "material": "copper",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    200,
+    116,
+    86
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    90,
+    64
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    227,
+    130,
+    108
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    178,
+    98,
+    71
+   ],
+   "share": 0.1,
+   "material": "copper",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    154,
+    80,
+    56
+   ],
+   "share": 0.1,
+   "material": "copper",
+   "thickness_cm": 1.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/light_gray_shulker_box.png",
+ "depicts": "light gray shulker box block face: shulker shell (chitin-like hard shell), two shell walls along the beam",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    140,
+    131
+   ],
+   "share": 0.43,
+   "material": "shell_chitin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    122,
+    112
+   ],
+   "share": 0.172,
+   "material": "shell_chitin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    135,
+    135,
+    125
+   ],
+   "share": 0.117,
+   "material": "shell_chitin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    97,
+    97,
+    89
+   ],
+   "share": 0.109,
+   "material": "shell_chitin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    107,
+    98
+   ],
+   "share": 0.09,
+   "material": "shell_chitin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    91,
+    83
+   ],
+   "share": 0.082,
+   "material": "shell_chitin",
+   "thickness_cm": 2.0
+  }
+ ]
+}

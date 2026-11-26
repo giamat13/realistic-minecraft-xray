@@ -1,0 +1,73 @@
+{
+ "path": "block/respawn_anchor_top.png",
+ "depicts": "respawn anchor top face, charged (animated purple crystal swirl over crying obsidian; animated strip, frame 1)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    0,
+    172
+   ],
+   "share": 0.234,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    39,
+    34,
+    58
+   ],
+   "share": 0.215,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    92,
+    9,
+    196
+   ],
+   "share": 0.207,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    63,
+    127
+   ],
+   "share": 0.156,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    134,
+    38,
+    218
+   ],
+   "share": 0.145,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    43,
+    1,
+    120
+   ],
+   "share": 0.043,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  }
+ ]
+}

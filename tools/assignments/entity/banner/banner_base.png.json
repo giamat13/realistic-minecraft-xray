@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/banner_base.png",
+ "depicts": "blank banner base: dyed wool banner cloth with wooden pole and bottom rail",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.371,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.333,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    71,
+    43
+   ],
+   "share": 0.16,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    220,
+    220,
+    220
+   ],
+   "share": 0.067,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    114,
+    95,
+    63
+   ],
+   "share": 0.05,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    136,
+    125,
+    92
+   ],
+   "share": 0.02,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

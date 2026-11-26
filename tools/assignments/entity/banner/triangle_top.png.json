@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/triangle_top.png",
+ "depicts": "banner triangle-top pattern layer: dyed wool cloth top triangle",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.432,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.263,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.175,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.068,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.032,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    223,
+    223
+   ],
+   "share": 0.03,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

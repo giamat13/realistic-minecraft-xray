@@ -1,0 +1,73 @@
+{
+ "path": "block/jungle_log_top.png",
+ "depicts": "jungle log end grain: softwood trunk cross-section with annual rings and bark rim",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    121,
+    84
+   ],
+   "share": 0.273,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    154,
+    109,
+    70
+   ],
+   "share": 0.266,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    136,
+    101
+   ],
+   "share": 0.227,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    52,
+    18
+   ],
+   "share": 0.117,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    88,
+    32
+   ],
+   "share": 0.066,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    125,
+    93,
+    38
+   ],
+   "share": 0.051,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

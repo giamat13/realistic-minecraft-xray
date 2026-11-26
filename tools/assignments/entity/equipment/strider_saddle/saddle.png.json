@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/strider_saddle/saddle.png",
+ "depicts": "strider saddle (first animation frame): orange-brown leather saddle with iron/brass-grey buckles",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    64,
+    27
+   ],
+   "share": 0.342,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    218,
+    102,
+    44
+   ],
+   "share": 0.288,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    33,
+    12
+   ],
+   "share": 0.274,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    101,
+    91
+   ],
+   "share": 0.055,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    240,
+    138,
+    92
+   ],
+   "share": 0.027,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    176,
+    153,
+    136
+   ],
+   "share": 0.014,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

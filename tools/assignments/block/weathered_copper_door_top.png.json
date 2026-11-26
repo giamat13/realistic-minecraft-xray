@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_copper_door_top.png",
+ "depicts": "weathered copper door top half: copper door plate 3/16 block thick with green patina",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    154,
+    108
+   ],
+   "share": 0.615,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    183,
+    153
+   ],
+   "share": 0.183,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    117,
+    73
+   ],
+   "share": 0.154,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    78,
+    112,
+    101
+   ],
+   "share": 0.029,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    77,
+    80,
+    70
+   ],
+   "share": 0.014,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    51,
+    51,
+    51
+   ],
+   "share": 0.005,
+   "material": "copper",
+   "thickness_cm": 19.0
+  }
+ ]
+}

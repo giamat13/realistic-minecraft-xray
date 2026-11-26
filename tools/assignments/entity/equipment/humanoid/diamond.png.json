@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid/diamond.png",
+ "depicts": "Diamond armour layer (diamond plate with cyan shading and bright facets)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    203,
+    185
+   ],
+   "share": 0.551,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    237,
+    217
+   ],
+   "share": 0.133,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    243,
+    227
+   ],
+   "share": 0.128,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    44,
+    224,
+    216
+   ],
+   "share": 0.076,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    177,
+    253,
+    237
+   ],
+   "share": 0.07,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    255,
+    251
+   ],
+   "share": 0.043,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/loom_bottom.png",
+ "depicts": "loom bottom face: dark oak wood planks with a plain frame border, solid 1 m block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    65,
+    39
+   ],
+   "share": 0.625,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    50,
+    39,
+    24
+   ],
+   "share": 0.285,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    128,
+    99,
+    55
+   ],
+   "share": 0.055,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    84,
+    51
+   ],
+   "share": 0.035,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

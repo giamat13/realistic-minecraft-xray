@@ -1,0 +1,40 @@
+{
+ "path": "entity/copper_golem/weathered_copper_golem_eyes.png",
+ "depicts": "weathered copper golem glowing eyes: lamp lens and filament",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    236,
+    170,
+    79
+   ],
+   "share": 0.5,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    124,
+    74
+   ],
+   "share": 0.25,
+   "material": "glowstone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    245,
+    208,
+    122
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/stripe_top.png",
+ "depicts": "banner stripe-top pattern layer: dyed wool cloth top band",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.403,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.234,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.158,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.102,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.071,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.033,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

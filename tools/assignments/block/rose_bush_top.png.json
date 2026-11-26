@@ -1,0 +1,73 @@
+{
+ "path": "block/rose_bush_top.png",
+ "depicts": "rose bush upper half (red petals on green leaves, brown woody stems; cross-plane plant sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    180,
+    36,
+    36
+   ],
+   "share": 0.28,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    53,
+    49
+   ],
+   "share": 0.215,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    36,
+    76,
+    37
+   ],
+   "share": 0.215,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    54,
+    123,
+    41
+   ],
+   "share": 0.204,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    116,
+    35,
+    3
+   ],
+   "share": 0.086,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    131,
+    66,
+    37
+   ],
+   "share": 0.0,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  }
+ ]
+}

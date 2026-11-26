@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/square_bottom_right.png",
+ "depicts": "banner square-bottom-right pattern layer: dyed wool cloth corner square",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    225,
+    225,
+    225
+   ],
+   "share": 0.299,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.247,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.234,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.148,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    218,
+    218,
+    218
+   ],
+   "share": 0.043,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.03,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

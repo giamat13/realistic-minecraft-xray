@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid_baby/netherite.png",
+ "depicts": "Baby netherite armour layer (dark netherite plate with steel outline)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    78,
+    64,
+    72
+   ],
+   "share": 0.309,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    93,
+    86,
+    93
+   ],
+   "share": 0.234,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    63,
+    48,
+    59
+   ],
+   "share": 0.23,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    50,
+    39,
+    39
+   ],
+   "share": 0.093,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    118,
+    106,
+    118
+   ],
+   "share": 0.089,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    36,
+    31,
+    32
+   ],
+   "share": 0.045,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

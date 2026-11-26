@@ -1,0 +1,73 @@
+{
+ "path": "entity/enderdragon/dragon_fireball.png",
+ "depicts": "ender dragon fireball projectile: dark charred sphere shell with purple energetic core",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    89,
+    73,
+    69
+   ],
+   "share": 0.411,
+   "material": "charcoal",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    34,
+    30
+   ],
+   "share": 0.384,
+   "material": "charcoal",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    73,
+    175
+   ],
+   "share": 0.08,
+   "material": "plasma_particle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    220,
+    117,
+    250
+   ],
+   "share": 0.054,
+   "material": "plasma_particle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    149,
+    109,
+    140
+   ],
+   "share": 0.054,
+   "material": "plasma_particle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    243,
+    197,
+    255
+   ],
+   "share": 0.018,
+   "material": "plasma_particle",
+   "thickness_cm": 0.5
+  }
+ ]
+}

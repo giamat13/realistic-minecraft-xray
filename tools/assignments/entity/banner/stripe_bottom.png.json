@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/stripe_bottom.png",
+ "depicts": "banner stripe-bottom pattern layer: dyed wool cloth bottom band",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.312,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.243,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.232,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.148,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.059,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    209,
+    209,
+    209
+   ],
+   "share": 0.005,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

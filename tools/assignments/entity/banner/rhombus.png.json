@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/rhombus.png",
+ "depicts": "banner rhombus pattern layer: dyed wool cloth diamond motif",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    226,
+    226
+   ],
+   "share": 0.375,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.19,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.177,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.133,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    228,
+    228,
+    228
+   ],
+   "share": 0.125,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

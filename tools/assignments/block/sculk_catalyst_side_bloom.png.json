@@ -1,0 +1,73 @@
+{
+ "path": "block/sculk_catalyst_side_bloom.png",
+ "depicts": "sculk catalyst side face, blooming (dark sculk with bone inlays and bright cyan glow; animated strip, frame 1)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    12,
+    29,
+    35
+   ],
+   "share": 0.398,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    129,
+    145,
+    131
+   ],
+   "share": 0.266,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    193,
+    200,
+    162
+   ],
+   "share": 0.148,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    58,
+    90,
+    107
+   ],
+   "share": 0.145,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    28,
+    222,
+    236
+   ],
+   "share": 0.023,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    11,
+    177,
+    170
+   ],
+   "share": 0.02,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/wings/elytra.png",
+ "depicts": "elytra wing: thin fabric membrane on grey ribs, closest analogue: textile sheet",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    141,
+    157
+   ],
+   "share": 0.277,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    80,
+    92
+   ],
+   "share": 0.267,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    124,
+    142
+   ],
+   "share": 0.184,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    77,
+    89,
+    103
+   ],
+   "share": 0.126,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    95,
+    111,
+    128
+   ],
+   "share": 0.092,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    102,
+    117
+   ],
+   "share": 0.053,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

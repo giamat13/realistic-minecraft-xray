@@ -1,0 +1,29 @@
+{
+ "path": "entity/banner/guster.png",
+ "depicts": "banner gust (wind) pattern layer: dyed wool cloth swirl motif",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.5,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.5,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

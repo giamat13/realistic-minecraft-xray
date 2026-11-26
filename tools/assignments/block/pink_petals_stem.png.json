@@ -1,0 +1,29 @@
+{
+ "path": "block/pink_petals_stem.png",
+ "depicts": "stem of pink petals plant, thin grey-tinted stalk sprite",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    178,
+    178,
+    178
+   ],
+   "share": 0.667,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    152,
+    152,
+    152
+   ],
+   "share": 0.333,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

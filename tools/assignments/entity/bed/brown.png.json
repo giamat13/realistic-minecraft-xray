@@ -1,6 +1,6 @@
 {
  "path": "entity/bed/brown.png",
- "depicts": "brown-dyed wool bed (bed entity skin): dyed wool blanket, oak wood frame and headboard, white cotton pillow",
+ "depicts": "brown bed: wooden frame and legs with brown dyed wool blanket and white pillow",
  "kind": "entity",
  "clusters": [
   {
@@ -12,7 +12,7 @@
    ],
    "share": 0.299,
    "material": "wool",
-   "thickness_cm": 15.0
+   "thickness_cm": 1.0
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.253,
    "material": "wood_oak",
-   "thickness_cm": 20.0
+   "thickness_cm": 30.0
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
    ],
    "share": 0.251,
    "material": "wood_oak",
-   "thickness_cm": 20.0
+   "thickness_cm": 30.0
   },
   {
    "id": 3,
@@ -44,8 +44,8 @@
     234
    ],
    "share": 0.074,
-   "material": "textile",
-   "thickness_cm": 10.0
+   "material": "wool",
+   "thickness_cm": 5.0
   },
   {
    "id": 4,
@@ -55,8 +55,8 @@
     0
    ],
    "share": 0.065,
-   "material": "air",
-   "thickness_cm": 1.0
+   "material": "ink",
+   "thickness_cm": 0.1
   },
   {
    "id": 5,
@@ -66,8 +66,8 @@
     192
    ],
    "share": 0.058,
-   "material": "textile",
-   "thickness_cm": 10.0
+   "material": "wool",
+   "thickness_cm": 5.0
   }
  ]
 }

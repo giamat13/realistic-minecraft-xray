@@ -1,0 +1,73 @@
+{
+ "path": "block/spore_blossom.png",
+ "depicts": "spore blossom: pink flower head with petal and stem tips",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    204,
+    85,
+    159
+   ],
+   "share": 0.274,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    133,
+    60,
+    104
+   ],
+   "share": 0.242,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    244,
+    105,
+    189
+   ],
+   "share": 0.242,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    135,
+    207
+   ],
+   "share": 0.194,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    138,
+    67
+   ],
+   "share": 0.032,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    191,
+    105
+   ],
+   "share": 0.016,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

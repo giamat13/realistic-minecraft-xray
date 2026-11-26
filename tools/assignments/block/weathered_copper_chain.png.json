@@ -1,0 +1,51 @@
+{
+ "path": "block/weathered_copper_chain.png",
+ "depicts": "weathered copper chain: thin copper chain links, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    94,
+    84
+   ],
+   "share": 0.464,
+   "material": "copper",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    113,
+    100
+   ],
+   "share": 0.411,
+   "material": "copper",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    151,
+    92
+   ],
+   "share": 0.107,
+   "material": "copper",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.018,
+   "material": "copper",
+   "thickness_cm": 1.5
+  }
+ ]
+}

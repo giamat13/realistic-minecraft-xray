@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/flower.png",
+ "depicts": "banner flower pattern layer: dyed wool cloth flower motif",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.347,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.327,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.173,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    225,
+    225,
+    225
+   ],
+   "share": 0.138,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    230,
+    230,
+    230
+   ],
+   "share": 0.015,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

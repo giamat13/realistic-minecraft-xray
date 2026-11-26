@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/zombie_horse_saddle/saddle.png",
+ "depicts": "zombie horse saddle: leather saddle with iron girth buckles and rings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    109,
+    66,
+    33
+   ],
+   "share": 0.463,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    47,
+    21
+   ],
+   "share": 0.348,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.057,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    113,
+    113,
+    113
+   ],
+   "share": 0.049,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    138,
+    85,
+    46
+   ],
+   "share": 0.041,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.041,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

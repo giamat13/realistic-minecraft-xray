@@ -1,0 +1,51 @@
+{
+ "path": "entity/guardian/guardian_beam.png",
+ "depicts": "guardian laser beam: a thin glowing energy ray (fictional; closest analogue plasma light)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    228,
+    228,
+    228
+   ],
+   "share": 0.532,
+   "material": "plasma_particle",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.223,
+   "material": "plasma_particle",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    252,
+    252,
+    252
+   ],
+   "share": 0.201,
+   "material": "plasma_particle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    210,
+    210
+   ],
+   "share": 0.043,
+   "material": "plasma_particle",
+   "thickness_cm": 4.0
+  }
+ ]
+}

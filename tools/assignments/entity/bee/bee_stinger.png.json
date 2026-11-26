@@ -1,0 +1,18 @@
+{
+ "path": "entity/bee/bee_stinger.png",
+ "depicts": "bee stinger: small sharp dark chitin barb, one colour",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    48,
+    43,
+    55
+   ],
+   "share": 1.0,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

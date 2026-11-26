@@ -1,0 +1,73 @@
+{
+ "path": "block/jungle_sign.png",
+ "depicts": "jungle standing sign board (32x32): softwood board, real board thickness ~2 cm, with dark grain and text area",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    156,
+    110,
+    72
+   ],
+   "share": 0.297,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    185,
+    136,
+    101
+   ],
+   "share": 0.28,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    99,
+    73,
+    38
+   ],
+   "share": 0.146,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    170,
+    121,
+    84
+   ],
+   "share": 0.146,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    119,
+    84,
+    52
+   ],
+   "share": 0.079,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    69,
+    55,
+    20
+   ],
+   "share": 0.053,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  }
+ ]
+}

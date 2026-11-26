@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_copper_bars.png",
+ "depicts": "weathered copper bars: thin copper bars with green patina, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    113,
+    100
+   ],
+   "share": 0.319,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    94,
+    84
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    130,
+    81
+   ],
+   "share": 0.172,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    102,
+    169,
+    119
+   ],
+   "share": 0.129,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    108,
+    151,
+    92
+   ],
+   "share": 0.121,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.009,
+   "material": "copper",
+   "thickness_cm": 2.0
+  }
+ ]
+}

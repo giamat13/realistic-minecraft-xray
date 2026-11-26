@@ -1,0 +1,40 @@
+{
+ "path": "entity/copper_golem/exposed_copper_golem_eyes.png",
+ "depicts": "exposed copper golem glowing eyes: lamp lens and filament",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    179,
+    103
+   ],
+   "share": 0.5,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    210,
+    126,
+    32
+   ],
+   "share": 0.25,
+   "material": "glowstone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    225,
+    169
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

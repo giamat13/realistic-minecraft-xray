@@ -1,0 +1,18 @@
+{
+ "path": "block/pink_stained_glass.png",
+ "depicts": "pink stained glass block, tinted translucent glass",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    127,
+    165
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid/iron.png",
+ "depicts": "Iron armour layer (iron plate with bright highlights)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.387,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    183,
+    183,
+    183
+   ],
+   "share": 0.235,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    209,
+    209
+   ],
+   "share": 0.145,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.122,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.069,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.042,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

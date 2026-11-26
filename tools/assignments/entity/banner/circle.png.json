@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/circle.png",
+ "depicts": "banner circle pattern layer: dyed wool disc motif",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    226,
+    226
+   ],
+   "share": 0.422,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.198,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.099,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    228,
+    228,
+    228
+   ],
+   "share": 0.078,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

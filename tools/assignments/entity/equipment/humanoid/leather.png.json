@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid/leather.png",
+ "depicts": "Leather armour layer (undyed grey leather)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    163,
+    163,
+    163
+   ],
+   "share": 0.323,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    153,
+    153,
+    153
+   ],
+   "share": 0.226,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.139,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    206,
+    206,
+    206
+   ],
+   "share": 0.126,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    212,
+    212
+   ],
+   "share": 0.108,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    173,
+    173,
+    173
+   ],
+   "share": 0.079,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

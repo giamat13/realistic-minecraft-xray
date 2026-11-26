@@ -1,0 +1,73 @@
+{
+ "path": "block/yellow_shulker_box.png",
+ "depicts": "yellow shulker box, shell with chitin-like outer shell walls",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    199,
+    36
+   ],
+   "share": 0.43,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    177,
+    21
+   ],
+   "share": 0.215,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    248,
+    185,
+    26
+   ],
+   "share": 0.18,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    251,
+    192,
+    31
+   ],
+   "share": 0.062,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    167,
+    17
+   ],
+   "share": 0.059,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    252,
+    196,
+    34
+   ],
+   "share": 0.055,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

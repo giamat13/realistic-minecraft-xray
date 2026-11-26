@@ -1,0 +1,73 @@
+{
+ "path": "block/structure_block_corner.png",
+ "depicts": "structure block corner-variant face: dark casing with lavender corner brackets and grey inset",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    26,
+    22,
+    28
+   ],
+   "share": 0.617,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    149,
+    120,
+    149
+   ],
+   "share": 0.117,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    87,
+    106
+   ],
+   "share": 0.102,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    187,
+    215
+   ],
+   "share": 0.07,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    59,
+    57,
+    59
+   ],
+   "share": 0.062,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    180,
+    147,
+    180
+   ],
+   "share": 0.031,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  }
+ ]
+}

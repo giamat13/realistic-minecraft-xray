@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_poplar_log_top.png",
+ "depicts": "stripped poplar log end grain: pale grey-cream annual rings",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    156,
+    144,
+    134
+   ],
+   "share": 0.348,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    145,
+    133,
+    123
+   ],
+   "share": 0.223,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    155,
+    140
+   ],
+   "share": 0.203,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    135,
+    121,
+    116
+   ],
+   "share": 0.184,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    170,
+    161,
+    145
+   ],
+   "share": 0.023,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    126,
+    112,
+    108
+   ],
+   "share": 0.02,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

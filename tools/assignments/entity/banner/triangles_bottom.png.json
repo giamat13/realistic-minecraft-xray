@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/triangles_bottom.png",
+ "depicts": "banner triangles-bottom pattern layer: dyed wool cloth bottom zigzag triangles",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.258,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.25,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    225,
+    225
+   ],
+   "share": 0.237,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    221,
+    221,
+    221
+   ],
+   "share": 0.11,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.081,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    237,
+    237
+   ],
+   "share": 0.064,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

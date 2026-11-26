@@ -1,0 +1,40 @@
+{
+ "path": "entity/equipment/humanoid_baby/chainmail.png",
+ "depicts": "Baby chainmail armour layer (iron mail rings, grey)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    164,
+    161,
+    164
+   ],
+   "share": 0.378,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    180,
+    180,
+    180
+   ],
+   "share": 0.373,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    145,
+    148
+   ],
+   "share": 0.249,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

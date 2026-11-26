@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/horse_body/gold.png",
+ "depicts": "Gold horse armour plates (gold with iron studs and steel outline)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    235,
+    85
+   ],
+   "share": 0.415,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    31,
+    8,
+    8
+   ],
+   "share": 0.247,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    169,
+    38
+   ],
+   "share": 0.226,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    97,
+    97,
+    97
+   ],
+   "share": 0.05,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    255,
+    189
+   ],
+   "share": 0.049,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    140,
+    140,
+    140
+   ],
+   "share": 0.013,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

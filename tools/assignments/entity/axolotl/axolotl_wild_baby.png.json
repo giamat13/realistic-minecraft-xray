@@ -1,0 +1,73 @@
+{
+ "path": "entity/axolotl/axolotl_wild_baby.png",
+ "depicts": "wild brown baby axolotl mob (amphibian skin with gill fronds and dark eyes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    76,
+    60
+   ],
+   "share": 0.325,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    145,
+    109,
+    81
+   ],
+   "share": 0.286,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    199,
+    146,
+    99
+   ],
+   "share": 0.227,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    175,
+    129,
+    93
+   ],
+   "share": 0.13,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    162,
+    126
+   ],
+   "share": 0.019,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    39,
+    32,
+    45
+   ],
+   "share": 0.013,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/axolotl/axolotl_gold_baby.png",
+ "depicts": "golden baby axolotl mob (amphibian skin with gill fronds and dark eyes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    241,
+    180,
+    53
+   ],
+   "share": 0.312,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    237,
+    117
+   ],
+   "share": 0.279,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    214,
+    125,
+    12
+   ],
+   "share": 0.26,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    216,
+    74
+   ],
+   "share": 0.13,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    58,
+    0,
+    108
+   ],
+   "share": 0.013,
+   "material": "ink",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    238,
+    146,
+    88
+   ],
+   "share": 0.006,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

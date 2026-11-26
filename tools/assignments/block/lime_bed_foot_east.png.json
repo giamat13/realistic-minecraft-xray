@@ -1,0 +1,73 @@
+{
+ "path": "block/lime_bed_foot_east.png",
+ "depicts": "lime bed foot end, east face: dyed green wool mattress over oak wood frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    137,
+    16
+   ],
+   "share": 0.309,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    170,
+    18
+   ],
+   "share": 0.211,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    122,
+    68
+   ],
+   "share": 0.187,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    85,
+    52
+   ],
+   "share": 0.179,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    144,
+    87
+   ],
+   "share": 0.114,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    112,
+    133,
+    41
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

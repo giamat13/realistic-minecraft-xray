@@ -1,0 +1,73 @@
+{
+ "path": "entity/hoglin/hoglin_baby.png",
+ "depicts": "baby hoglin: small reddish-brown furred boar; hairy hide over muscle, pale tusk nubs, dark hooves",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    206,
+    138,
+    106
+   ],
+   "share": 0.623,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    157,
+    95,
+    77
+   ],
+   "share": 0.15,
+   "material": "muscle",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    246,
+    223,
+    161
+   ],
+   "share": 0.109,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    92,
+    94
+   ],
+   "share": 0.064,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    38,
+    33
+   ],
+   "share": 0.05,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.005,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

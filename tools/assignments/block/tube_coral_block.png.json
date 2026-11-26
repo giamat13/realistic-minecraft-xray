@@ -1,0 +1,73 @@
+{
+ "path": "block/tube_coral_block.png",
+ "depicts": "tube coral block: solid blue coral calcium-carbonate block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    49,
+    79,
+    221
+   ],
+   "share": 0.363,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    63,
+    103,
+    228
+   ],
+   "share": 0.25,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    33,
+    67,
+    164
+   ],
+   "share": 0.234,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    60,
+    133,
+    229
+   ],
+   "share": 0.109,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    28,
+    55,
+    136
+   ],
+   "share": 0.043,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    49,
+    87,
+    207
+   ],
+   "share": 0.0,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

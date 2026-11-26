@@ -1,0 +1,73 @@
+{
+ "path": "block/trial_spawner_top_active.png",
+ "depicts": "trial spawner top face, active: dark steel plate with small orange glowing ember cores",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    88,
+    107
+   ],
+   "share": 0.703,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    32,
+    43,
+    58
+   ],
+   "share": 0.234,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    193,
+    149
+   ],
+   "share": 0.016,
+   "material": "glowstone",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    106,
+    0
+   ],
+   "share": 0.016,
+   "material": "glowstone",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    77,
+    0
+   ],
+   "share": 0.016,
+   "material": "glowstone",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    160,
+    94
+   ],
+   "share": 0.016,
+   "material": "glowstone",
+   "thickness_cm": 5.0
+  }
+ ]
+}

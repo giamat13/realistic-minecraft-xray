@@ -1,0 +1,73 @@
+{
+ "path": "entity/bee/bee_baby.png",
+ "depicts": "baby honey bee mob skin: striped chitin shell with fatty abdomen and legs",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    136,
+    60,
+    19
+   ],
+   "share": 0.438,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 1,
+   "rgb": [
+    246,
+    206,
+    87
+   ],
+   "share": 0.277,
+   "material": "fat",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    120,
+    49
+   ],
+   "share": 0.102,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 3,
+   "rgb": [
+    42,
+    39,
+    50
+   ],
+   "share": 0.095,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 4,
+   "rgb": [
+    245,
+    249,
+    241
+   ],
+   "share": 0.073,
+   "material": "shell_chitin",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    201,
+    209
+   ],
+   "share": 0.015,
+   "material": "shell_chitin",
+   "thickness_cm": 0.01
+  }
+ ]
+}

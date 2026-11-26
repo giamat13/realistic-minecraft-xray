@@ -1,0 +1,73 @@
+{
+ "path": "block/sculk_catalyst_top.png",
+ "depicts": "sculk catalyst top face (dark sculk with glowing cyan spots)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    13,
+    18,
+    23
+   ],
+   "share": 0.426,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    17,
+    27,
+    33
+   ],
+   "share": 0.363,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    5,
+    42,
+    50
+   ],
+   "share": 0.148,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    87,
+    108
+   ],
+   "share": 0.035,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.016,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.012,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  }
+ ]
+}

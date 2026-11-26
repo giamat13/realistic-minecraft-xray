@@ -1,0 +1,73 @@
+{
+ "path": "block/pink_petals.png",
+ "depicts": "pink petals flower ground cover, loose pink petals lying flat",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    203,
+    231
+   ],
+   "share": 0.35,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    248,
+    180,
+    220
+   ],
+   "share": 0.194,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    245,
+    156,
+    209
+   ],
+   "share": 0.194,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    245,
+    218,
+    239
+   ],
+   "share": 0.155,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    100,
+    166
+   ],
+   "share": 0.097,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    222,
+    77,
+    139
+   ],
+   "share": 0.01,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  }
+ ]
+}

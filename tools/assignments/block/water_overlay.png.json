@@ -1,0 +1,18 @@
+{
+ "path": "block/water_overlay.png",
+ "depicts": "underwater view overlay: flat water tint",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    165,
+    165,
+    165
+   ],
+   "share": 1.0,
+   "material": "water",
+   "thickness_cm": 100.0
+  }
+ ]
+}

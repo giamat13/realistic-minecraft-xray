@@ -1,0 +1,62 @@
+{
+ "path": "block/horn_coral_fan.png",
+ "depicts": "horn coral fan: thin fan-shaped calcareous coral skeleton (calcium carbonate), sparse",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    179,
+    65
+   ],
+   "share": 0.309,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    190,
+    160,
+    53
+   ],
+   "share": 0.277,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    203,
+    62
+   ],
+   "share": 0.245,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    237,
+    236,
+    76
+   ],
+   "share": 0.106,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    137,
+    48
+   ],
+   "share": 0.064,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  }
+ ]
+}

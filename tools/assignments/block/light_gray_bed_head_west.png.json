@@ -1,0 +1,73 @@
+{
+ "path": "block/light_gray_bed_head_west.png",
+ "depicts": "light gray bed head end, west face: oak wood frame with white pillow wool and grey blanket",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    90,
+    68
+   ],
+   "share": 0.358,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    166,
+    130,
+    75
+   ],
+   "share": 0.301,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    205,
+    215,
+    215
+   ],
+   "share": 0.114,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.089,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    127,
+    129,
+    121
+   ],
+   "share": 0.081,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    236,
+    236,
+    236
+   ],
+   "share": 0.057,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

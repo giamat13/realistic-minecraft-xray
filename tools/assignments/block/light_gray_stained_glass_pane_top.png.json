@@ -1,0 +1,51 @@
+{
+ "path": "block/light_gray_stained_glass_pane_top.png",
+ "depicts": "light gray stained glass pane, top edge: thin glass pane",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    152,
+    152
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    146,
+    146
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    142,
+    142,
+    142
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    148,
+    148,
+    148
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 0.4
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/jungle_sapling.png",
+ "depicts": "jungle sapling: thin green plant stems and small leaves, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    50,
+    53,
+    10
+   ],
+   "share": 0.36,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    74,
+    12
+   ],
+   "share": 0.256,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    44,
+    108,
+    24
+   ],
+   "share": 0.186,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    128,
+    32
+   ],
+   "share": 0.174,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    24,
+    31,
+    5
+   ],
+   "share": 0.012,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    34,
+    38,
+    6
+   ],
+   "share": 0.012,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

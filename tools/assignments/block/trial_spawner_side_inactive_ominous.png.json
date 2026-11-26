@@ -1,0 +1,73 @@
+{
+ "path": "block/trial_spawner_side_inactive_ominous.png",
+ "depicts": "trial spawner side face, inactive ominous variant: dark steel frame with black graphite cavities",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    68,
+    85
+   ],
+   "share": 0.289,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    24,
+    44,
+    57
+   ],
+   "share": 0.268,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    37,
+    53
+   ],
+   "share": 0.201,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    98,
+    120
+   ],
+   "share": 0.191,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    6,
+    8,
+    8
+   ],
+   "share": 0.031,
+   "material": "graphite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    25,
+    32,
+    32
+   ],
+   "share": 0.021,
+   "material": "graphite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

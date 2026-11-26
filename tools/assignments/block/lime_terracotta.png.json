@@ -1,0 +1,73 @@
+{
+ "path": "block/lime_terracotta.png",
+ "depicts": "lime stained terracotta block, fired clay ceramic 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    103,
+    117,
+    52
+   ],
+   "share": 0.391,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    104,
+    119,
+    54
+   ],
+   "share": 0.227,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    115,
+    50
+   ],
+   "share": 0.168,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    121,
+    56
+   ],
+   "share": 0.117,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    108,
+    119,
+    55
+   ],
+   "share": 0.078,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    114,
+    49
+   ],
+   "share": 0.02,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/scaffolding_bottom.png",
+ "depicts": "scaffolding bottom face (bamboo pole lattice with brown ties, transparent gaps)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    187,
+    168,
+    76
+   ],
+   "share": 0.393,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    200,
+    177,
+    77
+   ],
+   "share": 0.143,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    194,
+    94
+   ],
+   "share": 0.143,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    135,
+    65
+   ],
+   "share": 0.143,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    187,
+    80
+   ],
+   "share": 0.143,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    217,
+    126
+   ],
+   "share": 0.036,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  }
+ ]
+}

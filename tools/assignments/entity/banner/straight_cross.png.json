@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/straight_cross.png",
+ "depicts": "banner straight-cross pattern layer: dyed wool cloth plus-shaped stripes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.45,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.31,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.14,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.058,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    223,
+    223,
+    223
+   ],
+   "share": 0.039,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.002,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

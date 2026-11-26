@@ -1,0 +1,73 @@
+{
+ "path": "entity/armadillo/armadillo_baby.png",
+ "depicts": "baby armadillo mob: pinkish skin with small bony shell plates",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    187,
+    117,
+    112
+   ],
+   "share": 0.313,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    130,
+    70,
+    70
+   ],
+   "share": 0.297,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    144,
+    134
+   ],
+   "share": 0.239,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    243,
+    167,
+    153
+   ],
+   "share": 0.142,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    251,
+    243
+   ],
+   "share": 0.006,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    36,
+    41,
+    56
+   ],
+   "share": 0.003,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

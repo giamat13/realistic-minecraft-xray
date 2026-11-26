@@ -1,0 +1,62 @@
+{
+ "path": "block/sculk_sensor_tendril_active.png",
+ "depicts": "sculk sensor active tendril (thin sculk growth strand with cyan glow; animated strip, frame 1)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.375,
+   "material": "sculk",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    8,
+    110,
+    104
+   ],
+   "share": 0.281,
+   "material": "sculk",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.156,
+   "material": "phosphor",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    3,
+    65,
+    80
+   ],
+   "share": 0.125,
+   "material": "sculk",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    5,
+    42,
+    50
+   ],
+   "share": 0.062,
+   "material": "sculk",
+   "thickness_cm": 3.0
+  }
+ ]
+}

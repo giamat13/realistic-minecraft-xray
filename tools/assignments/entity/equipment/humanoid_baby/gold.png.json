@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid_baby/gold.png",
+ "depicts": "Baby gold armour layer (gold plate with pale highlights)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    232,
+    180,
+    41
+   ],
+   "share": 0.434,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    211,
+    150,
+    50
+   ],
+   "share": 0.26,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    254,
+    245,
+    100
+   ],
+   "share": 0.164,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    216,
+    61
+   ],
+   "share": 0.115,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    255,
+    189
+   ],
+   "share": 0.016,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.01,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/trial_spawner_top_inactive.png",
+ "depicts": "trial spawner top face, inactive: dark steel plate with light highlights",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    66,
+    83
+   ],
+   "share": 0.402,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    98,
+    120
+   ],
+   "share": 0.191,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    118,
+    134
+   ],
+   "share": 0.188,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    31,
+    38,
+    53
+   ],
+   "share": 0.172,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    166,
+    192,
+    192
+   ],
+   "share": 0.031,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    129,
+    154,
+    155
+   ],
+   "share": 0.016,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

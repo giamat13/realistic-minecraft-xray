@@ -1,0 +1,73 @@
+{
+ "path": "block/potted_flowering_azalea_bush_top.png",
+ "depicts": "potted flowering azalea top view: leaves with pink blossoms",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    138,
+    47
+   ],
+   "share": 0.391,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    100,
+    114,
+    51
+   ],
+   "share": 0.328,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    102,
+    41
+   ],
+   "share": 0.125,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    186,
+    98,
+    206
+   ],
+   "share": 0.062,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    158,
+    80,
+    136
+   ],
+   "share": 0.047,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    208,
+    123,
+    227
+   ],
+   "share": 0.047,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

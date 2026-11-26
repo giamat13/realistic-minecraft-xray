@@ -1,0 +1,18 @@
+{
+ "path": "block/yellow_stained_glass.png",
+ "depicts": "yellow stained glass block, dyed glass",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    229,
+    229,
+    51
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

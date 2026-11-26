@@ -1,0 +1,73 @@
+{
+ "path": "block/lime_wool.png",
+ "depicts": "lime wool block: dyed sheep wool fibres, 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    103,
+    177,
+    24
+   ],
+   "share": 0.25,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    117,
+    189,
+    24
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    195,
+    27
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    110,
+    183,
+    24
+   ],
+   "share": 0.16,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    97,
+    172,
+    24
+   ],
+   "share": 0.137,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    204,
+    38
+   ],
+   "share": 0.082,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

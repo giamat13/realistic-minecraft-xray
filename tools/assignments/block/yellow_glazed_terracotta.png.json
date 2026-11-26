@@ -1,0 +1,73 @@
+{
+ "path": "block/yellow_glazed_terracotta.png",
+ "depicts": "yellow glazed terracotta block with orange and white pattern (glaze over fired clay)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    241,
+    176,
+    22
+   ],
+   "share": 0.375,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    236,
+    158
+   ],
+   "share": 0.262,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    165,
+    119,
+    77
+   ],
+   "share": 0.172,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    242,
+    190
+   ],
+   "share": 0.105,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    217,
+    69
+   ],
+   "share": 0.086,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    234,
+    192,
+    89
+   ],
+   "share": 0.0,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

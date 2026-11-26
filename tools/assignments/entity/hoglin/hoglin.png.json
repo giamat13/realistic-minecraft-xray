@@ -1,0 +1,73 @@
+{
+ "path": "entity/hoglin/hoglin.png",
+ "depicts": "hoglin: reddish-brown furred boar-like beast; hairy hide over muscle, pale tusks, dark hooves/snout (fictional, closest analogue a boar)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    109,
+    87
+   ],
+   "share": 0.576,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    223,
+    157,
+    118
+   ],
+   "share": 0.291,
+   "material": "muscle",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    38,
+    40,
+    40
+   ],
+   "share": 0.079,
+   "material": "keratin",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    84,
+    88,
+    88
+   ],
+   "share": 0.032,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    245,
+    241,
+    164
+   ],
+   "share": 0.02,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.002,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

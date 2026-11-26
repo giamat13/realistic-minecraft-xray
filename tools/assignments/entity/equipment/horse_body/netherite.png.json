@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/horse_body/netherite.png",
+ "depicts": "Netherite horse armour plates (netherite with gilded bronze trim, gold inlay and steel outline)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    52,
+    59
+   ],
+   "share": 0.569,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    90,
+    98
+   ],
+   "share": 0.123,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    13,
+    13,
+    13
+   ],
+   "share": 0.121,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    197,
+    105,
+    5
+   ],
+   "share": 0.109,
+   "material": "bronze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    44,
+    6
+   ],
+   "share": 0.05,
+   "material": "netherite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    218,
+    73
+   ],
+   "share": 0.028,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

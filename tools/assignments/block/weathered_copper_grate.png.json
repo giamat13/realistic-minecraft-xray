@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_copper_grate.png",
+ "depicts": "weathered copper grate: copper mesh block with open holes (solid fraction about 70 percent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    163,
+    119
+   ],
+   "share": 0.413,
+   "material": "copper",
+   "thickness_cm": 70.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    148,
+    91
+   ],
+   "share": 0.246,
+   "material": "copper",
+   "thickness_cm": 70.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    183,
+    153
+   ],
+   "share": 0.134,
+   "material": "copper",
+   "thickness_cm": 70.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    106,
+    113,
+    71
+   ],
+   "share": 0.078,
+   "material": "copper",
+   "thickness_cm": 70.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    113,
+    100
+   ],
+   "share": 0.078,
+   "material": "copper",
+   "thickness_cm": 70.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.05,
+   "material": "copper",
+   "thickness_cm": 70.0
+  }
+ ]
+}

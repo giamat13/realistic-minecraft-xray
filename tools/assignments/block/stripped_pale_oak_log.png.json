@@ -1,0 +1,62 @@
+{
+ "path": "block/stripped_pale_oak_log.png",
+ "depicts": "stripped pale oak log side: bark removed, near-white exposed pale oak wood",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    248,
+    240,
+    240
+   ],
+   "share": 0.367,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    251,
+    248
+   ],
+   "share": 0.254,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    240,
+    231,
+    229
+   ],
+   "share": 0.238,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    235,
+    224,
+    224
+   ],
+   "share": 0.098,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    230,
+    219,
+    219
+   ],
+   "share": 0.043,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

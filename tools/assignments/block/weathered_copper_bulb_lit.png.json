@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_copper_bulb_lit.png",
+ "depicts": "weathered copper bulb, lit: copper block with a glowing lamp inside",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    221,
+    150,
+    68
+   ],
+   "share": 0.297,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    104,
+    155,
+    106
+   ],
+   "share": 0.289,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    84,
+    115,
+    85
+   ],
+   "share": 0.141,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    205,
+    118
+   ],
+   "share": 0.125,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    121,
+    182,
+    148
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    132,
+    139,
+    112
+   ],
+   "share": 0.023,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

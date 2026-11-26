@@ -1,0 +1,18 @@
+{
+ "path": "entity/banner/piglin.png",
+ "depicts": "banner piglin-snout pattern layer: dyed wool cloth small tusk/snout motif",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 1.0,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/pink_concrete_powder.png",
+ "depicts": "pink concrete powder, dry loose cement powder (full block)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    152,
+    180
+   ],
+   "share": 0.324,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    223,
+    139,
+    170
+   ],
+   "share": 0.305,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    235,
+    167,
+    192
+   ],
+   "share": 0.242,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    238,
+    188,
+    207
+   ],
+   "share": 0.066,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    213,
+    126,
+    161
+   ],
+   "share": 0.051,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    244,
+    206,
+    221
+   ],
+   "share": 0.012,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

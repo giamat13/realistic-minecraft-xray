@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid_leggings/iron.png",
+ "depicts": "Iron leggings armour layer (iron plate with bright highlights)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    183,
+    183,
+    183
+   ],
+   "share": 0.386,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    194,
+    194,
+    194
+   ],
+   "share": 0.318,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    209,
+    209
+   ],
+   "share": 0.164,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.089,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.029,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.014,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

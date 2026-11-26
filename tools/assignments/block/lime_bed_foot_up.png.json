@@ -1,0 +1,51 @@
+{
+ "path": "block/lime_bed_foot_up.png",
+ "depicts": "lime bed foot end, top face: dyed green wool mattress",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    123,
+    198,
+    24
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    186,
+    24
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    206,
+    41
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    182,
+    24
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

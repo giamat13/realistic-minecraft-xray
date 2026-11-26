@@ -1,0 +1,40 @@
+{
+ "path": "entity/enderman/enderman.png",
+ "depicts": "enderman mob skin: near-black hide over soft body, small white accent pixels (bone-like teeth/markings)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    22,
+    22,
+    22
+   ],
+   "share": 0.624,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.371,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.006,
+   "material": "bone",
+   "thickness_cm": 0.3
+  }
+ ]
+}

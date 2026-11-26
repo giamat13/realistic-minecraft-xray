@@ -1,0 +1,73 @@
+{
+ "path": "block/loom_side.png",
+ "depicts": "loom side face: oak wood panels and grain on a solid 1 m block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    123,
+    74,
+    61
+   ],
+   "share": 0.5,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    188,
+    147,
+    90
+   ],
+   "share": 0.152,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    136,
+    92,
+    63
+   ],
+   "share": 0.141,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    202,
+    165,
+    112
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    128,
+    72
+   ],
+   "share": 0.051,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    84,
+    50,
+    41
+   ],
+   "share": 0.027,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

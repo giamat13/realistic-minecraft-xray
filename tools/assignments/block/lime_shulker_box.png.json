@@ -1,0 +1,73 @@
+{
+ "path": "block/lime_shulker_box.png",
+ "depicts": "lime shulker box: closed chitin-based shell (1 m cube per block rule) with panel seams and lighter outline",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    111,
+    187,
+    24
+   ],
+   "share": 0.543,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    173,
+    25
+   ],
+   "share": 0.176,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    141,
+    19
+   ],
+   "share": 0.117,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    155,
+    22
+   ],
+   "share": 0.105,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    72,
+    132,
+    18
+   ],
+   "share": 0.051,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    90,
+    163,
+    23
+   ],
+   "share": 0.008,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

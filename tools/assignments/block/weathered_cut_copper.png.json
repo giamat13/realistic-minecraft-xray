@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_cut_copper.png",
+ "depicts": "weathered cut copper block: bulk copper metal (1 m block) with green patina",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    163,
+    119
+   ],
+   "share": 0.277,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    146,
+    89
+   ],
+   "share": 0.215,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.16,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    113,
+    100
+   ],
+   "share": 0.117,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    106,
+    113,
+    71
+   ],
+   "share": 0.117,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    183,
+    153
+   ],
+   "share": 0.113,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

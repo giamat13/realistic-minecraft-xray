@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_oak_log.png",
+ "depicts": "stripped oak log side: bark removed, pale tan exposed oak wood with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    158,
+    98
+   ],
+   "share": 0.281,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    176,
+    143,
+    85
+   ],
+   "share": 0.277,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    149,
+    88
+   ],
+   "share": 0.195,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    163,
+    130,
+    75
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    154,
+    123,
+    69
+   ],
+   "share": 0.07,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    146,
+    117,
+    67
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

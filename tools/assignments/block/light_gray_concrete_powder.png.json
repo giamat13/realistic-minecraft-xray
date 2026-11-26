@@ -1,0 +1,73 @@
+{
+ "path": "block/light_gray_concrete_powder.png",
+ "depicts": "light gray concrete powder block face: loose dry concrete premix (treated as concrete)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    154,
+    155,
+    148
+   ],
+   "share": 0.316,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    147,
+    147,
+    139
+   ],
+   "share": 0.258,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    161,
+    161,
+    156
+   ],
+   "share": 0.215,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    170,
+    170,
+    165
+   ],
+   "share": 0.098,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    140,
+    140,
+    132
+   ],
+   "share": 0.09,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    182,
+    182,
+    175
+   ],
+   "share": 0.023,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

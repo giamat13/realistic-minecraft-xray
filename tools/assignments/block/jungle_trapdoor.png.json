@@ -1,0 +1,73 @@
+{
+ "path": "block/jungle_trapdoor.png",
+ "depicts": "jungle wood trapdoor: softwood slab panels with iron hinge pieces; real slab ~4.5 cm",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    182,
+    133,
+    97
+   ],
+   "share": 0.449,
+   "material": "wood_soft",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    111,
+    77,
+    51
+   ],
+   "share": 0.28,
+   "material": "wood_soft",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    112,
+    73
+   ],
+   "share": 0.243,
+   "material": "wood_soft",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.014,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    51,
+    51
+   ],
+   "share": 0.009,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.005,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

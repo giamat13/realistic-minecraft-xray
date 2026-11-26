@@ -1,0 +1,73 @@
+{
+ "path": "block/sand.png",
+ "depicts": "sand block (loose beige quartz-rich sand grains)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    218,
+    207,
+    163
+   ],
+   "share": 0.422,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    196,
+    150
+   ],
+   "share": 0.262,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    219,
+    176
+   ],
+   "share": 0.227,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    209,
+    186,
+    138
+   ],
+   "share": 0.039,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    228,
+    187
+   ],
+   "share": 0.031,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    235,
+    203
+   ],
+   "share": 0.02,
+   "material": "sand",
+   "thickness_cm": 100.0
+  }
+ ]
+}

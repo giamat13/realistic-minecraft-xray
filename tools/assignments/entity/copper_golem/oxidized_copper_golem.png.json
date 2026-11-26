@@ -1,0 +1,73 @@
+{
+ "path": "entity/copper_golem/oxidized_copper_golem.png",
+ "depicts": "oxidised copper golem (alternate file): copper shell covered in green verdigris patina",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    87,
+    176,
+    145
+   ],
+   "share": 0.229,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    78,
+    150,
+    119
+   ],
+   "share": 0.206,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    197,
+    159
+   ],
+   "share": 0.195,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    49,
+    84,
+    70
+   ],
+   "share": 0.133,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    59,
+    117,
+    97
+   ],
+   "share": 0.129,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    54,
+    102,
+    85
+   ],
+   "share": 0.108,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  }
+ ]
+}

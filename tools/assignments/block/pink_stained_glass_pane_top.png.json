@@ -1,0 +1,51 @@
+{
+ "path": "block/pink_stained_glass_pane_top.png",
+ "depicts": "top of a pink stained glass pane, tinted translucent glass strip",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    241,
+    127,
+    165
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    122,
+    158
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    118,
+    154
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    235,
+    124,
+    161
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

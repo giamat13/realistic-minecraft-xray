@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_copper_lantern.png",
+ "depicts": "weathered copper lantern: thin copper-walled lantern with glowing lamp inside",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    105,
+    92
+   ],
+   "share": 0.491,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    143,
+    88
+   ],
+   "share": 0.368,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    235,
+    153
+   ],
+   "share": 0.075,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.028,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.019,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    220,
+    248,
+    220
+   ],
+   "share": 0.019,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  }
+ ]
+}

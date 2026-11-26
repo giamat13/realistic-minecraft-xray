@@ -1,0 +1,40 @@
+{
+ "path": "block/light_gray_concrete.png",
+ "depicts": "light gray concrete block face: solid hardened concrete",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    125,
+    125,
+    115
+   ],
+   "share": 0.469,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    126,
+    126,
+    116
+   ],
+   "share": 0.281,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    124,
+    114
+   ],
+   "share": 0.25,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/sandstone_bottom.png",
+ "depicts": "sandstone block bottom face (pressed sand, sandstone material)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    218,
+    210,
+    163
+   ],
+   "share": 0.297,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    209,
+    186,
+    138
+   ],
+   "share": 0.211,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    219,
+    176
+   ],
+   "share": 0.16,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    198,
+    174,
+    113
+   ],
+   "share": 0.145,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    228,
+    187
+   ],
+   "share": 0.109,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    213,
+    196,
+    150
+   ],
+   "share": 0.078,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

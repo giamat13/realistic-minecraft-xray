@@ -1,0 +1,73 @@
+{
+ "path": "entity/bee/bee_angry_nectar.png",
+ "depicts": "angry nectar-carrying honey bee mob skin: fatty yellow abdomen, dark brown head, orange stripes, cream legs, red anger marks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    195,
+    87
+   ],
+   "share": 0.319,
+   "material": "fat",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    45,
+    36
+   ],
+   "share": 0.23,
+   "material": "shell_chitin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    109,
+    48
+   ],
+   "share": 0.181,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    232,
+    213
+   ],
+   "share": 0.121,
+   "material": "shell_chitin",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    33,
+    19,
+    15
+   ],
+   "share": 0.121,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    209,
+    4,
+    26
+   ],
+   "share": 0.028,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

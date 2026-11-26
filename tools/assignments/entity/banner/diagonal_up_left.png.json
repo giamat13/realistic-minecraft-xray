@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/diagonal_up_left.png",
+ "depicts": "banner diagonal-up-left pattern layer: dyed wool cloth diagonal band",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.355,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.239,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.217,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.143,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.04,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    210,
+    210,
+    210
+   ],
+   "share": 0.005,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_copper.png",
+ "depicts": "weathered copper block: bulk copper metal (1 m block) with green oxide patina, patina is a surface layer so the bulk stays copper",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    164,
+    119
+   ],
+   "share": 0.398,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    111,
+    147,
+    90
+   ],
+   "share": 0.273,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    183,
+    153
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.078,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    106,
+    113,
+    71
+   ],
+   "share": 0.07,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    113,
+    100
+   ],
+   "share": 0.055,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

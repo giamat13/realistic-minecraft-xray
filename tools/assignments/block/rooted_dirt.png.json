@@ -1,0 +1,73 @@
+{
+ "path": "block/rooted_dirt.png",
+ "depicts": "rooted dirt block (dirt with pale plant roots and pebbles through it)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    93,
+    64
+   ],
+   "share": 0.578,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    128,
+    97
+   ],
+   "share": 0.23,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    89,
+    61,
+    41
+   ],
+   "share": 0.094,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    187,
+    151,
+    137
+   ],
+   "share": 0.086,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    108,
+    108,
+    108
+   ],
+   "share": 0.008,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    135,
+    135,
+    135
+   ],
+   "share": 0.004,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

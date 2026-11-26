@@ -1,0 +1,73 @@
+{
+ "path": "effect/dither.png",
+ "depicts": "4x4 grey dither pattern used for transparency/fade effects, abstract greyscale noise",
+ "kind": "effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.25,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    238,
+    238,
+    238
+   ],
+   "share": 0.188,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    68,
+    68,
+    68
+   ],
+   "share": 0.188,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    187,
+    187,
+    187
+   ],
+   "share": 0.188,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    8,
+    8,
+    8
+   ],
+   "share": 0.125,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    34,
+    34,
+    34
+   ],
+   "share": 0.062,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

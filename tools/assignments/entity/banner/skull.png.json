@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/skull.png",
+ "depicts": "banner skull pattern layer: dyed wool cloth skull motif",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.315,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.2,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    225,
+    225
+   ],
+   "share": 0.185,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.154,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.146,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

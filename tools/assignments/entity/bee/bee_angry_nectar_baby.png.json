@@ -1,0 +1,73 @@
+{
+ "path": "entity/bee/bee_angry_nectar_baby.png",
+ "depicts": "baby angry nectar honey bee mob skin: pale cream chitin, beige fatty abdomen, dark orange stripes, yellow nectar stripe, red anger marks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    232,
+    215
+   ],
+   "share": 0.299,
+   "material": "shell_chitin",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    190,
+    151
+   ],
+   "share": 0.285,
+   "material": "fat",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    163,
+    77,
+    24
+   ],
+   "share": 0.146,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    190,
+    80
+   ],
+   "share": 0.131,
+   "material": "fat",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    67,
+    40,
+    35
+   ],
+   "share": 0.095,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    9,
+    28
+   ],
+   "share": 0.044,
+   "material": "shell_chitin",
+   "thickness_cm": 0.25
+  }
+ ]
+}

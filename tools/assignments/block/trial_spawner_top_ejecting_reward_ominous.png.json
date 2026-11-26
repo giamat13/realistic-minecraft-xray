@@ -1,0 +1,73 @@
+{
+ "path": "block/trial_spawner_top_ejecting_reward_ominous.png",
+ "depicts": "trial spawner top face ejecting reward, ominous variant: near-black cavity, dark steel plate, cyan glow",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    10,
+    8,
+    19
+   ],
+   "share": 0.375,
+   "material": "graphite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    36,
+    52,
+    67
+   ],
+   "share": 0.34,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    107,
+    127
+   ],
+   "share": 0.223,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    1,
+    138,
+    138
+   ],
+   "share": 0.031,
+   "material": "phosphor",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    255,
+    255
+   ],
+   "share": 0.016,
+   "material": "phosphor",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    39,
+    204,
+    204
+   ],
+   "share": 0.016,
+   "material": "phosphor",
+   "thickness_cm": 5.0
+  }
+ ]
+}

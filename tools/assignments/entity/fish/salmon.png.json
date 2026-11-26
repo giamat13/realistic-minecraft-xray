@@ -1,0 +1,73 @@
+{
+ "path": "entity/fish/salmon.png",
+ "depicts": "salmon (~30 cm): red muscle flesh, pale belly fat, dorsal/fin keratin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    55,
+    52
+   ],
+   "share": 0.4,
+   "material": "muscle",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    186,
+    185
+   ],
+   "share": 0.309,
+   "material": "fat",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    98,
+    81
+   ],
+   "share": 0.134,
+   "material": "muscle",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    105,
+    37
+   ],
+   "share": 0.124,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    83,
+    116,
+    90
+   ],
+   "share": 0.029,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

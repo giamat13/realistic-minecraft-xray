@@ -1,0 +1,73 @@
+{
+ "path": "entity/hoglin/zoglin.png",
+ "depicts": "zoglin: undead rotting hoglin; pink decayed flesh, pale bone tusks, dark hooves, mossy rot patches",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    210,
+    108,
+    103
+   ],
+   "share": 0.485,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    221,
+    152,
+    150
+   ],
+   "share": 0.235,
+   "material": "muscle",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    214,
+    210,
+    211
+   ],
+   "share": 0.087,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    39,
+    39,
+    38
+   ],
+   "share": 0.074,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    127,
+    112,
+    84
+   ],
+   "share": 0.067,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    86,
+    100,
+    50
+   ],
+   "share": 0.053,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

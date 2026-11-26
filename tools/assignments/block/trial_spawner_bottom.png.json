@@ -1,0 +1,51 @@
+{
+ "path": "block/trial_spawner_bottom.png",
+ "depicts": "trial spawner bottom face: dark blue-grey metal plating with riveted grid",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    24,
+    44,
+    57
+   ],
+   "share": 0.271,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    36,
+    53
+   ],
+   "share": 0.266,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    68,
+    85
+   ],
+   "share": 0.255,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    98,
+    120
+   ],
+   "share": 0.208,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

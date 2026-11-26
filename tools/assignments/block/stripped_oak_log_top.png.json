@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_oak_log_top.png",
+ "depicts": "stripped oak log end grain: pale tan rings with heartwood spokes",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    143,
+    85
+   ],
+   "share": 0.273,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    185,
+    149,
+    95
+   ],
+   "share": 0.227,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    125,
+    102,
+    57
+   ],
+   "share": 0.172,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    116,
+    65
+   ],
+   "share": 0.148,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    132,
+    77
+   ],
+   "share": 0.098,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    111,
+    66
+   ],
+   "share": 0.082,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/loom_top.png",
+ "depicts": "loom top face: oak wood frame with warp-thread strands (decal) on a solid 1 m wooden block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    89,
+    70,
+    42
+   ],
+   "share": 0.277,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    176,
+    158,
+    150
+   ],
+   "share": 0.23,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    166,
+    132,
+    85
+   ],
+   "share": 0.184,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    197,
+    160,
+    106
+   ],
+   "share": 0.121,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    50,
+    39,
+    24
+   ],
+   "share": 0.105,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    211,
+    192,
+    180
+   ],
+   "share": 0.082,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

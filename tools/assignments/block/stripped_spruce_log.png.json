@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_spruce_log.png",
+ "depicts": "stripped spruce log side: bark removed, golden-brown exposed conifer wood with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    122,
+    92,
+    55
+   ],
+   "share": 0.324,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    103,
+    86,
+    49
+   ],
+   "share": 0.242,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    97,
+    56
+   ],
+   "share": 0.199,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    112,
+    89,
+    52
+   ],
+   "share": 0.129,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    97,
+    81,
+    45
+   ],
+   "share": 0.086,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    108,
+    88,
+    51
+   ],
+   "share": 0.02,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

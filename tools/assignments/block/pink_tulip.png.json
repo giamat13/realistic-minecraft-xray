@@ -1,0 +1,73 @@
+{
+ "path": "block/pink_tulip.png",
+ "depicts": "pink tulip flower sprite, thin green stem with pink petals",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    23,
+    124,
+    4
+   ],
+   "share": 0.268,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    77,
+    147,
+    42
+   ],
+   "share": 0.268,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.244,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    232,
+    188,
+    249
+   ],
+   "share": 0.171,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    246,
+    226,
+    255
+   ],
+   "share": 0.049,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    99,
+    157,
+    78
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

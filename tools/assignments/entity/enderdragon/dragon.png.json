@@ -1,0 +1,73 @@
+{
+ "path": "entity/enderdragon/dragon.png",
+ "depicts": "ender dragon mob skin: dark scaled hide over muscle body, grey bony wing and spine parts, purple glowing eye/energy accents (fictional creature, closest analogue: large reptile/dragon)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    24,
+    24,
+    24
+   ],
+   "share": 0.845,
+   "material": "muscle",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    124,
+    124
+   ],
+   "share": 0.111,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    96,
+    96,
+    96
+   ],
+   "share": 0.04,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    224,
+    121,
+    250
+   ],
+   "share": 0.002,
+   "material": "plasma_particle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    204,
+    0,
+    250
+   ],
+   "share": 0.001,
+   "material": "plasma_particle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    0,
+    188
+   ],
+   "share": 0.0,
+   "material": "plasma_particle",
+   "thickness_cm": 0.5
+  }
+ ]
+}

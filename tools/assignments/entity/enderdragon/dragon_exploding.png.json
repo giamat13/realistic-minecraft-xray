@@ -1,0 +1,18 @@
+{
+ "path": "entity/enderdragon/dragon_exploding.png",
+ "depicts": "ender dragon death-explosion white flash overlay (translucent flash over the dragon, fire-like)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "fire",
+   "thickness_cm": 1.0
+  }
+ ]
+}

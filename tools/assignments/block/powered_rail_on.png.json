@@ -1,0 +1,73 @@
+{
+ "path": "block/powered_rail_on.png",
+ "depicts": "powered rail active: gold rail body with bright redstone stripe on wooden ties",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    129,
+    117,
+    94
+   ],
+   "share": 0.326,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    220,
+    166,
+    37
+   ],
+   "share": 0.186,
+   "material": "gold",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    162,
+    162,
+    162
+   ],
+   "share": 0.186,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    73,
+    45
+   ],
+   "share": 0.14,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    151,
+    3,
+    0
+   ],
+   "share": 0.093,
+   "material": "redstone_dust",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    212,
+    1,
+    2
+   ],
+   "share": 0.07,
+   "material": "redstone_dust",
+   "thickness_cm": 2.0
+  }
+ ]
+}

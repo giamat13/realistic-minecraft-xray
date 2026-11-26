@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/small_stripes.png",
+ "depicts": "banner small-stripes pattern layer: dyed wool cloth thin vertical stripes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.448,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    227,
+    227,
+    227
+   ],
+   "share": 0.351,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    225,
+    225
+   ],
+   "share": 0.134,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.048,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    218,
+    218,
+    218
+   ],
+   "share": 0.016,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    210,
+    210,
+    210
+   ],
+   "share": 0.003,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

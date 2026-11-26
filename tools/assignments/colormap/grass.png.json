@@ -1,0 +1,73 @@
+{
+ "path": "colormap/grass.png",
+ "depicts": "biome colormap for grass: green grass colours, lookup data (closest analogue grass)",
+ "kind": "colormap",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.498,
+   "material": "grass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    184,
+    123
+   ],
+   "share": 0.16,
+   "material": "grass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    191,
+    88
+   ],
+   "share": 0.139,
+   "material": "grass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    163,
+    186,
+    94
+   ],
+   "share": 0.128,
+   "material": "grass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    198,
+    69
+   ],
+   "share": 0.075,
+   "material": "grass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    196,
+    222,
+    176
+   ],
+   "share": 0.0,
+   "material": "grass",
+   "thickness_cm": 1.0
+  }
+ ]
+}

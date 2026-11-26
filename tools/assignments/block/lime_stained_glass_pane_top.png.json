@@ -1,0 +1,51 @@
+{
+ "path": "block/lime_stained_glass_pane_top.png",
+ "depicts": "lime stained glass pane top: dyed glass plate 2px wide, vertical beam crosses the 16px (100 cm) pane height",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    127,
+    203,
+    25
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    195,
+    24
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    189,
+    23
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    124,
+    198,
+    24
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

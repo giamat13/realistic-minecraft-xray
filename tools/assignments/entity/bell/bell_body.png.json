@@ -1,0 +1,73 @@
+{
+ "path": "entity/bell/bell_body.png",
+ "depicts": "brass-yellow cast bell body with patina shading and rim (bell skin): cast bronze bell",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    253,
+    220,
+    71
+   ],
+   "share": 0.556,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    246,
+    141
+   ],
+   "share": 0.157,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    128,
+    98,
+    13
+   ],
+   "share": 0.13,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    230,
+    175,
+    36
+   ],
+   "share": 0.083,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    255,
+    189
+   ],
+   "share": 0.056,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    170,
+    134,
+    35
+   ],
+   "share": 0.019,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  }
+ ]
+}

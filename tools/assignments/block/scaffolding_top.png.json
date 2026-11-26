@@ -1,0 +1,73 @@
+{
+ "path": "block/scaffolding_top.png",
+ "depicts": "scaffolding top platform (bamboo planks with bamboo pole ends, transparent holes)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    124,
+    74
+   ],
+   "share": 0.422,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    198,
+    177,
+    78
+   ],
+   "share": 0.207,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    104,
+    71
+   ],
+   "share": 0.198,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    199,
+    100
+   ],
+   "share": 0.069,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    87,
+    53
+   ],
+   "share": 0.069,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    69,
+    38
+   ],
+   "share": 0.034,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/pink_bed_head_up.png",
+ "depicts": "top view of a pink bed head half, white pillow and pink wool blanket",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.219,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    204,
+    210,
+    210
+   ],
+   "share": 0.219,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    231,
+    113,
+    155
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    189,
+    84,
+    124
+   ],
+   "share": 0.18,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    204,
+    165,
+    178
+   ],
+   "share": 0.117,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    152,
+    49,
+    87
+   ],
+   "share": 0.062,
+   "material": "wool",
+   "thickness_cm": 56.0
+  }
+ ]
+}

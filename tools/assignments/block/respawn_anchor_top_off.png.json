@@ -1,0 +1,73 @@
+{
+ "path": "block/respawn_anchor_top_off.png",
+ "depicts": "respawn anchor top face, uncharged (dark crying obsidian centre with purple crystal rim)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    6,
+    3,
+    11
+   ],
+   "share": 0.391,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    34,
+    28,
+    47
+   ],
+   "share": 0.387,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    87,
+    63,
+    127
+   ],
+   "share": 0.156,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    43,
+    1,
+    120
+   ],
+   "share": 0.043,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    131,
+    8,
+    228
+   ],
+   "share": 0.012,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    6,
+    171
+   ],
+   "share": 0.012,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  }
+ ]
+}

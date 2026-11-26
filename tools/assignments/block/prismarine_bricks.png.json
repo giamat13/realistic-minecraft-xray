@@ -1,6 +1,6 @@
 {
  "path": "block/prismarine_bricks.png",
- "depicts": "prismarine bricks (sea-green calcite-based stone bricks with dark grout)",
+ "depicts": "prismarine bricks (sea-green stone bricks with dark grout)",
  "kind": "block",
  "clusters": [
   {
@@ -11,7 +11,7 @@
     160
    ],
    "share": 0.383,
-   "material": "calcite",
+   "material": "prismarine",
    "thickness_cm": 100.0
   },
   {
@@ -22,7 +22,7 @@
     174
    ],
    "share": 0.23,
-   "material": "calcite",
+   "material": "prismarine",
    "thickness_cm": 100.0
   },
   {
@@ -33,7 +33,7 @@
     111
    ],
    "share": 0.16,
-   "material": "calcite",
+   "material": "prismarine",
    "thickness_cm": 100.0
   },
   {
@@ -44,7 +44,7 @@
     199
    ],
    "share": 0.09,
-   "material": "calcite",
+   "material": "prismarine",
    "thickness_cm": 100.0
   },
   {
@@ -55,7 +55,7 @@
     131
    ],
    "share": 0.074,
-   "material": "calcite",
+   "material": "prismarine",
    "thickness_cm": 100.0
   },
   {
@@ -66,7 +66,7 @@
     188
    ],
    "share": 0.062,
-   "material": "calcite",
+   "material": "prismarine",
    "thickness_cm": 100.0
   }
  ]

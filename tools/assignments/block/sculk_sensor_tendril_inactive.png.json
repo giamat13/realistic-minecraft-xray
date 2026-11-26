@@ -1,0 +1,51 @@
+{
+ "path": "block/sculk_sensor_tendril_inactive.png",
+ "depicts": "sculk sensor inactive tendril (thin sculk growth strand, dark; animated strip, frame 1)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    6,
+    39,
+    46
+   ],
+   "share": 0.594,
+   "material": "sculk",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    22,
+    74,
+    87
+   ],
+   "share": 0.219,
+   "material": "sculk",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    29,
+    117,
+    137
+   ],
+   "share": 0.188,
+   "material": "sculk",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    14,
+    61,
+    72
+   ],
+   "share": 0.0,
+   "material": "sculk",
+   "thickness_cm": 3.0
+  }
+ ]
+}

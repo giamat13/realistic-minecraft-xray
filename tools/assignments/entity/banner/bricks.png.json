@@ -1,0 +1,73 @@
+{
+ "path": "entity/banner/bricks.png",
+ "depicts": "banner bricks pattern layer: dyed wool brick motif",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    226,
+    226
+   ],
+   "share": 0.26,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    230,
+    230,
+    230
+   ],
+   "share": 0.237,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.237,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.183,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.055,
+   "material": "wool",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    215,
+    215,
+    215
+   ],
+   "share": 0.028,
+   "material": "wool",
+   "thickness_cm": 0.1
+  }
+ ]
+}

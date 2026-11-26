@@ -1,0 +1,73 @@
+{
+ "path": "block/yellow_terracotta.png",
+ "depicts": "yellow unglazed terracotta block, fired clay",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    134,
+    36
+   ],
+   "share": 0.32,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    185,
+    131,
+    34
+   ],
+   "share": 0.273,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    184,
+    130,
+    33
+   ],
+   "share": 0.141,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    189,
+    135,
+    37
+   ],
+   "share": 0.137,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    137,
+    38
+   ],
+   "share": 0.109,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    180,
+    130,
+    32
+   ],
+   "share": 0.02,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

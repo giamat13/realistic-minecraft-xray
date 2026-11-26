@@ -1,0 +1,29 @@
+{
+ "path": "entity/enderman/enderman_eyes.png",
+ "depicts": "enderman glowing purple eye overlay (energy glow)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    121,
+    250
+   ],
+   "share": 0.667,
+   "material": "plasma_particle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    204,
+    0,
+    250
+   ],
+   "share": 0.333,
+   "material": "plasma_particle",
+   "thickness_cm": 0.5
+  }
+ ]
+}

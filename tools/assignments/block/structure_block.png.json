@@ -1,0 +1,73 @@
+{
+ "path": "block/structure_block.png",
+ "depicts": "structure block: dark purple-black casing with lavender logic/panel inlays (an engineering-style control block)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    40,
+    32,
+    43
+   ],
+   "share": 0.344,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    16,
+    16
+   ],
+   "share": 0.258,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    149,
+    119,
+    149
+   ],
+   "share": 0.18,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    189,
+    215
+   ],
+   "share": 0.109,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    190,
+    156,
+    190
+   ],
+   "share": 0.109,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    89,
+    74,
+    90
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/lime_glazed_terracotta.png",
+ "depicts": "lime glazed terracotta block: terracotta ceramic body (1 m cube) with a painted lime/yellow pattern; glaze skin negligible along the beam",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    130,
+    203,
+    31
+   ],
+   "share": 0.309,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    164,
+    23
+   ],
+   "share": 0.234,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    175,
+    21
+   ],
+   "share": 0.184,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    170,
+    233,
+    101
+   ],
+   "share": 0.148,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    238,
+    169
+   ],
+   "share": 0.125,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    163,
+    198,
+    55
+   ],
+   "share": 0.0,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

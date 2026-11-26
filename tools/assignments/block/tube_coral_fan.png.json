@@ -1,0 +1,73 @@
+{
+ "path": "block/tube_coral_fan.png",
+ "depicts": "tube coral fan: thin flat blue coral fan plate (sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    63,
+    106,
+    229
+   ],
+   "share": 0.329,
+   "material": "calcite",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    79,
+    221
+   ],
+   "share": 0.278,
+   "material": "calcite",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    33,
+    67,
+    164
+   ],
+   "share": 0.203,
+   "material": "calcite",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    60,
+    133,
+    229
+   ],
+   "share": 0.139,
+   "material": "calcite",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    28,
+    55,
+    136
+   ],
+   "share": 0.051,
+   "material": "calcite",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    51,
+    92,
+    209
+   ],
+   "share": 0.0,
+   "material": "calcite",
+   "thickness_cm": 1.0
+  }
+ ]
+}

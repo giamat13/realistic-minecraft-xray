@@ -1,0 +1,73 @@
+{
+ "path": "block/jungle_shelf.png",
+ "depicts": "jungle shelf (chiseled softwood block with slots): solid light softwood, full block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    126,
+    71
+   ],
+   "share": 0.338,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    110,
+    65
+   ],
+   "share": 0.263,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    143,
+    99
+   ],
+   "share": 0.176,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    132,
+    88
+   ],
+   "share": 0.112,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    128,
+    96,
+    54
+   ],
+   "share": 0.062,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    119,
+    85,
+    40
+   ],
+   "share": 0.049,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

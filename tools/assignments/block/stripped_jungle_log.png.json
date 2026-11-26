@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_jungle_log.png",
+ "depicts": "stripped jungle log side: bark removed, tan-orange exposed jungle wood with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    125,
+    70
+   ],
+   "share": 0.215,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    180,
+    134,
+    90
+   ],
+   "share": 0.211,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    141,
+    97
+   ],
+   "share": 0.207,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    132,
+    77
+   ],
+   "share": 0.172,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    174,
+    128,
+    84
+   ],
+   "share": 0.145,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    191,
+    145,
+    101
+   ],
+   "share": 0.051,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

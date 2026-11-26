@@ -1,0 +1,73 @@
+{
+ "path": "entity/fish/cod.png",
+ "depicts": "cod (fish, ~30 cm; body depth ~6 cm): muscle fillet with pale belly fat and skin/fin keratin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    203,
+    181,
+    151
+   ],
+   "share": 0.464,
+   "material": "muscle",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    109,
+    87
+   ],
+   "share": 0.352,
+   "material": "muscle",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    182,
+    149,
+    106
+   ],
+   "share": 0.122,
+   "material": "muscle",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    235,
+    218,
+    195
+   ],
+   "share": 0.046,
+   "material": "fat",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    34,
+    31,
+    38
+   ],
+   "share": 0.01,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

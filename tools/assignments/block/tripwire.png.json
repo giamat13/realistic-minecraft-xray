@@ -1,0 +1,73 @@
+{
+ "path": "block/tripwire.png",
+ "depicts": "tripwire string: thin steel wire strands with tripwire hooks (sprite, mostly air)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    145,
+    145,
+    145
+   ],
+   "share": 0.333,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    119,
+    119,
+    119
+   ],
+   "share": 0.238,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    91,
+    91,
+    91
+   ],
+   "share": 0.19,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    164,
+    164
+   ],
+   "share": 0.095,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    102,
+    102,
+    102
+   ],
+   "share": 0.095,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    206,
+    206,
+    206
+   ],
+   "share": 0.048,
+   "material": "steel",
+   "thickness_cm": 0.2
+  }
+ ]
+}

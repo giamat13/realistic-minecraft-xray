@@ -1,0 +1,73 @@
+{
+ "path": "block/respawn_anchor_side3.png",
+ "depicts": "respawn anchor side face 3 (crying obsidian with purple crystal and glowing charge pixels)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    17,
+    12,
+    25
+   ],
+   "share": 0.484,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    59,
+    41,
+    93
+   ],
+   "share": 0.422,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    7,
+    190
+   ],
+   "share": 0.059,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    204,
+    134,
+    84
+   ],
+   "share": 0.016,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    251,
+    218,
+    116
+   ],
+   "share": 0.012,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    248,
+    236
+   ],
+   "share": 0.008,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

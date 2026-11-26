@@ -1,0 +1,73 @@
+{
+ "path": "block/sculk_catalyst_side.png",
+ "depicts": "sculk catalyst side face (dark sculk with pale bone inlays and glowing cyan spots)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    12,
+    29,
+    35
+   ],
+   "share": 0.453,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    129,
+    145,
+    131
+   ],
+   "share": 0.266,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    193,
+    200,
+    162
+   ],
+   "share": 0.148,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    87,
+    108
+   ],
+   "share": 0.121,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.008,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.004,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  }
+ ]
+}

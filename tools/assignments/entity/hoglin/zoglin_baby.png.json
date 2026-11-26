@@ -1,0 +1,73 @@
+{
+ "path": "entity/hoglin/zoglin_baby.png",
+ "depicts": "baby zoglin: undead rotting baby hoglin; pink decayed flesh, pale bone nubs, dark hooves, green rot",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    220,
+    125,
+    119
+   ],
+   "share": 0.642,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    190,
+    177,
+    177
+   ],
+   "share": 0.114,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    110,
+    62
+   ],
+   "share": 0.089,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    217,
+    214,
+    215
+   ],
+   "share": 0.087,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    38,
+    34
+   ],
+   "share": 0.055,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    102,
+    106,
+    107
+   ],
+   "share": 0.012,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

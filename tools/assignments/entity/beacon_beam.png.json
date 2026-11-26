@@ -1,0 +1,51 @@
+{
+ "path": "entity/beacon_beam.png",
+ "depicts": "beacon light beam (duplicate of entity/beacon/beacon_beam.png): translucent glowing light column",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    195,
+    211,
+    210
+   ],
+   "share": 0.547,
+   "material": "air",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    214,
+    224,
+    224
+   ],
+   "share": 0.203,
+   "material": "air",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    163,
+    198,
+    195
+   ],
+   "share": 0.191,
+   "material": "air",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    146,
+    188,
+    184
+   ],
+   "share": 0.059,
+   "material": "air",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid_baby/iron.png",
+ "depicts": "Baby iron armour layer (iron plate with bright highlights)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.424,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    183,
+    183,
+    183
+   ],
+   "share": 0.237,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    213,
+    213
+   ],
+   "share": 0.21,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    231,
+    231,
+    231
+   ],
+   "share": 0.073,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    166,
+    166,
+    166
+   ],
+   "share": 0.046,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.01,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_warped_stem.png",
+ "depicts": "stripped warped stem side: exposed fibrous warped fungal stem wood, teal-cyan",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    153,
+    151
+   ],
+   "share": 0.32,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    140,
+    138
+   ],
+   "share": 0.262,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    68,
+    161,
+    159
+   ],
+   "share": 0.242,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    54,
+    148,
+    142
+   ],
+   "share": 0.066,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    46,
+    133,
+    120
+   ],
+   "share": 0.059,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    61,
+    169,
+    166
+   ],
+   "share": 0.051,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

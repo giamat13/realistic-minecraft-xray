@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_copper_bulb_powered.png",
+ "depicts": "weathered copper bulb, powered but unlit: copper block with a red redstone indicator",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    94,
+    125,
+    90
+   ],
+   "share": 0.363,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    90,
+    79
+   ],
+   "share": 0.316,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    171,
+    133
+   ],
+   "share": 0.281,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.023,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    163,
+    23,
+    23
+   ],
+   "share": 0.012,
+   "material": "redstone_dust",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    35,
+    35
+   ],
+   "share": 0.004,
+   "material": "redstone_dust",
+   "thickness_cm": 0.5
+  }
+ ]
+}

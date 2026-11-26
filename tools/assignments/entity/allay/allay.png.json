@@ -1,0 +1,73 @@
+{
+ "path": "entity/allay/allay.png",
+ "depicts": "allay: small blue winged spirit mob (fictional), blue body with white eyes and feather-like wings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    233,
+    251
+   ],
+   "share": 0.311,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    176,
+    229
+   ],
+   "share": 0.223,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    34,
+    203,
+    250
+   ],
+   "share": 0.213,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    50,
+    138,
+    211
+   ],
+   "share": 0.196,
+   "material": "feather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    252,
+    255
+   ],
+   "share": 0.044,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.014,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

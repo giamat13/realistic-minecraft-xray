@@ -1,0 +1,73 @@
+{
+ "path": "entity/endermite.png",
+ "depicts": "endermite mob skin: dark purple chitin exoskeleton with a small reddish soft-tissue patch (small arthropod, body ~1.5 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    48,
+    87
+   ],
+   "share": 0.471,
+   "material": "shell_chitin",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    42,
+    76
+   ],
+   "share": 0.342,
+   "material": "shell_chitin",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    25,
+    18,
+    32
+   ],
+   "share": 0.096,
+   "material": "shell_chitin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    22,
+    41
+   ],
+   "share": 0.075,
+   "material": "shell_chitin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    76,
+    54,
+    98
+   ],
+   "share": 0.008,
+   "material": "shell_chitin",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    87,
+    23,
+    50
+   ],
+   "share": 0.008,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  }
+ ]
+}

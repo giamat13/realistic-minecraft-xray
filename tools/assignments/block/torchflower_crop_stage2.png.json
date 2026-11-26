@@ -1,0 +1,73 @@
+{
+ "path": "block/torchflower_crop_stage2.png",
+ "depicts": "torchflower mature crop, orange and red petals on green stem and leaves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    85,
+    104
+   ],
+   "share": 0.412,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    24,
+    81,
+    54
+   ],
+   "share": 0.309,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    236,
+    167,
+    38
+   ],
+   "share": 0.103,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    252,
+    226,
+    87
+   ],
+   "share": 0.062,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    209,
+    122,
+    118
+   ],
+   "share": 0.062,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    199,
+    47,
+    19
+   ],
+   "share": 0.052,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  }
+ ]
+}

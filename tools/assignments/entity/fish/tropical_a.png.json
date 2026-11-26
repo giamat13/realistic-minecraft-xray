@@ -1,0 +1,73 @@
+{
+ "path": "entity/fish/tropical_a.png",
+ "depicts": "tropical fish base (greyscale tint layer, ~8 cm): muscle body with fin membrane and eye",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.326,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.233,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    238,
+    238,
+    238
+   ],
+   "share": 0.186,
+   "material": "fat",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    177,
+    177,
+    177
+   ],
+   "share": 0.186,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    208,
+    208,
+    208
+   ],
+   "share": 0.047,
+   "material": "fat",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    24,
+    24,
+    24
+   ],
+   "share": 0.023,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}
