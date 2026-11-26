@@ -94,6 +94,11 @@ RULE_PATTERNS = [(_compile(kws), lo, hi, a) for kws, lo, hi, a in RULES]
 def classify(rel):
     """Return (lo, hi, block_alpha, is_ore) for a path relative to textures/."""
     joined = "_" + "_".join(_TOKEN_RE.findall(rel.lower())) + "_"
+    if rel.startswith("block/") and _ORE_RE.search(joined):
+        # ores first: host rock + bright blobs (metal keywords must not win)
+        if "deepslate" in joined or "netherrack" in joined or "nether_" in joined:
+            return 120, 160, 90, True
+        return 110, 150, 70, True
     for pat, lo, hi, a in RULE_PATTERNS:
         if pat.search(joined):
             return lo, hi, a, False
