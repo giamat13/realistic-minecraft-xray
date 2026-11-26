@@ -1,0 +1,73 @@
+{
+ "path": "block/brain_coral.png",
+ "depicts": "Brain coral plant sprite (living coral polyp tissue over calcium-carbonate skeleton, thin sprite with gaps)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    86,
+    156
+   ],
+   "share": 0.295,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    157,
+    47,
+    119
+   ],
+   "share": 0.295,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    232,
+    142,
+    193
+   ],
+   "share": 0.196,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    191,
+    70,
+    146
+   ],
+   "share": 0.17,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    228,
+    126,
+    185
+   ],
+   "share": 0.045,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    198,
+    85,
+    152
+   ],
+   "share": 0.0,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  }
+ ]
+}

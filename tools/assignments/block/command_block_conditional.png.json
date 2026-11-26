@@ -1,0 +1,73 @@
+{
+ "path": "block/command_block_conditional.png",
+ "depicts": "conditional command block front (orange metal casing, grey panel, red indicator stripe)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    195,
+    133,
+    95
+   ],
+   "share": 0.34,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    172,
+    164
+   ],
+   "share": 0.281,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    100,
+    51
+   ],
+   "share": 0.195,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    97,
+    65,
+    39
+   ],
+   "share": 0.121,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    202,
+    213
+   ],
+   "share": 0.059,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    243,
+    96,
+    92
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  }
+ ]
+}

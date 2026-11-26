@@ -1,0 +1,73 @@
+{
+ "path": "block/blast_furnace_front.png",
+ "depicts": "blast furnace front: iron furnace plates with a dark firebox opening and grate",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    103,
+    103,
+    101
+   ],
+   "share": 0.41,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    71,
+    72
+   ],
+   "share": 0.262,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    136,
+    137
+   ],
+   "share": 0.129,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    164,
+    164
+   ],
+   "share": 0.109,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    194,
+    194,
+    194
+   ],
+   "share": 0.055,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    17,
+    17,
+    17
+   ],
+   "share": 0.035,
+   "material": "graphite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

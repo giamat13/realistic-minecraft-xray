@@ -1,0 +1,73 @@
+{
+ "path": "block/brown_bed_head_up.png",
+ "depicts": "Brown bed headboard top face: white wool pillow with brown wool blanket edge and dark oak frame corner",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    61,
+    33
+   ],
+   "share": 0.348,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    223,
+    227,
+    227
+   ],
+   "share": 0.273,
+   "material": "wool",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    142,
+    91,
+    53
+   ],
+   "share": 0.152,
+   "material": "wool",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    182,
+    186,
+    186
+   ],
+   "share": 0.141,
+   "material": "wool",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.086,
+   "material": "wool",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    165,
+    145,
+    130
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 10.0
+  }
+ ]
+}

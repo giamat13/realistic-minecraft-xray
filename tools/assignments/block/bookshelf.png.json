@@ -1,0 +1,73 @@
+{
+ "path": "block/bookshelf.png",
+ "depicts": "Bookshelf front: oak plank frame and shelf boards with leather-bound books (red, blue, green covers) in shelf compartments",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    167,
+    133,
+    73
+   ],
+   "share": 0.25,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    43,
+    24
+   ],
+   "share": 0.195,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    28,
+    15
+   ],
+   "share": 0.16,
+   "material": "leather",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    36,
+    99,
+    126
+   ],
+   "share": 0.148,
+   "material": "leather",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    108,
+    119,
+    21
+   ],
+   "share": 0.133,
+   "material": "leather",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    188,
+    158,
+    114
+   ],
+   "share": 0.113,
+   "material": "planks",
+   "thickness_cm": 100.0
+  }
+ ]
+}

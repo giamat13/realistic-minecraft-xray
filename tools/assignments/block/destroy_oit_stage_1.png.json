@@ -1,0 +1,29 @@
+{
+ "path": "block/destroy_oit_stage_1.png",
+ "depicts": "block-breaking crack overlay (OIT variant, stage 1): white veil with small black crack",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.977,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.023,
+   "material": "air",
+   "thickness_cm": 0.1
+  }
+ ]
+}

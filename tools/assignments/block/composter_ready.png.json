@@ -1,0 +1,73 @@
+{
+ "path": "block/composter_ready.png",
+ "depicts": "ready composter bone-meal layer (beige bone meal over compost)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    55,
+    24
+   ],
+   "share": 0.368,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    71,
+    31
+   ],
+   "share": 0.271,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    103,
+    75
+   ],
+   "share": 0.146,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    219,
+    209,
+    166
+   ],
+   "share": 0.097,
+   "material": "hydroxyapatite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    180,
+    169,
+    115
+   ],
+   "share": 0.097,
+   "material": "hydroxyapatite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    93,
+    32
+   ],
+   "share": 0.021,
+   "material": "humus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

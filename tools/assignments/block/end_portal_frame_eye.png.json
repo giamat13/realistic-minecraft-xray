@@ -1,0 +1,73 @@
+{
+ "path": "block/end_portal_frame_eye.png",
+ "depicts": "eye of ender on end portal frame: ender pearl (ceramic-like mineral body) with glowing blaze-powder rim, a thin overlay on the frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    35,
+    70,
+    67
+   ],
+   "share": 0.552,
+   "material": "ceramic_glaze",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    4,
+    30,
+    30
+   ],
+   "share": 0.312,
+   "material": "ceramic_glaze",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    176,
+    115
+   ],
+   "share": 0.062,
+   "material": "glowstone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    129,
+    106
+   ],
+   "share": 0.052,
+   "material": "ceramic_glaze",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    180,
+    210,
+    180
+   ],
+   "share": 0.01,
+   "material": "glowstone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    153,
+    198,
+    147
+   ],
+   "share": 0.01,
+   "material": "glowstone",
+   "thickness_cm": 0.3
+  }
+ ]
+}

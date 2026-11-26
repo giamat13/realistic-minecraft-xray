@@ -1,0 +1,73 @@
+{
+ "path": "block/brown_glazed_terracotta.png",
+ "depicts": "Brown glazed terracotta block with ornamental pattern (fired clay body under thin coloured glaze; glaze negligible, X-ray path through fired clay)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    133,
+    85,
+    51
+   ],
+   "share": 0.254,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    22,
+    123,
+    140
+   ],
+   "share": 0.215,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    118,
+    76
+   ],
+   "share": 0.203,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    205,
+    146,
+    125
+   ],
+   "share": 0.16,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    61,
+    32
+   ],
+   "share": 0.125,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    71,
+    79,
+    82
+   ],
+   "share": 0.043,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

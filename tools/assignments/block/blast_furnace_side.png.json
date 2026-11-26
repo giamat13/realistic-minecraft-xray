@@ -1,0 +1,73 @@
+{
+ "path": "block/blast_furnace_side.png",
+ "depicts": "blast furnace side: iron furnace plates with rivet rows",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    136,
+    136,
+    136
+   ],
+   "share": 0.254,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.25,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    69,
+    68,
+    69
+   ],
+   "share": 0.223,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    111,
+    112,
+    110
+   ],
+   "share": 0.176,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    183,
+    183,
+    183
+   ],
+   "share": 0.062,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    163,
+    163,
+    163
+   ],
+   "share": 0.035,
+   "material": "iron",
+   "thickness_cm": 100.0
+  }
+ ]
+}

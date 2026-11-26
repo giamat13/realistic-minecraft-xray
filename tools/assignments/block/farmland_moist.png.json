@@ -1,0 +1,73 @@
+{
+ "path": "block/farmland_moist.png",
+ "depicts": "moist (watered) tilled farmland top, darker wet soil with pebble specks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    46,
+    15
+   ],
+   "share": 0.367,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    60,
+    21
+   ],
+   "share": 0.25,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    63,
+    33,
+    10
+   ],
+   "share": 0.246,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    52,
+    25,
+    7
+   ],
+   "share": 0.121,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.012,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.004,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

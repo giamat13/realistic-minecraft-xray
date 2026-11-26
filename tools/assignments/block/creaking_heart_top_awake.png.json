@@ -1,0 +1,73 @@
+{
+ "path": "block/creaking_heart_top_awake.png",
+ "depicts": "creaking heart top face, awake state (same as active): glowing orange resin cracks on grey bark end grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    95,
+    27
+   ],
+   "share": 0.332,
+   "material": "amber",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    100,
+    90,
+    87
+   ],
+   "share": 0.238,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    68,
+    25
+   ],
+   "share": 0.148,
+   "material": "amber",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    127,
+    52,
+    30
+   ],
+   "share": 0.137,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    49,
+    47
+   ],
+   "share": 0.086,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    163,
+    55
+   ],
+   "share": 0.059,
+   "material": "amber",
+   "thickness_cm": 100.0
+  }
+ ]
+}

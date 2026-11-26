@@ -1,0 +1,73 @@
+{
+ "path": "block/copper_door_top.png",
+ "depicts": "copper door upper half (copper door panel with steel hardware, window cutouts)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    109,
+    80
+   ],
+   "share": 0.471,
+   "material": "copper",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 1,
+   "rgb": [
+    221,
+    127,
+    100
+   ],
+   "share": 0.327,
+   "material": "copper",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 2,
+   "rgb": [
+    157,
+    82,
+    58
+   ],
+   "share": 0.178,
+   "material": "copper",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 3,
+   "rgb": [
+    77,
+    80,
+    70
+   ],
+   "share": 0.014,
+   "material": "steel",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.005,
+   "material": "steel",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    51,
+    51,
+    51
+   ],
+   "share": 0.005,
+   "material": "steel",
+   "thickness_cm": 12.5
+  }
+ ]
+}

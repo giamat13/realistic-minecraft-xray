@@ -1,0 +1,62 @@
+{
+ "path": "block/fire_coral_fan.png",
+ "depicts": "fire coral fan, thin calcareous coral plate with reddish tint",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    26,
+    38
+   ],
+   "share": 0.343,
+   "material": "calcite",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    34,
+    47
+   ],
+   "share": 0.286,
+   "material": "calcite",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    42,
+    55
+   ],
+   "share": 0.19,
+   "material": "calcite",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    140,
+    29,
+    42
+   ],
+   "share": 0.095,
+   "material": "calcite",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    226,
+    63,
+    54
+   ],
+   "share": 0.086,
+   "material": "calcite",
+   "thickness_cm": 2.0
+  }
+ ]
+}

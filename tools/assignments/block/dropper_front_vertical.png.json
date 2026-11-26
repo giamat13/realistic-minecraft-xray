@@ -1,0 +1,73 @@
+{
+ "path": "block/dropper_front_vertical.png",
+ "depicts": "dropper front face (vertical variant): cobblestone with iron-grey mechanism details and a dark central opening",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    99,
+    98,
+    98
+   ],
+   "share": 0.309,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    137,
+    137,
+    137
+   ],
+   "share": 0.215,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    78,
+    78
+   ],
+   "share": 0.156,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    119,
+    119,
+    119
+   ],
+   "share": 0.148,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    60,
+    59,
+    59
+   ],
+   "share": 0.094,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    26,
+    26,
+    26
+   ],
+   "share": 0.078,
+   "material": "air",
+   "thickness_cm": 100.0
+  }
+ ]
+}

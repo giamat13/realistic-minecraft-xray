@@ -1,0 +1,73 @@
+{
+ "path": "block/dead_tube_coral_block.png",
+ "depicts": "dead tube coral block: solid porous calcium carbonate coral skeleton",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    123,
+    119
+   ],
+   "share": 0.363,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    104,
+    100,
+    99
+   ],
+   "share": 0.234,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.176,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.109,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.074,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    93,
+    90,
+    89
+   ],
+   "share": 0.043,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

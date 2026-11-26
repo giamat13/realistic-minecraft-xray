@@ -1,0 +1,40 @@
+{
+ "path": "block/copper_chain.png",
+ "depicts": "copper chain (thin copper wire links, mostly open)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    91,
+    65
+   ],
+   "share": 0.536,
+   "material": "copper",
+   "thickness_cm": 6.25
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    65,
+    43
+   ],
+   "share": 0.464,
+   "material": "copper",
+   "thickness_cm": 6.25
+  },
+  {
+   "id": 2,
+   "rgb": [
+    152,
+    79,
+    55
+   ],
+   "share": 0.0,
+   "material": "copper",
+   "thickness_cm": 6.25
+  }
+ ]
+}

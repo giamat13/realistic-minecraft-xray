@@ -1,0 +1,73 @@
+{
+ "path": "block/brown_bed_foot_south.png",
+ "depicts": "Brown bed footboard, south side: oak wood frame board with brown wool mattress rim",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    56,
+    29
+   ],
+   "share": 0.439,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    88,
+    54
+   ],
+   "share": 0.197,
+   "material": "planks",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    121,
+    68
+   ],
+   "share": 0.189,
+   "material": "planks",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    179,
+    140,
+    81
+   ],
+   "share": 0.098,
+   "material": "planks",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    114,
+    71,
+    40
+   ],
+   "share": 0.045,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    188,
+    152,
+    98
+   ],
+   "share": 0.03,
+   "material": "planks",
+   "thickness_cm": 19.0
+  }
+ ]
+}

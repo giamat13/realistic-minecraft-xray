@@ -1,0 +1,73 @@
+{
+ "path": "block/crimson_trapdoor.png",
+ "depicts": "crimson trapdoor: crimson wood panel with grain, 3/16 block = 18.75 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    48,
+    66
+   ],
+   "share": 0.296,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    39,
+    55
+   ],
+   "share": 0.287,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 2,
+   "rgb": [
+    146,
+    65,
+    96
+   ],
+   "share": 0.153,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 3,
+   "rgb": [
+    134,
+    62,
+    90
+   ],
+   "share": 0.111,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    58,
+    86
+   ],
+   "share": 0.088,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 5,
+   "rgb": [
+    106,
+    52,
+    75
+   ],
+   "share": 0.065,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  }
+ ]
+}

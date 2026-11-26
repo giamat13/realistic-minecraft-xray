@@ -1,0 +1,73 @@
+{
+ "path": "block/black_terracotta.png",
+ "depicts": "black terracotta block: fired unglazed clay dyed black",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    37,
+    23,
+    16
+   ],
+   "share": 0.453,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    24,
+    17
+   ],
+   "share": 0.188,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    36,
+    22,
+    16
+   ],
+   "share": 0.129,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    39,
+    24,
+    18
+   ],
+   "share": 0.113,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    22,
+    15
+   ],
+   "share": 0.113,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    37,
+    23,
+    19
+   ],
+   "share": 0.004,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/blue_terracotta.png",
+ "depicts": "Solid blue-dyed terracotta block (fired clay with blue pigment)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    59,
+    91
+   ],
+   "share": 0.422,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    61,
+    92
+   ],
+   "share": 0.18,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    58,
+    90
+   ],
+   "share": 0.168,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    76,
+    62,
+    92
+   ],
+   "share": 0.152,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    57,
+    89
+   ],
+   "share": 0.07,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    76,
+    59,
+    92
+   ],
+   "share": 0.008,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

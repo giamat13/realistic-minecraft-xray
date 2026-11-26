@@ -1,0 +1,73 @@
+{
+ "path": "block/diamond_block.png",
+ "depicts": "diamond block: solid block of cut diamond (crystalline carbon), 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    247,
+    232
+   ],
+   "share": 0.359,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    232,
+    230
+   ],
+   "share": 0.316,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    254,
+    235
+   ],
+   "share": 0.145,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    18,
+    190,
+    194
+   ],
+   "share": 0.121,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    213,
+    255,
+    246
+   ],
+   "share": 0.043,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.016,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  }
+ ]
+}

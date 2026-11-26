@@ -1,0 +1,40 @@
+{
+ "path": "block/cauldron_bottom.png",
+ "depicts": "iron cauldron bottom view: thin cast iron base plate, transparent corners",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    39,
+    39,
+    43
+   ],
+   "share": 0.81,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    45,
+    50
+   ],
+   "share": 0.143,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    52,
+    56
+   ],
+   "share": 0.048,
+   "material": "iron",
+   "thickness_cm": 1.0
+  }
+ ]
+}

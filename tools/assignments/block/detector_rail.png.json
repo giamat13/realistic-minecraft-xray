@@ -1,0 +1,73 @@
+{
+ "path": "block/detector_rail.png",
+ "depicts": "detector rail: flat metal rail track with wooden sleepers and a red redstone sensor plate",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    117,
+    111,
+    95
+   ],
+   "share": 0.365,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    163,
+    162
+   ],
+   "share": 0.263,
+   "material": "steel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    86,
+    71,
+    43
+   ],
+   "share": 0.179,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    2,
+    2
+   ],
+   "share": 0.128,
+   "material": "redstone_dust",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    128,
+    74
+   ],
+   "share": 0.038,
+   "material": "brass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    181,
+    144,
+    89
+   ],
+   "share": 0.026,
+   "material": "brass",
+   "thickness_cm": 0.5
+  }
+ ]
+}

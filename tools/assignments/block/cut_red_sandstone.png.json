@@ -1,0 +1,73 @@
+{
+ "path": "block/cut_red_sandstone.png",
+ "depicts": "cut red sandstone block: red-tinted sandstone with iron-oxide staining",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    104,
+    34
+   ],
+   "share": 0.391,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    96,
+    31
+   ],
+   "share": 0.156,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    203,
+    110,
+    36
+   ],
+   "share": 0.145,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    213,
+    119,
+    45
+   ],
+   "share": 0.137,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    78,
+    11
+   ],
+   "share": 0.113,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    172,
+    87,
+    18
+   ],
+   "share": 0.059,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

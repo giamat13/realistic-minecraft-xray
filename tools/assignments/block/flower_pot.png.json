@@ -1,0 +1,62 @@
+{
+ "path": "block/flower_pot.png",
+ "depicts": "flower pot sprite: fired terracotta pot, mostly transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    137,
+    76,
+    59
+   ],
+   "share": 0.24,
+   "material": "terracotta",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    121,
+    67,
+    52
+   ],
+   "share": 0.22,
+   "material": "terracotta",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    116,
+    63,
+    49
+   ],
+   "share": 0.22,
+   "material": "terracotta",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    73,
+    57
+   ],
+   "share": 0.22,
+   "material": "terracotta",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    57,
+    45
+   ],
+   "share": 0.1,
+   "material": "terracotta",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/cherry_planks.png",
+ "depicts": "cherry wood planks: pale pink plank boards with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    190,
+    184
+   ],
+   "share": 0.391,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    230,
+    179,
+    173
+   ],
+   "share": 0.184,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    231,
+    202,
+    197
+   ],
+   "share": 0.148,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.113,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    221,
+    157,
+    151
+   ],
+   "share": 0.094,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    225,
+    168,
+    161
+   ],
+   "share": 0.07,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

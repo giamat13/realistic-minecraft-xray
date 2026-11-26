@@ -1,0 +1,73 @@
+{
+ "path": "block/fire_0.png",
+ "depicts": "fire block animation frame 0, orange flame tongues with white hot core",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    79,
+    0
+   ],
+   "share": 0.281,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    202,
+    111,
+    4
+   ],
+   "share": 0.267,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    220,
+    153,
+    21
+   ],
+   "share": 0.164,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    254,
+    253,
+    246
+   ],
+   "share": 0.151,
+   "material": "plasma_particle",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    189,
+    59
+   ],
+   "share": 0.089,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    243,
+    220,
+    124
+   ],
+   "share": 0.048,
+   "material": "fire",
+   "thickness_cm": 100.0
+  }
+ ]
+}

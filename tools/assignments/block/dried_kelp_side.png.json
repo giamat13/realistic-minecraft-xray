@@ -1,0 +1,73 @@
+{
+ "path": "block/dried_kelp_side.png",
+ "depicts": "dried kelp block side face (compressed dried kelp seaweed)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    34,
+    45,
+    23
+   ],
+   "share": 0.414,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    21,
+    31,
+    19
+   ],
+   "share": 0.289,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    54,
+    30
+   ],
+   "share": 0.23,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    129,
+    134,
+    115
+   ],
+   "share": 0.035,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    144,
+    150,
+    128
+   ],
+   "share": 0.027,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    27,
+    34,
+    21
+   ],
+   "share": 0.004,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  }
+ ]
+}

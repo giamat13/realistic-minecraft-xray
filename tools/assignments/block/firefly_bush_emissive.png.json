@@ -1,0 +1,29 @@
+{
+ "path": "block/firefly_bush_emissive.png",
+ "depicts": "emissive overlay: sparse glowing lantern spots of a firefly (bioluminescent light organ), mostly transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    178,
+    173,
+    135
+   ],
+   "share": 0.5,
+   "material": "phosphor",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    131,
+    90
+   ],
+   "share": 0.5,
+   "material": "phosphor",
+   "thickness_cm": 0.3
+  }
+ ]
+}

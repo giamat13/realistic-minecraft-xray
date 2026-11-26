@@ -1,0 +1,62 @@
+{
+ "path": "block/dead_bubble_coral.png",
+ "depicts": "dead bubble coral: calcareous skeleton of rounded bubble-like polyps, sprite with transparent gaps",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    123,
+    119
+   ],
+   "share": 0.308,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.263,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.233,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    90,
+    89
+   ],
+   "share": 0.113,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.083,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  }
+ ]
+}

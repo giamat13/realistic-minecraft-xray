@@ -1,0 +1,73 @@
+{
+ "path": "block/copper_bulb_lit_powered.png",
+ "depicts": "powered lit copper bulb (copper shell, glowing core and redstone-powered highlights)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    173,
+    93,
+    66
+   ],
+   "share": 0.336,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    227,
+    137,
+    93
+   ],
+   "share": 0.32,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    210,
+    131
+   ],
+   "share": 0.188,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    247,
+    210
+   ],
+   "share": 0.141,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    163,
+    23,
+    23
+   ],
+   "share": 0.012,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    35,
+    35
+   ],
+   "share": 0.004,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

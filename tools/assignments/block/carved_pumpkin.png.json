@@ -1,0 +1,73 @@
+{
+ "path": "block/carved_pumpkin.png",
+ "depicts": "carved jack-o-lantern pumpkin block face: pumpkin flesh with dark carved eyes/mouth and orange rind",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    12,
+    1
+   ],
+   "share": 0.32,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    227,
+    144,
+    29
+   ],
+   "share": 0.215,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    90,
+    11
+   ],
+   "share": 0.211,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    196,
+    118,
+    20
+   ],
+   "share": 0.148,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    227,
+    166,
+    75
+   ],
+   "share": 0.062,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    126,
+    61,
+    14
+   ],
+   "share": 0.043,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  }
+ ]
+}

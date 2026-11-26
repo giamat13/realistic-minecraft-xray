@@ -1,0 +1,40 @@
+{
+ "path": "block/carrots_stage0.png",
+ "depicts": "young carrot seedling: small green feathery leaves on transparent background (plant only)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    112,
+    42
+   ],
+   "share": 0.471,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    99,
+    37
+   ],
+   "share": 0.412,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    143,
+    40
+   ],
+   "share": 0.118,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

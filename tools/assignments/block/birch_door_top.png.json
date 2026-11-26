@@ -1,0 +1,73 @@
+{
+ "path": "block/birch_door_top.png",
+ "depicts": "birch wooden door upper half: pale birch planks with a panel frame; door slab ~5 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    245,
+    238,
+    221
+   ],
+   "share": 0.508,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    215,
+    199,
+    138
+   ],
+   "share": 0.164,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    221,
+    212,
+    164
+   ],
+   "share": 0.152,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    163,
+    145,
+    101
+   ],
+   "share": 0.148,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    77,
+    52,
+    26
+   ],
+   "share": 0.02,
+   "material": "wood_dark",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    184,
+    168,
+    117
+   ],
+   "share": 0.008,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  }
+ ]
+}

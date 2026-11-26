@@ -1,0 +1,73 @@
+{
+ "path": "block/crimson_shelf.png",
+ "depicts": "crimson shelf block: crimson (nether fungal) planks-style wood with dark pink grain and carved compartments",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    130,
+    54,
+    85
+   ],
+   "share": 0.404,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    120,
+    44,
+    73
+   ],
+   "share": 0.286,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    154,
+    64,
+    100
+   ],
+   "share": 0.159,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    40,
+    65
+   ],
+   "share": 0.062,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    94,
+    38,
+    61
+   ],
+   "share": 0.049,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    174,
+    75,
+    113
+   ],
+   "share": 0.039,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

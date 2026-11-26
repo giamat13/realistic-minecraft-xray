@@ -1,0 +1,73 @@
+{
+ "path": "block/blast_furnace_top.png",
+ "depicts": "blast furnace top: iron plates with a round chimney opening",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    72,
+    72
+   ],
+   "share": 0.27,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    88,
+    88
+   ],
+   "share": 0.199,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    79,
+    79
+   ],
+   "share": 0.191,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    62,
+    66
+   ],
+   "share": 0.191,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.074,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    116,
+    116,
+    116
+   ],
+   "share": 0.074,
+   "material": "iron",
+   "thickness_cm": 100.0
+  }
+ ]
+}

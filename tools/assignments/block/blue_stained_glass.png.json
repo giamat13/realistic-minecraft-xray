@@ -1,0 +1,18 @@
+{
+ "path": "block/blue_stained_glass.png",
+ "depicts": "Solid blue stained glass block (soda-lime glass with cobalt colorant)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    76,
+    178
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

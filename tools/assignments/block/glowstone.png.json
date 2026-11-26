@@ -1,0 +1,73 @@
+{
+ "path": "block/glowstone.png",
+ "depicts": "glowstone block: porous glowing brown-gold stone with bright luminous clusters",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    119,
+    75,
+    37
+   ],
+   "share": 0.434,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    204,
+    134,
+    84
+   ],
+   "share": 0.16,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    251,
+    218,
+    116
+   ],
+   "share": 0.141,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    136,
+    104,
+    57
+   ],
+   "share": 0.129,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    240,
+    218
+   ],
+   "share": 0.102,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.035,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

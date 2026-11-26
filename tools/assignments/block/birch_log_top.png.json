@@ -1,0 +1,73 @@
+{
+ "path": "block/birch_log_top.png",
+ "depicts": "birch log end grain: pale wood rings with white bark rim and dark core line",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    196,
+    179,
+    121
+   ],
+   "share": 0.371,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    167,
+    156,
+    120
+   ],
+   "share": 0.234,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    194,
+    134
+   ],
+   "share": 0.227,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    235,
+    235,
+    231
+   ],
+   "share": 0.066,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.051,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    81,
+    79,
+    71
+   ],
+   "share": 0.051,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

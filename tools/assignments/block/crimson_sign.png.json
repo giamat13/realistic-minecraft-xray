@@ -1,0 +1,73 @@
+{
+ "path": "block/crimson_sign.png",
+ "depicts": "crimson standing sign board: crimson wood board with grain, red paint/text marks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    98,
+    50,
+    70
+   ],
+   "share": 0.366,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    59,
+    86
+   ],
+   "share": 0.304,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    34,
+    47
+   ],
+   "share": 0.299,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    28,
+    28
+   ],
+   "share": 0.022,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    0,
+    0
+   ],
+   "share": 0.008,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    189,
+    48,
+    49
+   ],
+   "share": 0.001,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

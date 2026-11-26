@@ -1,0 +1,51 @@
+{
+ "path": "block/big_dripleaf_stem.png",
+ "depicts": "big dripleaf stem block: green hollow stem with leaf fragments",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.31,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.298,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    66,
+    85,
+    45
+   ],
+   "share": 0.214,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.179,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/cherry_door_bottom.png",
+ "depicts": "cherry wood door lower half: pale pink cherry wood planks with panel grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    181,
+    175
+   ],
+   "share": 0.469,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    218,
+    154,
+    148
+   ],
+   "share": 0.248,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    231,
+    195,
+    188
+   ],
+   "share": 0.193,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.047,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    216,
+    210,
+    194
+   ],
+   "share": 0.031,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    238,
+    230,
+    222
+   ],
+   "share": 0.012,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/glass_pane_top.png",
+ "depicts": "glass pane top edge: thin pane of glass seen from above",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    168,
+    208,
+    217
+   ],
+   "share": 0.5,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    208,
+    234,
+    233
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    193,
+    205
+   ],
+   "share": 0.219,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    174,
+    183
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 12.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/cherry_sign.png",
+ "depicts": "cherry standing sign board: pale pink cherry wood with darker post and edge",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    183,
+    177
+   ],
+   "share": 0.319,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    196,
+    189
+   ],
+   "share": 0.281,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    160,
+    154
+   ],
+   "share": 0.193,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    49,
+    29,
+    40
+   ],
+   "share": 0.097,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.073,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    46,
+    59
+   ],
+   "share": 0.037,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  }
+ ]
+}

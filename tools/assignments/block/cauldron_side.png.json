@@ -1,0 +1,73 @@
+{
+ "path": "block/cauldron_side.png",
+ "depicts": "iron cauldron outer side wall with rivets and dark plate seams",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    76,
+    76
+   ],
+   "share": 0.395,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    89,
+    89
+   ],
+   "share": 0.254,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    63,
+    62,
+    66
+   ],
+   "share": 0.121,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    52,
+    52,
+    56
+   ],
+   "share": 0.109,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    45,
+    45,
+    50
+   ],
+   "share": 0.078,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    97,
+    97
+   ],
+   "share": 0.043,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

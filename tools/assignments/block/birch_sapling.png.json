@@ -1,0 +1,73 @@
+{
+ "path": "block/birch_sapling.png",
+ "depicts": "birch sapling: small green leaves on a thin pale stem (mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    108,
+    158,
+    56
+   ],
+   "share": 0.347,
+   "material": "plant_tissue",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    87,
+    122,
+    49
+   ],
+   "share": 0.337,
+   "material": "plant_tissue",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    191,
+    98
+   ],
+   "share": 0.153,
+   "material": "plant_tissue",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    227,
+    221,
+    186
+   ],
+   "share": 0.082,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    201,
+    215,
+    165
+   ],
+   "share": 0.082,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    128,
+    161,
+    80
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 15.0
+  }
+ ]
+}

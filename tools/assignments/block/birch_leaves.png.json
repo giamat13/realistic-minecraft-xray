@@ -1,0 +1,51 @@
+{
+ "path": "block/birch_leaves.png",
+ "depicts": "birch tree leaves (grey, colour-mapped foliage, mostly holes)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    112,
+    109,
+    112
+   ],
+   "share": 0.458,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    135,
+    135
+   ],
+   "share": 0.299,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    152,
+    153,
+    152
+   ],
+   "share": 0.188,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    183,
+    185,
+    183
+   ],
+   "share": 0.056,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

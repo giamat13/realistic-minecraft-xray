@@ -1,0 +1,73 @@
+{
+ "path": "block/fletching_table_side.png",
+ "depicts": "fletching table side face: planked wood with white feather and red-dyed wood accents",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    194,
+    175,
+    122
+   ],
+   "share": 0.66,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    233,
+    234
+   ],
+   "share": 0.195,
+   "material": "feather",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    35,
+    31
+   ],
+   "share": 0.07,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    51,
+    32,
+    18
+   ],
+   "share": 0.039,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    116,
+    35,
+    3
+   ],
+   "share": 0.023,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.012,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

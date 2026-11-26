@@ -1,0 +1,73 @@
+{
+ "path": "block/cherry_shelf.png",
+ "depicts": "cherry wood shelf block: pale pink wood shelves with darker edge grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    146,
+    151
+   ],
+   "share": 0.289,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    202,
+    127,
+    123
+   ],
+   "share": 0.287,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    194,
+    114,
+    112
+   ],
+   "share": 0.214,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    225,
+    165,
+    162
+   ],
+   "share": 0.099,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    173,
+    101,
+    99
+   ],
+   "share": 0.062,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    156,
+    91,
+    89
+   ],
+   "share": 0.049,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

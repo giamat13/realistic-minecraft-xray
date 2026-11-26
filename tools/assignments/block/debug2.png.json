@@ -1,0 +1,73 @@
+{
+ "path": "block/debug2.png",
+ "depicts": "Minecraft alternate debug/missing-texture pattern, abstract colour test panel (no physical object)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    9,
+    5,
+    0
+   ],
+   "share": 0.422,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    249,
+    251,
+    253
+   ],
+   "share": 0.383,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    60,
+    255
+   ],
+   "share": 0.059,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    0,
+    0
+   ],
+   "share": 0.051,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    128,
+    255,
+    128
+   ],
+   "share": 0.047,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    162,
+    0
+   ],
+   "share": 0.039,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

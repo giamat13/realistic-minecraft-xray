@@ -1,0 +1,73 @@
+{
+ "path": "block/black_glazed_terracotta.png",
+ "depicts": "black glazed terracotta: fired clay with a glossy ceramic glaze and a red/black pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    145,
+    33,
+    33
+   ],
+   "share": 0.297,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    25,
+    25,
+    28
+   ],
+   "share": 0.242,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    42,
+    48
+   ],
+   "share": 0.168,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    1,
+    1,
+    1
+   ],
+   "share": 0.113,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    55,
+    58,
+    62
+   ],
+   "share": 0.102,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    74,
+    15,
+    15
+   ],
+   "share": 0.078,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  }
+ ]
+}

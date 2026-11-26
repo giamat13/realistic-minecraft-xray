@@ -1,0 +1,29 @@
+{
+ "path": "block/destroy_oit_stage_0.png",
+ "depicts": "block-breaking crack overlay (order-independent transparency variant), semi-transparent white veil with thin black crack line; no physical object, a thin crack",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.992,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.008,
+   "material": "air",
+   "thickness_cm": 0.1
+  }
+ ]
+}

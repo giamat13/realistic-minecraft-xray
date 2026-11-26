@@ -1,0 +1,62 @@
+{
+ "path": "block/frogspawn.png",
+ "depicts": "frogspawn block sprite: clusters of frog eggs in gelatinous jelly, mostly transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    99,
+    91
+   ],
+   "share": 0.333,
+   "material": "organic_gel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    126,
+    111,
+    103
+   ],
+   "share": 0.333,
+   "material": "organic_gel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    22,
+    10,
+    0
+   ],
+   "share": 0.111,
+   "material": "egg",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    151,
+    135,
+    127
+   ],
+   "share": 0.111,
+   "material": "organic_gel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    81,
+    72
+   ],
+   "share": 0.111,
+   "material": "organic_gel",
+   "thickness_cm": 1.0
+  }
+ ]
+}

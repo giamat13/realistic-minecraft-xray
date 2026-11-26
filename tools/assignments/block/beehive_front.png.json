@@ -1,0 +1,73 @@
+{
+ "path": "block/beehive_front.png",
+ "depicts": "beehive front face: wooden planks with a dark entrance hole and a small iron nail/hinge",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    152,
+    96
+   ],
+   "share": 0.355,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    154,
+    123,
+    71
+   ],
+   "share": 0.277,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.133,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    175,
+    143,
+    85
+   ],
+   "share": 0.125,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.094,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    139,
+    139,
+    138
+   ],
+   "share": 0.016,
+   "material": "iron",
+   "thickness_cm": 100.0
+  }
+ ]
+}

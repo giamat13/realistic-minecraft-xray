@@ -1,0 +1,73 @@
+{
+ "path": "block/copper_bulb.png",
+ "depicts": "copper bulb (unlit copper-shell lamp block)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    107,
+    78
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    95,
+    51,
+    21
+   ],
+   "share": 0.176,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    76,
+    44
+   ],
+   "share": 0.164,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    223,
+    128,
+    103
+   ],
+   "share": 0.156,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    65,
+    31
+   ],
+   "share": 0.141,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    158,
+    83,
+    59
+   ],
+   "share": 0.113,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

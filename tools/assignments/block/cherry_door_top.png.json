@@ -1,0 +1,73 @@
+{
+ "path": "block/cherry_door_top.png",
+ "depicts": "cherry wood door upper half: pale pink cherry wood with panel grooves and cream highlight",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    186,
+    179
+   ],
+   "share": 0.527,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    147,
+    142
+   ],
+   "share": 0.214,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.132,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    228,
+    171,
+    164
+   ],
+   "share": 0.068,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    230,
+    203,
+    198
+   ],
+   "share": 0.05,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    238,
+    230,
+    222
+   ],
+   "share": 0.009,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  }
+ ]
+}

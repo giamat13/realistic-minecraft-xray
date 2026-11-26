@@ -1,0 +1,73 @@
+{
+ "path": "block/crimson_stem.png",
+ "depicts": "crimson stem log side (animated strip, first frame): nether fungal wood bark with red internal tones",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    71,
+    36,
+    52
+   ],
+   "share": 0.328,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    24,
+    16
+   ],
+   "share": 0.316,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    143,
+    18,
+    18
+   ],
+   "share": 0.129,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    0,
+    0
+   ],
+   "share": 0.121,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    86,
+    44,
+    62
+   ],
+   "share": 0.086,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    39,
+    39
+   ],
+   "share": 0.02,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

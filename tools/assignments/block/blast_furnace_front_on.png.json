@@ -1,0 +1,73 @@
+{
+ "path": "block/blast_furnace_front_on.png",
+ "depicts": "blast furnace front while lit: iron plates with a glowing orange firebox (hot fire inside)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    104,
+    103
+   ],
+   "share": 0.434,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    71,
+    72
+   ],
+   "share": 0.262,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    152,
+    152,
+    152
+   ],
+   "share": 0.215,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.043,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    110,
+    11
+   ],
+   "share": 0.035,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    240,
+    162,
+    66
+   ],
+   "share": 0.012,
+   "material": "fire",
+   "thickness_cm": 100.0
+  }
+ ]
+}

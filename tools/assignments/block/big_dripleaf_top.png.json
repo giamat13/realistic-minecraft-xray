@@ -1,0 +1,73 @@
+{
+ "path": "block/big_dripleaf_top.png",
+ "depicts": "big dripleaf top: broad green leaf surface with veins and a highlight",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    132,
+    168,
+    60
+   ],
+   "share": 0.366,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.224,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.151,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    66,
+    85,
+    45
+   ],
+   "share": 0.121,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.099,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    152,
+    196,
+    64
+   ],
+   "share": 0.039,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

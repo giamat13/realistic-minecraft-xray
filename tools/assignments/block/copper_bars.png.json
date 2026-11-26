@@ -1,0 +1,62 @@
+{
+ "path": "block/copper_bars.png",
+ "depicts": "copper bars (thin copper lattice posts, mostly open)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    144,
+    73,
+    49
+   ],
+   "share": 0.319,
+   "material": "copper",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    128,
+    57,
+    33
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    90,
+    64
+   ],
+   "share": 0.172,
+   "material": "copper",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    200,
+    116,
+    86
+   ],
+   "share": 0.129,
+   "material": "copper",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    178,
+    98,
+    71
+   ],
+   "share": 0.129,
+   "material": "copper",
+   "thickness_cm": 12.5
+  }
+ ]
+}

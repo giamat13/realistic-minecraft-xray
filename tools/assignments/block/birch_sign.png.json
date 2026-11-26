@@ -1,0 +1,73 @@
+{
+ "path": "block/birch_sign.png",
+ "depicts": "birch sign board: pale birch wood sign (~1.5 cm) with dark bark edges and text lines",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    202,
+    185,
+    127
+   ],
+   "share": 0.61,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    147,
+    104
+   ],
+   "share": 0.261,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    247,
+    246,
+    244
+   ],
+   "share": 0.075,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    214,
+    209
+   ],
+   "share": 0.041,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    94,
+    84
+   ],
+   "share": 0.008,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    54,
+    52,
+    42
+   ],
+   "share": 0.005,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  }
+ ]
+}

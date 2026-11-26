@@ -1,0 +1,62 @@
+{
+ "path": "block/brain_coral_fan.png",
+ "depicts": "Brain coral fan sprite (thin coral fan of calcium-carbonate skeleton with polyp tissue, gaps)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    191,
+    70,
+    146
+   ],
+   "share": 0.305,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    214,
+    84,
+    155
+   ],
+   "share": 0.253,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    228,
+    126,
+    185
+   ],
+   "share": 0.168,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    217,
+    98,
+    163
+   ],
+   "share": 0.147,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    157,
+    47,
+    119
+   ],
+   "share": 0.126,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  }
+ ]
+}

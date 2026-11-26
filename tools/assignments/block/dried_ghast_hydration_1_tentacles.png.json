@@ -1,0 +1,51 @@
+{
+ "path": "block/dried_ghast_hydration_1_tentacles.png",
+ "depicts": "dried ghast tentacle strip, hydration level 1 of 3; gelatinous ghast tissue (dehydrated)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    138,
+    138
+   ],
+   "share": 0.844,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    177,
+    167,
+    167
+   ],
+   "share": 0.078,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    152,
+    150,
+    150
+   ],
+   "share": 0.047,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    193,
+    178,
+    178
+   ],
+   "share": 0.031,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 20.0
+  }
+ ]
+}

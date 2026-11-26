@@ -1,0 +1,73 @@
+{
+ "path": "block/deepslate_gold_ore.png",
+ "depicts": "deepslate gold ore: deepslate host with native gold veins/nuggets",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    101,
+    101
+   ],
+   "share": 0.543,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    56,
+    62
+   ],
+   "share": 0.227,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    100,
+    32
+   ],
+   "share": 0.09,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    235,
+    157,
+    14
+   ],
+   "share": 0.086,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    238,
+    75
+   ],
+   "share": 0.043,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    181
+   ],
+   "share": 0.012,
+   "material": "gold",
+   "thickness_cm": 100.0
+  }
+ ]
+}

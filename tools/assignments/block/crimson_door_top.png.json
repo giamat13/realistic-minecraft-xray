@@ -1,0 +1,73 @@
+{
+ "path": "block/crimson_door_top.png",
+ "depicts": "crimson (nether fungal wood) door upper half, panels with dark pink wood grain; door 3/16 block = 18.75 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    55,
+    80
+   ],
+   "share": 0.371,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    63,
+    93
+   ],
+   "share": 0.23,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 2,
+   "rgb": [
+    92,
+    48,
+    66
+   ],
+   "share": 0.223,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    39,
+    55
+   ],
+   "share": 0.109,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 4,
+   "rgb": [
+    174,
+    75,
+    113
+   ],
+   "share": 0.059,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 5,
+   "rgb": [
+    107,
+    89,
+    97
+   ],
+   "share": 0.008,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  }
+ ]
+}

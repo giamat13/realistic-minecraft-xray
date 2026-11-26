@@ -1,0 +1,73 @@
+{
+ "path": "block/dead_brain_coral_fan.png",
+ "depicts": "dead brain coral fan: thin fan-shaped calcareous coral skeleton with transparent gaps",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    123,
+    119
+   ],
+   "share": 0.274,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.242,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.168,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.168,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    90,
+    89
+   ],
+   "share": 0.126,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    135,
+    131
+   ],
+   "share": 0.021,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  }
+ ]
+}

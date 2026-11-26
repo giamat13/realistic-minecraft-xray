@@ -1,0 +1,73 @@
+{
+ "path": "block/furnace_front_on.png",
+ "depicts": "lit furnace front: cobblestone with a glowing burning firebox opening",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    103,
+    103
+   ],
+   "share": 0.383,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    39,
+    39,
+    39
+   ],
+   "share": 0.262,
+   "material": "charcoal",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    169,
+    169,
+    169
+   ],
+   "share": 0.215,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    169,
+    4
+   ],
+   "share": 0.102,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    151
+   ],
+   "share": 0.023,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.016,
+   "material": "plasma_particle",
+   "thickness_cm": 50.0
+  }
+ ]
+}

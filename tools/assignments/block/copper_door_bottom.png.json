@@ -1,0 +1,73 @@
+{
+ "path": "block/copper_door_bottom.png",
+ "depicts": "copper door lower half (copper door panel with steel hinge/handle hardware)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    190,
+    107,
+    78
+   ],
+   "share": 0.516,
+   "material": "copper",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 1,
+   "rgb": [
+    158,
+    83,
+    59
+   ],
+   "share": 0.211,
+   "material": "copper",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 2,
+   "rgb": [
+    220,
+    126,
+    99
+   ],
+   "share": 0.199,
+   "material": "copper",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 3,
+   "rgb": [
+    77,
+    80,
+    70
+   ],
+   "share": 0.039,
+   "material": "steel",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    51,
+    51
+   ],
+   "share": 0.023,
+   "material": "steel",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.012,
+   "material": "steel",
+   "thickness_cm": 12.5
+  }
+ ]
+}

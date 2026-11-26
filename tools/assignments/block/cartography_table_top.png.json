@@ -1,0 +1,73 @@
+{
+ "path": "block/cartography_table_top.png",
+ "depicts": "cartography table top: oak table surface with dark wood grid, cream paper map, dark parchment, blue ink and red wax seal",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    61,
+    29
+   ],
+   "share": 0.367,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    48,
+    40,
+    14
+   ],
+   "share": 0.332,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    246,
+    238,
+    215
+   ],
+   "share": 0.137,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    166,
+    154,
+    107
+   ],
+   "share": 0.105,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    58,
+    58,
+    232
+   ],
+   "share": 0.047,
+   "material": "ink",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    38,
+    51
+   ],
+   "share": 0.012,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  }
+ ]
+}

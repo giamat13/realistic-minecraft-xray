@@ -1,0 +1,73 @@
+{
+ "path": "block/cocoa_stage2.png",
+ "depicts": "ripe large cocoa pod (orange-brown husk)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    97,
+    42,
+    11
+   ],
+   "share": 0.231,
+   "material": "fruit",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    185,
+    115,
+    53
+   ],
+   "share": 0.211,
+   "material": "fruit",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    60,
+    14
+   ],
+   "share": 0.19,
+   "material": "fruit",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    203,
+    142,
+    83
+   ],
+   "share": 0.17,
+   "material": "fruit",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    87,
+    26
+   ],
+   "share": 0.143,
+   "material": "fruit",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    177,
+    124
+   ],
+   "share": 0.054,
+   "material": "fruit",
+   "thickness_cm": 8.0
+  }
+ ]
+}

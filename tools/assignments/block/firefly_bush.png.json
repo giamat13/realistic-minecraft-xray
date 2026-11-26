@@ -1,0 +1,73 @@
+{
+ "path": "block/firefly_bush.png",
+ "depicts": "firefly bush sprite: green leaves with yellow-olive twigs and sprigs",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    73,
+    38
+   ],
+   "share": 0.188,
+   "material": "foliage",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    155,
+    124,
+    54
+   ],
+   "share": 0.175,
+   "material": "plant_tissue",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    54,
+    59,
+    30
+   ],
+   "share": 0.175,
+   "material": "foliage",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    117,
+    108,
+    65
+   ],
+   "share": 0.162,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    46,
+    23
+   ],
+   "share": 0.156,
+   "material": "foliage",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    89,
+    90,
+    50
+   ],
+   "share": 0.143,
+   "material": "foliage",
+   "thickness_cm": 40.0
+  }
+ ]
+}

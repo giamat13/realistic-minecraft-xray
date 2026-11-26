@@ -1,0 +1,73 @@
+{
+ "path": "block/enchanting_table_top.png",
+ "depicts": "enchanting table top face: obsidian top with a red leather pad and glowing enchantment glyphs",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    103,
+    15,
+    45
+   ],
+   "share": 0.469,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    41,
+    41
+   ],
+   "share": 0.297,
+   "material": "leather",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    178,
+    248,
+    236
+   ],
+   "share": 0.125,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    226,
+    198
+   ],
+   "share": 0.094,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.016,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    129,
+    75,
+    85
+   ],
+   "share": 0.0,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

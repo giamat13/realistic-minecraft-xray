@@ -1,0 +1,73 @@
+{
+ "path": "block/cherry_trapdoor.png",
+ "depicts": "cherry wood trapdoor: pale pink cherry wood planks with panel grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    220,
+    158,
+    152
+   ],
+   "share": 0.35,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    230,
+    182,
+    176
+   ],
+   "share": 0.305,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    231,
+    197,
+    191
+   ],
+   "share": 0.305,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    224,
+    220,
+    206
+   ],
+   "share": 0.018,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.014,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    238,
+    230,
+    222
+   ],
+   "share": 0.009,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  }
+ ]
+}

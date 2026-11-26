@@ -1,0 +1,73 @@
+{
+ "path": "block/grass_block_side_overlay.png",
+ "depicts": "grass block side overlay: grayscale grass tint strip (grass drip) on top rows, otherwise transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    169,
+    169
+   ],
+   "share": 0.289,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    153,
+    153,
+    153
+   ],
+   "share": 0.267,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.244,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    178,
+    178
+   ],
+   "share": 0.089,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    130,
+    130,
+    130
+   ],
+   "share": 0.089,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    119,
+    119,
+    119
+   ],
+   "share": 0.022,
+   "material": "grass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

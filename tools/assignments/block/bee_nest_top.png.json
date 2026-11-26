@@ -1,0 +1,62 @@
+{
+ "path": "block/bee_nest_top.png",
+ "depicts": "bee nest block top: wooden lid rim with honeycomb ring and wax cells",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    251,
+    220,
+    117
+   ],
+   "share": 0.305,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    247,
+    206,
+    70
+   ],
+   "share": 0.238,
+   "material": "honey",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    81,
+    43
+   ],
+   "share": 0.215,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    106,
+    52
+   ],
+   "share": 0.207,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    200,
+    134,
+    68
+   ],
+   "share": 0.035,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

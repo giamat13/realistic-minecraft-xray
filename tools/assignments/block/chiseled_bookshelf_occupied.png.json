@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_bookshelf_occupied.png",
+ "depicts": "chiseled bookshelf front with books in slots: oak frame, leather book covers, gilt title foil",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    187,
+    147,
+    90
+   ],
+   "share": 0.312,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    86,
+    57
+   ],
+   "share": 0.242,
+   "material": "leather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    44,
+    23
+   ],
+   "share": 0.223,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    70,
+    109
+   ],
+   "share": 0.137,
+   "material": "leather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    125,
+    51,
+    171
+   ],
+   "share": 0.047,
+   "material": "leather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    195,
+    143,
+    0
+   ],
+   "share": 0.039,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

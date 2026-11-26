@@ -1,0 +1,62 @@
+{
+ "path": "block/dead_horn_coral_fan.png",
+ "depicts": "dead horn coral fan: thin calcareous coral skeleton plate with transparent gaps",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    123,
+    119
+   ],
+   "share": 0.319,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.277,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.234,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.106,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    90,
+    89
+   ],
+   "share": 0.064,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  }
+ ]
+}

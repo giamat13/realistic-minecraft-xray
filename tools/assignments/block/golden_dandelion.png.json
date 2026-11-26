@@ -1,0 +1,73 @@
+{
+ "path": "block/golden_dandelion.png",
+ "depicts": "golden dandelion flower sprite: yellow petals on a dark-orange stem, mostly transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    97,
+    26,
+    6
+   ],
+   "share": 0.406,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    167,
+    89,
+    14
+   ],
+   "share": 0.281,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    235,
+    220,
+    78
+   ],
+   "share": 0.125,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    219,
+    162,
+    19
+   ],
+   "share": 0.094,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    255,
+    230
+   ],
+   "share": 0.062,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    246,
+    248,
+    146
+   ],
+   "share": 0.031,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}

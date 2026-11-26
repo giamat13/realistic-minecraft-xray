@@ -1,0 +1,29 @@
+{
+ "path": "block/big_dripleaf_side.png",
+ "depicts": "big dripleaf side: one thin green broad leaf (plant sheet, mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.667,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    85,
+    45
+   ],
+   "share": 0.333,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/crimson_roots.png",
+ "depicts": "crimson roots plant: thin dark red fungal filaments (sprite, mostly air)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    6,
+    40
+   ],
+   "share": 0.484,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    6,
+    54
+   ],
+   "share": 0.308,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    173,
+    16,
+    28
+   ],
+   "share": 0.209,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    126,
+    8,
+    42
+   ],
+   "share": 0.0,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  }
+ ]
+}

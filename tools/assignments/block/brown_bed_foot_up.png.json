@@ -1,0 +1,51 @@
+{
+ "path": "block/brown_bed_foot_up.png",
+ "depicts": "Brown bed top face (foot section): brown wool mattress surface",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    143,
+    91,
+    53
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    83,
+    47
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    154,
+    100,
+    61
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    114,
+    71,
+    40
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 40.0
+  }
+ ]
+}

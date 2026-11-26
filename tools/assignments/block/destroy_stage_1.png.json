@@ -1,0 +1,40 @@
+{
+ "path": "block/destroy_stage_1.png",
+ "depicts": "block-breaking crack overlay (stage 1): semi-transparent white veil with dark and mid-grey crack lines; no physical object",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.961,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    61,
+    61,
+    61
+   ],
+   "share": 0.023,
+   "material": "air",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    155,
+    155,
+    155
+   ],
+   "share": 0.016,
+   "material": "air",
+   "thickness_cm": 0.1
+  }
+ ]
+}

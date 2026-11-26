@@ -1,0 +1,73 @@
+{
+ "path": "block/frosted_ice_0.png",
+ "depicts": "frosted ice block (stage 0): translucent blue ice with pale frost crystals",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    128,
+    173,
+    251
+   ],
+   "share": 0.461,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    185,
+    254
+   ],
+   "share": 0.344,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    161,
+    195,
+    255
+   ],
+   "share": 0.129,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    112,
+    164,
+    252
+   ],
+   "share": 0.035,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    206,
+    224,
+    255
+   ],
+   "share": 0.02,
+   "material": "snow_powder",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    200,
+    220,
+    255
+   ],
+   "share": 0.012,
+   "material": "snow_powder",
+   "thickness_cm": 2.0
+  }
+ ]
+}

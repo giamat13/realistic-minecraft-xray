@@ -1,0 +1,73 @@
+{
+ "path": "block/coarse_dirt.png",
+ "depicts": "coarse dirt block (loose soil with pebbles)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    129,
+    92,
+    63
+   ],
+   "share": 0.547,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    64,
+    44
+   ],
+   "share": 0.207,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    181,
+    130,
+    90
+   ],
+   "share": 0.109,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    66,
+    46,
+    31
+   ],
+   "share": 0.109,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    100,
+    100,
+    100
+   ],
+   "share": 0.023,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    135,
+    135,
+    135
+   ],
+   "share": 0.004,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

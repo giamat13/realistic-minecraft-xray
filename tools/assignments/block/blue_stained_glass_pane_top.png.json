@@ -1,0 +1,51 @@
+{
+ "path": "block/blue_stained_glass_pane_top.png",
+ "depicts": "Blue stained glass pane top view (thin glass sheet, sheet height gives 100 cm path)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    50,
+    76,
+    177
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    48,
+    73,
+    170
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    47,
+    71,
+    165
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    49,
+    74,
+    173
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

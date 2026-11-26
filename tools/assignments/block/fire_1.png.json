@@ -1,0 +1,73 @@
+{
+ "path": "block/fire_1.png",
+ "depicts": "fire block animation frame 1, orange flames with white hot core",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    207,
+    121,
+    7
+   ],
+   "share": 0.299,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    187,
+    80,
+    1
+   ],
+   "share": 0.217,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    223,
+    163,
+    28
+   ],
+   "share": 0.204,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    254,
+    253
+   ],
+   "share": 0.115,
+   "material": "plasma_particle",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    238,
+    203,
+    84
+   ],
+   "share": 0.115,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    246,
+    229,
+    151
+   ],
+   "share": 0.051,
+   "material": "fire",
+   "thickness_cm": 100.0
+  }
+ ]
+}

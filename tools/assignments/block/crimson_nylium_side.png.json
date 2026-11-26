@@ -1,0 +1,73 @@
+{
+ "path": "block/crimson_nylium_side.png",
+ "depicts": "crimson nylium block side: red fungal growth strip on top over netherrack body",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    1,
+    0
+   ],
+   "share": 0.27,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    38,
+    38
+   ],
+   "share": 0.211,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    78,
+    24,
+    24
+   ],
+   "share": 0.203,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    52,
+    52
+   ],
+   "share": 0.188,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    158,
+    27,
+    27
+   ],
+   "share": 0.098,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    189,
+    48,
+    49
+   ],
+   "share": 0.031,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

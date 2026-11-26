@@ -1,0 +1,62 @@
+{
+ "path": "block/dead_horn_coral.png",
+ "depicts": "dead horn coral: calcareous horn-shaped coral skeleton sprite with transparent gaps",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.4,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    138,
+    128,
+    123
+   ],
+   "share": 0.27,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    123,
+    114,
+    110
+   ],
+   "share": 0.24,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.09,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    135,
+    130
+   ],
+   "share": 0.0,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  }
+ ]
+}

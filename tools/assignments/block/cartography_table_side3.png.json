@@ -1,0 +1,73 @@
+{
+ "path": "block/cartography_table_side3.png",
+ "depicts": "cartography table side with plain oak wood grain and dark frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    53,
+    25
+   ],
+   "share": 0.332,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    61,
+    40,
+    18
+   ],
+   "share": 0.215,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    47,
+    23
+   ],
+   "share": 0.164,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    48,
+    30,
+    14
+   ],
+   "share": 0.141,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    26,
+    12
+   ],
+   "share": 0.102,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    106,
+    70,
+    30
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/cartography_table_side2.png",
+ "depicts": "cartography table second side: oak block with rolled parchment, blue ink, green item",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    70,
+    46,
+    21
+   ],
+   "share": 0.805,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    196,
+    169,
+    102
+   ],
+   "share": 0.078,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    52,
+    210
+   ],
+   "share": 0.062,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    93,
+    0
+   ],
+   "share": 0.027,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    250,
+    234,
+    175
+   ],
+   "share": 0.023,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    220,
+    150,
+    19
+   ],
+   "share": 0.004,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

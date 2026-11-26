@@ -1,0 +1,73 @@
+{
+ "path": "block/composter_compost.png",
+ "depicts": "compost fill inside composter (decaying plant matter, sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    60,
+    24
+   ],
+   "share": 0.34,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    48,
+    24
+   ],
+   "share": 0.278,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    68,
+    24
+   ],
+   "share": 0.25,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    76,
+    16
+   ],
+   "share": 0.09,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    139,
+    89,
+    32
+   ],
+   "share": 0.028,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    172,
+    101,
+    32
+   ],
+   "share": 0.014,
+   "material": "humus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/deepslate_iron_ore.png",
+ "depicts": "deepslate iron ore: deepslate host with iron-ore (rusty tan/orange hematite-like) inclusions",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    90,
+    90
+   ],
+   "share": 0.34,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    58,
+    64
+   ],
+   "share": 0.238,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    121,
+    121
+   ],
+   "share": 0.176,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    112,
+    83
+   ],
+   "share": 0.105,
+   "material": "iron_ore_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    175,
+    142,
+    119
+   ],
+   "share": 0.078,
+   "material": "iron_ore_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    218,
+    178,
+    151
+   ],
+   "share": 0.062,
+   "material": "iron_ore_rock",
+   "thickness_cm": 100.0
+  }
+ ]
+}

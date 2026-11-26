@@ -1,0 +1,73 @@
+{
+ "path": "block/black_wool.png",
+ "depicts": "black wool block: black dyed sheep wool fibres",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    15,
+    16,
+    21
+   ],
+   "share": 0.238,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    24,
+    24,
+    28
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    10,
+    12,
+    16
+   ],
+   "share": 0.176,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    28,
+    28,
+    32
+   ],
+   "share": 0.145,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    20,
+    20,
+    24
+   ],
+   "share": 0.133,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    36,
+    36,
+    40
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

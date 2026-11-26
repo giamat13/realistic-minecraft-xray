@@ -1,0 +1,73 @@
+{
+ "path": "block/dead_horn_coral_block.png",
+ "depicts": "dead horn coral block: solid porous calcium carbonate coral skeleton",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.277,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    134,
+    123,
+    119
+   ],
+   "share": 0.207,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.207,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.172,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    90,
+    89
+   ],
+   "share": 0.07,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    100,
+    99
+   ],
+   "share": 0.066,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

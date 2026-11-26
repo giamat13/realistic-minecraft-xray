@@ -1,0 +1,73 @@
+{
+ "path": "block/bricks.png",
+ "depicts": "Brick block: fired clay bricks with mortar joints (mortar = cement-based concrete)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    151,
+    84,
+    66
+   ],
+   "share": 0.285,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    121,
+    67,
+    52
+   ],
+   "share": 0.207,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    138,
+    129
+   ],
+   "share": 0.199,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    100,
+    78
+   ],
+   "share": 0.164,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    139,
+    110,
+    103
+   ],
+   "share": 0.145,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    151,
+    98,
+    83
+   ],
+   "share": 0.0,
+   "material": "brick",
+   "thickness_cm": 100.0
+  }
+ ]
+}

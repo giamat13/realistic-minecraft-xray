@@ -1,0 +1,73 @@
+{
+ "path": "block/furnace_front.png",
+ "depicts": "unlit furnace front: grey cobblestone with a soot-blackened firebox opening",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    23,
+    23,
+    23
+   ],
+   "share": 0.242,
+   "material": "charcoal",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    117,
+    117,
+    117
+   ],
+   "share": 0.234,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    83,
+    81,
+    81
+   ],
+   "share": 0.176,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    60,
+    59,
+    59
+   ],
+   "share": 0.133,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    156,
+    156,
+    156
+   ],
+   "share": 0.129,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    187,
+    187,
+    187
+   ],
+   "share": 0.086,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

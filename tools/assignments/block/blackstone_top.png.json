@@ -1,0 +1,62 @@
+{
+ "path": "block/blackstone_top.png",
+ "depicts": "blackstone top: dark basalt-like igneous rock with mottled texture",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    26,
+    16,
+    21
+   ],
+   "share": 0.289,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    44,
+    54
+   ],
+   "share": 0.25,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    39,
+    34,
+    28
+   ],
+   "share": 0.242,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    60,
+    57,
+    71
+   ],
+   "share": 0.219,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    42,
+    36,
+    42
+   ],
+   "share": 0.0,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/dispenser_front_vertical.png",
+ "depicts": "dispenser front face (vertical variant): cobblestone block with a central dark dispenser opening",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    99,
+    99
+   ],
+   "share": 0.281,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    136,
+    136
+   ],
+   "share": 0.211,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    119,
+    119,
+    119
+   ],
+   "share": 0.18,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    78,
+    78
+   ],
+   "share": 0.156,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    60,
+    59,
+    59
+   ],
+   "share": 0.109,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    20,
+    20,
+    20
+   ],
+   "share": 0.062,
+   "material": "air",
+   "thickness_cm": 100.0
+  }
+ ]
+}

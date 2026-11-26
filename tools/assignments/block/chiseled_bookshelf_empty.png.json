@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_bookshelf_empty.png",
+ "depicts": "chiseled bookshelf front with empty slots: oak wood frame and dark wood slot interiors",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    24,
+    13
+   ],
+   "share": 0.406,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    49,
+    26
+   ],
+   "share": 0.219,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    133,
+    76
+   ],
+   "share": 0.207,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    197,
+    159,
+    103
+   ],
+   "share": 0.117,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    74,
+    44
+   ],
+   "share": 0.031,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    98,
+    62
+   ],
+   "share": 0.02,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

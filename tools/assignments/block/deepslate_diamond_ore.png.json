@@ -1,0 +1,73 @@
+{
+ "path": "block/deepslate_diamond_ore.png",
+ "depicts": "deepslate diamond ore: deepslate host rock with cyan diamond crystal inclusions",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    103,
+    103
+   ],
+   "share": 0.598,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    59,
+    64
+   ],
+   "share": 0.258,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    119,
+    231,
+    209
+   ],
+   "share": 0.047,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    30,
+    208,
+    214
+   ],
+   "share": 0.039,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    20,
+    143,
+    146
+   ],
+   "share": 0.039,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    213,
+    255,
+    246
+   ],
+   "share": 0.02,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  }
+ ]
+}

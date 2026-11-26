@@ -1,0 +1,73 @@
+{
+ "path": "block/brown_candle_lit.png",
+ "depicts": "Lit brown candle (sprite): dyed wax body, cotton wick, flame (air-like hot gas)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    64,
+    35
+   ],
+   "share": 0.476,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    150,
+    92,
+    48
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    204,
+    127,
+    54
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    194,
+    104
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    169,
+    86
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/dead_brain_coral_block.png",
+ "depicts": "dead brain coral block: porous calcium carbonate skeleton of a dead brain coral colony, grey",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    100,
+    99
+   ],
+   "share": 0.23,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    134,
+    123,
+    119
+   ],
+   "share": 0.223,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.211,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.16,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    90,
+    89
+   ],
+   "share": 0.129,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.047,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

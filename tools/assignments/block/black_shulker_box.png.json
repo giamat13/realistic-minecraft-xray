@@ -1,0 +1,73 @@
+{
+ "path": "block/black_shulker_box.png",
+ "depicts": "black shulker box: chitin-like shulker shell with panel seams",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    31,
+    31,
+    35
+   ],
+   "share": 0.43,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    23,
+    27
+   ],
+   "share": 0.172,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    14,
+    16,
+    20
+   ],
+   "share": 0.168,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    18,
+    19,
+    23
+   ],
+   "share": 0.113,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    30,
+    30,
+    34
+   ],
+   "share": 0.074,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    28,
+    28,
+    32
+   ],
+   "share": 0.043,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

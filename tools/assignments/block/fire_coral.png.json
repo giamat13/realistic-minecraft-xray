@@ -1,0 +1,51 @@
+{
+ "path": "block/fire_coral.png",
+ "depicts": "fire coral plant (stony hydrozoan coral branches), reddish calcareous branches",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    26,
+    38
+   ],
+   "share": 0.33,
+   "material": "calcite",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    34,
+    47
+   ],
+   "share": 0.294,
+   "material": "calcite",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    42,
+    55
+   ],
+   "share": 0.22,
+   "material": "calcite",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    226,
+    63,
+    54
+   ],
+   "share": 0.156,
+   "material": "calcite",
+   "thickness_cm": 8.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "block/beehive_end.png",
+ "depicts": "beehive end-grain face: wooden planks of the hive end cap, darker grain rings at edges",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    184,
+    148,
+    95
+   ],
+   "share": 0.348,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    194,
+    157,
+    98
+   ],
+   "share": 0.293,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    175,
+    143,
+    85
+   ],
+   "share": 0.195,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    132,
+    77
+   ],
+   "share": 0.105,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    116,
+    65
+   ],
+   "share": 0.059,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

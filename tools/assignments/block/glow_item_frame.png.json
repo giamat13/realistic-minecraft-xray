@@ -1,0 +1,73 @@
+{
+ "path": "block/glow_item_frame.png",
+ "depicts": "glow item frame: wood frame with glowing ink-squid square center (glowing rim of glowstone-like light)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    126,
+    69,
+    41
+   ],
+   "share": 0.336,
+   "material": "wood_oak",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    51,
+    46,
+    43
+   ],
+   "share": 0.234,
+   "material": "wood_dark",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    183,
+    112,
+    57
+   ],
+   "share": 0.18,
+   "material": "glowstone",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    233,
+    165,
+    91
+   ],
+   "share": 0.109,
+   "material": "glowstone",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    209,
+    128
+   ],
+   "share": 0.094,
+   "material": "glowstone",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    252,
+    183
+   ],
+   "share": 0.047,
+   "material": "glowstone",
+   "thickness_cm": 6.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/copper_block.png",
+ "depicts": "block of copper (solid copper metal)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    197,
+    112,
+    81
+   ],
+   "share": 0.359,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    214,
+    123,
+    91
+   ],
+   "share": 0.148,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    178,
+    98,
+    71
+   ],
+   "share": 0.145,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    227,
+    130,
+    108
+   ],
+   "share": 0.137,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    151,
+    78,
+    54
+   ],
+   "share": 0.133,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    167,
+    90,
+    64
+   ],
+   "share": 0.078,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

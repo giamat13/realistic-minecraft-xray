@@ -1,0 +1,73 @@
+{
+ "path": "block/brown_mushroom.png",
+ "depicts": "Brown mushroom (sprite): edible fungus cap and stem, thin sprite",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    204,
+    153,
+    120
+   ],
+   "share": 0.324,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    82,
+    63
+   ],
+   "share": 0.265,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    145,
+    109,
+    85
+   ],
+   "share": 0.235,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    148,
+    125
+   ],
+   "share": 0.088,
+   "material": "fungus",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    101,
+    85,
+    74
+   ],
+   "share": 0.059,
+   "material": "fungus",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    76,
+    61,
+    51
+   ],
+   "share": 0.029,
+   "material": "fungus",
+   "thickness_cm": 4.0
+  }
+ ]
+}

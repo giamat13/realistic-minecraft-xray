@@ -1,0 +1,62 @@
+{
+ "path": "block/cherry_log.png",
+ "depicts": "cherry log bark: dark purple-brown cherry bark",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    48,
+    29,
+    41
+   ],
+   "share": 0.324,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    59,
+    35,
+    45
+   ],
+   "share": 0.25,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    39,
+    22,
+    32
+   ],
+   "share": 0.195,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    70,
+    44,
+    57
+   ],
+   "share": 0.184,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    84,
+    53,
+    67
+   ],
+   "share": 0.047,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

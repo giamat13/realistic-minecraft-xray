@@ -1,0 +1,73 @@
+{
+ "path": "block/cocoa_stage0.png",
+ "depicts": "young cocoa pod on a jungle-tree stem (small green pod)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    114,
+    53
+   ],
+   "share": 0.404,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    168,
+    77
+   ],
+   "share": 0.191,
+   "material": "fruit",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    104,
+    100,
+    44
+   ],
+   "share": 0.17,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    182,
+    188,
+    90
+   ],
+   "share": 0.128,
+   "material": "fruit",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    138,
+    145,
+    65
+   ],
+   "share": 0.106,
+   "material": "fruit",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    133,
+    135,
+    62
+   ],
+   "share": 0.0,
+   "material": "fruit",
+   "thickness_cm": 4.0
+  }
+ ]
+}

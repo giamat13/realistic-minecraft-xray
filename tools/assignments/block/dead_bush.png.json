@@ -1,0 +1,51 @@
+{
+ "path": "block/dead_bush.png",
+ "depicts": "dead bush: dry leafless twigs of a desert shrub, brown woody stems",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.372,
+   "material": "wood_oak",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    81,
+    61,
+    36
+   ],
+   "share": 0.372,
+   "material": "wood_oak",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    100,
+    40
+   ],
+   "share": 0.218,
+   "material": "wood_oak",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    177,
+    122,
+    54
+   ],
+   "share": 0.038,
+   "material": "wood_oak",
+   "thickness_cm": 6.0
+  }
+ ]
+}

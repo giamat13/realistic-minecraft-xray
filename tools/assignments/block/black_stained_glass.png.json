@@ -1,0 +1,18 @@
+{
+ "path": "block/black_stained_glass.png",
+ "depicts": "black stained glass block: dyed glass",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    25,
+    25,
+    25
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

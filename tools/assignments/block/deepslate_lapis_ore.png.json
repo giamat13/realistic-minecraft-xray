@@ -1,0 +1,73 @@
+{
+ "path": "block/deepslate_lapis_ore.png",
+ "depicts": "deepslate lapis ore: deepslate host with blue lapis lazuli inclusions",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    101,
+    101
+   ],
+   "share": 0.594,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    58,
+    64
+   ],
+   "share": 0.172,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    19,
+    69,
+    183
+   ],
+   "share": 0.078,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    111,
+    220
+   ],
+   "share": 0.066,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    23,
+    69,
+    143
+   ],
+   "share": 0.062,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    105,
+    149,
+    244
+   ],
+   "share": 0.027,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  }
+ ]
+}

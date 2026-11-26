@@ -1,0 +1,51 @@
+{
+ "path": "block/composter_top.png",
+ "depicts": "composter top rim (oak wood rim, interior open)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    116,
+    64
+   ],
+   "share": 0.536,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    120,
+    73,
+    31
+   ],
+   "share": 0.25,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    135,
+    88,
+    46
+   ],
+   "share": 0.214,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    99,
+    52
+   ],
+   "share": 0.0,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  }
+ ]
+}

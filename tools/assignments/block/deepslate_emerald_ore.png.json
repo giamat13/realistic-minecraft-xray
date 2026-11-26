@@ -1,0 +1,73 @@
+{
+ "path": "block/deepslate_emerald_ore.png",
+ "depicts": "deepslate emerald ore: deepslate host with green emerald crystal inclusions",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    100,
+    100
+   ],
+   "share": 0.523,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    59,
+    63
+   ],
+   "share": 0.297,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    11,
+    134,
+    31
+   ],
+   "share": 0.07,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    23,
+    214,
+    89
+   ],
+   "share": 0.055,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    65,
+    243,
+    132
+   ],
+   "share": 0.027,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    255,
+    235
+   ],
+   "share": 0.027,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  }
+ ]
+}

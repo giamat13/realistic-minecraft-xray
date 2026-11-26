@@ -1,0 +1,73 @@
+{
+ "path": "block/creaking_heart_dormant.png",
+ "depicts": "creaking heart block, dormant state: wood core with dried dull resin veins inside grey bark frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    65,
+    32,
+    22
+   ],
+   "share": 0.266,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    101,
+    97
+   ],
+   "share": 0.23,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    52,
+    28
+   ],
+   "share": 0.219,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    74,
+    30
+   ],
+   "share": 0.125,
+   "material": "amber",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    91,
+    80,
+    77
+   ],
+   "share": 0.117,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    147,
+    100,
+    48
+   ],
+   "share": 0.043,
+   "material": "amber",
+   "thickness_cm": 100.0
+  }
+ ]
+}

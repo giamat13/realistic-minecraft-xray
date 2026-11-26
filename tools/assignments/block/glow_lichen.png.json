@@ -1,0 +1,62 @@
+{
+ "path": "block/glow_lichen.png",
+ "depicts": "glow lichen sprite: thin lichen fungus-algae film with glowing yellow spots, mostly transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    126,
+    120
+   ],
+   "share": 0.371,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    113,
+    134,
+    126
+   ],
+   "share": 0.248,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    99,
+    117,
+    110
+   ],
+   "share": 0.229,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    115,
+    146,
+    133
+   ],
+   "share": 0.095,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    174,
+    175,
+    140
+   ],
+   "share": 0.057,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  }
+ ]
+}

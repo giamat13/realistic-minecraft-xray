@@ -1,0 +1,73 @@
+{
+ "path": "block/bone_block_top.png",
+ "depicts": "Bone block top (compressed skeletal bone, concentric growth rings)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    195,
+    191,
+    161
+   ],
+   "share": 0.281,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    201,
+    197,
+    167
+   ],
+   "share": 0.188,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    224,
+    202
+   ],
+   "share": 0.172,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    206,
+    202,
+    173
+   ],
+   "share": 0.137,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    220,
+    217,
+    192
+   ],
+   "share": 0.129,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    232,
+    229,
+    210
+   ],
+   "share": 0.094,
+   "material": "bone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

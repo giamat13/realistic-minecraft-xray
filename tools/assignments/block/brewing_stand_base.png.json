@@ -1,0 +1,73 @@
+{
+ "path": "block/brewing_stand_base.png",
+ "depicts": "Brewing stand base plate (cobblestone-like grey stone plate, 2/16 block tall)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    93,
+    93
+   ],
+   "share": 0.297,
+   "material": "stone",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    116,
+    108,
+    108
+   ],
+   "share": 0.262,
+   "material": "stone",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    100,
+    100
+   ],
+   "share": 0.254,
+   "material": "stone",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    125,
+    125
+   ],
+   "share": 0.082,
+   "material": "stone",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    156,
+    142,
+    142
+   ],
+   "share": 0.055,
+   "material": "stone",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    130,
+    130
+   ],
+   "share": 0.051,
+   "material": "stone",
+   "thickness_cm": 12.5
+  }
+ ]
+}

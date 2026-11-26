@@ -1,0 +1,73 @@
+{
+ "path": "block/creaking_heart_active.png",
+ "depicts": "creaking heart block, active state: resin-filled pale wood core with glowing orange resin veins inside grey bark frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    49,
+    27
+   ],
+   "share": 0.266,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    101,
+    97
+   ],
+   "share": 0.23,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    180,
+    79,
+    26
+   ],
+   "share": 0.219,
+   "material": "amber",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    114,
+    20
+   ],
+   "share": 0.125,
+   "material": "amber",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    91,
+    80,
+    77
+   ],
+   "share": 0.117,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    163,
+    55
+   ],
+   "share": 0.043,
+   "material": "amber",
+   "thickness_cm": 100.0
+  }
+ ]
+}

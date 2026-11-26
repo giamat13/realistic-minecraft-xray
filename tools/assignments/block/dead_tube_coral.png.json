@@ -1,0 +1,73 @@
+{
+ "path": "block/dead_tube_coral.png",
+ "depicts": "dead tube coral: calcareous tube-shaped coral skeleton sprite with transparent gaps",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.248,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    93,
+    90,
+    89
+   ],
+   "share": 0.235,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    128,
+    123
+   ],
+   "share": 0.176,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    114,
+    110
+   ],
+   "share": 0.137,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    104,
+    100,
+    99
+   ],
+   "share": 0.118,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.085,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  }
+ ]
+}

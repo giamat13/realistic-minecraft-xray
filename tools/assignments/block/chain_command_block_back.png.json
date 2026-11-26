@@ -1,0 +1,73 @@
+{
+ "path": "block/chain_command_block_back.png",
+ "depicts": "chain command block back face: teal-coated steel casing, light grey metal rim, copper and rust accents (animated strip, first frame)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    165,
+    142
+   ],
+   "share": 0.492,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    179,
+    188,
+    190
+   ],
+   "share": 0.332,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    70,
+    86,
+    76
+   ],
+   "share": 0.098,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    55,
+    47
+   ],
+   "share": 0.047,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    204,
+    114,
+    94
+   ],
+   "share": 0.016,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    56,
+    54
+   ],
+   "share": 0.016,
+   "material": "iron_oxide",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/dried_ghast_hydration_3_bottom.png",
+ "depicts": "dried ghast block face, hydration level 3 of 3, gelatinous ghast body tissue (hydrated gel)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    240,
+    240,
+    240
+   ],
+   "share": 0.688,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    228,
+    226,
+    226
+   ],
+   "share": 0.172,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    218,
+    202,
+    202
+   ],
+   "share": 0.125,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    221,
+    218,
+    218
+   ],
+   "share": 0.016,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

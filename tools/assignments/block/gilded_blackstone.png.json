@@ -1,0 +1,73 @@
+{
+ "path": "block/gilded_blackstone.png",
+ "depicts": "gilded blackstone block: dark blackstone with gold leaf and gilded specks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    37,
+    36
+   ],
+   "share": 0.496,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    29,
+    18,
+    24
+   ],
+   "share": 0.254,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    61,
+    74
+   ],
+   "share": 0.172,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    126,
+    69,
+    14
+   ],
+   "share": 0.039,
+   "material": "gold",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    218,
+    145,
+    15
+   ],
+   "share": 0.027,
+   "material": "gold",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    252,
+    238,
+    75
+   ],
+   "share": 0.012,
+   "material": "gold",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/carrots_stage3.png",
+ "depicts": "mature carrot plant with orange carrot roots visible at bottom",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    40,
+    104,
+    40
+   ],
+   "share": 0.464,
+   "material": "foliage",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    143,
+    40
+   ],
+   "share": 0.236,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.127,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    227,
+    138,
+    29
+   ],
+   "share": 0.082,
+   "material": "vegetable",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    103,
+    19
+   ],
+   "share": 0.082,
+   "material": "vegetable",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    126,
+    61,
+    14
+   ],
+   "share": 0.009,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/blue_concrete_powder.png",
+ "depicts": "Loose dry blue concrete powder (cement-based granular powder with blue pigment, treated as concrete; loose bulk density underestimated)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    72,
+    165
+   ],
+   "share": 0.285,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    67,
+    159
+   ],
+   "share": 0.262,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    76,
+    170
+   ],
+   "share": 0.262,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    79,
+    83,
+    179
+   ],
+   "share": 0.141,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    60,
+    62,
+    149
+   ],
+   "share": 0.031,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    90,
+    192
+   ],
+   "share": 0.02,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

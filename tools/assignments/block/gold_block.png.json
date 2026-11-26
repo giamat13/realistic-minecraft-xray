@@ -1,0 +1,73 @@
+{
+ "path": "block/gold_block.png",
+ "depicts": "solid gold block, bright yellow metallic faces",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    199,
+    38
+   ],
+   "share": 0.316,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    230,
+    76
+   ],
+   "share": 0.289,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    216,
+    62
+   ],
+   "share": 0.215,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    208,
+    146,
+    45
+   ],
+   "share": 0.121,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    253,
+    144
+   ],
+   "share": 0.043,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    255,
+    189
+   ],
+   "share": 0.016,
+   "material": "gold",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/grass_block_snow.png",
+ "depicts": "snowy grass block side: snow cap on top over dirt with darker humus",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    133,
+    95,
+    66
+   ],
+   "share": 0.445,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    239,
+    250,
+    250
+   ],
+   "share": 0.324,
+   "material": "snow_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    133,
+    95
+   ],
+   "share": 0.09,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    61,
+    41
+   ],
+   "share": 0.074,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    124,
+    130,
+    114
+   ],
+   "share": 0.035,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    178,
+    213,
+    213
+   ],
+   "share": 0.031,
+   "material": "snow_powder",
+   "thickness_cm": 100.0
+  }
+ ]
+}

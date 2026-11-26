@@ -1,0 +1,73 @@
+{
+ "path": "block/birch_hanging_sign.png",
+ "depicts": "birch hanging sign: pale birch sign board (~1.5 cm) with dark iron chain links at the top corners",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    199,
+    176,
+    118
+   ],
+   "share": 0.34,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    207,
+    188,
+    128
+   ],
+   "share": 0.277,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    183,
+    159,
+    102
+   ],
+   "share": 0.231,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    66,
+    72,
+    89
+   ],
+   "share": 0.093,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.052,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    100,
+    124
+   ],
+   "share": 0.006,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

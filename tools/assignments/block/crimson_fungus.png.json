@@ -1,0 +1,73 @@
+{
+ "path": "block/crimson_fungus.png",
+ "depicts": "crimson fungus plant (nether mushroom): red cap with orange spots and grey-brown stem, mostly transparent sprite",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    91,
+    12,
+    10
+   ],
+   "share": 0.433,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    174,
+    39,
+    40
+   ],
+   "share": 0.267,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    101,
+    0
+   ],
+   "share": 0.1,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    78,
+    72
+   ],
+   "share": 0.083,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    98,
+    56,
+    50
+   ],
+   "share": 0.067,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    164,
+    104
+   ],
+   "share": 0.05,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  }
+ ]
+}

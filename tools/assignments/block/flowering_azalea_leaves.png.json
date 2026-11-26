@@ -1,0 +1,73 @@
+{
+ "path": "block/flowering_azalea_leaves.png",
+ "depicts": "flowering azalea leaves block: dense green leaves with pink azalea blossoms",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    137,
+    47
+   ],
+   "share": 0.405,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.273,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    76,
+    38
+   ],
+   "share": 0.205,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    186,
+    98,
+    206
+   ],
+   "share": 0.049,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    158,
+    80,
+    136
+   ],
+   "share": 0.039,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    208,
+    123,
+    227
+   ],
+   "share": 0.029,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  }
+ ]
+}

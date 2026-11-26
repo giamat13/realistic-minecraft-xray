@@ -1,0 +1,73 @@
+{
+ "path": "block/deepslate_coal_ore.png",
+ "depicts": "deepslate coal ore: deepslate host rock with embedded coal ore specks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    43,
+    47
+   ],
+   "share": 0.223,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.215,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    100,
+    100
+   ],
+   "share": 0.211,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    63,
+    67
+   ],
+   "share": 0.172,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    121,
+    121,
+    121
+   ],
+   "share": 0.125,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    10,
+    10,
+    10
+   ],
+   "share": 0.055,
+   "material": "coal",
+   "thickness_cm": 100.0
+  }
+ ]
+}

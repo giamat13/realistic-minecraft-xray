@@ -1,0 +1,51 @@
+{
+ "path": "block/beetroots_stage1.png",
+ "depicts": "beetroot crop stage 1: young green beetroot leaves with stems",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    143,
+    40
+   ],
+   "share": 0.467,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.233,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    43,
+    112,
+    42
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    99,
+    37
+   ],
+   "share": 0.1,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

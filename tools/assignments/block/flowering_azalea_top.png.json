@@ -1,0 +1,73 @@
+{
+ "path": "block/flowering_azalea_top.png",
+ "depicts": "flowering azalea top face: dense green leaves with pink blossoms and a dark twig",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    107,
+    129,
+    48
+   ],
+   "share": 0.742,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    104,
+    44
+   ],
+   "share": 0.129,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    186,
+    98,
+    206
+   ],
+   "share": 0.047,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    208,
+    123,
+    227
+   ],
+   "share": 0.035,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    158,
+    80,
+    136
+   ],
+   "share": 0.035,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    87,
+    80,
+    22
+   ],
+   "share": 0.012,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

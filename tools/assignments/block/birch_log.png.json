@@ -1,0 +1,73 @@
+{
+ "path": "block/birch_log.png",
+ "depicts": "birch log side: white papery birch bark with dark lenticels",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    218,
+    215,
+    208
+   ],
+   "share": 0.309,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    240,
+    238,
+    235
+   ],
+   "share": 0.281,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.262,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    96,
+    94,
+    84
+   ],
+   "share": 0.07,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    54,
+    52,
+    42
+   ],
+   "share": 0.047,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    190,
+    174
+   ],
+   "share": 0.031,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

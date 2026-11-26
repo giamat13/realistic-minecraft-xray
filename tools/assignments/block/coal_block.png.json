@@ -1,0 +1,62 @@
+{
+ "path": "block/coal_block.png",
+ "depicts": "block of compressed coal",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    21,
+    21,
+    21
+   ],
+   "share": 0.398,
+   "material": "coal",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    5,
+    5,
+    5
+   ],
+   "share": 0.277,
+   "material": "coal",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    13,
+    13,
+    13
+   ],
+   "share": 0.219,
+   "material": "coal",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    31,
+    30,
+    30
+   ],
+   "share": 0.09,
+   "material": "coal",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    40,
+    40
+   ],
+   "share": 0.016,
+   "material": "coal",
+   "thickness_cm": 100.0
+  }
+ ]
+}

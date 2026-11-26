@@ -1,0 +1,73 @@
+{
+ "path": "block/cherry_log_top.png",
+ "depicts": "cherry log end grain: pale pink sapwood rings, dark bark ring",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    186,
+    177
+   ],
+   "share": 0.5,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    223,
+    162,
+    156
+   ],
+   "share": 0.195,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    34,
+    44
+   ],
+   "share": 0.156,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    39,
+    22,
+    32
+   ],
+   "share": 0.078,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.07,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    185,
+    141,
+    137
+   ],
+   "share": 0.0,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

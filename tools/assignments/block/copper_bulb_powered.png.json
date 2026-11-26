@@ -1,0 +1,73 @@
+{
+ "path": "block/copper_bulb_powered.png",
+ "depicts": "powered unlit copper bulb (copper shell with redstone signal dot)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    57,
+    25
+   ],
+   "share": 0.316,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    80,
+    50
+   ],
+   "share": 0.262,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    192,
+    107,
+    78
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    223,
+    128,
+    103
+   ],
+   "share": 0.156,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    155,
+    24,
+    24
+   ],
+   "share": 0.012,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    35,
+    35
+   ],
+   "share": 0.004,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/composter_side.png",
+ "depicts": "composter side wall (oak wood slats)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    43,
+    11
+   ],
+   "share": 0.328,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    135,
+    88,
+    46
+   ],
+   "share": 0.258,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    113,
+    66
+   ],
+   "share": 0.164,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    120,
+    73,
+    30
+   ],
+   "share": 0.152,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    55,
+    15
+   ],
+   "share": 0.051,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    37,
+    20,
+    5
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

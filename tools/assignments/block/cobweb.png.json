@@ -1,0 +1,40 @@
+{
+ "path": "block/cobweb.png",
+ "depicts": "cobweb (sparse silk fibres, mostly air)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.371,
+   "material": "silk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    228,
+    233,
+    233
+   ],
+   "share": 0.333,
+   "material": "silk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    196,
+    206,
+    210
+   ],
+   "share": 0.295,
+   "material": "silk",
+   "thickness_cm": 100.0
+  }
+ ]
+}

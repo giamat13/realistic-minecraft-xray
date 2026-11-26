@@ -1,0 +1,73 @@
+{
+ "path": "block/fern.png",
+ "depicts": "fern plant sprite, mostly transparent, green-grey fronds",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    107,
+    110,
+    107
+   ],
+   "share": 0.225,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    88,
+    89,
+    88
+   ],
+   "share": 0.202,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    165,
+    162,
+    165
+   ],
+   "share": 0.18,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    124,
+    126,
+    124
+   ],
+   "share": 0.18,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    140,
+    138,
+    140
+   ],
+   "share": 0.124,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    145,
+    148
+   ],
+   "share": 0.09,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  }
+ ]
+}

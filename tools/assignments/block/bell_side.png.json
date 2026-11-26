@@ -1,0 +1,73 @@
+{
+ "path": "block/bell_side.png",
+ "depicts": "bell side: bronze bell wall with highlights and a dark wooden/metal yoke stripe",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    214,
+    57
+   ],
+   "share": 0.328,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    246,
+    141
+   ],
+   "share": 0.259,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    236,
+    79
+   ],
+   "share": 0.241,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    254,
+    255,
+    189
+   ],
+   "share": 0.103,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    245,
+    204,
+    39
+   ],
+   "share": 0.034,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    211,
+    150,
+    50
+   ],
+   "share": 0.034,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  }
+ ]
+}

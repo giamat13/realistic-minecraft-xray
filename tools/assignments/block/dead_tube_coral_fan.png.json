@@ -1,0 +1,73 @@
+{
+ "path": "block/dead_tube_coral_fan.png",
+ "depicts": "dead tube coral fan: thin calcareous coral skeleton plate with transparent gaps",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.266,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.253,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    104,
+    100,
+    99
+   ],
+   "share": 0.177,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.127,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    90,
+    89
+   ],
+   "share": 0.114,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    135,
+    124,
+    120
+   ],
+   "share": 0.063,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  }
+ ]
+}

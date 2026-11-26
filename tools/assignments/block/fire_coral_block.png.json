@@ -1,0 +1,62 @@
+{
+ "path": "block/fire_coral_block.png",
+ "depicts": "fire coral block, solid reddish calcareous coral skeleton",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    164,
+    34,
+    47
+   ],
+   "share": 0.312,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    198,
+    42,
+    55
+   ],
+   "share": 0.262,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    29,
+    42
+   ],
+   "share": 0.199,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    121,
+    26,
+    38
+   ],
+   "share": 0.176,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    226,
+    63,
+    54
+   ],
+   "share": 0.051,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

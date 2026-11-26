@@ -1,0 +1,73 @@
+{
+ "path": "block/emerald_block.png",
+ "depicts": "emerald block: solid block of emerald (beryl, Be3Al2Si6O18 with Cr/V, 2.7 g/cm3)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    23,
+    197,
+    68
+   ],
+   "share": 0.305,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    27,
+    166,
+    49
+   ],
+   "share": 0.293,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    23,
+    221,
+    98
+   ],
+   "share": 0.148,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    65,
+    243,
+    132
+   ],
+   "share": 0.137,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    130,
+    246,
+    173
+   ],
+   "share": 0.117,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    42,
+    203,
+    88
+   ],
+   "share": 0.0,
+   "material": "emerald",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/debug.png",
+ "depicts": "Minecraft debug/missing-texture checkerboard test pattern, abstract colour panel (no physical object)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.25,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    242,
+    255
+   ],
+   "share": 0.234,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    245,
+    234
+   ],
+   "share": 0.168,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    202,
+    103,
+    251
+   ],
+   "share": 0.129,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    245,
+    109
+   ],
+   "share": 0.121,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    77,
+    81
+   ],
+   "share": 0.098,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

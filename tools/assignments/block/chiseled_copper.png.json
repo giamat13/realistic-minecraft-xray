@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_copper.png",
+ "depicts": "chiseled copper block: oxidised-free orange copper metal with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    190,
+    105,
+    75
+   ],
+   "share": 0.418,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    149,
+    76,
+    52
+   ],
+   "share": 0.262,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    130,
+    108
+   ],
+   "share": 0.152,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    167,
+    90,
+    64
+   ],
+   "share": 0.105,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    123,
+    91
+   ],
+   "share": 0.059,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    200,
+    116,
+    86
+   ],
+   "share": 0.004,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

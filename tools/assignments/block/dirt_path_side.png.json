@@ -1,0 +1,73 @@
+{
+ "path": "block/dirt_path_side.png",
+ "depicts": "dirt path (coarse path) block side: packed brown soil with grey pebbles at top edge",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    149,
+    113,
+    70
+   ],
+   "share": 0.367,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    121,
+    85,
+    58
+   ],
+   "share": 0.346,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    181,
+    135,
+    87
+   ],
+   "share": 0.15,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    61,
+    41
+   ],
+   "share": 0.113,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    135,
+    135,
+    135
+   ],
+   "share": 0.013,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    108,
+    108,
+    108
+   ],
+   "share": 0.013,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

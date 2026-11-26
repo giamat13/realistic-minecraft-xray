@@ -1,0 +1,73 @@
+{
+ "path": "block/birch_shelf.png",
+ "depicts": "birch shelf block: pale birch wood panel with dark seam lines",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    161,
+    143,
+    100
+   ],
+   "share": 0.416,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    209,
+    192,
+    131
+   ],
+   "share": 0.169,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    195,
+    175,
+    118
+   ],
+   "share": 0.168,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    157,
+    101
+   ],
+   "share": 0.136,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    123,
+    81
+   ],
+   "share": 0.062,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    133,
+    109,
+    76
+   ],
+   "share": 0.049,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

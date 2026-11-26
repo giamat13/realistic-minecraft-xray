@@ -1,0 +1,73 @@
+{
+ "path": "block/deepslate_bricks.png",
+ "depicts": "deepslate bricks: dark slate masonry blocks with mortar lines",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    88,
+    88,
+    88
+   ],
+   "share": 0.262,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    70,
+    72
+   ],
+   "share": 0.254,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    56,
+    55,
+    55
+   ],
+   "share": 0.18,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    110,
+    110,
+    110
+   ],
+   "share": 0.113,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    36,
+    36,
+    36
+   ],
+   "share": 0.102,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.09,
+   "material": "slate",
+   "thickness_cm": 100.0
+  }
+ ]
+}

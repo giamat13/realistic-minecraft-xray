@@ -1,0 +1,73 @@
+{
+ "path": "block/beehive_side.png",
+ "depicts": "beehive side: wooden planks with dark plank seams and a small iron nail",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    151,
+    96
+   ],
+   "share": 0.324,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    133,
+    102,
+    56
+   ],
+   "share": 0.238,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    175,
+    143,
+    85
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    152,
+    126,
+    71
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.117,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    139,
+    139,
+    138
+   ],
+   "share": 0.016,
+   "material": "iron",
+   "thickness_cm": 100.0
+  }
+ ]
+}

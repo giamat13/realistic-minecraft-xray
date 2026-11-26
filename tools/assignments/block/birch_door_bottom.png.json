@@ -1,0 +1,73 @@
+{
+ "path": "block/birch_door_bottom.png",
+ "depicts": "birch wooden door lower half: pale birch planks with a panel frame and a small dark iron-free crack/edge; door slab ~5 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    215,
+    199,
+    138
+   ],
+   "share": 0.395,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    200,
+    183,
+    122
+   ],
+   "share": 0.199,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    243,
+    237,
+    220
+   ],
+   "share": 0.156,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    142,
+    99
+   ],
+   "share": 0.133,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    223,
+    214,
+    167
+   ],
+   "share": 0.105,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    83,
+    57,
+    28
+   ],
+   "share": 0.012,
+   "material": "wood_dark",
+   "thickness_cm": 5.0
+  }
+ ]
+}

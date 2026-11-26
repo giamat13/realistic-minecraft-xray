@@ -1,0 +1,51 @@
+{
+ "path": "block/black_concrete.png",
+ "depicts": "black concrete block: cured concrete dyed black",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    9,
+    11,
+    16
+   ],
+   "share": 0.355,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    8,
+    10,
+    15
+   ],
+   "share": 0.27,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    7,
+    9,
+    14
+   ],
+   "share": 0.234,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    10,
+    12,
+    17
+   ],
+   "share": 0.141,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

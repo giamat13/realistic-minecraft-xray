@@ -1,0 +1,73 @@
+{
+ "path": "block/cartography_table_side1.png",
+ "depicts": "cartography table side face: oak wood block with blue ink bottle, cream paper map, green item and quill",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    44,
+    20
+   ],
+   "share": 0.895,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    58,
+    232
+   ],
+   "share": 0.055,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    213,
+    133
+   ],
+   "share": 0.02,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    104,
+    0
+   ],
+   "share": 0.02,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    171,
+    161,
+    113
+   ],
+   "share": 0.008,
+   "material": "feather",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    220,
+    150,
+    19
+   ],
+   "share": 0.004,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

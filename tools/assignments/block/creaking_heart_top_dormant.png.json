@@ -1,0 +1,73 @@
+{
+ "path": "block/creaking_heart_top_dormant.png",
+ "depicts": "creaking heart top face, dormant state: dark wood end grain with dull brown resin patches and grey bark",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    53,
+    29
+   ],
+   "share": 0.332,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    81,
+    35
+   ],
+   "share": 0.207,
+   "material": "amber",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    36,
+    28
+   ],
+   "share": 0.184,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    83,
+    80
+   ],
+   "share": 0.156,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    113,
+    103,
+    101
+   ],
+   "share": 0.082,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    67,
+    59,
+    57
+   ],
+   "share": 0.039,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/cave_vines.png",
+ "depicts": "cave vine: hanging green vine leaves with brown stems",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    92,
+    38
+   ],
+   "share": 0.329,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.238,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.154,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    114,
+    51
+   ],
+   "share": 0.133,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    86,
+    58,
+    19
+   ],
+   "share": 0.105,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    112,
+    82,
+    29
+   ],
+   "share": 0.042,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

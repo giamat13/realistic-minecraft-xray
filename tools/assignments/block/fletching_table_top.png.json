@@ -1,0 +1,73 @@
+{
+ "path": "block/fletching_table_top.png",
+ "depicts": "fletching table top: planked wood with feather tufts and metal arrowhead tools",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    195,
+    134
+   ],
+   "share": 0.434,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    177,
+    161,
+    114
+   ],
+   "share": 0.434,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.051,
+   "material": "feather",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    207,
+    207,
+    207
+   ],
+   "share": 0.043,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.023,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    66,
+    26
+   ],
+   "share": 0.016,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "block/dead_fire_coral_fan.png",
+ "depicts": "dead fire coral fan: thin calcareous coral skeleton plate with transparent gaps",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    90,
+    89
+   ],
+   "share": 0.324,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    134,
+    123,
+    119
+   ],
+   "share": 0.286,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.19,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.114,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.086,
+   "material": "calcite",
+   "thickness_cm": 1.5
+  }
+ ]
+}

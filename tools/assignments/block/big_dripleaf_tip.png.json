@@ -1,0 +1,62 @@
+{
+ "path": "block/big_dripleaf_tip.png",
+ "depicts": "big dripleaf tip: thin green leaf tips",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    85,
+    45
+   ],
+   "share": 0.25,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.225,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    132,
+    168,
+    60
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.125,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

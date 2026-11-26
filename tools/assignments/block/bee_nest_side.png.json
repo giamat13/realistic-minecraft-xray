@@ -1,0 +1,73 @@
+{
+ "path": "block/bee_nest_side.png",
+ "depicts": "bee nest block side: wooden box frame with honeycomb (wax/honey) comb cells visible in the middle rows",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    205,
+    152,
+    85
+   ],
+   "share": 0.461,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    120,
+    82,
+    48
+   ],
+   "share": 0.203,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    247,
+    206,
+    70
+   ],
+   "share": 0.156,
+   "material": "honey",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    212,
+    117
+   ],
+   "share": 0.121,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    160,
+    106,
+    52
+   ],
+   "share": 0.047,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    129,
+    102
+   ],
+   "share": 0.012,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

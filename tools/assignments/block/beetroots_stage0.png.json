@@ -1,0 +1,51 @@
+{
+ "path": "block/beetroots_stage0.png",
+ "depicts": "beetroot crop stage 0: sparse young beetroot leaves (plant, mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    143,
+    40
+   ],
+   "share": 0.4,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.267,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    38,
+    99,
+    37
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    43,
+    112,
+    42
+   ],
+   "share": 0.133,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

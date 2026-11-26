@@ -1,0 +1,62 @@
+{
+ "path": "block/deepslate.png",
+ "depicts": "deepslate block: dark metamorphic rock (deepslate, close analogue slate), solid 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.305,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    61,
+    61,
+    67
+   ],
+   "share": 0.273,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    100,
+    100
+   ],
+   "share": 0.227,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    47,
+    47,
+    55
+   ],
+   "share": 0.102,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    121,
+    121,
+    121
+   ],
+   "share": 0.094,
+   "material": "slate",
+   "thickness_cm": 100.0
+  }
+ ]
+}

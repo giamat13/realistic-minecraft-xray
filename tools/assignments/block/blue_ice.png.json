@@ -1,0 +1,62 @@
+{
+ "path": "block/blue_ice.png",
+ "depicts": "Blue ice block (dense glacial ice, blue tint from light absorption)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    108,
+    163,
+    253
+   ],
+   "share": 0.316,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    116,
+    171,
+    254
+   ],
+   "share": 0.297,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    157,
+    251
+   ],
+   "share": 0.23,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    142,
+    184,
+    254
+   ],
+   "share": 0.133,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    169,
+    200,
+    255
+   ],
+   "share": 0.023,
+   "material": "ice",
+   "thickness_cm": 100.0
+  }
+ ]
+}

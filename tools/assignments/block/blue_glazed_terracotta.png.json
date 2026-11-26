@@ -1,0 +1,73 @@
+{
+ "path": "block/blue_glazed_terracotta.png",
+ "depicts": "Blue glazed terracotta block with a symmetric ornamental pattern (fired clay body under thin cobalt-blue glaze; glaze ~0.05 cm negligible, X-ray path is through the fired clay body)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    34,
+    29,
+    62
+   ],
+   "share": 0.309,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    44,
+    46,
+    143
+   ],
+   "share": 0.254,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    68,
+    170
+   ],
+   "share": 0.184,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    69,
+    119,
+    211
+   ],
+   "share": 0.176,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    35,
+    137,
+    199
+   ],
+   "share": 0.078,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    47,
+    65,
+    139
+   ],
+   "share": 0.0,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

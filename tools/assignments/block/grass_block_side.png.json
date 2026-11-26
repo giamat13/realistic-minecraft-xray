@@ -1,0 +1,73 @@
+{
+ "path": "block/grass_block_side.png",
+ "depicts": "grass block side face: green grass fringe on top over dark dirt and soil",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    132,
+    94,
+    64
+   ],
+   "share": 0.531,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    61,
+    41
+   ],
+   "share": 0.168,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    169,
+    63
+   ],
+   "share": 0.133,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    185,
+    133,
+    92
+   ],
+   "share": 0.102,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    140,
+    190,
+    93
+   ],
+   "share": 0.043,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    122,
+    122
+   ],
+   "share": 0.023,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

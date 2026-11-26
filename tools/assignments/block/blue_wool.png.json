@@ -1,0 +1,73 @@
+{
+ "path": "block/blue_wool.png",
+ "depicts": "Solid blue wool block (dyed sheep wool fibre block)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    49,
+    51,
+    150
+   ],
+   "share": 0.277,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    59,
+    161
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    59,
+    64,
+    166
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    45,
+    48,
+    145
+   ],
+   "share": 0.137,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    52,
+    55,
+    156
+   ],
+   "share": 0.133,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    62,
+    77,
+    178
+   ],
+   "share": 0.082,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

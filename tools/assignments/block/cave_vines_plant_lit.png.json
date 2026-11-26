@@ -1,0 +1,73 @@
+{
+ "path": "block/cave_vines_plant_lit.png",
+ "depicts": "glowing cave vine plant body: green leaves, brown stalks, orange berries and one yellow glowing berry",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    127,
+    49
+   ],
+   "share": 0.412,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    71,
+    94,
+    36
+   ],
+   "share": 0.244,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    62,
+    20
+   ],
+   "share": 0.169,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    100,
+    34
+   ],
+   "share": 0.113,
+   "material": "fruit",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    235,
+    137,
+    49
+   ],
+   "share": 0.044,
+   "material": "fruit",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    247,
+    226,
+    107
+   ],
+   "share": 0.019,
+   "material": "glowstone",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/beetroots_stage2.png",
+ "depicts": "beetroot crop stage 2: green leaves with the first red beetroot bulbs",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    143,
+    40
+   ],
+   "share": 0.33,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.261,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    43,
+    112,
+    42
+   ],
+   "share": 0.227,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    99,
+    37
+   ],
+   "share": 0.114,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    116,
+    35,
+    3
+   ],
+   "share": 0.045,
+   "material": "vegetable",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    155,
+    34,
+    26
+   ],
+   "share": 0.023,
+   "material": "vegetable",
+   "thickness_cm": 5.0
+  }
+ ]
+}

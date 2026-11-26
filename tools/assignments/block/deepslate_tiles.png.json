@@ -1,0 +1,73 @@
+{
+ "path": "block/deepslate_tiles.png",
+ "depicts": "deepslate tiles: dark slate tile blocks with grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.258,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    55,
+    55
+   ],
+   "share": 0.203,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    65,
+    65,
+    65
+   ],
+   "share": 0.199,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    36,
+    36,
+    36
+   ],
+   "share": 0.188,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    75,
+    76,
+    79
+   ],
+   "share": 0.09,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    88,
+    88
+   ],
+   "share": 0.062,
+   "material": "slate",
+   "thickness_cm": 100.0
+  }
+ ]
+}

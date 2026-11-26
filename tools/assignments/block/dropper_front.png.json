@@ -1,0 +1,73 @@
+{
+ "path": "block/dropper_front.png",
+ "depicts": "dropper front face: cobblestone (stone) block with an iron-grey mechanism plate and a dark dispensing hole in the centre",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.336,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    115,
+    115
+   ],
+   "share": 0.242,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    83,
+    81,
+    81
+   ],
+   "share": 0.207,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    197,
+    197,
+    197
+   ],
+   "share": 0.09,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    60,
+    59,
+    59
+   ],
+   "share": 0.078,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    27,
+    27,
+    27
+   ],
+   "share": 0.047,
+   "material": "air",
+   "thickness_cm": 100.0
+  }
+ ]
+}

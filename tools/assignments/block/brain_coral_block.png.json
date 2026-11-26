@@ -1,0 +1,73 @@
+{
+ "path": "block/brain_coral_block.png",
+ "depicts": "Solid brain coral block (living coral polyp tissue over calcium-carbonate skeleton)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    92,
+    160
+   ],
+   "share": 0.383,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    191,
+    70,
+    146
+   ],
+   "share": 0.23,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    228,
+    126,
+    185
+   ],
+   "share": 0.211,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    172,
+    51,
+    130
+   ],
+   "share": 0.109,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    232,
+    142,
+    193
+   ],
+   "share": 0.047,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    157,
+    47,
+    119
+   ],
+   "share": 0.02,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

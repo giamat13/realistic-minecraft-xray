@@ -1,0 +1,73 @@
+{
+ "path": "block/brown_bed_foot_east.png",
+ "depicts": "Brown bed footboard, east side: oak wood frame (3/16 block thick board)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    56,
+    30
+   ],
+   "share": 0.455,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    80,
+    48
+   ],
+   "share": 0.228,
+   "material": "wood_oak",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    122,
+    68
+   ],
+   "share": 0.187,
+   "material": "planks",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    179,
+    140,
+    81
+   ],
+   "share": 0.073,
+   "material": "planks",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    188,
+    152,
+    98
+   ],
+   "share": 0.041,
+   "material": "planks",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    98,
+    62
+   ],
+   "share": 0.016,
+   "material": "wood_oak",
+   "thickness_cm": 19.0
+  }
+ ]
+}

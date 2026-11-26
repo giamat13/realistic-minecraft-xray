@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_cinnabar.png",
+ "depicts": "chiseled cinnabar block: red mercury sulfide mineral with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    133,
+    47,
+    46
+   ],
+   "share": 0.297,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    34,
+    37
+   ],
+   "share": 0.227,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    169,
+    65,
+    62
+   ],
+   "share": 0.176,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    79,
+    80
+   ],
+   "share": 0.148,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    152,
+    58,
+    52
+   ],
+   "share": 0.098,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    197,
+    92,
+    93
+   ],
+   "share": 0.055,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  }
+ ]
+}

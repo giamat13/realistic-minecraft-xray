@@ -1,0 +1,73 @@
+{
+ "path": "block/command_block_back.png",
+ "depicts": "command block back face (orange-finished metal casing with grey metal panel)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    201,
+    133,
+    91
+   ],
+   "share": 0.281,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    189,
+    174,
+    171
+   ],
+   "share": 0.266,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    173,
+    98,
+    52
+   ],
+   "share": 0.195,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    96,
+    66,
+    40
+   ],
+   "share": 0.148,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    203,
+    200,
+    211
+   ],
+   "share": 0.066,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    121,
+    133
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/creaking_heart_top.png",
+ "depicts": "creaking heart top face, dark resinous end grain with grey bark ring (dormant-like top)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    56,
+    50
+   ],
+   "share": 0.371,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    51,
+    40,
+    35
+   ],
+   "share": 0.332,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    94,
+    83,
+    80
+   ],
+   "share": 0.156,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    110,
+    100,
+    98
+   ],
+   "share": 0.066,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    89,
+    70,
+    61
+   ],
+   "share": 0.059,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    125,
+    114,
+    112
+   ],
+   "share": 0.016,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

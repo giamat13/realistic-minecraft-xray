@@ -1,0 +1,51 @@
+{
+ "path": "block/dirt_path_top.png",
+ "depicts": "dirt path top: compacted brown soil surface (packed earth)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    144,
+    117,
+    64
+   ],
+   "share": 0.5,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    153,
+    128,
+    67
+   ],
+   "share": 0.266,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    170,
+    141,
+    74
+   ],
+   "share": 0.121,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    133,
+    107,
+    58
+   ],
+   "share": 0.113,
+   "material": "soil",
+   "thickness_cm": 100.0
+  }
+ ]
+}

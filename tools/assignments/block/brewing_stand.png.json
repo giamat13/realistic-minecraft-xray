@@ -1,0 +1,73 @@
+{
+ "path": "block/brewing_stand.png",
+ "depicts": "Brewing stand (sprite): blaze-rod-like central stand (yellow brass analogue), iron-grey pieces, three glass bottles with red potion liquid, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    50,
+    50
+   ],
+   "share": 0.323,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    90,
+    90
+   ],
+   "share": 0.262,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    178,
+    61,
+    39
+   ],
+   "share": 0.154,
+   "material": "potion_liquid",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    213,
+    174,
+    60
+   ],
+   "share": 0.146,
+   "material": "brass",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    177,
+    213,
+    216
+   ],
+   "share": 0.069,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    234,
+    251,
+    253
+   ],
+   "share": 0.046,
+   "material": "glass",
+   "thickness_cm": 0.3
+  }
+ ]
+}

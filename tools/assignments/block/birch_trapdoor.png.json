@@ -1,0 +1,73 @@
+{
+ "path": "block/birch_trapdoor.png",
+ "depicts": "birch trapdoor: pale birch planks with a panel frame, ~3 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    245,
+    239,
+    222
+   ],
+   "share": 0.367,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    161,
+    143,
+    99
+   ],
+   "share": 0.324,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    204,
+    147
+   ],
+   "share": 0.289,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    46,
+    23
+   ],
+   "share": 0.008,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    67,
+    33
+   ],
+   "share": 0.008,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    184,
+    168,
+    117
+   ],
+   "share": 0.004,
+   "material": "wood_soft",
+   "thickness_cm": 3.0
+  }
+ ]
+}

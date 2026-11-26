@@ -1,0 +1,51 @@
+{
+ "path": "block/glass.png",
+ "depicts": "glass block: transparent glass, with slightly darker edge lines",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    208,
+    234,
+    233
+   ],
+   "share": 0.477,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    193,
+    205
+   ],
+   "share": 0.292,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    208,
+    217
+   ],
+   "share": 0.169,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    174,
+    183
+   ],
+   "share": 0.062,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

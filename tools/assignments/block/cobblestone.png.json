@@ -1,0 +1,73 @@
+{
+ "path": "block/cobblestone.png",
+ "depicts": "cobblestone block (grey rough stone)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    136,
+    135,
+    136
+   ],
+   "share": 0.293,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    97,
+    97
+   ],
+   "share": 0.238,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    109,
+    109
+   ],
+   "share": 0.191,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    166,
+    166,
+    166
+   ],
+   "share": 0.145,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    181,
+    181,
+    181
+   ],
+   "share": 0.09,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    82,
+    82,
+    82
+   ],
+   "share": 0.043,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

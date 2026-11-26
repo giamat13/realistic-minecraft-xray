@@ -1,0 +1,40 @@
+{
+ "path": "block/dragon_egg.png",
+ "depicts": "dragon egg block: fictional egg-shaped block, closest analogue obsidian-like black glassy shell with purple speckles (amethyst); 1 m block path",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    8,
+    8,
+    12
+   ],
+   "share": 0.688,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    16,
+    16
+   ],
+   "share": 0.242,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    1,
+    51
+   ],
+   "share": 0.07,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/diamond_ore.png",
+ "depicts": "diamond ore: stone host rock with embedded cyan diamond crystals",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    136,
+    140,
+    141
+   ],
+   "share": 0.57,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.285,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    119,
+    231,
+    209
+   ],
+   "share": 0.047,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    30,
+    208,
+    214
+   ],
+   "share": 0.039,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    35,
+    150,
+    152
+   ],
+   "share": 0.039,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    213,
+    255,
+    246
+   ],
+   "share": 0.02,
+   "material": "diamond",
+   "thickness_cm": 100.0
+  }
+ ]
+}

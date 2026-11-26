@@ -1,0 +1,73 @@
+{
+ "path": "block/enchanting_table_side.png",
+ "depicts": "enchanting table side face: obsidian block with a red leather-like cover band and glowing enchantment runes",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    8,
+    6,
+    15
+   ],
+   "share": 0.594,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    128,
+    15,
+    44
+   ],
+   "share": 0.146,
+   "material": "leather",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    33,
+    68
+   ],
+   "share": 0.104,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    248,
+    236
+   ],
+   "share": 0.083,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    226,
+    198
+   ],
+   "share": 0.062,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.01,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

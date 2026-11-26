@@ -1,0 +1,73 @@
+{
+ "path": "block/cherry_leaves.png",
+ "depicts": "cherry blossom leaves: pink petal clusters with some green leaves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    249,
+    209,
+    234
+   ],
+   "share": 0.366,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    171,
+    212
+   ],
+   "share": 0.287,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    233,
+    137,
+    188
+   ],
+   "share": 0.199,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    148,
+    43
+   ],
+   "share": 0.106,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    232,
+    103,
+    166
+   ],
+   "share": 0.032,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    118,
+    32
+   ],
+   "share": 0.009,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

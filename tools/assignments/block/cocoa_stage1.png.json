@@ -1,0 +1,73 @@
+{
+ "path": "block/cocoa_stage1.png",
+ "depicts": "medium cocoa pod on a jungle-tree stem (brown-orange husk)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    76,
+    36
+   ],
+   "share": 0.404,
+   "material": "fruit",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    186,
+    150,
+    82
+   ],
+   "share": 0.225,
+   "material": "fruit",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    177,
+    138,
+    69
+   ],
+   "share": 0.18,
+   "material": "fruit",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    205,
+    164,
+    85
+   ],
+   "share": 0.101,
+   "material": "fruit",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    84,
+    54,
+    24
+   ],
+   "share": 0.09,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    146,
+    111,
+    56
+   ],
+   "share": 0.0,
+   "material": "fruit",
+   "thickness_cm": 6.0
+  }
+ ]
+}

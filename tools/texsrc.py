@@ -23,3 +23,14 @@ def load(rel):
         f = d / "assets/minecraft/textures" / rel
         if f.exists(): return Image.open(f).convert("RGBA")
     raise FileNotFoundError(rel)
+
+def mcmeta(rel):
+    """Bytes of <rel>.mcmeta from the newest source that has it, else None."""
+    global _z
+    _z = _z or zipfile.ZipFile(JAR)
+    n = "assets/minecraft/textures/" + rel + ".mcmeta"
+    if n in _z.namelist(): return _z.read(n)
+    for d in sorted((x for x in V.iterdir() if (x / "DONE").exists()), key=lambda x: _key(x.name), reverse=True):
+        f = d / "assets/minecraft/textures" / (rel + ".mcmeta")
+        if f.exists(): return f.read_bytes()
+    return None

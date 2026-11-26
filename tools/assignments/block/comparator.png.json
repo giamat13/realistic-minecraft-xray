@@ -1,0 +1,73 @@
+{
+ "path": "block/comparator.png",
+ "depicts": "redstone comparator flat top (stone base plate with redstone torches)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    192,
+    189
+   ],
+   "share": 0.422,
+   "material": "stone",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    134,
+    136,
+    134
+   ],
+   "share": 0.305,
+   "material": "stone",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    170,
+    172
+   ],
+   "share": 0.129,
+   "material": "stone",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    223,
+    212,
+    203
+   ],
+   "share": 0.082,
+   "material": "stone",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    81,
+    1,
+    1
+   ],
+   "share": 0.039,
+   "material": "redstone_dust",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    44,
+    3,
+    0
+   ],
+   "share": 0.023,
+   "material": "redstone_dust",
+   "thickness_cm": 6.0
+  }
+ ]
+}

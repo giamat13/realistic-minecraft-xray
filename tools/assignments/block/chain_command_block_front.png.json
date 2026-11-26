@@ -1,0 +1,73 @@
+{
+ "path": "block/chain_command_block_front.png",
+ "depicts": "chain command block front face: light grey metal panel, teal steel, dark iron bevels, red indicator and copper accent (animated strip, first frame)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    166,
+    191,
+    183
+   ],
+   "share": 0.465,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    161,
+    138
+   ],
+   "share": 0.422,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    89,
+    77
+   ],
+   "share": 0.051,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    55,
+    47
+   ],
+   "share": 0.047,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    48,
+    44
+   ],
+   "share": 0.008,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    200,
+    128,
+    90
+   ],
+   "share": 0.008,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

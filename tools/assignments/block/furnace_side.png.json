@@ -1,0 +1,73 @@
+{
+ "path": "block/furnace_side.png",
+ "depicts": "unlit furnace side face: cobblestone with darker mineral flecks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    91,
+    90,
+    90
+   ],
+   "share": 0.359,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    126,
+    126,
+    126
+   ],
+   "share": 0.25,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    151,
+    151,
+    151
+   ],
+   "share": 0.145,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.121,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    60,
+    59,
+    59
+   ],
+   "share": 0.078,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    197,
+    197,
+    197
+   ],
+   "share": 0.047,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

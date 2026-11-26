@@ -1,0 +1,73 @@
+{
+ "path": "block/bell_bottom.png",
+ "depicts": "bell bottom (opening) seen from below: bronze bell wall rim with shading",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    128,
+    98,
+    13
+   ],
+   "share": 0.438,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    187,
+    74
+   ],
+   "share": 0.266,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    221,
+    90
+   ],
+   "share": 0.141,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    233,
+    177,
+    21
+   ],
+   "share": 0.094,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    170,
+    134,
+    35
+   ],
+   "share": 0.062,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    189,
+    148,
+    42
+   ],
+   "share": 0.0,
+   "material": "bronze",
+   "thickness_cm": 0.5
+  }
+ ]
+}

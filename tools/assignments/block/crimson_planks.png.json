@@ -1,0 +1,73 @@
+{
+ "path": "block/crimson_planks.png",
+ "depicts": "crimson planks: planks of nether fungal wood, dark pink-purple grain, solid cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    65,
+    31,
+    47
+   ],
+   "share": 0.207,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    126,
+    58,
+    86
+   ],
+   "share": 0.203,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    52,
+    75
+   ],
+   "share": 0.188,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    92,
+    48,
+    66
+   ],
+   "share": 0.184,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    134,
+    62,
+    90
+   ],
+   "share": 0.148,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    39,
+    55
+   ],
+   "share": 0.07,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

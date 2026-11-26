@@ -1,0 +1,73 @@
+{
+ "path": "block/coal_ore.png",
+ "depicts": "stone with coal ore inclusions",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    108,
+    108,
+    108
+   ],
+   "share": 0.453,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    127,
+    127
+   ],
+   "share": 0.262,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    54,
+    51
+   ],
+   "share": 0.109,
+   "material": "coal",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.102,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    37,
+    37
+   ],
+   "share": 0.055,
+   "material": "coal",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    75,
+    63
+   ],
+   "share": 0.02,
+   "material": "coal",
+   "thickness_cm": 100.0
+  }
+ ]
+}

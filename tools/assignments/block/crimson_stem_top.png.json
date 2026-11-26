@@ -1,0 +1,73 @@
+{
+ "path": "block/crimson_stem_top.png",
+ "depicts": "crimson stem log end grain: crimson fungal wood rings with red core",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    130,
+    60,
+    88
+   ],
+   "share": 0.5,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    50,
+    70
+   ],
+   "share": 0.246,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    36,
+    52
+   ],
+   "share": 0.129,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    24,
+    16
+   ],
+   "share": 0.062,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    156,
+    27,
+    27
+   ],
+   "share": 0.047,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    123,
+    0,
+    0
+   ],
+   "share": 0.016,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}
