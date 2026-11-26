@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/saddle.png",
+ "depicts": "16x16 saddle empty-slot silhouette: leather saddle with stirrup and girth outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    124,
+    124
+   ],
+   "share": 1.0,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

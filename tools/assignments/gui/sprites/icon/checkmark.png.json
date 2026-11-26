@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/icon/checkmark.png",
+ "depicts": "checkmark icon: green tick with dark-green shading (abstract GUI icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    4,
+    169,
+    53
+   ],
+   "share": 0.41,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    41,
+    67,
+    49
+   ],
+   "share": 0.231,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    4,
+    135,
+    43
+   ],
+   "share": 0.179,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    4,
+    203,
+    64
+   ],
+   "share": 0.179,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

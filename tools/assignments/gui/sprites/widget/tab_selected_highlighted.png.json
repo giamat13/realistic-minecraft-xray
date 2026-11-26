@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/widget/tab_selected_highlighted.png",
+ "depicts": "GUI selected tab outline hover (130x24): thin white outline on black, abstract UI",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.506,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.494,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

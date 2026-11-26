@@ -1,0 +1,73 @@
+{
+ "path": "item/archer_pottery_sherd.png",
+ "depicts": "archer pottery sherd item (fired clay sherd with glazed decoration)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    60,
+    50
+   ],
+   "share": 0.382,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    71,
+    37,
+    29
+   ],
+   "share": 0.185,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.153,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    45,
+    37
+   ],
+   "share": 0.134,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.108,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.038,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

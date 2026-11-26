@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_brown.png",
+ "depicts": "brown rabbit model texture (full body, fur over skin): brown fur body, darker legs and shading, claws, pink inner ear",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    159,
+    116,
+    79
+   ],
+   "share": 0.694,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    182,
+    149,
+    119
+   ],
+   "share": 0.193,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    88,
+    56,
+    38
+   ],
+   "share": 0.061,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    81,
+    51
+   ],
+   "share": 0.048,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    39,
+    23
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    247,
+    184,
+    198
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

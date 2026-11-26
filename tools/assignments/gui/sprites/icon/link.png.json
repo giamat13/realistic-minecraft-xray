@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/icon/link.png",
+ "depicts": "link icon: chain links in blue and green (abstract GUI icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    96,
+    182
+   ],
+   "share": 0.577,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    183,
+    56
+   ],
+   "share": 0.423,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

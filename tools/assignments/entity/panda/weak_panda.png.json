@@ -1,0 +1,73 @@
+{
+ "path": "entity/panda/weak_panda.png",
+ "depicts": "weak giant panda skin: white fur over muscle with black-brown ears, limbs and eye patches, grey shading",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    226,
+    225
+   ],
+   "share": 0.432,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    12,
+    12,
+    15
+   ],
+   "share": 0.362,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.203,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    51,
+    68,
+    64
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    77,
+    176,
+    88
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    157,
+    218,
+    199
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

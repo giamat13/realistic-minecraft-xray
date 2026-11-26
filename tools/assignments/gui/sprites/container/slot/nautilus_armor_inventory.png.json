@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/nautilus_armor_inventory.png",
+ "depicts": "16x16 nautilus armour inventory-icon silhouette: same spiral shell armour as the slot version; calcite shell",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    124,
+    124
+   ],
+   "share": 1.0,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  }
+ ]
+}

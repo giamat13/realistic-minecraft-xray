@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/checkbox_selected.png",
+ "depicts": "GUI checked checkbox (20x20): dark grey box with black border and a bright white/light-grey tick mark, abstract UI widget",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    43,
+    43
+   ],
+   "share": 0.598,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.19,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    46,
+    46,
+    46
+   ],
+   "share": 0.13,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.058,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    202,
+    202,
+    202
+   ],
+   "share": 0.018,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    134,
+    134
+   ],
+   "share": 0.007,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

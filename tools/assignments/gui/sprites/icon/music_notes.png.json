@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/icon/music_notes.png",
+ "depicts": "music-notes icon animation strip: grey musical note glyphs (abstract GUI icon, first frame)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    146,
+    146
+   ],
+   "share": 0.312,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    179,
+    179,
+    179
+   ],
+   "share": 0.25,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.188,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.188,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.062,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

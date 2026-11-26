@@ -1,0 +1,73 @@
+{
+ "path": "entity/signs/warped.png",
+ "depicts": "warped standing sign: teal warped-stem board (2 cm, oak-class wood) with darker post (5 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    36,
+    100,
+    90
+   ],
+   "share": 0.48,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    132,
+    131
+   ],
+   "share": 0.313,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    23,
+    61,
+    58
+   ],
+   "share": 0.083,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    75,
+    38,
+    55
+   ],
+   "share": 0.071,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    45,
+    92
+   ],
+   "share": 0.04,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    17,
+    158,
+    133
+   ],
+   "share": 0.012,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  }
+ ]
+}

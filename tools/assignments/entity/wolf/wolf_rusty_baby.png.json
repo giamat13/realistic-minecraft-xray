@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_rusty_baby.png",
+ "depicts": "Baby rusty wolf: orange-brown fur and skin, dark nose and claws",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    119,
+    73,
+    56
+   ],
+   "share": 0.406,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    108,
+    68
+   ],
+   "share": 0.401,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    210,
+    196
+   ],
+   "share": 0.091,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    203,
+    168,
+    143
+   ],
+   "share": 0.054,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    249,
+    247,
+    240
+   ],
+   "share": 0.043,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/blue_egg.png",
+ "depicts": "blue chicken/egg item: calcite eggshell with albumen/yolk interior",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    199,
+    229,
+    212
+   ],
+   "share": 0.311,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    160,
+    185,
+    163
+   ],
+   "share": 0.256,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    65,
+    83,
+    72
+   ],
+   "share": 0.156,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    112,
+    96
+   ],
+   "share": 0.156,
+   "material": "calcite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    119,
+    148,
+    127
+   ],
+   "share": 0.078,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    255,
+    240
+   ],
+   "share": 0.044,
+   "material": "calcite",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/acacia_sign.png",
+ "depicts": "acacia standing sign item (wooden board with carved text and wooden post)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    176,
+    95,
+    52
+   ],
+   "share": 0.447,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    46,
+    34,
+    12
+   ],
+   "share": 0.189,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    80,
+    43
+   ],
+   "share": 0.152,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    111,
+    49,
+    19
+   ],
+   "share": 0.098,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    88,
+    83,
+    72
+   ],
+   "share": 0.076,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    125,
+    113
+   ],
+   "share": 0.038,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

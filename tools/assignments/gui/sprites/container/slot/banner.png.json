@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/banner.png",
+ "depicts": "16x16 banner empty-slot silhouette: rectangular cloth banner on a single pole, dark grey outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 1.0,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

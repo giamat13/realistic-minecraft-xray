@@ -1,0 +1,73 @@
+{
+ "path": "item/armadillo_spawn_egg.png",
+ "depicts": "armadillo spawn egg item (egg-shaped shell with brownish-pink speckles)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    135,
+    85,
+    86
+   ],
+   "share": 0.419,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    56,
+    57
+   ],
+   "share": 0.315,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    173,
+    115,
+    112
+   ],
+   "share": 0.121,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    135,
+    119
+   ],
+   "share": 0.073,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    188,
+    96,
+    88
+   ],
+   "share": 0.048,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    69,
+    43,
+    44
+   ],
+   "share": 0.024,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

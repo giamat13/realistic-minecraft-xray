@@ -1,0 +1,73 @@
+{
+ "path": "item/bamboo_raft.png",
+ "depicts": "bamboo raft boat item (bamboo planks hull seen from above)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    99,
+    94,
+    47
+   ],
+   "share": 0.331,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    55,
+    30
+   ],
+   "share": 0.198,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    194,
+    94
+   ],
+   "share": 0.192,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    194,
+    171,
+    72
+   ],
+   "share": 0.11,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    235,
+    212,
+    111
+   ],
+   "share": 0.087,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    146,
+    128,
+    59
+   ],
+   "share": 0.081,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/black.png",
+ "depicts": "black rabbit mob skin (fur over skin): dark body fur, pale pink inner ear, grey shading",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    32,
+    32
+   ],
+   "share": 0.806,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.136,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    50,
+    50,
+    50
+   ],
+   "share": 0.026,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    66,
+    66,
+    66
+   ],
+   "share": 0.021,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    242,
+    213,
+    234
+   ],
+   "share": 0.007,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    80,
+    80,
+    80
+   ],
+   "share": 0.004,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}

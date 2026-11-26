@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/slot.png",
+ "depicts": "18x18 generic inventory slot frame: grey recessed panel with white bright edge and dark shadow edge; abstract GUI",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.796,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.102,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.102,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

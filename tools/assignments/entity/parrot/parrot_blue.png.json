@@ -1,0 +1,73 @@
+{
+ "path": "entity/parrot/parrot_blue.png",
+ "depicts": "blue parrot skin: blue plumage over body and wings (feather layer over tissue), yellow and red accent feathers, dark legs and eyes, grey beak, opaque white unused UV filler",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.719,
+   "material": "air",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    12,
+    35,
+    200
+   ],
+   "share": 0.245,
+   "material": "feather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    18,
+    18,
+    18
+   ],
+   "share": 0.022,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    225,
+    10
+   ],
+   "share": 0.007,
+   "material": "feather",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    136,
+    144,
+    150
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    251,
+    13,
+    13
+   ],
+   "share": 0.001,
+   "material": "feather",
+   "thickness_cm": 2.0
+  }
+ ]
+}

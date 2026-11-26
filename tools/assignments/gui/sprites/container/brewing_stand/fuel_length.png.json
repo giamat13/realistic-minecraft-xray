@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/container/brewing_stand/fuel_length.png",
+ "depicts": "brewing-stand blaze-powder fuel gauge: yellow-orange powder bar with dark frame; blaze powder has no entry, closest analogue sulfur",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    179,
+    102,
+    17
+   ],
+   "share": 0.368,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    159,
+    32
+   ],
+   "share": 0.235,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    61,
+    1
+   ],
+   "share": 0.162,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    243,
+    45
+   ],
+   "share": 0.118,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    193,
+    0
+   ],
+   "share": 0.059,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    248,
+    126
+   ],
+   "share": 0.059,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/container/villager2.png",
+ "depicts": "villager trading GUI container background (variant): grey bevelled panel, white highlight, dark outline pixels and a red-brown accent",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.46,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    198,
+    198,
+    197
+   ],
+   "share": 0.373,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    254,
+    254,
+    253
+   ],
+   "share": 0.065,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    65,
+    63
+   ],
+   "share": 0.062,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    5,
+    4,
+    4
+   ],
+   "share": 0.038,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    42,
+    5
+   ],
+   "share": 0.003,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

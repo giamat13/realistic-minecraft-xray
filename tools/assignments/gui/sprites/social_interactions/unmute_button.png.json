@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/social_interactions/unmute_button.png",
+ "depicts": "unmute toggle button, grey plastic face with light speaker glyph and red slash",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.263,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    228,
+    249,
+    250
+   ],
+   "share": 0.21,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.19,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    86,
+    86,
+    86
+   ],
+   "share": 0.147,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    151,
+    175,
+    179
+   ],
+   "share": 0.125,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    171,
+    49,
+    32
+   ],
+   "share": 0.065,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

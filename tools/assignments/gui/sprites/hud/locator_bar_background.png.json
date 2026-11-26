@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/locator_bar_background.png",
+ "depicts": "locator bar background: dark green gradient panel strip (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    14,
+    17,
+    16
+   ],
+   "share": 0.464,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    39,
+    56,
+    37
+   ],
+   "share": 0.179,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    46,
+    70,
+    38
+   ],
+   "share": 0.143,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    82,
+    43
+   ],
+   "share": 0.107,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    22,
+    40,
+    24
+   ],
+   "share": 0.071,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    65,
+    96,
+    50
+   ],
+   "share": 0.036,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

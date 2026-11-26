@@ -1,0 +1,73 @@
+{
+ "path": "gui/recipe_button.png",
+ "depicts": "16px recipe-book button icon: pale grey-blue paper page with green paint marks, dark ink and slate outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    173,
+    194
+   ],
+   "share": 0.273,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    5,
+    6,
+    25
+   ],
+   "share": 0.236,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    77,
+    154,
+    77
+   ],
+   "share": 0.175,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    80,
+    38
+   ],
+   "share": 0.141,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    74,
+    101
+   ],
+   "share": 0.089,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.086,
+   "material": "paper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

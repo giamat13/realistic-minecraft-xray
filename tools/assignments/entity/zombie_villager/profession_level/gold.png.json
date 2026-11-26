@@ -1,0 +1,51 @@
+{
+ "path": "entity/zombie_villager/profession_level/gold.png",
+ "depicts": "villager level badge depicting a gold ingot/nugget sprite (tiny)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    253,
+    255,
+    118
+   ],
+   "share": 0.333,
+   "material": "gold",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    238,
+    214,
+    87
+   ],
+   "share": 0.333,
+   "material": "gold",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    242
+   ],
+   "share": 0.167,
+   "material": "gold",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    233,
+    177,
+    21
+   ],
+   "share": 0.167,
+   "material": "gold",
+   "thickness_cm": 1.0
+  }
+ ]
+}

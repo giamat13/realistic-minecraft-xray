@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/unlocked_button.png",
+ "depicts": "GUI unlocked-world padlock button (20x20): grey panel with an open padlock glyph in steel/iron tones, physical padlock icon",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.312,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    80,
+    80
+   ],
+   "share": 0.198,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.195,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.075,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    42,
+    42,
+    42
+   ],
+   "share": 0.02,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

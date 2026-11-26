@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/gold.png",
+ "depicts": "gold rabbit mob skin (fictional golden-fur variant): pale gold fur over skin, pink inner ear, dark brown eye markings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    247,
+    232,
+    171
+   ],
+   "share": 0.383,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    239,
+    178
+   ],
+   "share": 0.33,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    236,
+    221,
+    160
+   ],
+   "share": 0.255,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    254,
+    247,
+    210
+   ],
+   "share": 0.021,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    242,
+    213,
+    234
+   ],
+   "share": 0.007,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    75,
+    42
+   ],
+   "share": 0.004,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}

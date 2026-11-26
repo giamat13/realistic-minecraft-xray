@@ -1,0 +1,73 @@
+{
+ "path": "entity/signs/hanging/cherry.png",
+ "depicts": "cherry hanging sign: pink cherry board (2 cm, soft wood) plus iron chain links (0.3 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    146,
+    151
+   ],
+   "share": 0.551,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    208,
+    135,
+    136
+   ],
+   "share": 0.297,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    62,
+    68,
+    83
+   ],
+   "share": 0.06,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.052,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    80,
+    101
+   ],
+   "share": 0.033,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    100,
+    124
+   ],
+   "share": 0.006,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

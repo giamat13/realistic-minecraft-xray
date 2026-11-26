@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/slider_highlighted.png",
+ "depicts": "GUI slider track hover (200x20): dark grey panel with white bright border, abstract UI panel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    43,
+    43
+   ],
+   "share": 0.617,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    46,
+    46,
+    46
+   ],
+   "share": 0.162,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.109,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    40,
+    40
+   ],
+   "share": 0.093,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    49,
+    49,
+    49
+   ],
+   "share": 0.019,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    67,
+    67,
+    67
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/widget/scroller_background.png",
+ "depicts": "GUI scrollbar track background (6x32): solid black strip, abstract UI panel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 1.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

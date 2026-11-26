@@ -1,0 +1,73 @@
+{
+ "path": "gui/toasts.png",
+ "depicts": "GUI toast notification panel sprites (dark translucent panel, grey frame, icon glyphs)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    18,
+    33,
+    44
+   ],
+   "share": 0.439,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.371,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    120,
+    131,
+    131
+   ],
+   "share": 0.161,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    198,
+    0,
+    254
+   ],
+   "share": 0.027,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    173,
+    22
+   ],
+   "share": 0.001,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    0,
+    0
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

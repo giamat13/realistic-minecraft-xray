@@ -1,0 +1,73 @@
+{
+ "path": "gui/title/minecraft.png",
+ "depicts": "Minecraft wordmark logo on title screen (stylised text glyphs with dark drop shadow)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.37,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    181,
+    170,
+    166
+   ],
+   "share": 0.241,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    202,
+    191,
+    186
+   ],
+   "share": 0.205,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    52,
+    51
+   ],
+   "share": 0.145,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    151,
+    142,
+    138
+   ],
+   "share": 0.021,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    111,
+    104,
+    101
+   ],
+   "share": 0.018,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

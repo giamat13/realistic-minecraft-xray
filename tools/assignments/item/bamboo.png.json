@@ -1,0 +1,73 @@
+{
+ "path": "item/bamboo.png",
+ "depicts": "bamboo stalk item (green bamboo culm with leaves)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    120,
+    21
+   ],
+   "share": 0.431,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    95,
+    26
+   ],
+   "share": 0.259,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    96,
+    139,
+    36
+   ],
+   "share": 0.207,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    193,
+    92
+   ],
+   "share": 0.052,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    138,
+    174,
+    96
+   ],
+   "share": 0.034,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    120,
+    160,
+    48
+   ],
+   "share": 0.017,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

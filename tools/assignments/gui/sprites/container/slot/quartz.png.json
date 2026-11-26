@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/quartz.png",
+ "depicts": "16x16 nether quartz empty-slot silhouette: angular quartz crystal shape",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  }
+ ]
+}

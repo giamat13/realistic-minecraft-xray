@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/smithing_template_armor_trim.png",
+ "depicts": "16x16 armour-trim smithing template empty-slot silhouette: flat paper card with a shaped outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "paper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

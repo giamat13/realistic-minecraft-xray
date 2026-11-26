@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/enchanting_table/enchantment_slot_highlighted.png",
+ "depicts": "highlighted enchantment option button strip (violet tinted panel) with bevel outlines",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    182,
+    136,
+    174
+   ],
+   "share": 0.879,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    101,
+    76,
+    97
+   ],
+   "share": 0.06,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    185,
+    239
+   ],
+   "share": 0.06,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

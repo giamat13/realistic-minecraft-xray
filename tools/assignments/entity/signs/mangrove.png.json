@@ -1,0 +1,73 @@
+{
+ "path": "entity/signs/mangrove.png",
+ "depicts": "mangrove standing sign: reddish mangrove board (2 cm, oak-class wood) with darker post (5 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    117,
+    52,
+    52
+   ],
+   "share": 0.373,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    130,
+    69,
+    53
+   ],
+   "share": 0.281,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    98,
+    33,
+    33
+   ],
+   "share": 0.213,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    83,
+    67,
+    41
+   ],
+   "share": 0.083,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    66,
+    52,
+    34
+   ],
+   "share": 0.025,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    82,
+    48
+   ],
+   "share": 0.025,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  }
+ ]
+}

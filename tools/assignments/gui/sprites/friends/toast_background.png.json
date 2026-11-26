@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/friends/toast_background.png",
+ "depicts": "160x32 dark grey toast notification panel with black frame and lighter grey bottom edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    33,
+    33
+   ],
+   "share": 0.784,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.143,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.073,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

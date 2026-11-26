@@ -1,0 +1,73 @@
+{
+ "path": "entity/warden/warden_bioluminescent_layer.png",
+ "depicts": "warden bioluminescent emissive overlay (cyan glowing veins over dark sculk hide)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    15,
+    71,
+    71
+   ],
+   "share": 0.512,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    20,
+    26,
+    31
+   ],
+   "share": 0.15,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    20,
+    25
+   ],
+   "share": 0.134,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    20,
+    50,
+    52
+   ],
+   "share": 0.105,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    25,
+    41,
+    46
+   ],
+   "share": 0.075,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    56,
+    102,
+    87
+   ],
+   "share": 0.024,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  }
+ ]
+}

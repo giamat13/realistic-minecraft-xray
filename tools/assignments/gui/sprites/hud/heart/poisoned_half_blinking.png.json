@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/hud/heart/poisoned_half_blinking.png",
+ "depicts": "poisoned half heart HUD icon (blink frame): pale olive-tinted heart organ, muscle tissue",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    162,
+    147,
+    94
+   ],
+   "share": 0.75,
+   "material": "muscle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    147,
+    131,
+    75
+   ],
+   "share": 0.2,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    195,
+    175,
+    167
+   ],
+   "share": 0.05,
+   "material": "muscle",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/brown.png",
+ "depicts": "brown rabbit mob skin (fur over skin): brown-grey body fur, darker belly shading, pale pink inner ear",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    149,
+    126,
+    99
+   ],
+   "share": 0.342,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    98,
+    70
+   ],
+   "share": 0.262,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    117,
+    90
+   ],
+   "share": 0.242,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    72,
+    57
+   ],
+   "share": 0.139,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    180,
+    165,
+    148
+   ],
+   "share": 0.009,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    242,
+    213,
+    234
+   ],
+   "share": 0.007,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

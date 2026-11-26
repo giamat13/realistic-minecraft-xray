@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/locked_button_disabled.png",
+ "depicts": "GUI disabled locked-world padlock button (20x20): dark grey panel with padlock glyph in steel/iron tones, physical padlock icon",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    44,
+    44
+   ],
+   "share": 0.54,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    154,
+    154,
+    154
+   ],
+   "share": 0.11,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.075,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.072,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    113,
+    113,
+    113
+   ],
+   "share": 0.003,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

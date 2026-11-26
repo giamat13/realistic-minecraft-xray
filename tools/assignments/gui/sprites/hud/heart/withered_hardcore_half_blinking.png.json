@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/heart/withered_hardcore_half_blinking.png",
+ "depicts": "hardcore half withered heart HUD icon (blink frame, wither effect): dark necrotic heart with bone-grey highlights",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    30,
+    30
+   ],
+   "share": 0.45,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.35,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    137,
+    137
+   ],
+   "share": 0.1,
+   "material": "bone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    208,
+    208,
+    208
+   ],
+   "share": 0.05,
+   "material": "bone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    171,
+    171,
+    171
+   ],
+   "share": 0.05,
+   "material": "bone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    68,
+    68
+   ],
+   "share": 0.0,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  }
+ ]
+}

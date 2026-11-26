@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/type/desert.png",
+ "depicts": "adult zombie villager biome overlay, desert type: sand-tan skin, rust-red and orange desert robe trim, dark olive cloth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    190,
+    158,
+    115
+   ],
+   "share": 0.429,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    34,
+    46,
+    31
+   ],
+   "share": 0.227,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    141,
+    57,
+    19
+   ],
+   "share": 0.152,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    113,
+    80
+   ],
+   "share": 0.107,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    223,
+    197,
+    164
+   ],
+   "share": 0.061,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    187,
+    96,
+    26
+   ],
+   "share": 0.025,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

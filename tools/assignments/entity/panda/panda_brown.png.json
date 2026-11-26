@@ -1,0 +1,73 @@
+{
+ "path": "entity/panda/panda_brown.png",
+ "depicts": "brown giant panda skin (alternate file): white fur over muscle, brown fur on ears, limbs and eye patches, grey shading and dark nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    226,
+    225
+   ],
+   "share": 0.432,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    51,
+    42,
+    34
+   ],
+   "share": 0.215,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.204,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    75,
+    57
+   ],
+   "share": 0.147,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    15,
+    16,
+    18
+   ],
+   "share": 0.001,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

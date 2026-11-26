@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/brewing_stand/bubbles.png",
+ "depicts": "brewing-stand bubble animation strip (first frame): white and grey water bubbles on grey panel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.693,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.201,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.106,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

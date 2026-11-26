@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/jump_bar_background.png",
+ "depicts": "horse jump-charge bar background: dark purple-brown panel strip (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    29,
+    18,
+    38
+   ],
+   "share": 0.371,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    54,
+    72
+   ],
+   "share": 0.355,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    46,
+    34,
+    55
+   ],
+   "share": 0.188,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    69,
+    49
+   ],
+   "share": 0.044,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    28,
+    37,
+    15
+   ],
+   "share": 0.024,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    45,
+    54,
+    32
+   ],
+   "share": 0.018,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/friends/illustrations_00.png",
+ "depicts": "128x48 pixel-art landscape illustration (grassy ground, trees, wood, campfire-like flame, snow highlights)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    118,
+    43
+   ],
+   "share": 0.528,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    59,
+    34
+   ],
+   "share": 0.236,
+   "material": "soil",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    123,
+    80
+   ],
+   "share": 0.2,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    250,
+    135,
+    26
+   ],
+   "share": 0.018,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    161,
+    71,
+    14
+   ],
+   "share": 0.01,
+   "material": "terracotta",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    248,
+    243,
+    242
+   ],
+   "share": 0.008,
+   "material": "snow_powder",
+   "thickness_cm": 5.0
+  }
+ ]
+}

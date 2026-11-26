@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/profession/armorer.png",
+ "depicts": "adult zombie villager, armorer profession: brown leather apron, olive cloth, steel-grey mail/buckles, pale skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    45,
+    32
+   ],
+   "share": 0.404,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    44,
+    29,
+    24
+   ],
+   "share": 0.303,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    81,
+    61
+   ],
+   "share": 0.182,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    118,
+    111
+   ],
+   "share": 0.076,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    154,
+    148,
+    138
+   ],
+   "share": 0.026,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    191,
+    180,
+    165
+   ],
+   "share": 0.009,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

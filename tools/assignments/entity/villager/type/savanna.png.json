@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/type/savanna.png",
+ "depicts": "savanna villager type overlay (brown skin, dark leather, red and grey clothing, gold trim)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    54,
+    44
+   ],
+   "share": 0.517,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    38,
+    30
+   ],
+   "share": 0.259,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    169,
+    45,
+    43
+   ],
+   "share": 0.087,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    132,
+    113
+   ],
+   "share": 0.068,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    196,
+    177,
+    152
+   ],
+   "share": 0.058,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    205,
+    159,
+    59
+   ],
+   "share": 0.011,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

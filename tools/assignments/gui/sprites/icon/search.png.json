@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/icon/search.png",
+ "depicts": "magnifying-glass search icon: blue-tinted glass lens with steel rim, wooden handle, black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    31,
+    149,
+    182
+   ],
+   "share": 0.3,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.188,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.15,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    127,
+    79,
+    47
+   ],
+   "share": 0.138,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.125,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    86,
+    119,
+    136
+   ],
+   "share": 0.1,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

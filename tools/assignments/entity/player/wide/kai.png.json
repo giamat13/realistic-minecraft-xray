@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/wide/kai.png",
+ "depicts": "Kai (wide default player skin): tan skin, blond hair, dark outer layer and plum clothing, pink highlight",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    10,
+    26
+   ],
+   "share": 0.541,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    133,
+    75
+   ],
+   "share": 0.214,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    249,
+    229,
+    143
+   ],
+   "share": 0.105,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    96,
+    51,
+    69
+   ],
+   "share": 0.097,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    156,
+    114,
+    153
+   ],
+   "share": 0.023,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    241,
+    204,
+    216
+   ],
+   "share": 0.02,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  }
+ ]
+}

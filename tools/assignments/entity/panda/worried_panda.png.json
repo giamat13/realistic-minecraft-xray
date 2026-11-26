@@ -1,0 +1,73 @@
+{
+ "path": "entity/panda/worried_panda.png",
+ "depicts": "worried giant panda skin: white fur over muscle with black ears, limbs and eye patches, grey shading",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    226,
+    225
+   ],
+   "share": 0.431,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    12,
+    12,
+    15
+   ],
+   "share": 0.362,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    171,
+    171,
+    171
+   ],
+   "share": 0.106,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    146,
+    146,
+    146
+   ],
+   "share": 0.098,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    63,
+    64,
+    67
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

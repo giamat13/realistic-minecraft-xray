@@ -1,0 +1,73 @@
+{
+ "path": "gui/hanging_signs/pale_oak.png",
+ "depicts": "pale oak hanging sign icon: near-white pale oak wood board with steel chain links",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    228,
+    227
+   ],
+   "share": 0.383,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    250,
+    243,
+    243
+   ],
+   "share": 0.287,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    209,
+    209
+   ],
+   "share": 0.202,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    68,
+    83
+   ],
+   "share": 0.053,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    80,
+    101
+   ],
+   "share": 0.032,
+   "material": "steel",
+   "thickness_cm": 0.3
+  }
+ ]
+}

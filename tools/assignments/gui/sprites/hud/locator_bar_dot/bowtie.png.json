@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/hud/locator_bar_dot/bowtie.png",
+ "depicts": "locator bar bowtie player-dot icon: white-grey bowtie marker with black outline (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.5,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.25,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    188,
+    188,
+    189
+   ],
+   "share": 0.25,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    108,
+    108
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

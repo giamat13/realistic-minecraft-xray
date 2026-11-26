@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/hud/air_bursting.png",
+ "depicts": "9x9 bursting air bubble icon: blue water droplet fragments with black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    148,
+    255
+   ],
+   "share": 0.522,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.478,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

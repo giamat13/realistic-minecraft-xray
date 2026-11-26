@@ -1,0 +1,73 @@
+{
+ "path": "gui/recipe_book.png",
+ "depicts": "recipe book GUI panel: dark grey panel face, light grey and black bevel outlines, white highlight and small coloured accents",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    56,
+    56
+   ],
+   "share": 0.828,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.097,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.037,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.037,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    31,
+    142,
+    175
+   ],
+   "share": 0.001,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    152,
+    117,
+    94
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

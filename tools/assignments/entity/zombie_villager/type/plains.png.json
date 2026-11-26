@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/type/plains.png",
+ "depicts": "adult zombie villager biome overlay, plains type: brown and grey cloth robe, brown skin, grey trim",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    60,
+    52
+   ],
+   "share": 0.476,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    54,
+    41,
+    35
+   ],
+   "share": 0.305,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    79,
+    67
+   ],
+   "share": 0.199,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    101,
+    98
+   ],
+   "share": 0.018,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    122,
+    119,
+    119
+   ],
+   "share": 0.002,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

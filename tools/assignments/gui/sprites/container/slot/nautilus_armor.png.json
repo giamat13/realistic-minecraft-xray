@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/nautilus_armor.png",
+ "depicts": "16x16 nautilus armour empty-slot silhouette: spiral shell-shaped armour plate; nautilus shell is calcium-carbonate nacre, closest analogue calcite",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  }
+ ]
+}

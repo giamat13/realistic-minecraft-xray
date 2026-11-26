@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/friends/remove.png",
+ "depicts": "14x13 white person-bust icon with minus sign (remove friend glyph), light grey shading",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.561,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.224,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    208,
+    208,
+    208
+   ],
+   "share": 0.215,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

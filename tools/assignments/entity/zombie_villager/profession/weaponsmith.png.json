@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/profession/weaponsmith.png",
+ "depicts": "adult zombie villager, weaponsmith profession: dark leather apron, brown tunic, iron and steel weapon parts, green and pale skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    33,
+    28
+   ],
+   "share": 0.721,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    87,
+    64,
+    45
+   ],
+   "share": 0.193,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    91,
+    87,
+    81
+   ],
+   "share": 0.037,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    127,
+    122
+   ],
+   "share": 0.024,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    70,
+    95,
+    43
+   ],
+   "share": 0.017,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    156,
+    145
+   ],
+   "share": 0.008,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/skeleton/skeleton.png",
+ "depicts": "skeleton mob: bone (1.5 cm), grey shading tones are bone",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    168,
+    170
+   ],
+   "share": 0.326,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    147,
+    147,
+    147
+   ],
+   "share": 0.311,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.231,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    209,
+    208,
+    208
+   ],
+   "share": 0.094,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    124,
+    122,
+    122
+   ],
+   "share": 0.025,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.014,
+   "material": "bone",
+   "thickness_cm": 1.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_spotted_angry.png",
+ "depicts": "Angry spotted wolf: patchy fur over skin, red eyes and mouth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    50,
+    60
+   ],
+   "share": 0.444,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    121,
+    56
+   ],
+   "share": 0.269,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    132,
+    97,
+    68
+   ],
+   "share": 0.115,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    229,
+    220,
+    219
+   ],
+   "share": 0.088,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    181,
+    172
+   ],
+   "share": 0.08,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    205,
+    30,
+    30
+   ],
+   "share": 0.004,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

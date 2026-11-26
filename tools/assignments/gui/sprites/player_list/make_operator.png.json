@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/player_list/make_operator.png",
+ "depicts": "make-operator player-list pictogram (tiny 8x7 operator/admin glyph in grey and brick-red tones, abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    128,
+    128
+   ],
+   "share": 0.739,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    106,
+    96,
+    95
+   ],
+   "share": 0.087,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    116,
+    105,
+    105
+   ],
+   "share": 0.087,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    63,
+    62
+   ],
+   "share": 0.043,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    139,
+    89,
+    88
+   ],
+   "share": 0.022,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    51,
+    50
+   ],
+   "share": 0.022,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

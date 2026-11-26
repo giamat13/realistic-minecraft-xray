@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/profession/leatherworker.png",
+ "depicts": "adult zombie villager, leatherworker profession: brown leather apron and goods, grey-brown skin, steel tool",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    48,
+    27
+   ],
+   "share": 0.406,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    67,
+    40
+   ],
+   "share": 0.324,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    142,
+    92,
+    58
+   ],
+   "share": 0.213,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    105,
+    96
+   ],
+   "share": 0.034,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    177,
+    154,
+    129
+   ],
+   "share": 0.02,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    164,
+    164,
+    164
+   ],
+   "share": 0.002,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

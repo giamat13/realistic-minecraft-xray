@@ -1,0 +1,73 @@
+{
+ "path": "gui/icons.png",
+ "depicts": "HUD icon sheet: heart, hunger, armour, XP and bubble sprites with dark outlines, lilac highlights, olive, blue, magenta and green pixels",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    27,
+    42
+   ],
+   "share": 0.517,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    226,
+    178,
+    245
+   ],
+   "share": 0.185,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    132,
+    130,
+    71
+   ],
+   "share": 0.127,
+   "material": "brass",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    75,
+    100,
+    171
+   ],
+   "share": 0.078,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    193,
+    4,
+    106
+   ],
+   "share": 0.073,
+   "material": "blood",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    195,
+    24
+   ],
+   "share": 0.019,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

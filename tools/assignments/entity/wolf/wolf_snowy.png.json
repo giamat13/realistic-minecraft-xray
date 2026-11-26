@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_snowy.png",
+ "depicts": "Snowy wolf mob: white fur over skin, dark nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    224,
+    222
+   ],
+   "share": 0.456,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    249,
+    249,
+    241
+   ],
+   "share": 0.289,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    173,
+    177,
+    186
+   ],
+   "share": 0.196,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    143,
+    157
+   ],
+   "share": 0.046,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    60,
+    63
+   ],
+   "share": 0.009,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    20,
+    22,
+    25
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

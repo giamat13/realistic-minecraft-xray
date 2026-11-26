@@ -1,0 +1,73 @@
+{
+ "path": "item/blue_harness.png",
+ "depicts": "blue dyed horse harness: leather straps with steel buckles",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    41,
+    19
+   ],
+   "share": 0.325,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    144,
+    86,
+    52
+   ],
+   "share": 0.282,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    78,
+    117
+   ],
+   "share": 0.196,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    67,
+    104,
+    182
+   ],
+   "share": 0.092,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    164,
+    167
+   ],
+   "share": 0.092,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    208,
+    234,
+    233
+   ],
+   "share": 0.012,
+   "material": "steel",
+   "thickness_cm": 0.2
+  }
+ ]
+}

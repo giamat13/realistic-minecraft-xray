@@ -1,0 +1,73 @@
+{
+ "path": "item/baked_potato.png",
+ "depicts": "baked potato food item (cooked potato flesh with browned skin)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    205,
+    161,
+    66
+   ],
+   "share": 0.364,
+   "material": "vegetable",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    160,
+    121,
+    50
+   ],
+   "share": 0.254,
+   "material": "vegetable",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    154,
+    85,
+    0
+   ],
+   "share": 0.153,
+   "material": "vegetable",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    109,
+    55,
+    1
+   ],
+   "share": 0.119,
+   "material": "vegetable",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    240,
+    205,
+    90
+   ],
+   "share": 0.085,
+   "material": "vegetable",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    105,
+    62
+   ],
+   "share": 0.025,
+   "material": "vegetable",
+   "thickness_cm": 8.0
+  }
+ ]
+}

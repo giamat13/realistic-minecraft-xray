@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/white.png",
+ "depicts": "white llama mob skin (base file): off-white fleece over body (soft tissue under wool), dark hooves and eye/nose tones, tan muzzle and ear skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    239,
+    239,
+    235
+   ],
+   "share": 0.557,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    203,
+    203
+   ],
+   "share": 0.26,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    44,
+    39,
+    31
+   ],
+   "share": 0.085,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    163,
+    113,
+    36
+   ],
+   "share": 0.062,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    71,
+    61,
+    47
+   ],
+   "share": 0.027,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    172,
+    151,
+    126
+   ],
+   "share": 0.009,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/hud/armor_full.png",
+ "depicts": "9x9 full iron armour (chestplate) HUD icon: polished light-grey iron with black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    184,
+    185,
+    196
+   ],
+   "share": 0.444,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.413,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    106,
+    112
+   ],
+   "share": 0.111,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    230,
+    231,
+    242
+   ],
+   "share": 0.032,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_salt.png",
+ "depicts": "salt rabbit model texture (white and grey fur over skin, dark claws and eyes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    151,
+    137,
+    114
+   ],
+   "share": 0.481,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    234,
+    227,
+    220
+   ],
+   "share": 0.235,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    208,
+    197,
+    193
+   ],
+   "share": 0.119,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    177,
+    165,
+    141
+   ],
+   "share": 0.104,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    75,
+    60
+   ],
+   "share": 0.059,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    55,
+    36,
+    18
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

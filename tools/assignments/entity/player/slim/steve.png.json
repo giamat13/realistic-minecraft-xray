@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/slim/steve.png",
+ "depicts": "Steve (slim default player skin): brown skin, dark brown hair, blue trousers, cyan and teal shirt",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    100,
+    74
+   ],
+   "share": 0.259,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    53,
+    150
+   ],
+   "share": 0.254,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    41,
+    29
+   ],
+   "share": 0.223,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    1,
+    173,
+    173
+   ],
+   "share": 0.141,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    3,
+    135,
+    135
+   ],
+   "share": 0.121,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

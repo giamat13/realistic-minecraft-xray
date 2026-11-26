@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/redstone_dust.png",
+ "depicts": "16x16 redstone dust empty-slot silhouette: small pile of fine powder grains",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "redstone_dust",
+   "thickness_cm": 0.5
+  }
+ ]
+}

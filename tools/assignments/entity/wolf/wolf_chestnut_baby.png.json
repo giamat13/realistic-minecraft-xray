@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_chestnut_baby.png",
+ "depicts": "Baby chestnut wolf: brown fur and skin, dark nose and claws",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    147,
+    123,
+    113
+   ],
+   "share": 0.379,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    183,
+    165
+   ],
+   "share": 0.308,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    74,
+    74
+   ],
+   "share": 0.225,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    213,
+    191
+   ],
+   "share": 0.048,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    65,
+    52,
+    55
+   ],
+   "share": 0.032,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    25,
+    25,
+    28
+   ],
+   "share": 0.008,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

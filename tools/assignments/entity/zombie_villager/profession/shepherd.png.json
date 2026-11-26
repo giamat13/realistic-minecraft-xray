@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/profession/shepherd.png",
+ "depicts": "adult zombie villager, shepherd profession: brown-red tunic, white wool tunic and wool trim, leather belt, skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    120,
+    73,
+    59
+   ],
+   "share": 0.442,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    236,
+    233,
+    213
+   ],
+   "share": 0.261,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    95,
+    55,
+    44
+   ],
+   "share": 0.135,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    201,
+    201,
+    186
+   ],
+   "share": 0.128,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    95,
+    72
+   ],
+   "share": 0.031,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    71,
+    102,
+    101
+   ],
+   "share": 0.002,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

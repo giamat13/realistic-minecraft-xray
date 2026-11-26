@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/diamond.png",
+ "depicts": "16x16 diamond gem empty-slot silhouette: faceted diamond outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "diamond",
+   "thickness_cm": 1.0
+  }
+ ]
+}

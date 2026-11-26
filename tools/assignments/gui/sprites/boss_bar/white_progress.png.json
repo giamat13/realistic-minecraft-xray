@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/boss_bar/white_progress.png",
+ "depicts": "boss-bar fill, white colour variant: bright light-grey UI bar strip, colour gradient with dark edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.391,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    140,
+    140
+   ],
+   "share": 0.199,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    185,
+    185
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    236,
+    236
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.013,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    115,
+    115
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

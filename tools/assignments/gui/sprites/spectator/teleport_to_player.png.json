@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/spectator/teleport_to_player.png",
+ "depicts": "spectator teleport-to-player icon, small pixel player head (skin, brown hair, teal garment)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    38,
+    31
+   ],
+   "share": 0.378,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    127,
+    115
+   ],
+   "share": 0.203,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    177,
+    128,
+    103
+   ],
+   "share": 0.154,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    126,
+    78,
+    55
+   ],
+   "share": 0.14,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    139,
+    184,
+    128
+   ],
+   "share": 0.084,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    238,
+    234
+   ],
+   "share": 0.042,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

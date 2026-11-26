@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/horse_armor.png",
+ "depicts": "16x16 horse armour empty-slot silhouette: metal horse barding plate outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    124,
+    124
+   ],
+   "share": 1.0,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

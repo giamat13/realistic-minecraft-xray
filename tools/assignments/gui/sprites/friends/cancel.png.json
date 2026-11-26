@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/friends/cancel.png",
+ "depicts": "16x16 red circular cancel (X) UI icon painted on plastic",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    0,
+    0
+   ],
+   "share": 0.517,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    0,
+    0
+   ],
+   "share": 0.195,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    206,
+    107,
+    109
+   ],
+   "share": 0.178,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    55,
+    57
+   ],
+   "share": 0.076,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    23,
+    29
+   ],
+   "share": 0.017,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    211,
+    81,
+    84
+   ],
+   "share": 0.017,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  }
+ ]
+}

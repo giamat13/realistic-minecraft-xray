@@ -1,0 +1,40 @@
+{
+ "path": "gui/unseen_notification.png",
+ "depicts": "10x10 red badge icon with yellow exclamation mark (notification indicator)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    210,
+    35,
+    35
+   ],
+   "share": 0.54,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    116,
+    10,
+    10
+   ],
+   "share": 0.36,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    85
+   ],
+   "share": 0.1,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

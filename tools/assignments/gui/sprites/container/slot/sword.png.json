@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/sword.png",
+ "depicts": "16x16 sword empty-slot silhouette: iron sword blade with cross-guard and handle",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/bamboo_chest_raft.png",
+ "depicts": "bamboo raft with chest item (bamboo planks deck and wooden chest)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    119,
+    98,
+    39
+   ],
+   "share": 0.267,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    60,
+    38
+   ],
+   "share": 0.241,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    49,
+    37,
+    16
+   ],
+   "share": 0.209,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    207,
+    184,
+    84
+   ],
+   "share": 0.144,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    161,
+    119,
+    44
+   ],
+   "share": 0.118,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    230,
+    207,
+    111
+   ],
+   "share": 0.021,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  }
+ ]
+}

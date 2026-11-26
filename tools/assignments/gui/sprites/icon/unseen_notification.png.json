@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/icon/unseen_notification.png",
+ "depicts": "unseen-notification red badge square with dark-red border and yellow dot (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    210,
+    35,
+    35
+   ],
+   "share": 0.54,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    116,
+    10,
+    10
+   ],
+   "share": 0.36,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    85
+   ],
+   "share": 0.1,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

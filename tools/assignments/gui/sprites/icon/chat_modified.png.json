@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/icon/chat_modified.png",
+ "depicts": "modified chat-bubble icon: grey speech bubble outline with dot marks (abstract GUI icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    162,
+    162,
+    162
+   ],
+   "share": 0.345,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    176,
+    176,
+    176
+   ],
+   "share": 0.241,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    86,
+    86,
+    86
+   ],
+   "share": 0.207,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.207,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

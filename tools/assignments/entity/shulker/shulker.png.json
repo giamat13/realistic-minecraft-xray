@@ -1,0 +1,73 @@
+{
+ "path": "entity/shulker/shulker.png",
+ "depicts": "shulker mob: purple chitinous shell (shell plates with a spiral box-lid pattern), pale yellow-cream body/face with dark eyes and white sclera pixels",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    145,
+    101,
+    145
+   ],
+   "share": 0.614,
+   "material": "shell_chitin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    118,
+    82,
+    118
+   ],
+   "share": 0.267,
+   "material": "shell_chitin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    233,
+    169
+   ],
+   "share": 0.082,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    188,
+    184,
+    126
+   ],
+   "share": 0.035,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

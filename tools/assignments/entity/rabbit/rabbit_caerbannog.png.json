@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_caerbannog.png",
+ "depicts": "Killer Rabbit of Caerbannog model texture (fictional white rabbit with red markings): white fur over skin, dark red eye/mouth marks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    234,
+    234
+   ],
+   "share": 0.856,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    226,
+    190,
+    189
+   ],
+   "share": 0.133,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    153,
+    152
+   ],
+   "share": 0.004,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    29,
+    40
+   ],
+   "share": 0.002,
+   "material": "blood",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    116,
+    114
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    83,
+    76
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

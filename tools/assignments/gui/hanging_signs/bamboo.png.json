@@ -1,0 +1,73 @@
+{
+ "path": "gui/hanging_signs/bamboo.png",
+ "depicts": "bamboo hanging sign icon: pale yellow-green bamboo board with steel chain links",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    172,
+    75
+   ],
+   "share": 0.372,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    193,
+    91
+   ],
+   "share": 0.319,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    204,
+    106
+   ],
+   "share": 0.138,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    66,
+    72,
+    90
+   ],
+   "share": 0.085,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    240,
+    219,
+    130
+   ],
+   "share": 0.043,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 0.3
+  }
+ ]
+}

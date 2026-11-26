@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/wide/steve.png",
+ "depicts": "Steve (wide default player skin): brown skin, dark brown hair, blue trousers, cyan and teal shirt",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    154,
+    100,
+    75
+   ],
+   "share": 0.273,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    53,
+    150
+   ],
+   "share": 0.244,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    41,
+    29
+   ],
+   "share": 0.214,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    1,
+    173,
+    173
+   ],
+   "share": 0.15,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    3,
+    134,
+    134
+   ],
+   "share": 0.118,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

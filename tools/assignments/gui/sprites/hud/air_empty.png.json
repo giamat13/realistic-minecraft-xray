@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/hud/air_empty.png",
+ "depicts": "9x9 empty HUD air bubble icon: dim blue-grey bubble with black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.571,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    40,
+    40
+   ],
+   "share": 0.286,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    101,
+    128
+   ],
+   "share": 0.143,
+   "material": "water",
+   "thickness_cm": 0.1
+  }
+ ]
+}

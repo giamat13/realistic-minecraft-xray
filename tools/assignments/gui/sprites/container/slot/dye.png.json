@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/dye.png",
+ "depicts": "16x16 dye empty-slot silhouette: ink/dye blob with a drip shape",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 1.0,
+   "material": "dye_pigment",
+   "thickness_cm": 0.3
+  }
+ ]
+}

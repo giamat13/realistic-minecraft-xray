@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_striped.png",
+ "depicts": "Striped wolf mob: tan and brown striped fur over skin, black nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    219,
+    192,
+    144
+   ],
+   "share": 0.378,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    174,
+    152,
+    111
+   ],
+   "share": 0.333,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    88,
+    77,
+    60
+   ],
+   "share": 0.157,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    61,
+    54,
+    43
+   ],
+   "share": 0.124,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    2,
+    2,
+    2
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

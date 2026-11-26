@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/wide/makena.png",
+ "depicts": "Makena (wide default player skin): brown skin, dark-brown hair, ochre and gold-orange clothing, dark cloak, pale skin highlight",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    142,
+    67,
+    65
+   ],
+   "share": 0.229,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    169,
+    116,
+    16
+   ],
+   "share": 0.21,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    40,
+    35
+   ],
+   "share": 0.208,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    34,
+    18,
+    17
+   ],
+   "share": 0.168,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    216,
+    151,
+    29
+   ],
+   "share": 0.143,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    203,
+    179,
+    171
+   ],
+   "share": 0.042,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

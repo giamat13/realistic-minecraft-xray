@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/heart/vehicle_full.png",
+ "depicts": "full vehicle heart HUD icon: orange-tinted heart organ with dark outline and grey highlights",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    109,
+    53
+   ],
+   "share": 0.5,
+   "material": "muscle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    57,
+    25
+   ],
+   "share": 0.235,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.118,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    136,
+    136,
+    136
+   ],
+   "share": 0.088,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.059,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    165,
+    91,
+    56
+   ],
+   "share": 0.0,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  }
+ ]
+}

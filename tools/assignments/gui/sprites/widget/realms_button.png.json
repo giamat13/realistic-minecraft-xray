@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/realms_button.png",
+ "depicts": "GUI Realms button background (200x20): purple bevelled panel with black outline and light edge, abstract UI panel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    69,
+    227
+   ],
+   "share": 0.625,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    66,
+    218
+   ],
+   "share": 0.111,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.109,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    53,
+    177
+   ],
+   "share": 0.081,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    171,
+    143,
+    240
+   ],
+   "share": 0.053,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    83,
+    50,
+    167
+   ],
+   "share": 0.021,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

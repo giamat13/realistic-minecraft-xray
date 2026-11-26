@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/profession/fisherman.png",
+ "depicts": "adult zombie villager, fisherman profession: brown leather/wool clothing, grey-green jacket, dark hair, pale skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    95,
+    61,
+    39
+   ],
+   "share": 0.386,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    142,
+    103,
+    52
+   ],
+   "share": 0.361,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    196,
+    141,
+    59
+   ],
+   "share": 0.112,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    42,
+    23,
+    13
+   ],
+   "share": 0.064,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    138,
+    153,
+    138
+   ],
+   "share": 0.054,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    202,
+    205,
+    182
+   ],
+   "share": 0.024,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

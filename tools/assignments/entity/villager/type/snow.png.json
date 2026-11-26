@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/type/snow.png",
+ "depicts": "snow villager type overlay (teal clothing, pale skin, dark hair, brown leather)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    130,
+    122
+   ],
+   "share": 0.28,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    78,
+    84
+   ],
+   "share": 0.228,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    218,
+    207,
+    174
+   ],
+   "share": 0.189,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    174,
+    145
+   ],
+   "share": 0.138,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    31,
+    22,
+    17
+   ],
+   "share": 0.125,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    90,
+    50,
+    29
+   ],
+   "share": 0.04,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_spotted_tame_baby.png",
+ "depicts": "Baby tamed spotted wolf: patchy fur over skin, dark nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    55,
+    66
+   ],
+   "share": 0.388,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    127,
+    59
+   ],
+   "share": 0.265,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    216,
+    215
+   ],
+   "share": 0.137,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    206,
+    184,
+    171
+   ],
+   "share": 0.088,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    35,
+    41
+   ],
+   "share": 0.061,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    129,
+    105,
+    89
+   ],
+   "share": 0.061,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

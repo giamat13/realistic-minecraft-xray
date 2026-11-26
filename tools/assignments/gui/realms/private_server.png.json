@@ -1,0 +1,73 @@
+{
+ "path": "gui/realms/private_server.png",
+ "depicts": "64x36 'private server' icon: pale sky, green grass hill, yellow sun, blue water pool and a dark slate frame",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    234,
+    255
+   ],
+   "share": 0.358,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    189,
+    81
+   ],
+   "share": 0.295,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    162
+   ],
+   "share": 0.151,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    97,
+    165,
+    203
+   ],
+   "share": 0.116,
+   "material": "water",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    213,
+    74
+   ],
+   "share": 0.048,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    92,
+    98,
+    129
+   ],
+   "share": 0.033,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

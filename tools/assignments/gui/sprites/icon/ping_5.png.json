@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/icon/ping_5.png",
+ "depicts": "connection ping indicator, all 5 bars lit green (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    135,
+    15
+   ],
+   "share": 0.5,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    255,
+    33
+   ],
+   "share": 0.5,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

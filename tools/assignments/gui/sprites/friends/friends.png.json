@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/friends/friends.png",
+ "depicts": "16x16 pixel icon of a person bust (friends icon): face, hair, shirt, dark outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    27,
+    25,
+    26
+   ],
+   "share": 0.341,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    186,
+    126,
+    79
+   ],
+   "share": 0.227,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    155,
+    82
+   ],
+   "share": 0.159,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    223,
+    197
+   ],
+   "share": 0.155,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    49,
+    26
+   ],
+   "share": 0.109,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    53,
+    162
+   ],
+   "share": 0.009,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

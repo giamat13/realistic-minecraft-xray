@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/type/plains.png",
+ "depicts": "plains villager type overlay (skin-toned face and hands, brown leather and dark clothing, grey trim)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    62,
+    55
+   ],
+   "share": 0.417,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    109,
+    80,
+    74
+   ],
+   "share": 0.297,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    59,
+    42,
+    36
+   ],
+   "share": 0.263,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    115,
+    100,
+    97
+   ],
+   "share": 0.021,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    122,
+    119,
+    119
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

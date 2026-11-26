@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/icon/video_link_highlighted.png",
+ "depicts": "video-link button icon in highlighted state: brown button body with grey screen and black bottom bar (video camera/screen glyph, abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    71,
+    51
+   ],
+   "share": 0.353,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    43,
+    43
+   ],
+   "share": 0.176,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    140,
+    141
+   ],
+   "share": 0.147,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.118,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    102,
+    102,
+    102
+   ],
+   "share": 0.118,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.088,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/player_list/make_operator_highlighted.png",
+ "depicts": "make-operator player-list pictogram, highlighted (darker grey and brick-red tones, abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    85,
+    85
+   ],
+   "share": 0.739,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    64,
+    63
+   ],
+   "share": 0.087,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    77,
+    70,
+    70
+   ],
+   "share": 0.087,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    77,
+    42,
+    41
+   ],
+   "share": 0.043,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    92,
+    59,
+    58
+   ],
+   "share": 0.022,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    34,
+    33
+   ],
+   "share": 0.022,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

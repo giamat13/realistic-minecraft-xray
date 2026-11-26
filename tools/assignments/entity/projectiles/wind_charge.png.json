@@ -1,0 +1,51 @@
+{
+ "path": "entity/projectiles/wind_charge.png",
+ "depicts": "wind charge projectile (fictional gust orb): translucent grey-blue shell with pale swirl highlights; shell as plastic, swirls as air",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    171,
+    177,
+    187
+   ],
+   "share": 0.545,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    211,
+    219,
+    255
+   ],
+   "share": 0.216,
+   "material": "air",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    183,
+    187,
+    196
+   ],
+   "share": 0.135,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    199,
+    203,
+    212
+   ],
+   "share": 0.104,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

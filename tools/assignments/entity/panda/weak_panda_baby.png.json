@@ -1,0 +1,73 @@
+{
+ "path": "entity/panda/weak_panda_baby.png",
+ "depicts": "baby weak panda skin: black fur on head top, white-grey fur over small body, faint green-tinted highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    12,
+    12,
+    16
+   ],
+   "share": 0.485,
+   "material": "ink",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    224,
+    223
+   ],
+   "share": 0.348,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    158,
+    158
+   ],
+   "share": 0.164,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    157,
+    218,
+    199
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    74,
+    205,
+    88
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    110,
+    111,
+    112
+   ],
+   "share": 0.0,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

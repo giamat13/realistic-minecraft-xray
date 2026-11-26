@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/boots.png",
+ "depicts": "16x16 boots armour empty-slot silhouette: a pair of boots, dark grey outline (generic leather armour)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/profession/farmer.png",
+ "depicts": "adult zombie villager, farmer profession: yellow-brown overalls, straw hat, brown skin, dark hair",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    159,
+    47
+   ],
+   "share": 0.49,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    120,
+    38
+   ],
+   "share": 0.194,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    196,
+    80
+   ],
+   "share": 0.162,
+   "material": "straw",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    120,
+    76,
+    55
+   ],
+   "share": 0.09,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    89,
+    53,
+    33
+   ],
+   "share": 0.06,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    71,
+    102,
+    101
+   ],
+   "share": 0.004,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

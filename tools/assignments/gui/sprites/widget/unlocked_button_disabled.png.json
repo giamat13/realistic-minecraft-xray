@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/unlocked_button_disabled.png",
+ "depicts": "GUI disabled unlocked-world padlock button (20x20): dark grey panel with open padlock glyph in steel tones, physical padlock icon",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    44,
+    44
+   ],
+   "share": 0.535,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.075,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    71,
+    71
+   ],
+   "share": 0.075,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    147,
+    147,
+    147
+   ],
+   "share": 0.062,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.052,
+   "material": "steel",
+   "thickness_cm": 0.2
+  }
+ ]
+}

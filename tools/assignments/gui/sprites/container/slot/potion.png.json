@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/potion.png",
+ "depicts": "16x16 potion empty-slot silhouette: glass bottle outline with neck and stopper",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

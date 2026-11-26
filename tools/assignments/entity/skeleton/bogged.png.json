@@ -1,0 +1,73 @@
+{
+ "path": "entity/skeleton/bogged.png",
+ "depicts": "bogged skeleton mob: bone structure (1.5 cm) with moss-green patches (moss 0.3 cm) and a red eye spot (blood 0.2 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    70,
+    80,
+    31
+   ],
+   "share": 0.39,
+   "material": "moss",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    133,
+    133,
+    105
+   ],
+   "share": 0.256,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    163,
+    118
+   ],
+   "share": 0.252,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    186,
+    157
+   ],
+   "share": 0.057,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    209,
+    186
+   ],
+   "share": 0.029,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    221,
+    27,
+    30
+   ],
+   "share": 0.017,
+   "material": "blood",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/widget/text_field.png",
+ "depicts": "GUI text field background (200x20): black panel with grey border outline, abstract UI panel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.891,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.109,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

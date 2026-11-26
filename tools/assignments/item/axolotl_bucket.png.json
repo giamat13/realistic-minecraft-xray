@@ -1,0 +1,73 @@
+{
+ "path": "item/axolotl_bucket.png",
+ "depicts": "water bucket holding an axolotl (iron bucket, pink gilled axolotl body, water)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    148,
+    148,
+    148
+   ],
+   "share": 0.256,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    241,
+    219,
+    232
+   ],
+   "share": 0.244,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    53,
+    50,
+    56
+   ],
+   "share": 0.206,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    238,
+    127,
+    180
+   ],
+   "share": 0.125,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    210,
+    75,
+    134
+   ],
+   "share": 0.1,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    47,
+    91,
+    214
+   ],
+   "share": 0.069,
+   "material": "water",
+   "thickness_cm": 5.0
+  }
+ ]
+}

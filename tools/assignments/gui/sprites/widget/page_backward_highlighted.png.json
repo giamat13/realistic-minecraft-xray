@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/page_backward_highlighted.png",
+ "depicts": "GUI book page-turn arrow hover (23x13, left): red-tinted arrow on paper, red ink/pigment on paper",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    221,
+    76,
+    29
+   ],
+   "share": 0.327,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    138,
+    98
+   ],
+   "share": 0.248,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    206,
+    31,
+    0
+   ],
+   "share": 0.195,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    235,
+    119,
+    72
+   ],
+   "share": 0.115,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    236,
+    118,
+    62
+   ],
+   "share": 0.115,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    92,
+    49
+   ],
+   "share": 0.0,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

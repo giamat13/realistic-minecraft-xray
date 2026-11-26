@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/hud/armor_half.png",
+ "depicts": "9x9 half-filled armour HUD icon: iron left half, empty grey right half, black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.492,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    61,
+    61,
+    61
+   ],
+   "share": 0.254,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    184,
+    185,
+    196
+   ],
+   "share": 0.19,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    106,
+    112
+   ],
+   "share": 0.048,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    230,
+    231,
+    242
+   ],
+   "share": 0.016,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "entity/zombie_villager/profession_level/iron.png",
+ "depicts": "villager level badge depicting an iron ingot sprite (tiny)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    190,
+    151,
+    124
+   ],
+   "share": 0.333,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    175,
+    147
+   ],
+   "share": 0.333,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    125,
+    103
+   ],
+   "share": 0.167,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    193,
+    166
+   ],
+   "share": 0.167,
+   "material": "iron",
+   "thickness_cm": 1.0
+  }
+ ]
+}

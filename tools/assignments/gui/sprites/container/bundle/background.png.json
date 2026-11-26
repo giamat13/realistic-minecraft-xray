@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/container/bundle/background.png",
+ "depicts": "bundle-screen background: light-grey UI panel with dark-grey bottom border",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.969,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.031,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

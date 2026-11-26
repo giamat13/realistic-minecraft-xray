@@ -1,0 +1,73 @@
+{
+ "path": "gui/title/realms.png",
+ "depicts": "Realms wordmark logo on title screen (magenta-pink text glyphs with dark outline and backdrop)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    9,
+    1,
+    34
+   ],
+   "share": 0.287,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    54,
+    192
+   ],
+   "share": 0.242,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    164,
+    209
+   ],
+   "share": 0.216,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    57,
+    14,
+    72
+   ],
+   "share": 0.205,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    37,
+    115
+   ],
+   "share": 0.026,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    155,
+    165
+   ],
+   "share": 0.024,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

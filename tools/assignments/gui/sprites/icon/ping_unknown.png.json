@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/icon/ping_unknown.png",
+ "depicts": "connection ping indicator for unknown latency: red bars with grey bars and a question-mark-like glyph (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    0,
+    0
+   ],
+   "share": 0.26,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    130,
+    0,
+    0
+   ],
+   "share": 0.26,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    54,
+    54,
+    54
+   ],
+   "share": 0.2,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    22,
+    22,
+    22
+   ],
+   "share": 0.16,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    91,
+    91,
+    91
+   ],
+   "share": 0.12,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    125,
+    25,
+    25
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/jump_bar_cooldown.png",
+ "depicts": "horse jump-cooldown bar: dark magenta panel strip (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    0,
+    30
+   ],
+   "share": 0.404,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    0,
+    57
+   ],
+   "share": 0.391,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    0,
+    44
+   ],
+   "share": 0.194,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    0,
+    68
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    78,
+    0,
+    61
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    0,
+    50
+   ],
+   "share": 0.002,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

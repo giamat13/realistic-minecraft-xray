@@ -1,0 +1,73 @@
+{
+ "path": "item/blue_dye.png",
+ "depicts": "blue dye lump (dye pigment blob) on a small wooden/tan base",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    71,
+    111,
+    205
+   ],
+   "share": 0.289,
+   "material": "dye_pigment",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    8,
+    44,
+    112
+   ],
+   "share": 0.266,
+   "material": "dye_pigment",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    73,
+    154
+   ],
+   "share": 0.18,
+   "material": "dye_pigment",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    56,
+    30,
+    27
+   ],
+   "share": 0.141,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    119,
+    89
+   ],
+   "share": 0.086,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    176,
+    166,
+    123
+   ],
+   "share": 0.039,
+   "material": "paper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

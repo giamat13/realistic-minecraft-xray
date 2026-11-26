@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/container/bundle/blocked_slot.png",
+ "depicts": "bundle-screen blocked-slot icon: grey panel with dark circle-and-slash outline and white highlight",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.636,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.256,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.105,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.003,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_gold_baby.png",
+ "depicts": "baby gold rabbit model texture: pale gold fur over skin, dark claws, pink inner ear",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    214,
+    154
+   ],
+   "share": 0.376,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    242,
+    198
+   ],
+   "share": 0.331,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    247,
+    227,
+    173
+   ],
+   "share": 0.281,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    72,
+    52,
+    24
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    119,
+    81,
+    42
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    227,
+    172,
+    138
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/realms/snapshot_realms.png",
+ "depicts": "130x64 'snapshot realms' icon: wooden planks and clay blocks with cream paper accents, purple ink and cyan water droplets",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    57,
+    53
+   ],
+   "share": 0.283,
+   "material": "wood_dark",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    171,
+    99
+   ],
+   "share": 0.23,
+   "material": "wood_oak",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    184,
+    122,
+    77
+   ],
+   "share": 0.18,
+   "material": "clay",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    231,
+    211
+   ],
+   "share": 0.144,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    77,
+    66,
+    122
+   ],
+   "share": 0.086,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    22,
+    190,
+    239
+   ],
+   "share": 0.076,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

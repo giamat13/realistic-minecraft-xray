@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_caerbannog_baby.png",
+ "depicts": "baby Killer Rabbit of Caerbannog model texture: white fur over skin, dark red markings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    247,
+    239,
+    239
+   ],
+   "share": 0.9,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    197,
+    196
+   ],
+   "share": 0.072,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    153,
+    152
+   ],
+   "share": 0.012,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    29,
+    40
+   ],
+   "share": 0.005,
+   "material": "blood",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    116,
+    114
+   ],
+   "share": 0.005,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    83,
+    76
+   ],
+   "share": 0.005,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

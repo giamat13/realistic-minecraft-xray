@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/profession/fletcher.png",
+ "depicts": "adult zombie villager, fletcher profession: brown robe, feathers, steel arrowhead, dark hair, skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    97,
+    63,
+    43
+   ],
+   "share": 0.686,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    60,
+    41,
+    31
+   ],
+   "share": 0.134,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    88,
+    54
+   ],
+   "share": 0.075,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    212,
+    212
+   ],
+   "share": 0.05,
+   "material": "feather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.041,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    246,
+    246,
+    246
+   ],
+   "share": 0.014,
+   "material": "feather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

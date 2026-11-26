@@ -1,0 +1,73 @@
+{
+ "path": "gui/hanging_signs/poplar.png",
+ "depicts": "poplar hanging sign icon: grey-beige poplar wood board with steel chain links",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    165,
+    153,
+    140
+   ],
+   "share": 0.585,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    153,
+    140,
+    130
+   ],
+   "share": 0.234,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    62,
+    68,
+    83
+   ],
+   "share": 0.053,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    169,
+    152
+   ],
+   "share": 0.053,
+   "material": "wood_soft",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    80,
+    101
+   ],
+   "share": 0.032,
+   "material": "steel",
+   "thickness_cm": 0.3
+  }
+ ]
+}

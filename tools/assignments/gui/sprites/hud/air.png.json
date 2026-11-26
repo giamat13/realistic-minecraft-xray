@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/hud/air.png",
+ "depicts": "9x9 HUD air bubble icon: blue water film ring with pale glint and black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.513,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    164,
+    255
+   ],
+   "share": 0.41,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    235,
+    255
+   ],
+   "share": 0.077,
+   "material": "water",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    85,
+    124
+   ],
+   "share": 0.0,
+   "material": "water",
+   "thickness_cm": 0.1
+  }
+ ]
+}

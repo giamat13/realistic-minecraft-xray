@@ -1,0 +1,29 @@
+{
+ "path": "gui/footer_separator.png",
+ "depicts": "thin footer separator line: white and black one-pixel lines (steel highlight and outline)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.5,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.5,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

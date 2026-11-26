@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/slim/sunny.png",
+ "depicts": "Sunny (slim default player skin): tan skin, dark grey hair, blue shirt and olive trousers, light grey highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    64,
+    108,
+    173
+   ],
+   "share": 0.363,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    120,
+    39
+   ],
+   "share": 0.246,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    208,
+    128,
+    73
+   ],
+   "share": 0.208,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    61,
+    59,
+    58
+   ],
+   "share": 0.157,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    186,
+    187,
+    188
+   ],
+   "share": 0.025,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

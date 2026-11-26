@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/widget/tab_highlighted.png",
+ "depicts": "GUI tab strip hover (130x24): black semi-transparent panel with white top edge line, abstract UI",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.84,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.16,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

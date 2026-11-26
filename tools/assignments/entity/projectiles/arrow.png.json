@@ -1,0 +1,73 @@
+{
+ "path": "entity/projectiles/arrow.png",
+ "depicts": "plain arrow sprite: wooden shaft, white feather fletching, grey iron arrowhead, dark wood nock",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    226,
+    226
+   ],
+   "share": 0.341,
+   "material": "feather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    174,
+    141,
+    87
+   ],
+   "share": 0.317,
+   "material": "wood_oak",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.195,
+   "material": "feather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    158,
+    158,
+    158
+   ],
+   "share": 0.073,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.049,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    94,
+    57
+   ],
+   "share": 0.024,
+   "material": "wood_oak",
+   "thickness_cm": 0.8
+  }
+ ]
+}

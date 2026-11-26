@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/icon/info.png",
+ "depicts": "info icon: blue round badge with white letter i (abstract GUI icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    18,
+    158,
+    217
+   ],
+   "share": 0.669,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    249,
+    249
+   ],
+   "share": 0.331,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

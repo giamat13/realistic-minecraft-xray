@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/bundle/bundle_progressbar_fill.png",
+ "depicts": "bundle-screen capacity bar fill: blue UI bar segment",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    255
+   ],
+   "share": 1.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

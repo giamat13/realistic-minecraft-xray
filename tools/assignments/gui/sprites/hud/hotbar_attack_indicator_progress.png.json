@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/hotbar_attack_indicator_progress.png",
+ "depicts": "attack-cooldown indicator progress arc: muted brown-grey ring with light grey sheen (abstract GUI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.462,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    67,
+    68
+   ],
+   "share": 0.205,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    168,
+    178
+   ],
+   "share": 0.145,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    208,
+    208,
+    212
+   ],
+   "share": 0.085,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    141,
+    98,
+    101
+   ],
+   "share": 0.068,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    43,
+    32,
+    31
+   ],
+   "share": 0.034,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

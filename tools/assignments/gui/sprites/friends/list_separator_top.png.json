@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/friends/list_separator_top.png",
+ "depicts": "32x2 black and white horizontal list separator line",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.5,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.5,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

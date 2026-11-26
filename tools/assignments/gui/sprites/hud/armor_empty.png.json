@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/hud/armor_empty.png",
+ "depicts": "9x9 empty armor (chestplate outline) HUD slot icon: dark grey placeholder with black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    61,
+    61,
+    61
+   ],
+   "share": 0.587,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.413,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/icon/draft_report.png",
+ "depicts": "draft report icon: paper document with red draft mark (paper sheet, red ink stamp)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    251,
+    251,
+    251
+   ],
+   "share": 0.367,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    230,
+    219,
+    156
+   ],
+   "share": 0.312,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    72,
+    53
+   ],
+   "share": 0.284,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    191,
+    36,
+    22
+   ],
+   "share": 0.028,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    223,
+    55,
+    42
+   ],
+   "share": 0.009,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    193,
+    182,
+    157
+   ],
+   "share": 0.0,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

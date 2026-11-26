@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/brewing_fuel.png",
+ "depicts": "16x16 brewing-fuel (blaze powder) empty-slot silhouette: fine speckled powder shape, approximated by gunpowder (closest analogue of fine dust)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 1.0,
+   "material": "gunpowder",
+   "thickness_cm": 0.2
+  }
+ ]
+}

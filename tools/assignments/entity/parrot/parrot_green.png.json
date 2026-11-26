@@ -1,0 +1,73 @@
+{
+ "path": "entity/parrot/parrot_green.png",
+ "depicts": "green parrot skin: green plumage over body and wings, yellow-cream face and beak feathers, dark legs and eyes, skin feet, opaque white unused UV filler",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.723,
+   "material": "air",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    185,
+    0
+   ],
+   "share": 0.241,
+   "material": "feather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    13,
+    13,
+    13
+   ],
+   "share": 0.018,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    238,
+    191
+   ],
+   "share": 0.01,
+   "material": "feather",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    37,
+    37
+   ],
+   "share": 0.004,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    161,
+    150
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

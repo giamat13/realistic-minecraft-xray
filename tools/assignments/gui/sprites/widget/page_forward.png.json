@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/page_forward.png",
+ "depicts": "GUI book page-turn arrow (23x13, right): cream paper arrow with darker brown outline, depicts a parchment book page-turn control",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    225,
+    211,
+    183
+   ],
+   "share": 0.327,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    253,
+    246,
+    229
+   ],
+   "share": 0.248,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    176,
+    145
+   ],
+   "share": 0.195,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    249,
+    239,
+    212
+   ],
+   "share": 0.177,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    250,
+    240,
+    216
+   ],
+   "share": 0.053,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    232,
+    219,
+    194
+   ],
+   "share": 0.0,
+   "material": "paper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

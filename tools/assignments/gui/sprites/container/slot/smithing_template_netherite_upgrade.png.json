@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/smithing_template_netherite_upgrade.png",
+ "depicts": "16x16 netherite-upgrade smithing template empty-slot silhouette: flat paper card with rounded outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "paper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

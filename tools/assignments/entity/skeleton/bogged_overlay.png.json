@@ -1,0 +1,73 @@
+{
+ "path": "entity/skeleton/bogged_overlay.png",
+ "depicts": "bogged moss/fungus overlay layer over the skeleton (moss 0.3 cm, pale patches = bone 1.0 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    138,
+    142,
+    112
+   ],
+   "share": 0.273,
+   "material": "moss",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    39,
+    48,
+    6
+   ],
+   "share": 0.248,
+   "material": "moss",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    95,
+    111,
+    58
+   ],
+   "share": 0.172,
+   "material": "moss",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    61,
+    74,
+    21
+   ],
+   "share": 0.152,
+   "material": "moss",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    189,
+    192,
+    169
+   ],
+   "share": 0.146,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    254,
+    194
+   ],
+   "share": 0.008,
+   "material": "bone",
+   "thickness_cm": 1.0
+  }
+ ]
+}

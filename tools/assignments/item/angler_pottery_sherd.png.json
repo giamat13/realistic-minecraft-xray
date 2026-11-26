@@ -1,0 +1,73 @@
+{
+ "path": "item/angler_pottery_sherd.png",
+ "depicts": "angler pottery sherd item (fired clay sherd with glazed decoration)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    41,
+    33
+   ],
+   "share": 0.268,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    95,
+    55,
+    47
+   ],
+   "share": 0.204,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.185,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    117,
+    66,
+    54
+   ],
+   "share": 0.185,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.115,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.045,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

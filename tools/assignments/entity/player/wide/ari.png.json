@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/wide/ari.png",
+ "depicts": "Ari (wide default player skin): skin, dark-brown hair, teal trousers, dark leather shoes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    245,
+    154,
+    96
+   ],
+   "share": 0.417,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    81,
+    94
+   ],
+   "share": 0.214,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    58,
+    26
+   ],
+   "share": 0.182,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    119,
+    55
+   ],
+   "share": 0.108,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    48,
+    49,
+    49
+   ],
+   "share": 0.078,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/profession/toolsmith.png",
+ "depicts": "adult zombie villager, toolsmith profession: dark brown tunic, leather apron, iron tools, grey-beige skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    46,
+    33
+   ],
+   "share": 0.428,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    41,
+    28,
+    23
+   ],
+   "share": 0.418,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    76,
+    51
+   ],
+   "share": 0.068,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    86,
+    83
+   ],
+   "share": 0.046,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    131,
+    127,
+    122
+   ],
+   "share": 0.028,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    156,
+    145
+   ],
+   "share": 0.013,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

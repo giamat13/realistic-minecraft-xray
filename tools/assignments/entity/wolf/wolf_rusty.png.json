@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_rusty.png",
+ "depicts": "Rusty wolf mob: orange-brown fur over skin, dark nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    114,
+    70,
+    54
+   ],
+   "share": 0.511,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    176,
+    105,
+    69
+   ],
+   "share": 0.306,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    208,
+    150,
+    107
+   ],
+   "share": 0.082,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    227,
+    214,
+    198
+   ],
+   "share": 0.064,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    248,
+    245,
+    239
+   ],
+   "share": 0.032,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

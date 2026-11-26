@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/hud/locator_bar_dot/default_0.png",
+ "depicts": "locator bar default dot marker: white round dot with grey shading and black outline (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.444,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.267,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    188,
+    188,
+    189
+   ],
+   "share": 0.089,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    127,
+    127,
+    128
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

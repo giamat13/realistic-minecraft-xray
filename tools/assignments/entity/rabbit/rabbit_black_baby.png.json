@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_black_baby.png",
+ "depicts": "baby black rabbit model texture: dark fur over skin, thinner limbs, claws",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    39,
+    44
+   ],
+   "share": 0.709,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    22,
+    26
+   ],
+   "share": 0.264,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    109,
+    76,
+    82
+   ],
+   "share": 0.012,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    120,
+    115,
+    125
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    84,
+    64,
+    68
+   ],
+   "share": 0.005,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    77,
+    94
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

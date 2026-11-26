@@ -1,0 +1,73 @@
+{
+ "path": "gui/report_button.png",
+ "depicts": "64x64 report button icon: grey button face with black and light bevel outlines, dark lower panel and a yellow exclamation mark",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    106,
+    106,
+    104
+   ],
+   "share": 0.428,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.212,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.127,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    248,
+    214,
+    98
+   ],
+   "share": 0.117,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.063,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.053,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

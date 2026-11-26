@@ -1,0 +1,62 @@
+{
+ "path": "item/bone.png",
+ "depicts": "bone item: compact bone shaft with knobbed ends",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    253,
+    252,
+    242
+   ],
+   "share": 0.353,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    123,
+    126,
+    107
+   ],
+   "share": 0.265,
+   "material": "bone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    203,
+    198,
+    165
+   ],
+   "share": 0.235,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    232,
+    229,
+    210
+   ],
+   "share": 0.147,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    204,
+    203,
+    183
+   ],
+   "share": 0.0,
+   "material": "bone",
+   "thickness_cm": 1.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/boss_bar/red_progress.png",
+ "depicts": "boss-bar fill, red colour variant: bright red UI bar strip, colour gradient with dark edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    16,
+    0
+   ],
+   "share": 0.391,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    31,
+    0
+   ],
+   "share": 0.199,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    42,
+    0
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    53,
+    0
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    45,
+    10,
+    0
+   ],
+   "share": 0.013,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    25,
+    0
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

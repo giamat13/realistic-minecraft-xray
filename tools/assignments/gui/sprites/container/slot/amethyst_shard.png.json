@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/amethyst_shard.png",
+ "depicts": "16x16 amethyst shard slot-placeholder icon: crystalline quartz-like spike outline (amethyst is a purple quartz, SiO2)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "amethyst",
+   "thickness_cm": 1.5
+  }
+ ]
+}

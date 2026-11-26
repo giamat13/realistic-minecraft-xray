@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_striped_baby.png",
+ "depicts": "Baby striped wolf: striped fur over skin, dark nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    210,
+    183,
+    136
+   ],
+   "share": 0.465,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    76,
+    66,
+    52
+   ],
+   "share": 0.292,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    210,
+    163
+   ],
+   "share": 0.088,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    111,
+    83
+   ],
+   "share": 0.077,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    161,
+    141,
+    103
+   ],
+   "share": 0.073,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    12,
+    14,
+    15
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

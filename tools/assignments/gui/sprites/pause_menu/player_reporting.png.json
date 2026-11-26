@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/pause_menu/player_reporting.png",
+ "depicts": "player-reporting pause-menu pictogram (player/flag glyph) with white panel, dark outline, yellow and gold fills (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.317,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.259,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    221,
+    107
+   ],
+   "share": 0.223,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    208,
+    208,
+    208
+   ],
+   "share": 0.108,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    227,
+    176,
+    0
+   ],
+   "share": 0.094,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    195,
+    183,
+    141
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/container/enchanting_table/level_3.png",
+ "depicts": "enchanting table level-3 glyph: glowing lime enchantment sigil on dark wooden base",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    38,
+    2
+   ],
+   "share": 0.431,
+   "material": "wood_dark",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    255,
+    143
+   ],
+   "share": 0.239,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    203,
+    228,
+    90
+   ],
+   "share": 0.174,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    101,
+    176,
+    71
+   ],
+   "share": 0.101,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    52,
+    135,
+    67
+   ],
+   "share": 0.055,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    142,
+    62
+   ],
+   "share": 0.0,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/boss_bar/white_background.png",
+ "depicts": "boss-bar track, white colour variant: dark grey recessed UI trough strip",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    38,
+    38
+   ],
+   "share": 0.404,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.391,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    57,
+    57
+   ],
+   "share": 0.194,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    87,
+    87
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    78,
+    78,
+    78
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.002,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

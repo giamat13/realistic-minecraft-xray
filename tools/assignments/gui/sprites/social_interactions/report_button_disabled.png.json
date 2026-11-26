@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/social_interactions/report_button_disabled.png",
+ "depicts": "report button disabled state, dark grey plastic face with muted grey flag glyph",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    44,
+    44
+   ],
+   "share": 0.51,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.19,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.145,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    41,
+    41,
+    41
+   ],
+   "share": 0.1,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    82,
+    82,
+    82
+   ],
+   "share": 0.03,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    60,
+    60,
+    60
+   ],
+   "share": 0.025,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

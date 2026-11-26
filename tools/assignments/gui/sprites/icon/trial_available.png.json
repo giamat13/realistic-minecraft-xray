@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/icon/trial_available.png",
+ "depicts": "trial-available badge icon (first frame of 6-frame strip): purple body with white highlight on dark background (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    5,
+    0,
+    41
+   ],
+   "share": 0.538,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    155,
+    122,
+    228
+   ],
+   "share": 0.25,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.212,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    96,
+    85,
+    133
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

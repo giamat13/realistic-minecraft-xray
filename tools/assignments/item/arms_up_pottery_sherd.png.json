@@ -1,0 +1,73 @@
+{
+ "path": "item/arms_up_pottery_sherd.png",
+ "depicts": "arms-up pottery sherd item (fired clay sherd with glazed decoration)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    60,
+    50
+   ],
+   "share": 0.446,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.153,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    37,
+    29
+   ],
+   "share": 0.14,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    45,
+    37
+   ],
+   "share": 0.14,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.089,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.032,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

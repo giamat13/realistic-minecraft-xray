@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/profession/librarian.png",
+ "depicts": "librarian profession overlay (white-grey robe, red garment, dark red leather books, pale parchment, brown leather)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    150,
+    148,
+    133
+   ],
+   "share": 0.343,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    207,
+    201,
+    176
+   ],
+   "share": 0.202,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    230,
+    222
+   ],
+   "share": 0.162,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    25,
+    22
+   ],
+   "share": 0.127,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    157,
+    33,
+    33
+   ],
+   "share": 0.127,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    68,
+    33
+   ],
+   "share": 0.04,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

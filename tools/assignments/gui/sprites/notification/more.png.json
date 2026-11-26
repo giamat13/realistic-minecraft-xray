@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/notification/more.png",
+ "depicts": "red notification badge showing \"more\" three-dot glyph (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    185,
+    15,
+    15
+   ],
+   "share": 0.481,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    157,
+    13,
+    13
+   ],
+   "share": 0.173,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    116,
+    10,
+    10
+   ],
+   "share": 0.173,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    35,
+    35
+   ],
+   "share": 0.096,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    140,
+    11,
+    11
+   ],
+   "share": 0.038,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    221,
+    50,
+    50
+   ],
+   "share": 0.038,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

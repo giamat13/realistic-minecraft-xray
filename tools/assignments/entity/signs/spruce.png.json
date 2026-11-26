@@ -1,0 +1,73 @@
+{
+ "path": "entity/signs/spruce.png",
+ "depicts": "spruce standing sign: spruce board (2 cm, soft wood) with post (5 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    102,
+    76,
+    43
+   ],
+   "share": 0.318,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    98,
+    58
+   ],
+   "share": 0.249,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    123,
+    91,
+    52
+   ],
+   "share": 0.187,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    78,
+    56,
+    32
+   ],
+   "share": 0.136,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    59,
+    39,
+    20
+   ],
+   "share": 0.058,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    47,
+    27,
+    10
+   ],
+   "share": 0.052,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  }
+ ]
+}

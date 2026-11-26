@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/heart/withered_hardcore_full.png",
+ "depicts": "hardcore full withered heart HUD icon (wither effect): dark necrotic heart with bone-grey highlights",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    50,
+    16,
+    16
+   ],
+   "share": 0.471,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    38,
+    38
+   ],
+   "share": 0.294,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    157,
+    157,
+    157
+   ],
+   "share": 0.147,
+   "material": "bone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    180,
+    180
+   ],
+   "share": 0.059,
+   "material": "bone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    203,
+    203,
+    203
+   ],
+   "share": 0.029,
+   "material": "bone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    74,
+    58,
+    58
+   ],
+   "share": 0.0,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  }
+ ]
+}

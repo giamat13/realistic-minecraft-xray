@@ -1,0 +1,73 @@
+{
+ "path": "entity/signs/hanging/bamboo.png",
+ "depicts": "bamboo hanging sign: bamboo board (2 cm) with darker bamboo node shading, plus iron chain links (0.3 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    220,
+    196,
+    96
+   ],
+   "share": 0.421,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    189,
+    173,
+    75
+   ],
+   "share": 0.345,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    50,
+    57,
+    73
+   ],
+   "share": 0.112,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    82,
+    35
+   ],
+   "share": 0.044,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    76,
+    83,
+    105
+   ],
+   "share": 0.04,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    240,
+    219,
+    130
+   ],
+   "share": 0.038,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/type/jungle.png",
+ "depicts": "jungle villager type overlay (dark brown skin, olive and yellow robe, brown leather, green trim)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    32,
+    24
+   ],
+   "share": 0.586,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    72,
+    31
+   ],
+   "share": 0.153,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    221,
+    175,
+    59
+   ],
+   "share": 0.137,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    112,
+    53
+   ],
+   "share": 0.108,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    181,
+    50
+   ],
+   "share": 0.013,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    178,
+    179,
+    165
+   ],
+   "share": 0.003,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

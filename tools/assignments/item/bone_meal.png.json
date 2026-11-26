@@ -1,0 +1,73 @@
+{
+ "path": "item/bone_meal.png",
+ "depicts": "bone meal: ground bone powder pile (hydroxyapatite)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.299,
+   "material": "hydroxyapatite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    122,
+    157
+   ],
+   "share": 0.212,
+   "material": "hydroxyapatite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    185,
+    203
+   ],
+   "share": 0.204,
+   "material": "hydroxyapatite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    69,
+    101
+   ],
+   "share": 0.161,
+   "material": "hydroxyapatite",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    89,
+    85,
+    127
+   ],
+   "share": 0.124,
+   "material": "hydroxyapatite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    159,
+    158,
+    180
+   ],
+   "share": 0.0,
+   "material": "hydroxyapatite",
+   "thickness_cm": 0.5
+  }
+ ]
+}

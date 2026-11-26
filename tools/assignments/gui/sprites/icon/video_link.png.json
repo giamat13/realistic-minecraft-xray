@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/icon/video_link.png",
+ "depicts": "video-link button icon: mauve button body with light-blue screen, yellow/green/magenta UI pixels and black bottom bar (video camera/screen glyph, abstract)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    101,
+    103
+   ],
+   "share": 0.529,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    230,
+    237
+   ],
+   "share": 0.147,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    20,
+    0
+   ],
+   "share": 0.147,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    1,
+    255
+   ],
+   "share": 0.059,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    242,
+    0
+   ],
+   "share": 0.059,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    34,
+    177,
+    76
+   ],
+   "share": 0.059,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

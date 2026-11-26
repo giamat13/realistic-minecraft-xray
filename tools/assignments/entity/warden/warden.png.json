@@ -1,0 +1,73 @@
+{
+ "path": "entity/warden/warden.png",
+ "depicts": "warden mob (deep-dark sculk-like thick hide with pale bony ribs and plates, cyan bioluminescent markings)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    12,
+    27,
+    33
+   ],
+   "share": 0.874,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    160,
+    175,
+    143
+   ],
+   "share": 0.068,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    99,
+    114
+   ],
+   "share": 0.033,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    209,
+    214,
+    182
+   ],
+   "share": 0.014,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    2,
+    131,
+    131
+   ],
+   "share": 0.009,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.003,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  }
+ ]
+}

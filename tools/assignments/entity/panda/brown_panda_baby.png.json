@@ -1,0 +1,73 @@
+{
+ "path": "entity/panda/brown_panda_baby.png",
+ "depicts": "baby brown panda skin: white-grey fur over small body, dark brown ears and limbs",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    224,
+    223
+   ],
+   "share": 0.349,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    105,
+    80,
+    62
+   ],
+   "share": 0.227,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    88,
+    68,
+    51
+   ],
+   "share": 0.139,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    52,
+    42
+   ],
+   "share": 0.121,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    146,
+    146,
+    146
+   ],
+   "share": 0.082,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    171,
+    171,
+    171
+   ],
+   "share": 0.081,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

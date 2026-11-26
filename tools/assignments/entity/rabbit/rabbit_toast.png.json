@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_toast.png",
+ "depicts": "toast rabbit model texture (dark grey-brown fur over skin, white belly and ear highlights, dark claws)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    43,
+    42
+   ],
+   "share": 0.328,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    217,
+    218
+   ],
+   "share": 0.262,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    247,
+    249,
+    249
+   ],
+   "share": 0.215,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    66,
+    66
+   ],
+   "share": 0.124,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    186,
+    180,
+    181
+   ],
+   "share": 0.055,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    132,
+    126,
+    127
+   ],
+   "share": 0.015,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

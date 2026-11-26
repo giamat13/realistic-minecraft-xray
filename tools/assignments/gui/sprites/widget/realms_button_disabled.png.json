@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/realms_button_disabled.png",
+ "depicts": "GUI disabled Realms button background (200x20): dark grey flat panel with black border, abstract UI panel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    44,
+    44
+   ],
+   "share": 0.507,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    42,
+    42
+   ],
+   "share": 0.236,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.109,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    47,
+    47,
+    47
+   ],
+   "share": 0.087,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    39,
+    39,
+    39
+   ],
+   "share": 0.047,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    50,
+    50,
+    50
+   ],
+   "share": 0.013,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/type/savanna.png",
+ "depicts": "adult zombie villager biome overlay, savanna type: dark red-brown robe, tan skin, gold trim",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    63,
+    37,
+    34
+   ],
+   "share": 0.411,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    57,
+    49
+   ],
+   "share": 0.328,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    82,
+    53
+   ],
+   "share": 0.141,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    145,
+    129,
+    108
+   ],
+   "share": 0.076,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    193,
+    173,
+    152
+   ],
+   "share": 0.038,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    199,
+    149,
+    56
+   ],
+   "share": 0.006,
+   "material": "gold",
+   "thickness_cm": 0.05
+  }
+ ]
+}

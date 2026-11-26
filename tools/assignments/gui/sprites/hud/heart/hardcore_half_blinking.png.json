@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/hud/heart/hardcore_half_blinking.png",
+ "depicts": "hardcore half-heart HUD icon (blink frame): dark-outlined pale red heart organ, muscle",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    161,
+    161
+   ],
+   "share": 0.6,
+   "material": "muscle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    222,
+    161,
+    161
+   ],
+   "share": 0.2,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    183,
+    143,
+    143
+   ],
+   "share": 0.2,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  }
+ ]
+}

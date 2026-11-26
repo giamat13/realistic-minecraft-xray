@@ -1,0 +1,73 @@
+{
+ "path": "gui/container/smithing.png",
+ "depicts": "smithing table GUI container background: light grey panel, white highlight, dark outline pixels and a brown leather-like accent",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    173,
+    173,
+    173
+   ],
+   "share": 0.83,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.068,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    54,
+    54,
+    55
+   ],
+   "share": 0.05,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    1,
+    1,
+    2
+   ],
+   "share": 0.028,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.023,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    105,
+    65,
+    46
+   ],
+   "share": 0.001,
+   "material": "leather",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/lapis_lazuli.png",
+ "depicts": "16x16 lapis lazuli item empty-slot silhouette: faceted blue gemstone shape",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "lapis_lazuli",
+   "thickness_cm": 1.0
+  }
+ ]
+}

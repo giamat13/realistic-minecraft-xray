@@ -21,6 +21,8 @@ def render(rel, arr, asg):
     h, w = arr.shape[:2]
     first = clusters.first_frame(arr)
     cl = asg["clusters"]
+    if not cl or not (arr[..., 3] > 0).any():      # fully transparent texture: nothing to attenuate
+        return np.zeros((h, w, 4), np.uint8)
     cen = np.array([c["rgb"] for c in cl], float)
     rgb = arr[..., :3].astype(float)
     lum = (0.299 * rgb[..., 0] + 0.587 * rgb[..., 1] + 0.114 * rgb[..., 2]) / 255

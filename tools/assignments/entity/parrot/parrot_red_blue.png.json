@@ -1,0 +1,73 @@
+{
+ "path": "entity/parrot/parrot_red_blue.png",
+ "depicts": "red and blue macaw-style parrot skin: red plumage over body, blue wing feathers, yellow accent feathers, dark legs and eyes, skin feet, opaque white unused UV filler",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.72,
+   "material": "air",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    237,
+    2,
+    2
+   ],
+   "share": 0.184,
+   "material": "feather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    2,
+    109,
+    248
+   ],
+   "share": 0.033,
+   "material": "feather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    229,
+    4
+   ],
+   "share": 0.025,
+   "material": "feather",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    18,
+    18,
+    18
+   ],
+   "share": 0.022,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    218,
+    174,
+    155
+   ],
+   "share": 0.014,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/ingot.png",
+ "depicts": "16x16 ingot empty-slot silhouette: generic metal ingot bar, diagonal shape",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "iron",
+   "thickness_cm": 1.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/realms/survival_spawn.png",
+ "depicts": "Realms 'survival spawn' key-art thumbnail: sky, grassy ground, stone outcrops, sandy patches, leafy trees and a blue lake",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    70,
+    66,
+    39
+   ],
+   "share": 0.348,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    137,
+    179,
+    254
+   ],
+   "share": 0.301,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    107,
+    98
+   ],
+   "share": 0.174,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    169,
+    144,
+    88
+   ],
+   "share": 0.125,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    9,
+    171,
+    26
+   ],
+   "share": 0.046,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    44,
+    58,
+    206
+   ],
+   "share": 0.006,
+   "material": "water",
+   "thickness_cm": 100.0
+  }
+ ]
+}

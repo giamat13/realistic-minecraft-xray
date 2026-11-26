@@ -1,0 +1,73 @@
+{
+ "path": "item/armadillo_scute.png",
+ "depicts": "armadillo scute item (curved keratin armour plate)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    156,
+    96,
+    92
+   ],
+   "share": 0.283,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    182,
+    123,
+    118
+   ],
+   "share": 0.217,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    72,
+    72
+   ],
+   "share": 0.15,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    198,
+    136,
+    132
+   ],
+   "share": 0.133,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    92,
+    45,
+    48
+   ],
+   "share": 0.117,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    113,
+    62,
+    62
+   ],
+   "share": 0.1,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

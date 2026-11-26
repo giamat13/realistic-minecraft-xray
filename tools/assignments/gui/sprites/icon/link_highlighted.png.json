@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/icon/link_highlighted.png",
+ "depicts": "link icon (highlighted): darker chain links in blue and green (abstract GUI icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    56,
+    113
+   ],
+   "share": 0.577,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    114,
+    33
+   ],
+   "share": 0.423,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

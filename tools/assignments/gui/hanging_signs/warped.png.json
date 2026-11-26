@@ -1,0 +1,73 @@
+{
+ "path": "gui/hanging_signs/warped.png",
+ "depicts": "warped hanging sign icon: teal nether fungal stem board with steel chain links",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    146,
+    142
+   ],
+   "share": 0.521,
+   "material": "fungus",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    164,
+    162
+   ],
+   "share": 0.25,
+   "material": "fungus",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    46,
+    133,
+    120
+   ],
+   "share": 0.101,
+   "material": "fungus",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    68,
+    83
+   ],
+   "share": 0.053,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    80,
+    101
+   ],
+   "share": 0.032,
+   "material": "steel",
+   "thickness_cm": 0.3
+  }
+ ]
+}

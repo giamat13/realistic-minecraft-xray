@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/hotbar_offhand_left.png",
+ "depicts": "left offhand hotbar slot HUD panel: dark olive inventory slot with black border and grey bevel (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    36,
+    5
+   ],
+   "share": 0.469,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    2,
+    2,
+    2
+   ],
+   "share": 0.24,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    94,
+    94,
+    94
+   ],
+   "share": 0.144,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    148,
+    148,
+    148
+   ],
+   "share": 0.077,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    123,
+    123
+   ],
+   "share": 0.069,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    197,
+    197,
+    197
+   ],
+   "share": 0.002,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

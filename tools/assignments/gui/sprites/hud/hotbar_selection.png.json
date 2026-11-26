@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/hotbar_selection.png",
+ "depicts": "hotbar selection highlight frame: pale translucent green-grey panel with white bevel and black border (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    161,
+    178,
+    157
+   ],
+   "share": 0.267,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    3,
+    3,
+    3
+   ],
+   "share": 0.23,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    232,
+    208
+   ],
+   "share": 0.216,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    107,
+    90
+   ],
+   "share": 0.209,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    117,
+    100
+   ],
+   "share": 0.041,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    250,
+    251,
+    250
+   ],
+   "share": 0.037,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

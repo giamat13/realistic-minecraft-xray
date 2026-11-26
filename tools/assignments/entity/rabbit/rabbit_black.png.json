@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_black.png",
+ "depicts": "black rabbit model texture (full body, fur over skin): dark fur body and legs, pale claw/ear details",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    39,
+    44
+   ],
+   "share": 0.552,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    24,
+    22,
+    27
+   ],
+   "share": 0.433,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    109,
+    76,
+    82
+   ],
+   "share": 0.006,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    84,
+    64,
+    68
+   ],
+   "share": 0.005,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    120,
+    115,
+    125
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    77,
+    94
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

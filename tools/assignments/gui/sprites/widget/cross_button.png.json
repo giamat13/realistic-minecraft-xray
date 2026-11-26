@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/cross_button.png",
+ "depicts": "GUI close (X) button (14x14): grey bevelled square panel with a white X glyph and dark shading, abstract UI widget",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    113,
+    113,
+    113
+   ],
+   "share": 0.306,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.265,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    237,
+    237,
+    242
+   ],
+   "share": 0.204,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.107,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    83,
+    83,
+    83
+   ],
+   "share": 0.107,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.01,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

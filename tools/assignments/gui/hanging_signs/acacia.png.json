@@ -1,0 +1,73 @@
+{
+ "path": "gui/hanging_signs/acacia.png",
+ "depicts": "acacia hanging sign icon: orange-brown acacia wood board with steel chain links",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    91,
+    59
+   ],
+   "share": 0.617,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    156,
+    89,
+    56
+   ],
+   "share": 0.154,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    190,
+    96,
+    63
+   ],
+   "share": 0.101,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    68,
+    83
+   ],
+   "share": 0.053,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    80,
+    101
+   ],
+   "share": 0.032,
+   "material": "steel",
+   "thickness_cm": 0.3
+  }
+ ]
+}

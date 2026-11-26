@@ -1,6 +1,6 @@
 {
  "path": "entity/llama/gray.png",
- "depicts": "gray llama mob skin: fleece over body (soft tissue under cream and gray wool), dark brown-black eyes and nose, dark hooves, leather halter/tan straps",
+ "depicts": "gray llama mob skin (base file): gray-cream fleece over body (soft tissue under wool), dark hooves and eye/nose tones, tan muzzle and ear skin",
  "kind": "entity",
  "clusters": [
   {
@@ -12,7 +12,7 @@
    ],
    "share": 0.439,
    "material": "soft_tissue",
-   "thickness_cm": 10.0
+   "thickness_cm": 12.0
   },
   {
    "id": 1,
@@ -23,7 +23,7 @@
    ],
    "share": 0.38,
    "material": "soft_tissue",
-   "thickness_cm": 10.0
+   "thickness_cm": 12.0
   },
   {
    "id": 2,
@@ -33,8 +33,8 @@
     31
    ],
    "share": 0.085,
-   "material": "ink",
-   "thickness_cm": 0.2
+   "material": "keratin",
+   "thickness_cm": 0.5
   },
   {
    "id": 3,
@@ -44,8 +44,8 @@
     36
    ],
    "share": 0.062,
-   "material": "leather",
-   "thickness_cm": 0.4
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
   },
   {
    "id": 4,
@@ -66,8 +66,8 @@
     118
    ],
    "share": 0.007,
-   "material": "leather",
-   "thickness_cm": 0.4
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
   }
  ]
 }

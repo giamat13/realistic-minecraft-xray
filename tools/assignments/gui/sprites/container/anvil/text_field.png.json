@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/container/anvil/text_field.png",
+ "depicts": "anvil-screen text entry field: tan recessed panel with white and dark bevel lines",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    145,
+    114
+   ],
+   "share": 0.724,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.07,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.07,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    224,
+    202,
+    159
+   ],
+   "share": 0.068,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    84,
+    76,
+    59
+   ],
+   "share": 0.068,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.001,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

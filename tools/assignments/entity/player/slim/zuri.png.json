@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/slim/zuri.png",
+ "depicts": "Zuri (slim default player skin): light-brown skin, dark hair, red shirt, pale and light-blue clothing",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    191,
+    157,
+    126
+   ],
+   "share": 0.358,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    70,
+    51
+   ],
+   "share": 0.284,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    31,
+    25
+   ],
+   "share": 0.21,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    192,
+    40,
+    65
+   ],
+   "share": 0.137,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    253,
+    253
+   ],
+   "share": 0.009,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    129,
+    156,
+    181
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

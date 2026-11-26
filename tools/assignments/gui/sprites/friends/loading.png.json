@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/friends/loading.png",
+ "depicts": "5x6 small grey spinner dots (loading indicator)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    31,
+    31,
+    31
+   ],
+   "share": 0.333,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.267,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.167,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    152,
+    152,
+    152
+   ],
+   "share": 0.133,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    19,
+    19,
+    19
+   ],
+   "share": 0.1,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    75,
+    75
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  }
+ ]
+}

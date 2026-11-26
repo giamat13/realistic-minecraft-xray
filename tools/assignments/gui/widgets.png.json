@@ -1,0 +1,73 @@
+{
+ "path": "gui/widgets.png",
+ "depicts": "GUI widget sprite sheet: buttons, sliders, frames, text cursors and status icons",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    116,
+    116
+   ],
+   "share": 0.488,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    32,
+    32,
+    23
+   ],
+   "share": 0.424,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    241,
+    236
+   ],
+   "share": 0.06,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    169,
+    24,
+    14
+   ],
+   "share": 0.019,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    17,
+    197,
+    71
+   ],
+   "share": 0.008,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    0
+   ],
+   "share": 0.002,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

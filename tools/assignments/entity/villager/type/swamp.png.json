@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/type/swamp.png",
+ "depicts": "swamp villager type overlay (dark grey clothing, skin-toned face, green and red trim)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    61,
+    53,
+    58
+   ],
+   "share": 0.594,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    25,
+    25,
+    24
+   ],
+   "share": 0.17,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    154,
+    102,
+    77
+   ],
+   "share": 0.155,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    137,
+    68
+   ],
+   "share": 0.078,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    218,
+    21,
+    23
+   ],
+   "share": 0.002,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    214,
+    208,
+    172
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

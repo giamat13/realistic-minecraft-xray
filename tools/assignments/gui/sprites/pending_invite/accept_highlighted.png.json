@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/pending_invite/accept_highlighted.png",
+ "depicts": "accept-invite green tick mark, highlighted (darker shades of green, abstract UI glyph)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    2,
+    126,
+    2
+   ],
+   "share": 0.403,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    2,
+    86,
+    2
+   ],
+   "share": 0.328,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    2,
+    39,
+    2
+   ],
+   "share": 0.269,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

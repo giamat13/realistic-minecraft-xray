@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/beacon/button_highlighted.png",
+ "depicts": "beacon-screen button, hovered: lavender-grey bevelled UI panel with light and dark outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    119,
+    120,
+    160
+   ],
+   "share": 0.831,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    207,
+    208,
+    247
+   ],
+   "share": 0.085,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    56,
+    96
+   ],
+   "share": 0.085,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

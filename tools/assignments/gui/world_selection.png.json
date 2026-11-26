@@ -1,0 +1,73 @@
+{
+ "path": "gui/world_selection.png",
+ "depicts": "world-selection list icons (tiny warning/status sprites with wood-brown frame and white/orange glyphs)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    2,
+    20
+   ],
+   "share": 0.431,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    41,
+    34
+   ],
+   "share": 0.231,
+   "material": "wood_oak",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    142,
+    164
+   ],
+   "share": 0.188,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    254,
+    255,
+    255
+   ],
+   "share": 0.113,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    170,
+    0
+   ],
+   "share": 0.019,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    85,
+    85
+   ],
+   "share": 0.019,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

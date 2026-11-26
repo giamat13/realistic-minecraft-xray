@@ -1,0 +1,73 @@
+{
+ "path": "item/amethyst_shard.png",
+ "depicts": "amethyst shard item (faceted purple crystal shard)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    111,
+    79,
+    171
+   ],
+   "share": 0.27,
+   "material": "amethyst",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    84,
+    57,
+    138
+   ],
+   "share": 0.213,
+   "material": "amethyst",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    190,
+    149,
+    243
+   ],
+   "share": 0.202,
+   "material": "amethyst",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    106,
+    204
+   ],
+   "share": 0.169,
+   "material": "amethyst",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    203,
+    230
+   ],
+   "share": 0.112,
+   "material": "amethyst",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    253,
+    213
+   ],
+   "share": 0.034,
+   "material": "amethyst",
+   "thickness_cm": 1.5
+  }
+ ]
+}

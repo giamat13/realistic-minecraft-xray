@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/shield.png",
+ "depicts": "16x16 shield empty-slot silhouette: round wooden shield outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  }
+ ]
+}

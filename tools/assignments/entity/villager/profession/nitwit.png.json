@@ -1,0 +1,62 @@
+{
+ "path": "entity/villager/profession/nitwit.png",
+ "depicts": "nitwit profession overlay (green clothing with darker green shading)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    84,
+    106,
+    72
+   ],
+   "share": 0.307,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    79,
+    100,
+    67
+   ],
+   "share": 0.223,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    90,
+    61
+   ],
+   "share": 0.218,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    60,
+    76,
+    51
+   ],
+   "share": 0.133,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    116,
+    79
+   ],
+   "share": 0.119,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/widget/scroller.png",
+ "depicts": "GUI scrollbar thumb (6x32): light grey bar with darker edge, abstract UI control",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.807,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.193,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

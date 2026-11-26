@@ -1,0 +1,73 @@
+{
+ "path": "item/acacia_chest_boat.png",
+ "depicts": "acacia wood boat carrying a wooden chest item (planks hull and chest)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    163,
+    105,
+    39
+   ],
+   "share": 0.218,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    78,
+    50,
+    32
+   ],
+   "share": 0.207,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    191,
+    109,
+    62
+   ],
+   "share": 0.19,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    46,
+    31,
+    16
+   ],
+   "share": 0.138,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    71,
+    38,
+    17
+   ],
+   "share": 0.138,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    121,
+    76,
+    35
+   ],
+   "share": 0.109,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  }
+ ]
+}

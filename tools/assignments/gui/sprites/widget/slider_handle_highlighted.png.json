@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/slider_handle_highlighted.png",
+ "depicts": "GUI slider knob hover (8x20): grey bevelled handle with white outline and light edge, abstract UI control",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.325,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    118,
+    118,
+    118
+   ],
+   "share": 0.225,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    114,
+    114,
+    114
+   ],
+   "share": 0.169,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    91,
+    91,
+    91
+   ],
+   "share": 0.156,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    175,
+    175,
+    175
+   ],
+   "share": 0.125,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    165,
+    165,
+    165
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/bamboo_hanging_sign.png",
+ "depicts": "bamboo hanging sign item (bamboo board with carved text and iron chains)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    204,
+    183,
+    83
+   ],
+   "share": 0.412,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    206,
+    109
+   ],
+   "share": 0.209,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    47,
+    41,
+    15
+   ],
+   "share": 0.149,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    62,
+    62
+   ],
+   "share": 0.108,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    135,
+    65
+   ],
+   "share": 0.068,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

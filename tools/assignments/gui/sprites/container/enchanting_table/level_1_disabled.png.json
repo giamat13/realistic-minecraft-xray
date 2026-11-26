@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/container/enchanting_table/level_1_disabled.png",
+ "depicts": "dimmed enchanting table level-1 glyph: muted green sigil with reddish-brown and dark wood tones",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    55,
+    41
+   ],
+   "share": 0.369,
+   "material": "wood_dark",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    137,
+    76
+   ],
+   "share": 0.262,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    96,
+    93
+   ],
+   "share": 0.154,
+   "material": "iron_oxide",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    51,
+    44,
+    23
+   ],
+   "share": 0.154,
+   "material": "wood_dark",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    59,
+    110,
+    64
+   ],
+   "share": 0.062,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    85,
+    57
+   ],
+   "share": 0.0,
+   "material": "wood_dark",
+   "thickness_cm": 0.1
+  }
+ ]
+}

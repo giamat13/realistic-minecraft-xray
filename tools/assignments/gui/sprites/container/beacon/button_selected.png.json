@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/beacon/button_selected.png",
+ "depicts": "beacon-screen button, selected: grey bevelled UI panel with inverted white and dark outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.831,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.085,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.085,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

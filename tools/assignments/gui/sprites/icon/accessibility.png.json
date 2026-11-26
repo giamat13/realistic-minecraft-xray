@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/icon/accessibility.png",
+ "depicts": "accessibility icon: white-on-dark stylised person figure with outline (abstract GUI icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    252,
+    252
+   ],
+   "share": 0.562,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    42,
+    42
+   ],
+   "share": 0.231,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    108,
+    108
+   ],
+   "share": 0.085,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.077,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.031,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.015,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

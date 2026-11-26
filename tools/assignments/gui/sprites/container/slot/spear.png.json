@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/spear.png",
+ "depicts": "16x16 spear empty-slot silhouette: diagonal spear with metal point and shaft outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/shield_base.png",
+ "depicts": "shield body (top-level copy of the oak shield board, white-primed face, grey iron rim and handle bars, black outline)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    64,
+    30
+   ],
+   "share": 0.279,
+   "material": "wood_oak",
+   "thickness_cm": 1.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    236,
+    236,
+    236
+   ],
+   "share": 0.279,
+   "material": "wood_oak",
+   "thickness_cm": 1.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    115,
+    117,
+    124
+   ],
+   "share": 0.147,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    94,
+    101
+   ],
+   "share": 0.14,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    151,
+    153,
+    160
+   ],
+   "share": 0.11,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.045,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

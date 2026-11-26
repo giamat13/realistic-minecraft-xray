@@ -1,0 +1,73 @@
+{
+ "path": "entity/parrot/parrot_grey.png",
+ "depicts": "grey parrot skin: grey plumage over body and wings, yellow and orange accent feathers, dark legs and eyes, opaque white unused UV filler",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.742,
+   "material": "air",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    180,
+    178,
+    178
+   ],
+   "share": 0.102,
+   "material": "feather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    148,
+    148
+   ],
+   "share": 0.093,
+   "material": "feather",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    231,
+    60
+   ],
+   "share": 0.039,
+   "material": "feather",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    18,
+    18,
+    18
+   ],
+   "share": 0.022,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    247,
+    115,
+    9
+   ],
+   "share": 0.002,
+   "material": "feather",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/cross_button_highlighted.png",
+ "depicts": "GUI close (X) button hover state (14x14): blue-tinted panel with white X glyph and light outline, abstract UI widget",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    128,
+    139,
+    188
+   ],
+   "share": 0.316,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.265,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    237,
+    237,
+    242
+   ],
+   "share": 0.204,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    97,
+    157
+   ],
+   "share": 0.107,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    186,
+    196,
+    255
+   ],
+   "share": 0.107,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    186,
+    191,
+    221
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

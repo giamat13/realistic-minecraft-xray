@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/icon/ping_3.png",
+ "depicts": "connection ping indicator: three-bar signal strength icon with 3 lit green bars and unlit grey bars (abstract UI sprite, plastic bars)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    56,
+    56
+   ],
+   "share": 0.275,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    91,
+    91
+   ],
+   "share": 0.275,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    255,
+    33
+   ],
+   "share": 0.225,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    135,
+    15
+   ],
+   "share": 0.225,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

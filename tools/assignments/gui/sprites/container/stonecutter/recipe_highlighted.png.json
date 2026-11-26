@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/stonecutter/recipe_highlighted.png",
+ "depicts": "16x18 stonecutter recipe button in hover state: pink-tinted panel with dark outline and light highlight edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    182,
+    136,
+    174
+   ],
+   "share": 0.785,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    101,
+    76,
+    97
+   ],
+   "share": 0.108,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    185,
+    239
+   ],
+   "share": 0.108,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

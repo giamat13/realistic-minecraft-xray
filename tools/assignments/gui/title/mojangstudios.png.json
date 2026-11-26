@@ -1,0 +1,18 @@
+{
+ "path": "gui/title/mojangstudios.png",
+ "depicts": "white splash logo wordmark of the game studio (text glyphs, transparent background)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/gamemode_switcher/slot.png",
+ "depicts": "26x26 gamemode inventory slot: dark olive recess with black edge and grey bevel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    36,
+    5
+   ],
+   "share": 0.537,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    4,
+    4,
+    4
+   ],
+   "share": 0.207,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    93,
+    93,
+    93
+   ],
+   "share": 0.126,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    123,
+    122
+   ],
+   "share": 0.062,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.057,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    164,
+    164,
+    164
+   ],
+   "share": 0.01,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

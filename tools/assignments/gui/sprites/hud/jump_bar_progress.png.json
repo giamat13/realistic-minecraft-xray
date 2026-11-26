@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/jump_bar_progress.png",
+ "depicts": "horse jump-charge bar progress fill: blue-to-orange gradient strip (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    39,
+    29,
+    70
+   ],
+   "share": 0.449,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    39,
+    74,
+    144
+   ],
+   "share": 0.194,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    68,
+    104,
+    178
+   ],
+   "share": 0.18,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    95,
+    132,
+    207
+   ],
+   "share": 0.115,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    151,
+    97,
+    34
+   ],
+   "share": 0.036,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    206,
+    141,
+    65
+   ],
+   "share": 0.025,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "entity/zombie_villager/profession_level/emerald.png",
+ "depicts": "villager level badge depicting an emerald gem (tiny sprite)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    23,
+    221,
+    98
+   ],
+   "share": 0.333,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    243,
+    132
+   ],
+   "share": 0.167,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    219,
+    255,
+    235
+   ],
+   "share": 0.167,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    170,
+    44
+   ],
+   "share": 0.167,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    175,
+    253,
+    205
+   ],
+   "share": 0.167,
+   "material": "emerald",
+   "thickness_cm": 1.0
+  }
+ ]
+}

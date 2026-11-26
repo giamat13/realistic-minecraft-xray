@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/pause_menu/bug.png",
+ "depicts": "bug-report icon: stylised red beetle/insect with dark legs and pink sheen (insect body = chitin carapace)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    119,
+    8,
+    20
+   ],
+   "share": 0.235,
+   "material": "shell_chitin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    11,
+    25,
+    30
+   ],
+   "share": 0.225,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    64,
+    70
+   ],
+   "share": 0.216,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    226,
+    1,
+    29
+   ],
+   "share": 0.157,
+   "material": "shell_chitin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    0,
+    3
+   ],
+   "share": 0.088,
+   "material": "shell_chitin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    110,
+    125
+   ],
+   "share": 0.078,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

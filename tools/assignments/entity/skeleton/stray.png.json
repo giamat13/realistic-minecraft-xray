@@ -1,0 +1,73 @@
+{
+ "path": "entity/skeleton/stray.png",
+ "depicts": "stray skeleton mob: bone (1.5 cm) with pale blue-grey tint",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    170,
+    169
+   ],
+   "share": 0.328,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    149,
+    148
+   ],
+   "share": 0.318,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    186,
+    189
+   ],
+   "share": 0.234,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    197,
+    214,
+    213
+   ],
+   "share": 0.083,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    106,
+    129,
+    131
+   ],
+   "share": 0.03,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    230,
+    242,
+    246
+   ],
+   "share": 0.007,
+   "material": "bone",
+   "thickness_cm": 1.5
+  }
+ ]
+}

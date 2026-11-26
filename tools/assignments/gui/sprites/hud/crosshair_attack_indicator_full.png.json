@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/crosshair_attack_indicator_full.png",
+ "depicts": "16x16 attack-cooldown indicator (silver-white ring/dot with brownish shadow), full state",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    215,
+    217,
+    234
+   ],
+   "share": 0.432,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.243,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    84,
+    82
+   ],
+   "share": 0.162,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    130,
+    109,
+    108
+   ],
+   "share": 0.108,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    236,
+    242
+   ],
+   "share": 0.054,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    198,
+    194,
+    201
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

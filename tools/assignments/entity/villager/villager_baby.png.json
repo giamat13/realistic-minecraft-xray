@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/villager_baby.png",
+ "depicts": "baby villager mob base skin (skin-toned face and arms, brown robe, dark shoes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    132,
+    108
+   ],
+   "share": 0.698,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    98,
+    96
+   ],
+   "share": 0.139,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    143,
+    92,
+    66
+   ],
+   "share": 0.107,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    56,
+    44,
+    39
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    150,
+    17
+   ],
+   "share": 0.003,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.003,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

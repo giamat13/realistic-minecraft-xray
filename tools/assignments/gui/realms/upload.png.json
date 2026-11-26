@@ -1,0 +1,73 @@
+{
+ "path": "gui/realms/upload.png",
+ "depicts": "Realms 'upload' key-art thumbnail: dark canopy, grassy and earthy ground, pale sky haze and teal water",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    21,
+    26,
+    18
+   ],
+   "share": 0.403,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    111,
+    81
+   ],
+   "share": 0.291,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    65,
+    77,
+    57
+   ],
+   "share": 0.28,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    145,
+    178,
+    246
+   ],
+   "share": 0.019,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    178,
+    203,
+    234
+   ],
+   "share": 0.005,
+   "material": "water",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    2,
+    191,
+    196
+   ],
+   "share": 0.001,
+   "material": "water",
+   "thickness_cm": 100.0
+  }
+ ]
+}

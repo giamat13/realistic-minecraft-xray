@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/profession/cartographer.png",
+ "depicts": "adult zombie villager, cartographer profession: orange-brown robe, grey cloth, parchment map, brass compass, blue ink",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    141,
+    71,
+    41
+   ],
+   "share": 0.675,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    145,
+    147,
+    141
+   ],
+   "share": 0.172,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    233,
+    233,
+    191
+   ],
+   "share": 0.08,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    191,
+    53
+   ],
+   "share": 0.061,
+   "material": "brass",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    106,
+    145,
+    219
+   ],
+   "share": 0.006,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    151,
+    202,
+    246
+   ],
+   "share": 0.006,
+   "material": "ink",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/heart/withered_half.png",
+ "depicts": "half withered heart HUD icon (wither effect): necrotic black-maroon heart tissue with bone-white highlight",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    42,
+    42
+   ],
+   "share": 0.35,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    14,
+    14
+   ],
+   "share": 0.25,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    59,
+    19,
+    19
+   ],
+   "share": 0.2,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    32,
+    32
+   ],
+   "share": 0.15,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    203,
+    203,
+    203
+   ],
+   "share": 0.05,
+   "material": "bone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    52,
+    37,
+    37
+   ],
+   "share": 0.0,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  }
+ ]
+}

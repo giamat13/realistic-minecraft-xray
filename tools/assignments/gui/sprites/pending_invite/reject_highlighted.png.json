@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/pending_invite/reject_highlighted.png",
+ "depicts": "reject-invite red cross mark, highlighted (darker shades of red, abstract UI glyph)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    2,
+    2
+   ],
+   "share": 0.552,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    37,
+    2,
+    2
+   ],
+   "share": 0.286,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    69,
+    2,
+    2
+   ],
+   "share": 0.162,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

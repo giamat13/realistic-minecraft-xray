@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/hud/heart/withered_full_blinking.png",
+ "depicts": "full withered heart HUD icon (blink frame, wither effect): necrotic dark heart tissue with bone highlight",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.5,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    30,
+    30
+   ],
+   "share": 0.471,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    208,
+    208,
+    208
+   ],
+   "share": 0.029,
+   "material": "bone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    81,
+    52,
+    52
+   ],
+   "share": 0.0,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  }
+ ]
+}

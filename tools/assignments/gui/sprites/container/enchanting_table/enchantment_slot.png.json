@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/enchanting_table/enchantment_slot.png",
+ "depicts": "enchantment option button strip on the enchanting table GUI: tan panel with dark and bright bevel outlines",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    145,
+    114
+   ],
+   "share": 0.879,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    84,
+    76,
+    59
+   ],
+   "share": 0.06,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    202,
+    159
+   ],
+   "share": 0.06,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

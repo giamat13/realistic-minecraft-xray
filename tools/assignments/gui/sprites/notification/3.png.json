@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/notification/3.png",
+ "depicts": "red notification badge (count \"3\", 8x8 pixel icon): red plastic bubble with pale-pink numeral glyph (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    185,
+    15,
+    15
+   ],
+   "share": 0.365,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    154,
+    13,
+    13
+   ],
+   "share": 0.212,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    186,
+    186
+   ],
+   "share": 0.173,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    10,
+    10
+   ],
+   "share": 0.173,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    216,
+    42,
+    42
+   ],
+   "share": 0.077,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    45,
+    45
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

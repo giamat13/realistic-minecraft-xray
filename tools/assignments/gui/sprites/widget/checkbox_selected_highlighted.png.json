@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/widget/checkbox_selected_highlighted.png",
+ "depicts": "GUI checked checkbox hover state (20x20): dark grey box, white border highlight and light tick mark, abstract UI widget",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    43,
+    43
+   ],
+   "share": 0.642,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.247,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    47,
+    47,
+    47
+   ],
+   "share": 0.085,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    202,
+    202,
+    202
+   ],
+   "share": 0.018,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    134,
+    134,
+    134
+   ],
+   "share": 0.007,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

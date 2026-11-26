@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/hud/crosshair_attack_indicator_background.png",
+ "depicts": "16x4 dark grey attack-indicator bar background",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    58,
+    59,
+    60
+   ],
+   "share": 1.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

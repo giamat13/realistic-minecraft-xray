@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/hotbar.png",
+ "depicts": "hotbar HUD panel: dark olive-brown inventory bar with black border and grey slot outlines (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    36,
+    5
+   ],
+   "share": 0.505,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    2,
+    2,
+    2
+   ],
+   "share": 0.171,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    94,
+    94,
+    94
+   ],
+   "share": 0.164,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    132,
+    132,
+    132
+   ],
+   "share": 0.158,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    171,
+    171,
+    171
+   ],
+   "share": 0.001,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    206,
+    206,
+    206
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

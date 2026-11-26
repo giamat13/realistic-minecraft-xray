@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/type/snow.png",
+ "depicts": "adult zombie villager biome overlay, snow type: green skin, dark teal robe, tan cloth, black hair, brown fur trim",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    114,
+    102
+   ],
+   "share": 0.286,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    44,
+    70,
+    70
+   ],
+   "share": 0.208,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    165,
+    159,
+    122
+   ],
+   "share": 0.198,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    31,
+    21,
+    17
+   ],
+   "share": 0.143,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    195,
+    162
+   ],
+   "share": 0.131,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    90,
+    50,
+    30
+   ],
+   "share": 0.034,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

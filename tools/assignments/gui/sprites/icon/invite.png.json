@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/icon/invite.png",
+ "depicts": "invite icon: parchment invitation letter with orange frame, dark outline and red wax seal",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    236,
+    209
+   ],
+   "share": 0.398,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    157,
+    79
+   ],
+   "share": 0.265,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    30,
+    30,
+    31
+   ],
+   "share": 0.265,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    237,
+    204,
+    159
+   ],
+   "share": 0.051,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    67,
+    56
+   ],
+   "share": 0.02,
+   "material": "wax",
+   "thickness_cm": 0.1
+  }
+ ]
+}

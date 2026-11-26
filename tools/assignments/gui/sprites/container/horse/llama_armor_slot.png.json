@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/container/horse/llama_armor_slot.png",
+ "depicts": "llama armor slot icon: grey slot panel with bevel outlines and a wool carpet-style armor pattern",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.735,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.102,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.102,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    124,
+    124,
+    124
+   ],
+   "share": 0.062,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/skeleton/parched.png",
+ "depicts": "parched desert skeleton mob: dried bone (1.5 cm) with desiccated dark tissue (leather 0.4 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    110,
+    97
+   ],
+   "share": 0.349,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    170,
+    149,
+    103
+   ],
+   "share": 0.273,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    89,
+    85,
+    72
+   ],
+   "share": 0.161,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    188,
+    137
+   ],
+   "share": 0.14,
+   "material": "bone",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    54,
+    53,
+    36
+   ],
+   "share": 0.074,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    235,
+    194
+   ],
+   "share": 0.003,
+   "material": "bone",
+   "thickness_cm": 1.5
+  }
+ ]
+}

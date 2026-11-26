@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/leggings.png",
+ "depicts": "16x16 leggings armour empty-slot silhouette: trousers outline (generic leather)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 1.0,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

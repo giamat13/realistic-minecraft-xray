@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/boss_bar/yellow_progress.png",
+ "depicts": "boss-bar fill, yellow colour variant: bright yellow UI bar strip, colour gradient with dark edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    74,
+    0
+   ],
+   "share": 0.391,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    140,
+    0
+   ],
+   "share": 0.199,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    182,
+    185,
+    0
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    233,
+    236,
+    0
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    44,
+    45,
+    0
+   ],
+   "share": 0.013,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    114,
+    115,
+    0
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

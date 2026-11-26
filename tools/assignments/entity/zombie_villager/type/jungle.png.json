@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/type/jungle.png",
+ "depicts": "adult zombie villager biome overlay, jungle type: dark olive and brown robe, straw-yellow hat, pale skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    28,
+    22
+   ],
+   "share": 0.446,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    71,
+    57,
+    31
+   ],
+   "share": 0.33,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    114,
+    51
+   ],
+   "share": 0.157,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    153,
+    69
+   ],
+   "share": 0.051,
+   "material": "straw",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    110,
+    90
+   ],
+   "share": 0.012,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    154,
+    156,
+    126
+   ],
+   "share": 0.004,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

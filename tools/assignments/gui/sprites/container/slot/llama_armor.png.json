@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/slot/llama_armor.png",
+ "depicts": "16x16 llama armour (carpet) empty-slot silhouette: woven cloth/wool carpet shape with tassel ends",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    124,
+    124
+   ],
+   "share": 1.0,
+   "material": "wool",
+   "thickness_cm": 0.5
+  }
+ ]
+}

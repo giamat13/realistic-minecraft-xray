@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_snowy_angry.png",
+ "depicts": "Angry snowy wolf: white fur over skin, dark nose, red eyes and mouth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    241,
+    243,
+    236
+   ],
+   "share": 0.469,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    201,
+    208,
+    211
+   ],
+   "share": 0.382,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    155,
+    157,
+    170
+   ],
+   "share": 0.128,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    57,
+    60,
+    63
+   ],
+   "share": 0.011,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.007,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    205,
+    30,
+    30
+   ],
+   "share": 0.004,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

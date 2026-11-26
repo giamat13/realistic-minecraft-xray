@@ -1,0 +1,73 @@
+{
+ "path": "item/bamboo_sign.png",
+ "depicts": "bamboo standing sign item (bamboo board with carved text and post)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    186,
+    85
+   ],
+   "share": 0.386,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    228,
+    206,
+    108
+   ],
+   "share": 0.197,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    186,
+    170,
+    75
+   ],
+   "share": 0.144,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    29,
+    11
+   ],
+   "share": 0.106,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    55,
+    20
+   ],
+   "share": 0.083,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    153,
+    135,
+    65
+   ],
+   "share": 0.083,
+   "material": "bamboo",
+   "thickness_cm": 1.5
+  }
+ ]
+}

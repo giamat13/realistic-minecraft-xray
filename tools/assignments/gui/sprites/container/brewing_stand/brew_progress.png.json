@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/brewing_stand/brew_progress.png",
+ "depicts": "brewing-stand brew progress arrow: vertical white progress bar on grey panel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.575,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.325,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.099,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

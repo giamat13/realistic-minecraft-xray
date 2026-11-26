@@ -1,0 +1,51 @@
+{
+ "path": "entity/zombie_villager/profession_level/diamond.png",
+ "depicts": "villager level badge depicting a diamond gem (tiny sprite)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    48,
+    223,
+    193
+   ],
+   "share": 0.5,
+   "material": "diamond",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    253,
+    240
+   ],
+   "share": 0.333,
+   "material": "diamond",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    255,
+    250
+   ],
+   "share": 0.167,
+   "material": "diamond",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    238,
+    218
+   ],
+   "share": 0.0,
+   "material": "diamond",
+   "thickness_cm": 1.0
+  }
+ ]
+}

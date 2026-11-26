@@ -1,0 +1,62 @@
+{
+ "path": "item/blue_cushion.png",
+ "depicts": "blue stuffed cushion/pillow item with seam shading",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    116,
+    181
+   ],
+   "share": 0.25,
+   "material": "textile",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    90,
+    190
+   ],
+   "share": 0.231,
+   "material": "textile",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    68,
+    144
+   ],
+   "share": 0.212,
+   "material": "textile",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    36,
+    41,
+    82
+   ],
+   "share": 0.173,
+   "material": "textile",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    44,
+    50,
+    107
+   ],
+   "share": 0.135,
+   "material": "textile",
+   "thickness_cm": 5.0
+  }
+ ]
+}

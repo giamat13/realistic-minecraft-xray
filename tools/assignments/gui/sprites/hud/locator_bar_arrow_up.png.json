@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/hud/locator_bar_arrow_up.png",
+ "depicts": "locator bar up-arrow marker: white arrow with black outline (abstract GUI)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.636,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.364,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

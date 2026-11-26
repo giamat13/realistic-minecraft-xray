@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_spotted.png",
+ "depicts": "Spotted wolf mob: brown and orange fur patches over skin, dark nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    52,
+    62
+   ],
+   "share": 0.426,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    151,
+    99,
+    55
+   ],
+   "share": 0.199,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    201,
+    130,
+    62
+   ],
+   "share": 0.185,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    229,
+    221,
+    219
+   ],
+   "share": 0.09,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    196,
+    178,
+    170
+   ],
+   "share": 0.084,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    5,
+    5,
+    6
+   ],
+   "share": 0.016,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

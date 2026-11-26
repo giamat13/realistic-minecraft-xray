@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/hud/heart/vehicle_container.png",
+ "depicts": "empty vehicle heart container HUD icon: dark translucent heart-shaped panel with black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    40,
+    40,
+    40
+   ],
+   "share": 0.63,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.37,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

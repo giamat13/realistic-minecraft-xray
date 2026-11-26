@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/enchanting_table/enchantment_slot_disabled.png",
+ "depicts": "disabled enchantment option button strip (dark olive panel) with dark outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    73,
+    58
+   ],
+   "share": 0.878,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    51,
+    46,
+    36
+   ],
+   "share": 0.061,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    33,
+    29,
+    23
+   ],
+   "share": 0.06,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

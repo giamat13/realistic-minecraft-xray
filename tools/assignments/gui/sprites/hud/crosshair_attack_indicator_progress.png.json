@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/hud/crosshair_attack_indicator_progress.png",
+ "depicts": "16x4 attack-cooldown indicator progress bar (silver-white with brownish shadow)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    215,
+    217,
+    234
+   ],
+   "share": 0.375,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.25,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    84,
+    82
+   ],
+   "share": 0.188,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    130,
+    109,
+    108
+   ],
+   "share": 0.125,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    236,
+    242
+   ],
+   "share": 0.062,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    195,
+    189,
+    196
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

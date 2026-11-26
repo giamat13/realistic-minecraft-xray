@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/transferable_list/select.png",
+ "depicts": "GUI select icon (transferable list): a rounded dark-outlined arrow/checkbox glyph with grey fill and white highlight, abstract UI sprite",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.468,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.255,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.17,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.106,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

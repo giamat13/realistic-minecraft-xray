@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/friends/reject_highlighted.png",
+ "depicts": "18x18 highlighted red X reject UI icon with dark red shading, painted plastic",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    2,
+    2
+   ],
+   "share": 0.552,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    37,
+    2,
+    2
+   ],
+   "share": 0.286,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    69,
+    2,
+    2
+   ],
+   "share": 0.162,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  }
+ ]
+}

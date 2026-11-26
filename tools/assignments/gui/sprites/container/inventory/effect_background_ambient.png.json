@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/inventory/effect_background_ambient.png",
+ "depicts": "ambient (beacon-style) potion-effect panel background with teal bevel frame and dark teal outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    33,
+    33
+   ],
+   "share": 0.664,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    168,
+    168
+   ],
+   "share": 0.221,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    84,
+    84
+   ],
+   "share": 0.115,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}
