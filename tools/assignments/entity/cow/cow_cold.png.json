@@ -1,0 +1,73 @@
+{
+ "path": "entity/cow/cow_cold.png",
+ "depicts": "cold cow (alternate file): brown-orange hide over muscle, pink muzzle and udder, white horn tips and black nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    114,
+    59
+   ],
+   "share": 0.699,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    74,
+    52
+   ],
+   "share": 0.267,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    247,
+    175,
+    175
+   ],
+   "share": 0.019,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    207,
+    144,
+    144
+   ],
+   "share": 0.012,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.002,
+   "material": "ink",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

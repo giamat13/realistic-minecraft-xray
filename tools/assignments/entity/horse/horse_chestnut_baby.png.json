@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_chestnut_baby.png",
+ "depicts": "baby chestnut horse: reddish hide over muscle, dark mane/hooves, pale tan lower legs",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    111,
+    49,
+    20
+   ],
+   "share": 0.639,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    67,
+    27,
+    16
+   ],
+   "share": 0.223,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    109,
+    91,
+    83
+   ],
+   "share": 0.048,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    166,
+    113
+   ],
+   "share": 0.047,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    172,
+    129,
+    77
+   ],
+   "share": 0.041,
+   "material": "muscle",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

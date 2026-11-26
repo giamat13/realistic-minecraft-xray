@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/siamese.png",
+ "depicts": "adult Siamese cat UV map (duplicate layout of cat_siamese): cream body with dark seal-point markings, blue eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    212,
+    194
+   ],
+   "share": 0.563,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    71,
+    62
+   ],
+   "share": 0.137,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    49,
+    39,
+    32
+   ],
+   "share": 0.131,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    169,
+    160,
+    152
+   ],
+   "share": 0.104,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    240,
+    238,
+    225
+   ],
+   "share": 0.062,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    13,
+    127,
+    200
+   ],
+   "share": 0.003,
+   "material": "water",
+   "thickness_cm": 1.5
+  }
+ ]
+}

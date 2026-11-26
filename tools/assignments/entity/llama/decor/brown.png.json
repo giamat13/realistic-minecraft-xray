@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/decor/brown.png",
+ "depicts": "llama saddle carpet (woven wool blanket decor, brown base with green/orange/yellow woven pattern and a leather-tone strap region)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    75,
+    35
+   ],
+   "share": 0.738,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    186,
+    44
+   ],
+   "share": 0.075,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    216,
+    101,
+    24
+   ],
+   "share": 0.061,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    226,
+    174,
+    70
+   ],
+   "share": 0.056,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    112,
+    46
+   ],
+   "share": 0.037,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    116,
+    182,
+    76
+   ],
+   "share": 0.033,
+   "material": "wool",
+   "thickness_cm": 0.5
+  }
+ ]
+}

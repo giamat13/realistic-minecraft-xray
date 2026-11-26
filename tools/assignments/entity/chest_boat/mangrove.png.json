@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest_boat/mangrove.png",
+ "depicts": "mangrove boat with chest: reddish mangrove wood planks, dark shading, iron latch",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    118,
+    54,
+    49
+   ],
+   "share": 0.734,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    150,
+    106,
+    37
+   ],
+   "share": 0.131,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    47,
+    33
+   ],
+   "share": 0.115,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.014,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    140,
+    140,
+    140
+   ],
+   "share": 0.005,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    201,
+    201,
+    201
+   ],
+   "share": 0.001,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

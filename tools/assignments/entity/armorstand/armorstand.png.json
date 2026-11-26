@@ -1,0 +1,73 @@
+{
+ "path": "entity/armorstand/armorstand.png",
+ "depicts": "armor stand entity: oak wood body with grey metal fittings, blue and black trim, gold accents",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    142,
+    91
+   ],
+   "share": 0.545,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    166,
+    166,
+    166
+   ],
+   "share": 0.19,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    117,
+    92,
+    45
+   ],
+   "share": 0.099,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    25,
+    168
+   ],
+   "share": 0.076,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.06,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    200,
+    160,
+    0
+   ],
+   "share": 0.03,
+   "material": "gold",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest/copper_left.png",
+ "depicts": "left half of copper chest: copper sheet cladding over wood with iron latch",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    208,
+    118,
+    89
+   ],
+   "share": 0.429,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    160,
+    85,
+    60
+   ],
+   "share": 0.266,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    120,
+    53,
+    35
+   ],
+   "share": 0.209,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.086,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    141,
+    138,
+    138
+   ],
+   "share": 0.009,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    200,
+    200,
+    200
+   ],
+   "share": 0.001,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

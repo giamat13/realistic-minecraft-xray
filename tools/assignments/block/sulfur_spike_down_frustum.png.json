@@ -1,0 +1,62 @@
+{
+ "path": "block/sulfur_spike_down_frustum.png",
+ "depicts": "sulfur crystal spike, downward tapering frustum (hanging)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    213,
+    204,
+    109
+   ],
+   "share": 0.301,
+   "material": "sulfur",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    189,
+    185,
+    92
+   ],
+   "share": 0.242,
+   "material": "sulfur",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    181,
+    160,
+    101
+   ],
+   "share": 0.209,
+   "material": "sulfur",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    129,
+    78
+   ],
+   "share": 0.124,
+   "material": "sulfur",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    163,
+    148,
+    85
+   ],
+   "share": 0.124,
+   "material": "sulfur",
+   "thickness_cm": 40.0
+  }
+ ]
+}

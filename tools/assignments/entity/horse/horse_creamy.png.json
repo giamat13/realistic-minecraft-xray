@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_creamy.png",
+ "depicts": "creamy horse: cream-coloured hide over muscle, dark mane/hooves, pale cream hair highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    56,
+    14
+   ],
+   "share": 0.45,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    92,
+    43
+   ],
+   "share": 0.364,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    23,
+    7,
+    2
+   ],
+   "share": 0.164,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    142,
+    122
+   ],
+   "share": 0.01,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    224,
+    215
+   ],
+   "share": 0.007,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    247,
+    241
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

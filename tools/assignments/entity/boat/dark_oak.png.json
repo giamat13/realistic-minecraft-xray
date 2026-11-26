@@ -1,0 +1,73 @@
+{
+ "path": "entity/boat/dark_oak.png",
+ "depicts": "dark oak boat entity skin: dark brown dark-oak wood hull planks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    49,
+    24
+   ],
+   "share": 0.401,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    41,
+    18
+   ],
+   "share": 0.164,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    36,
+    17
+   ],
+   "share": 0.142,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    83,
+    56,
+    26
+   ],
+   "share": 0.121,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    48,
+    30,
+    14
+   ],
+   "share": 0.096,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    26,
+    12
+   ],
+   "share": 0.075,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

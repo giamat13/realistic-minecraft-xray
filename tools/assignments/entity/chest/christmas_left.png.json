@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest/christmas_left.png",
+ "depicts": "left half of Christmas chest model: green-painted wood with red and cream ribbon bands",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    21,
+    31,
+    2
+   ],
+   "share": 0.358,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    107,
+    19
+   ],
+   "share": 0.293,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    47,
+    70,
+    5
+   ],
+   "share": 0.282,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    227,
+    223,
+    191
+   ],
+   "share": 0.035,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    25,
+    18
+   ],
+   "share": 0.017,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    247,
+    244,
+    217
+   ],
+   "share": 0.015,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

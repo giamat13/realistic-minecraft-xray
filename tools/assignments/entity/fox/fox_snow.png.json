@@ -1,0 +1,73 @@
+{
+ "path": "entity/fox/fox_snow.png",
+ "depicts": "snow (arctic) fox (~25 cm body): white and blue-grey winter fur over skin, dark nose/eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    239,
+    229
+   ],
+   "share": 0.351,
+   "material": "keratin",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    251,
+    250,
+    240
+   ],
+   "share": 0.349,
+   "material": "keratin",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    183,
+    205,
+    189
+   ],
+   "share": 0.181,
+   "material": "keratin",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    158,
+    186,
+    182
+   ],
+   "share": 0.095,
+   "material": "keratin",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    49,
+    91,
+    95
+   ],
+   "share": 0.02,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    55,
+    58,
+    38
+   ],
+   "share": 0.004,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/sculk_shrieker_can_summon_inner_top.png",
+ "depicts": "sculk shrieker inner top with summon glyph (dark sculk with pale bone ring pattern; animated strip, frame 1)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    12,
+    21,
+    26
+   ],
+   "share": 0.586,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    5,
+    98,
+    93
+   ],
+   "share": 0.109,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.086,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    3,
+    65,
+    80
+   ],
+   "share": 0.078,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    196,
+    203,
+    166
+   ],
+   "share": 0.078,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    120,
+    135,
+    130
+   ],
+   "share": 0.062,
+   "material": "bone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

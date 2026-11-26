@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/llama_body/red.png",
+ "depicts": "Llama carpet (dyed red woven wool saddle blanket)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    38,
+    66
+   ],
+   "share": 0.5,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    188,
+    26,
+    49
+   ],
+   "share": 0.259,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    197,
+    0
+   ],
+   "share": 0.166,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    182,
+    0
+   ],
+   "share": 0.04,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    222,
+    53,
+    75
+   ],
+   "share": 0.035,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    213,
+    67,
+    48
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

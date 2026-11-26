@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest/ender.png",
+ "depicts": "Ender chest model: obsidian-like dark teal box with gold trim",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    12,
+    26,
+    32
+   ],
+   "share": 0.742,
+   "material": "obsidian",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    63,
+    64
+   ],
+   "share": 0.2,
+   "material": "obsidian",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    87,
+    117,
+    100
+   ],
+   "share": 0.041,
+   "material": "obsidian",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    223,
+    202,
+    67
+   ],
+   "share": 0.008,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    148,
+    40
+   ],
+   "share": 0.006,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    241,
+    243,
+    189
+   ],
+   "share": 0.003,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

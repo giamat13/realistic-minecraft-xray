@@ -1,0 +1,73 @@
+{
+ "path": "block/structure_block_load.png",
+ "depicts": "structure block load-mode face: dark casing with lavender load-arrow inlays",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    16,
+    16,
+    16
+   ],
+   "share": 0.32,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    29,
+    42
+   ],
+   "share": 0.312,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    150,
+    120,
+    150
+   ],
+   "share": 0.188,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    59,
+    64
+   ],
+   "share": 0.086,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    215,
+    189,
+    215
+   ],
+   "share": 0.047,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    185,
+    151,
+    185
+   ],
+   "share": 0.047,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  }
+ ]
+}

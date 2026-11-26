@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/llama_body/orange.png",
+ "depicts": "Llama carpet (dyed orange woven wool saddle blanket)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    147,
+    41
+   ],
+   "share": 0.451,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    146,
+    69
+   ],
+   "share": 0.243,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    210,
+    130
+   ],
+   "share": 0.126,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    159,
+    98
+   ],
+   "share": 0.07,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    224,
+    87
+   ],
+   "share": 0.063,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    216,
+    172
+   ],
+   "share": 0.047,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

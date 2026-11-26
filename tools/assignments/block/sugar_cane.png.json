@@ -1,0 +1,73 @@
+{
+ "path": "block/sugar_cane.png",
+ "depicts": "sugar cane plant: green jointed stalks with leaf tufts, sparse (45% transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    132,
+    171,
+    91
+   ],
+   "share": 0.454,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    170,
+    219,
+    116
+   ],
+   "share": 0.34,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    135,
+    71
+   ],
+   "share": 0.057,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    229,
+    239,
+    218
+   ],
+   "share": 0.057,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    193,
+    40
+   ],
+   "share": 0.057,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    145,
+    239,
+    50
+   ],
+   "share": 0.035,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/donkey_baby.png",
+ "depicts": "baby donkey: greyish-brown hide over muscle, dark mane and hooves, pale muzzle",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    107,
+    93
+   ],
+   "share": 0.598,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    94,
+    83,
+    71
+   ],
+   "share": 0.149,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    179,
+    165
+   ],
+   "share": 0.118,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    39,
+    39,
+    39
+   ],
+   "share": 0.076,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    21,
+    21,
+    21
+   ],
+   "share": 0.045,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    209,
+    205,
+    194
+   ],
+   "share": 0.014,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

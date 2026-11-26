@@ -1,0 +1,62 @@
+{
+ "path": "entity/fish/tropical_b_pattern_1.png",
+ "depicts": "tropical fish B pattern overlay 1: white paint markings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    220,
+    220,
+    220
+   ],
+   "share": 0.413,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.293,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    240,
+    240,
+    240
+   ],
+   "share": 0.24,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    253,
+    253
+   ],
+   "share": 0.053,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    237,
+    237,
+    237
+   ],
+   "share": 0.0,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

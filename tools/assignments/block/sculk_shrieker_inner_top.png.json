@@ -1,0 +1,73 @@
+{
+ "path": "block/sculk_shrieker_inner_top.png",
+ "depicts": "sculk shrieker inner top face (dark sculk with pale bone ring pattern; animated strip, frame 1)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    12,
+    19,
+    24
+   ],
+   "share": 0.586,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    1,
+    77,
+    85
+   ],
+   "share": 0.164,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    3,
+    59,
+    56
+   ],
+   "share": 0.109,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    196,
+    203,
+    166
+   ],
+   "share": 0.078,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    117,
+    123
+   ],
+   "share": 0.031,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    129,
+    153,
+    136
+   ],
+   "share": 0.031,
+   "material": "bone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

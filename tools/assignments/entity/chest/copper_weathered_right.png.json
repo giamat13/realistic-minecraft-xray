@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest/copper_weathered_right.png",
+ "depicts": "right half of weathered copper chest: olive-green patina mix, wood shadow, iron hardware",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    102,
+    127,
+    85
+   ],
+   "share": 0.495,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    107,
+    169,
+    127
+   ],
+   "share": 0.326,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    78,
+    42
+   ],
+   "share": 0.084,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.084,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    144,
+    136
+   ],
+   "share": 0.007,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    202,
+    202,
+    202
+   ],
+   "share": 0.003,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

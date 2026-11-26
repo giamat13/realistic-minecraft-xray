@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/llama_body/gray.png",
+ "depicts": "Llama carpet (dyed gray woven wool saddle blanket)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    61,
+    61,
+    61
+   ],
+   "share": 0.69,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    177,
+    58,
+    58
+   ],
+   "share": 0.107,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    64,
+    64
+   ],
+   "share": 0.086,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    113,
+    113,
+    113
+   ],
+   "share": 0.059,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    105,
+    105,
+    105
+   ],
+   "share": 0.059,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    66,
+    66
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

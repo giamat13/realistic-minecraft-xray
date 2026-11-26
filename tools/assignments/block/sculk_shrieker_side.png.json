@@ -1,0 +1,73 @@
+{
+ "path": "block/sculk_shrieker_side.png",
+ "depicts": "sculk shrieker side face (sculk with pale bone rim and cyan glow, partly open top)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    5,
+    53,
+    65
+   ],
+   "share": 0.351,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    194,
+    201,
+    163
+   ],
+   "share": 0.206,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    135,
+    152,
+    133
+   ],
+   "share": 0.201,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    16,
+    24,
+    30
+   ],
+   "share": 0.18,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    87,
+    108
+   ],
+   "share": 0.052,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.01,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  }
+ ]
+}

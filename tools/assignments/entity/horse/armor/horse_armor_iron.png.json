@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/armor/horse_armor_iron.png",
+ "depicts": "iron horse armor: grey iron plate barding over dark padding, steel outline",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    148,
+    148,
+    148
+   ],
+   "share": 0.403,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    115,
+    115
+   ],
+   "share": 0.243,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    16,
+    10,
+    10
+   ],
+   "share": 0.222,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    185,
+    185,
+    185
+   ],
+   "share": 0.058,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    29,
+    29,
+    29
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    70,
+    5,
+    5
+   ],
+   "share": 0.032,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

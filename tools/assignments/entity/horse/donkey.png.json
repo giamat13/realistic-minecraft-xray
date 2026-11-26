@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/donkey.png",
+ "depicts": "donkey: greyish-brown hide over muscle, dark mane and hooves, pale muzzle, brown leather saddle straps",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    126,
+    110,
+    95
+   ],
+   "share": 0.456,
+   "material": "muscle",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    78,
+    66
+   ],
+   "share": 0.264,
+   "material": "muscle",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    33,
+    32,
+    30
+   ],
+   "share": 0.163,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    178,
+    165
+   ],
+   "share": 0.083,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    161,
+    112,
+    36
+   ],
+   "share": 0.031,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    230,
+    228,
+    222
+   ],
+   "share": 0.002,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

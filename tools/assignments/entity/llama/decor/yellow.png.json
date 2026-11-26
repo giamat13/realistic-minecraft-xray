@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/decor/yellow.png",
+ "depicts": "llama saddle carpet (woven wool blanket decor, yellow base with pale-yellow and cream woven pattern)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    186,
+    68
+   ],
+   "share": 0.35,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    241,
+    228,
+    131
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    243,
+    222,
+    62
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    252,
+    251,
+    192
+   ],
+   "share": 0.114,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    241,
+    212,
+    87
+   ],
+   "share": 0.103,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    254,
+    220
+   ],
+   "share": 0.061,
+   "material": "wool",
+   "thickness_cm": 0.5
+  }
+ ]
+}

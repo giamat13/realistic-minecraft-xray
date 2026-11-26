@@ -1,0 +1,73 @@
+{
+ "path": "block/weeping_vines_plant.png",
+ "depicts": "weeping vines plant: thin red nether fungal vine stems and tips, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    99,
+    2,
+    0
+   ],
+   "share": 0.435,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    123,
+    0,
+    0
+   ],
+   "share": 0.261,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    52,
+    57
+   ],
+   "share": 0.13,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    36,
+    41
+   ],
+   "share": 0.096,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    101,
+    0
+   ],
+   "share": 0.043,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    24,
+    24
+   ],
+   "share": 0.035,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  }
+ ]
+}

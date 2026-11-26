@@ -1,0 +1,73 @@
+{
+ "path": "entity/boat/cherry.png",
+ "depicts": "cherry boat entity skin: light pink cherry wood hull planks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    183,
+    177
+   ],
+   "share": 0.342,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    194,
+    187
+   ],
+   "share": 0.223,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    168,
+    161
+   ],
+   "share": 0.142,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    231,
+    202,
+    197
+   ],
+   "share": 0.121,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    221,
+    157,
+    151
+   ],
+   "share": 0.096,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.075,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  }
+ ]
+}

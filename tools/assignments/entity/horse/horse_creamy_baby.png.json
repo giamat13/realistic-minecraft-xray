@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_creamy_baby.png",
+ "depicts": "baby creamy horse: cream hide over muscle, dark mane/hooves, pale hair highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    133,
+    89,
+    41
+   ],
+   "share": 0.397,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    103,
+    63,
+    17
+   ],
+   "share": 0.376,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    28,
+    11,
+    4
+   ],
+   "share": 0.11,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    37,
+    24
+   ],
+   "share": 0.077,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    146,
+    125
+   ],
+   "share": 0.034,
+   "material": "muscle",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    247,
+    241
+   ],
+   "share": 0.006,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

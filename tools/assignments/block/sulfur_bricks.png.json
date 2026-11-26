@@ -1,0 +1,73 @@
+{
+ "path": "block/sulfur_bricks.png",
+ "depicts": "sulfur brick block: yellow sulfur bricks with darker sulfur-cement mortar joints",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    187,
+    163,
+    90
+   ],
+   "share": 0.328,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    188,
+    96
+   ],
+   "share": 0.293,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    221,
+    222,
+    114
+   ],
+   "share": 0.109,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    147,
+    111,
+    76
+   ],
+   "share": 0.098,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    173,
+    148,
+    81
+   ],
+   "share": 0.09,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    159,
+    127,
+    79
+   ],
+   "share": 0.082,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

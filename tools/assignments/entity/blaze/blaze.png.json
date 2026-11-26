@@ -1,0 +1,73 @@
+{
+ "path": "entity/blaze/blaze.png",
+ "depicts": "blaze mob skin: fiery rods of hot magma-rock forming the elemental body with glowing yellow flame cores",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    123,
+    50,
+    0
+   ],
+   "share": 0.279,
+   "material": "magma_rock",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    251,
+    97
+   ],
+   "share": 0.27,
+   "material": "fire",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    254,
+    188,
+    25
+   ],
+   "share": 0.204,
+   "material": "fire",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    2,
+    1
+   ],
+   "share": 0.123,
+   "material": "magma_rock",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    194,
+    119,
+    0
+   ],
+   "share": 0.121,
+   "material": "magma_rock",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.004,
+   "material": "fire",
+   "thickness_cm": 10.0
+  }
+ ]
+}

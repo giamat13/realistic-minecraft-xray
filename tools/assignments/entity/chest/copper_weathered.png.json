@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest/copper_weathered.png",
+ "depicts": "weathered copper chest: olive-green mottled patina (malachite/oxide mix) over copper, wood shadow, iron hardware",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    127,
+    86
+   ],
+   "share": 0.481,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    170,
+    128
+   ],
+   "share": 0.377,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    75,
+    76,
+    42
+   ],
+   "share": 0.061,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.061,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    147,
+    142,
+    133
+   ],
+   "share": 0.018,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    201,
+    201,
+    201
+   ],
+   "share": 0.004,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

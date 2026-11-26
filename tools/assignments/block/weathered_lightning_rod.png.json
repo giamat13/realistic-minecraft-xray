@@ -1,0 +1,73 @@
+{
+ "path": "block/weathered_lightning_rod.png",
+ "depicts": "weathered lightning rod: thin copper rod with green patina, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    103,
+    91
+   ],
+   "share": 0.275,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    102,
+    169,
+    119
+   ],
+   "share": 0.275,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    123,
+    77
+   ],
+   "share": 0.15,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    151,
+    92
+   ],
+   "share": 0.15,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    122,
+    183,
+    153
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.025,
+   "material": "copper",
+   "thickness_cm": 2.0
+  }
+ ]
+}

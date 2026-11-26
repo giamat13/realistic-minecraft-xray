@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/white.png",
+ "depicts": "adult white cat UV map (duplicate layout of cat_white): white fur over skin, dark and pale-yellow and cyan eye regions, pink nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    245,
+    247
+   ],
+   "share": 0.69,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    205,
+    205,
+    205
+   ],
+   "share": 0.302,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    18,
+    25,
+    40
+   ],
+   "share": 0.003,
+   "material": "water",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    191,
+    122,
+    165
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    232,
+    232,
+    166
+   ],
+   "share": 0.001,
+   "material": "water",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    166,
+    229,
+    232
+   ],
+   "share": 0.001,
+   "material": "water",
+   "thickness_cm": 1.5
+  }
+ ]
+}

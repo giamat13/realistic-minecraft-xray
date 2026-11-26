@@ -1,0 +1,40 @@
+{
+ "path": "block/weeping_vines.png",
+ "depicts": "weeping vines: thin red nether fungal vines hanging, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    0,
+    0
+   ],
+   "share": 0.393,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    106,
+    4,
+    0
+   ],
+   "share": 0.321,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    123,
+    0,
+    0
+   ],
+   "share": 0.286,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  }
+ ]
+}

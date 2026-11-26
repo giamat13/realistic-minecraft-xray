@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/decor/lime.png",
+ "depicts": "llama saddle carpet (woven wool blanket decor, lime-green base with pale-green and gold woven pattern)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    151,
+    202,
+    110
+   ],
+   "share": 0.439,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    182,
+    217,
+    88
+   ],
+   "share": 0.271,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    192,
+    213,
+    136
+   ],
+   "share": 0.15,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    114,
+    181
+   ],
+   "share": 0.056,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    242,
+    209,
+    55
+   ],
+   "share": 0.056,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    126,
+    216,
+    238
+   ],
+   "share": 0.028,
+   "material": "wool",
+   "thickness_cm": 0.5
+  }
+ ]
+}

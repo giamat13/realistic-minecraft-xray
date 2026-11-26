@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest/normal_left.png",
+ "depicts": "left half of wooden chest: oak box with dark wood shadow and iron latch",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    157,
+    110,
+    37
+   ],
+   "share": 0.435,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    46,
+    28
+   ],
+   "share": 0.345,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    127,
+    94,
+    38
+   ],
+   "share": 0.125,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.086,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    142,
+    142,
+    142
+   ],
+   "share": 0.008,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    200,
+    200,
+    200
+   ],
+   "share": 0.001,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

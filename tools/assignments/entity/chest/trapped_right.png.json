@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest/trapped_right.png",
+ "depicts": "right half of trapped chest: oak box with dark wood shadow and iron latch",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    158,
+    110,
+    37
+   ],
+   "share": 0.431,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    46,
+    28
+   ],
+   "share": 0.343,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    128,
+    94,
+    38
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.086,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    141,
+    137,
+    136
+   ],
+   "share": 0.008,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    202,
+    202,
+    202
+   ],
+   "share": 0.003,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

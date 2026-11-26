@@ -1,0 +1,40 @@
+{
+ "path": "entity/fish/tropical_a_pattern_6.png",
+ "depicts": "tropical fish pattern overlay 6: white paint markings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    254,
+    254
+   ],
+   "share": 0.741,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    240,
+    240,
+    240
+   ],
+   "share": 0.259,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    251,
+    251,
+    251
+   ],
+   "share": 0.0,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

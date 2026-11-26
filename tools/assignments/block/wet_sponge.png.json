@@ -1,0 +1,51 @@
+{
+ "path": "block/wet_sponge.png",
+ "depicts": "wet sponge: sponge porous matrix, water-saturated (waterlogged pores not separately modelled)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    176,
+    191,
+    76
+   ],
+   "share": 0.379,
+   "material": "sponge",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    150,
+    168,
+    70
+   ],
+   "share": 0.242,
+   "material": "sponge",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    205,
+    206,
+    74
+   ],
+   "share": 0.227,
+   "material": "sponge",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    142,
+    141,
+    52
+   ],
+   "share": 0.152,
+   "material": "sponge",
+   "thickness_cm": 100.0
+  }
+ ]
+}

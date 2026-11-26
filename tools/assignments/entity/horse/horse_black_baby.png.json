@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_black_baby.png",
+ "depicts": "baby black horse: black hide over muscle, dark hooves and mane, steel highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    34,
+    41
+   ],
+   "share": 0.383,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    17,
+    19,
+    23
+   ],
+   "share": 0.371,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    4,
+    4,
+    6
+   ],
+   "share": 0.196,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.038,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.01,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

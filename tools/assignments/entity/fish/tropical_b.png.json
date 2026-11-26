@@ -1,0 +1,73 @@
+{
+ "path": "entity/fish/tropical_b.png",
+ "depicts": "tropical fish base B (greyscale tint layer, ~8 cm): muscle body with fin membrane, pale belly fat and eye",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    175,
+    175
+   ],
+   "share": 0.493,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    146,
+    146
+   ],
+   "share": 0.196,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.167,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.116,
+   "material": "fat",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.014,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    156,
+    156,
+    156
+   ],
+   "share": 0.014,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  }
+ ]
+}

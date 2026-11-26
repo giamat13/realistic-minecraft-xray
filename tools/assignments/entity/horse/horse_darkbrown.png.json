@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_darkbrown.png",
+ "depicts": "dark-brown horse: very dark brown hide over muscle, black mane/hooves, steel bit highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    21,
+    12
+   ],
+   "share": 0.529,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    20,
+    10,
+    4
+   ],
+   "share": 0.46,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    48,
+    47,
+    50
+   ],
+   "share": 0.005,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.003,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.002,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

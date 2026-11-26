@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/happy_ghast_body/light_gray_harness.png",
+ "depicts": "happy ghast light gray harness: brown leather straps with grey-dyed leather and steel buckle fittings and a brass clasp",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    63,
+    32
+   ],
+   "share": 0.548,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    113,
+    110
+   ],
+   "share": 0.266,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    161,
+    157
+   ],
+   "share": 0.137,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    207,
+    220,
+    222
+   ],
+   "share": 0.023,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    243,
+    186,
+    26
+   ],
+   "share": 0.014,
+   "material": "brass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    221,
+    123,
+    20
+   ],
+   "share": 0.012,
+   "material": "copper",
+   "thickness_cm": 0.2
+  }
+ ]
+}

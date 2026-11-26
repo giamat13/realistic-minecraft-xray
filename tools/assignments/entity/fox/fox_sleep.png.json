@@ -1,0 +1,73 @@
+{
+ "path": "entity/fox/fox_sleep.png",
+ "depicts": "sleeping red fox (~25 cm body): orange fur over skin, white chest fur, dark nose/eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    204,
+    106,
+    35
+   ],
+   "share": 0.66,
+   "material": "keratin",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    182,
+    159
+   ],
+   "share": 0.107,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    243,
+    235,
+    232
+   ],
+   "share": 0.086,
+   "material": "keratin",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    143,
+    131
+   ],
+   "share": 0.058,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    6,
+    4,
+    14
+   ],
+   "share": 0.044,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    63,
+    38
+   ],
+   "share": 0.044,
+   "material": "keratin",
+   "thickness_cm": 15.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/armor/horse_armor_leather.png",
+ "depicts": "leather horse armor: brown dyed leather saddle-cloth with grey metal buckles and studs",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    29,
+    18
+   ],
+   "share": 0.309,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    233,
+    233,
+    233
+   ],
+   "share": 0.259,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.238,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    61,
+    14
+   ],
+   "share": 0.134,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    90,
+    90
+   ],
+   "share": 0.041,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    154,
+    154,
+    154
+   ],
+   "share": 0.019,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

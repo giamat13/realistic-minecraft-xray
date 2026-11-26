@@ -1,0 +1,73 @@
+{
+ "path": "block/structure_block_data.png",
+ "depicts": "structure block data-mode face: dark purple-black casing with lavender data-panel inlays",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    40,
+    32,
+    43
+   ],
+   "share": 0.375,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    16,
+    16
+   ],
+   "share": 0.273,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    191,
+    157,
+    191
+   ],
+   "share": 0.141,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    120,
+    150
+   ],
+   "share": 0.109,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    215,
+    186,
+    215
+   ],
+   "share": 0.062,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    82,
+    68,
+    82
+   ],
+   "share": 0.039,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  }
+ ]
+}

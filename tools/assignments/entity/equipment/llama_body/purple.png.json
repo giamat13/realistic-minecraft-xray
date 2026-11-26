@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/llama_body/purple.png",
+ "depicts": "Llama carpet (dyed purple woven wool saddle blanket)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    17,
+    4,
+    22
+   ],
+   "share": 0.593,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    4,
+    34
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    89,
+    10,
+    82
+   ],
+   "share": 0.131,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    61,
+    7,
+    55
+   ],
+   "share": 0.093,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    215,
+    89,
+    201
+   ],
+   "share": 0.009,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    172,
+    23,
+    156
+   ],
+   "share": 0.005,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

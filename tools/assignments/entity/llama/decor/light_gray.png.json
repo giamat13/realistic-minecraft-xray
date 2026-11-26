@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/decor/light_gray.png",
+ "depicts": "llama saddle carpet (woven wool blanket decor, maroon-brown base with warm gray and light-gray woven pattern and blue-gray accents)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    47,
+    58
+   ],
+   "share": 0.475,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    138,
+    123,
+    126
+   ],
+   "share": 0.182,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    175,
+    164,
+    166
+   ],
+   "share": 0.146,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    203,
+    203,
+    203
+   ],
+   "share": 0.101,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    132,
+    161,
+    190
+   ],
+   "share": 0.081,
+   "material": "wool",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.015,
+   "material": "wool",
+   "thickness_cm": 0.5
+  }
+ ]
+}

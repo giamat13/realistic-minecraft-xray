@@ -1,0 +1,73 @@
+{
+ "path": "entity/boat/bamboo.png",
+ "depicts": "bamboo raft entity skin: pale tan bamboo culm planks lashed together",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    219,
+    195,
+    94
+   ],
+   "share": 0.354,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    174,
+    76
+   ],
+   "share": 0.353,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    130,
+    61
+   ],
+   "share": 0.138,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    76,
+    86,
+    38
+   ],
+   "share": 0.07,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    102,
+    107,
+    48
+   ],
+   "share": 0.06,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    217,
+    126
+   ],
+   "share": 0.025,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/fox/fox_sleep_baby.png",
+ "depicts": "sleeping baby red fox (~12 cm body): orange fur over skin, white chest fur, dark nose/eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    127,
+    38
+   ],
+   "share": 0.367,
+   "material": "keratin",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    96,
+    33
+   ],
+   "share": 0.328,
+   "material": "keratin",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    196,
+    162,
+    145
+   ],
+   "share": 0.145,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    243,
+    235,
+    233
+   ],
+   "share": 0.094,
+   "material": "keratin",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    6,
+    4,
+    14
+   ],
+   "share": 0.059,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    86,
+    63,
+    52
+   ],
+   "share": 0.008,
+   "material": "keratin",
+   "thickness_cm": 6.0
+  }
+ ]
+}

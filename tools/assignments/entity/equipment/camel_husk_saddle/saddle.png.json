@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/camel_husk_saddle/saddle.png",
+ "depicts": "camel husk saddle equipment: brown leather saddle body with stitching, grey steel buckles and straps",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    120,
+    61,
+    27
+   ],
+   "share": 0.455,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    166,
+    86,
+    39
+   ],
+   "share": 0.234,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    39,
+    16
+   ],
+   "share": 0.194,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.059,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.034,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    189,
+    112,
+    69
+   ],
+   "share": 0.024,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/humanoid_baby/turtle_scute.png",
+ "depicts": "Baby turtle scute armour layer (keratin turtle shell plates, green and brown)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    126,
+    66
+   ],
+   "share": 0.524,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    63,
+    164,
+    66
+   ],
+   "share": 0.159,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    34,
+    97,
+    50
+   ],
+   "share": 0.146,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    191,
+    74
+   ],
+   "share": 0.137,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    94,
+    48,
+    18
+   ],
+   "share": 0.017,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    109,
+    63,
+    33
+   ],
+   "share": 0.017,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

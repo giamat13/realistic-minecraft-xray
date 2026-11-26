@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/armor/horse_armor_diamond.png",
+ "depicts": "diamond horse armor: teal diamond plate barding with gold trim (diamond plates ~0.3 cm, gold trim, steel outline)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    204,
+    187
+   ],
+   "share": 0.506,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    154,
+    247,
+    227
+   ],
+   "share": 0.137,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    13,
+    13,
+    13
+   ],
+   "share": 0.122,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    110,
+    109,
+    64
+   ],
+   "share": 0.114,
+   "material": "gold",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    178,
+    174,
+    2
+   ],
+   "share": 0.075,
+   "material": "gold",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.046,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  }
+ ]
+}

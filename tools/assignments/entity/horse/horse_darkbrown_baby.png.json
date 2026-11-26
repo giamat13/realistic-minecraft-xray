@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_darkbrown_baby.png",
+ "depicts": "baby dark-brown horse: very dark brown hide over muscle, black mane/hooves, steel highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    21,
+    10,
+    4
+   ],
+   "share": 0.564,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    22,
+    13
+   ],
+   "share": 0.383,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.031,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.018,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.003,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

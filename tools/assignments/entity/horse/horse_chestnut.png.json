@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_chestnut.png",
+ "depicts": "chestnut horse: reddish-chestnut hide over muscle, pale tan blaze and lower legs, dark mane/hooves",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    83,
+    32,
+    19
+   ],
+   "share": 0.43,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    128,
+    61,
+    22
+   ],
+   "share": 0.315,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    214,
+    174,
+    124
+   ],
+   "share": 0.11,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    49,
+    20,
+    12
+   ],
+   "share": 0.107,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    169,
+    128,
+    81
+   ],
+   "share": 0.036,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

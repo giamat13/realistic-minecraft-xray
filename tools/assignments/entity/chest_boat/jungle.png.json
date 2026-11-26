@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest_boat/jungle.png",
+ "depicts": "jungle boat with chest: light jungle wood planks, dark shading, iron latch",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    108,
+    64
+   ],
+   "share": 0.557,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    186,
+    137,
+    102
+   ],
+   "share": 0.25,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    55,
+    38
+   ],
+   "share": 0.17,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    5,
+    4,
+    4
+   ],
+   "share": 0.017,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    140,
+    140,
+    140
+   ],
+   "share": 0.005,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    201,
+    201,
+    201
+   ],
+   "share": 0.001,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

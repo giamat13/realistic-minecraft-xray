@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/llama_body/pink.png",
+ "depicts": "Llama carpet (dyed pink woven wool saddle blanket)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    181,
+    232
+   ],
+   "share": 0.425,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    146,
+    229
+   ],
+   "share": 0.421,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    246,
+    211,
+    253
+   ],
+   "share": 0.049,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    154,
+    245,
+    254
+   ],
+   "share": 0.035,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    173,
+    251,
+    188
+   ],
+   "share": 0.035,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    247,
+    170
+   ],
+   "share": 0.035,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

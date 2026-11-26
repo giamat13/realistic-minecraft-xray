@@ -1,0 +1,73 @@
+{
+ "path": "entity/chest/copper_oxidized.png",
+ "depicts": "oxidised (verdigris green) copper chest: malachite-like copper patina over copper sheet, wood shadow, iron hardware",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    180,
+    148
+   ],
+   "share": 0.444,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    140,
+    118
+   ],
+   "share": 0.249,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    53,
+    100,
+    82
+   ],
+   "share": 0.227,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.061,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    141,
+    138,
+    137
+   ],
+   "share": 0.016,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    201,
+    201,
+    201
+   ],
+   "share": 0.004,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

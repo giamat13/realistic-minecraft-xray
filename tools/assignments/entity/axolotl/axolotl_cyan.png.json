@@ -1,0 +1,73 @@
+{
+ "path": "entity/axolotl/axolotl_cyan.png",
+ "depicts": "cyan axolotl mob (salamander): pale cyan skin, pink and purple feathery gills and dark eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    229,
+    254
+   ],
+   "share": 0.611,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    129,
+    186,
+    235
+   ],
+   "share": 0.273,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    216,
+    99,
+    150
+   ],
+   "share": 0.082,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    135,
+    200
+   ],
+   "share": 0.02,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    120,
+    109,
+    202
+   ],
+   "share": 0.008,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    58,
+    0,
+    108
+   ],
+   "share": 0.006,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

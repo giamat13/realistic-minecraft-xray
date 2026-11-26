@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/llama_body/magenta.png",
+ "depicts": "Llama carpet (dyed magenta woven wool saddle blanket)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    63,
+    157
+   ],
+   "share": 0.475,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    246,
+    149,
+    212
+   ],
+   "share": 0.278,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    248,
+    202,
+    117
+   ],
+   "share": 0.093,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    247,
+    187,
+    77
+   ],
+   "share": 0.088,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    190,
+    241,
+    167
+   ],
+   "share": 0.066,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    206,
+    123,
+    162
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

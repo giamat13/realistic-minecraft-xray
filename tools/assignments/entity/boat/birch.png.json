@@ -1,0 +1,73 @@
+{
+ "path": "entity/boat/birch.png",
+ "depicts": "birch boat entity skin: pale birch wood hull planks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    176,
+    120
+   ],
+   "share": 0.342,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    215,
+    193,
+    133
+   ],
+   "share": 0.223,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    159,
+    118
+   ],
+   "share": 0.142,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    203,
+    141
+   ],
+   "share": 0.121,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    165,
+    148,
+    103
+   ],
+   "share": 0.096,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    158,
+    139,
+    97
+   ],
+   "share": 0.075,
+   "material": "planks",
+   "thickness_cm": 2.0
+  }
+ ]
+}

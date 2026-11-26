@@ -1,0 +1,73 @@
+{
+ "path": "entity/cow/cow_cold_baby.png",
+ "depicts": "baby cold cow: small brown-orange hide over muscle, pink muzzle, dark brown hooves",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    159,
+    91,
+    46
+   ],
+   "share": 0.629,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    201,
+    125,
+    74
+   ],
+   "share": 0.187,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    98,
+    66,
+    50
+   ],
+   "share": 0.159,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    130,
+    99,
+    90
+   ],
+   "share": 0.017,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    140,
+    140
+   ],
+   "share": 0.004,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.004,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

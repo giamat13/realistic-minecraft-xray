@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_black.png",
+ "depicts": "black horse: black hide over muscle, black mane/tail/hooves, steel bit highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    35,
+    42
+   ],
+   "share": 0.397,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    9,
+    10,
+    12
+   ],
+   "share": 0.306,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    21,
+    23,
+    27
+   ],
+   "share": 0.291,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.003,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.002,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

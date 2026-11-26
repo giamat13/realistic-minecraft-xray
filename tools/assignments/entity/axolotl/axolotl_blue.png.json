@@ -1,0 +1,73 @@
+{
+ "path": "entity/axolotl/axolotl_blue.png",
+ "depicts": "blue axolotl mob (salamander): blue-violet skin, feathery orange-red gills and dark eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    170,
+    254
+   ],
+   "share": 0.604,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    101,
+    102,
+    229
+   ],
+   "share": 0.181,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    136,
+    242
+   ],
+   "share": 0.157,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    132,
+    43
+   ],
+   "share": 0.027,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    180,
+    91,
+    76
+   ],
+   "share": 0.021,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    57,
+    22,
+    125
+   ],
+   "share": 0.009,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

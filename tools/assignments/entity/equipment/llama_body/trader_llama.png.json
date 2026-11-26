@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/llama_body/trader_llama.png",
+ "depicts": "Llama carpet (trader llama (striped wool with gold and dark red trim))",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    63,
+    91,
+    140
+   ],
+   "share": 0.383,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    41,
+    64,
+    102
+   ],
+   "share": 0.201,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    125,
+    37
+   ],
+   "share": 0.164,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    191,
+    39
+   ],
+   "share": 0.136,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    16,
+    0
+   ],
+   "share": 0.117,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    110,
+    96,
+    85
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

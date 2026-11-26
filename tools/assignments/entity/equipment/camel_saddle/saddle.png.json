@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/camel_saddle/saddle.png",
+ "depicts": "camel saddle equipment: orange-brown leather saddle with stitching and greyish metal fittings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    67,
+    29
+   ],
+   "share": 0.455,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    223,
+    108,
+    51
+   ],
+   "share": 0.258,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    33,
+    12
+   ],
+   "share": 0.194,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    127,
+    111,
+    99
+   ],
+   "share": 0.039,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    72,
+    67
+   ],
+   "share": 0.034,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    176,
+    153,
+    136
+   ],
+   "share": 0.02,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}
