@@ -4,7 +4,7 @@
 **Name:** Realistic X-Ray
 **Slug:** realistic-xray
 **Summary (max 256 chars):** A black-and-white X-ray pack that behaves like a real radiograph: dense materials (ores, metals) glow bright and opaque, light ones (stone, dirt, wood, leaves, water) fade away. Covers blocks, items, GUI and mobs.
-**Categories:** Utility, Realistic (also: Vanilla-like is NOT applicable)
+**Categories:** Utility, Realistic
 **Environment:** Client
 **License:** choose carefully, see "Licensing" below
 **Source:** https://github.com/giamat13/realistic-minecraft-xray
@@ -25,7 +25,7 @@ Real X-ray: density decides how a block looks.
 - Mixed textures are split by region: for example the grass strip on a grass block side is see-through while the dirt below is denser. Ores show a faint host rock with bright metal blobs.
 - Covers every block, item, GUI element, mob, particle, sky texture and effect in each supported version.
 
-**1.26.1+ (26.1 and newer):** true partial translucency.
+**26.1 and newer:** true partial translucency.
 **1.19.4 to 1.21.11:** resource packs cannot make a block translucent, so light blocks disappear entirely (classic x-ray) and dense ones stay solid.
 
 On 1.19.4 to 1.20.1 the game shows an "incompatible pack format" warning; the pack still loads.
