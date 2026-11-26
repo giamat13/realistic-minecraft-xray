@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_hanging_sign.png",
+ "depicts": "bamboo hanging sign: bamboo board (2px ~12.5cm) with blue-grey iron chains and hooks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    220,
+    196,
+    96
+   ],
+   "share": 0.421,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    189,
+    173,
+    75
+   ],
+   "share": 0.345,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    50,
+    57,
+    73
+   ],
+   "share": 0.112,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    82,
+    35
+   ],
+   "share": 0.044,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    76,
+    83,
+    105
+   ],
+   "share": 0.04,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    240,
+    219,
+    130
+   ],
+   "share": 0.038,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  }
+ ]
+}

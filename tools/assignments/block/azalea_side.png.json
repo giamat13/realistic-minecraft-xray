@@ -1,0 +1,73 @@
+{
+ "path": "block/azalea_side.png",
+ "depicts": "azalea bush block side: dense green leaf block with twig gaps",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.266,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.247,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.162,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    100,
+    114,
+    51
+   ],
+   "share": 0.149,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    94,
+    39
+   ],
+   "share": 0.143,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    66,
+    85,
+    45
+   ],
+   "share": 0.032,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

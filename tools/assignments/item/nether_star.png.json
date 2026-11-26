@@ -1,0 +1,73 @@
+{
+ "path": "item/nether_star.png",
+ "depicts": "nether star item: glowing crystalline star with bright yellow core",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    119,
+    119
+   ],
+   "share": 0.346,
+   "material": "quartz",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    195,
+    209,
+    209
+   ],
+   "share": 0.272,
+   "material": "quartz",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    136,
+    164,
+    164
+   ],
+   "share": 0.222,
+   "material": "quartz",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    255,
+    168
+   ],
+   "share": 0.123,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    224,
+    226,
+    119
+   ],
+   "share": 0.025,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    210,
+    210,
+    0
+   ],
+   "share": 0.012,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  }
+ ]
+}

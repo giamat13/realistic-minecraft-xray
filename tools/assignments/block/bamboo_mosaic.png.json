@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_mosaic.png",
+ "depicts": "bamboo mosaic block: pressed bamboo slats in a mosaic pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    150,
+    132,
+    62
+   ],
+   "share": 0.25,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    178,
+    77
+   ],
+   "share": 0.23,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    170,
+    74
+   ],
+   "share": 0.195,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    217,
+    194,
+    94
+   ],
+   "share": 0.117,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    187,
+    80
+   ],
+   "share": 0.105,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    227,
+    204,
+    106
+   ],
+   "share": 0.102,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  }
+ ]
+}

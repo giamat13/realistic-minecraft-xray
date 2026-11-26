@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_bounce.png",
+ "depicts": "music disc, dark vinyl with beige/tan/cream printed label glyph",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    54,
+    54
+   ],
+   "share": 0.492,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    91,
+    80
+   ],
+   "share": 0.203,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    198,
+    142
+   ],
+   "share": 0.11,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    154,
+    141,
+    101
+   ],
+   "share": 0.11,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    242,
+    255,
+    239
+   ],
+   "share": 0.059,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    248,
+    175
+   ],
+   "share": 0.025,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

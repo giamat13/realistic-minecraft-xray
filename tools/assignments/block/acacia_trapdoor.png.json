@@ -1,0 +1,73 @@
+{
+ "path": "block/acacia_trapdoor.png",
+ "depicts": "acacia trapdoor (3px ~18.75cm wood panel) with iron hinge/handle bits",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    137,
+    72,
+    40
+   ],
+   "share": 0.423,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    192,
+    109,
+    63
+   ],
+   "share": 0.281,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    89,
+    48
+   ],
+   "share": 0.235,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.031,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    114,
+    114,
+    114
+   ],
+   "share": 0.02,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.01,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_pickaxe.png",
+ "depicts": "netherite pickaxe item: netherite head over a dark wood handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    21,
+    23
+   ],
+   "share": 0.515,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    48,
+    63
+   ],
+   "share": 0.221,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    134,
+    123,
+    134
+   ],
+   "share": 0.088,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    109,
+    63,
+    61
+   ],
+   "share": 0.088,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    86,
+    93
+   ],
+   "share": 0.059,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    112,
+    103,
+    112
+   ],
+   "share": 0.029,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  }
+ ]
+}

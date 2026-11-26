@@ -1,0 +1,73 @@
+{
+ "path": "block/acacia_shelf.png",
+ "depicts": "acacia wooden shelf block (solid wood cabinet/shelf faces)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    149,
+    85,
+    53
+   ],
+   "share": 0.492,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    175,
+    93,
+    60
+   ],
+   "share": 0.208,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    194,
+    98,
+    64
+   ],
+   "share": 0.126,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    77,
+    46
+   ],
+   "share": 0.062,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    125,
+    70,
+    40
+   ],
+   "share": 0.062,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    108,
+    59,
+    31
+   ],
+   "share": 0.049,
+   "material": "planks",
+   "thickness_cm": 100.0
+  }
+ ]
+}

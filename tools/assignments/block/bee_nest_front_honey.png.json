@@ -1,0 +1,73 @@
+{
+ "path": "block/bee_nest_front_honey.png",
+ "depicts": "bee nest front face with honey-filled honeycomb cells and wooden frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    199,
+    147,
+    85
+   ],
+   "share": 0.43,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    82,
+    56
+   ],
+   "share": 0.234,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    248,
+    206,
+    62
+   ],
+   "share": 0.203,
+   "material": "honey",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    251,
+    220,
+    117
+   ],
+   "share": 0.094,
+   "material": "honey",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    157,
+    22
+   ],
+   "share": 0.031,
+   "material": "honey",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    249,
+    207
+   ],
+   "share": 0.008,
+   "material": "honey",
+   "thickness_cm": 100.0
+  }
+ ]
+}

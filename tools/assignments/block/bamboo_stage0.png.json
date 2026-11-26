@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_stage0.png",
+ "depicts": "bamboo sapling stage 0: tiny sprout with thin culm and small leaves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    81,
+    27
+   ],
+   "share": 0.491,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    36,
+    16
+   ],
+   "share": 0.218,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    151,
+    143,
+    84
+   ],
+   "share": 0.182,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    78,
+    148,
+    13
+   ],
+   "share": 0.055,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    124,
+    116,
+    58
+   ],
+   "share": 0.036,
+   "material": "bamboo",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    105,
+    165,
+    53
+   ],
+   "share": 0.018,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  }
+ ]
+}

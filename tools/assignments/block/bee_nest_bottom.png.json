@@ -1,0 +1,62 @@
+{
+ "path": "block/bee_nest_bottom.png",
+ "depicts": "bee nest bottom face: wooden frame rim with pale honeycomb wax cells",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    85,
+    57
+   ],
+   "share": 0.422,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    200,
+    166,
+    113
+   ],
+   "share": 0.305,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    188,
+    152,
+    109
+   ],
+   "share": 0.238,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    162,
+    129,
+    102
+   ],
+   "share": 0.035,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    161,
+    127,
+    88
+   ],
+   "share": 0.0,
+   "material": "wax",
+   "thickness_cm": 100.0
+  }
+ ]
+}

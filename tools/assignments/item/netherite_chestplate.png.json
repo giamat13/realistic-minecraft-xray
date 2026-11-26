@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_chestplate.png",
+ "depicts": "netherite chestplate armor item, dark netherite plate with metallic highlights",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    50,
+    52
+   ],
+   "share": 0.232,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    36,
+    31,
+    32
+   ],
+   "share": 0.225,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    65,
+    67
+   ],
+   "share": 0.188,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    23,
+    17,
+    17
+   ],
+   "share": 0.167,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    86,
+    93
+   ],
+   "share": 0.116,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    118,
+    106,
+    118
+   ],
+   "share": 0.072,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  }
+ ]
+}

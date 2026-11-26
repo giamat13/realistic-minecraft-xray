@@ -1,0 +1,73 @@
+{
+ "path": "block/acacia_log.png",
+ "depicts": "acacia log side, rough bark with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    98,
+    89
+   ],
+   "share": 0.422,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    123,
+    115,
+    104
+   ],
+   "share": 0.164,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    91,
+    85,
+    77
+   ],
+   "share": 0.148,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    83,
+    73
+   ],
+   "share": 0.145,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    80,
+    75,
+    64
+   ],
+   "share": 0.074,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    141,
+    132,
+    119
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

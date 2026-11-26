@@ -1,0 +1,62 @@
+{
+ "path": "item/orange_bundle_open_back.png",
+ "depicts": "open orange bundle, back side: dyed orange leather sack with dark interior",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    145,
+    62,
+    2
+   ],
+   "share": 0.38,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    170,
+    74,
+    4
+   ],
+   "share": 0.225,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    193,
+    89,
+    7
+   ],
+   "share": 0.169,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    225,
+    111,
+    15
+   ],
+   "share": 0.141,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    251,
+    147,
+    32
+   ],
+   "share": 0.085,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

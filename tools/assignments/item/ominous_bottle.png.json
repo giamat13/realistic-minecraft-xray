@@ -1,0 +1,73 @@
+{
+ "path": "item/ominous_bottle.png",
+ "depicts": "ominous bottle item: glass bottle with cork and dark red-pink liquid",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    60,
+    85,
+    94
+   ],
+   "share": 0.487,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    25,
+    22,
+    36
+   ],
+   "share": 0.276,
+   "material": "potion_liquid",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    200,
+    213
+   ],
+   "share": 0.118,
+   "material": "potion_liquid",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    118,
+    138
+   ],
+   "share": 0.066,
+   "material": "potion_liquid",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    0,
+    72
+   ],
+   "share": 0.026,
+   "material": "potion_liquid",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    0,
+    47
+   ],
+   "share": 0.026,
+   "material": "potion_liquid",
+   "thickness_cm": 1.5
+  }
+ ]
+}

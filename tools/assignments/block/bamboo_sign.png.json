@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_sign.png",
+ "depicts": "bamboo standing sign: bamboo board (2px ~12.5cm) with bamboo post",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    217,
+    194,
+    94
+   ],
+   "share": 0.238,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    185,
+    169,
+    75
+   ],
+   "share": 0.233,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    204,
+    106
+   ],
+   "share": 0.214,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    199,
+    178,
+    77
+   ],
+   "share": 0.2,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    187,
+    80
+   ],
+   "share": 0.091,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    217,
+    126
+   ],
+   "share": 0.024,
+   "material": "bamboo",
+   "thickness_cm": 12.5
+  }
+ ]
+}

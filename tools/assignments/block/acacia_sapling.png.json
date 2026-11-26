@@ -1,0 +1,73 @@
+{
+ "path": "block/acacia_sapling.png",
+ "depicts": "acacia sapling plant: small leaves on thin trunk",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    146,
+    30
+   ],
+   "share": 0.333,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    94,
+    18
+   ],
+   "share": 0.207,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    126,
+    23
+   ],
+   "share": 0.198,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    142,
+    111,
+    31
+   ],
+   "share": 0.135,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    104,
+    78,
+    8
+   ],
+   "share": 0.126,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    119,
+    118,
+    24
+   ],
+   "share": 0.0,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  }
+ ]
+}

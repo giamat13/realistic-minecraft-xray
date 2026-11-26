@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_precipice.png",
+ "depicts": "music disc, grey vinyl with salmon, mint and teal printed label",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    115,
+    112
+   ],
+   "share": 0.508,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    61,
+    62,
+    53
+   ],
+   "share": 0.297,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 2,
+   "rgb": [
+    210,
+    130,
+    111
+   ],
+   "share": 0.093,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    114,
+    187,
+    154
+   ],
+   "share": 0.076,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    76,
+    148,
+    132
+   ],
+   "share": 0.017,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    163,
+    143
+   ],
+   "share": 0.008,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

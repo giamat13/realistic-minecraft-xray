@@ -1,0 +1,73 @@
+{
+ "path": "item/oak_sign.png",
+ "depicts": "oak sign item: oak plank sign board with sign post",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    174,
+    143,
+    85
+   ],
+   "share": 0.371,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    117,
+    92,
+    53
+   ],
+   "share": 0.235,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    149,
+    116,
+    65
+   ],
+   "share": 0.144,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    95,
+    73,
+    38
+   ],
+   "share": 0.114,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    188,
+    152,
+    96
+   ],
+   "share": 0.091,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    56,
+    43,
+    24
+   ],
+   "share": 0.045,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/mutton.png",
+ "depicts": "raw mutton (lamb/sheep meat chop) item, red muscle with pale fat highlights and dark outline",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    50,
+    42
+   ],
+   "share": 0.198,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    226,
+    104,
+    96
+   ],
+   "share": 0.179,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    150,
+    33,
+    27
+   ],
+   "share": 0.17,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    48,
+    42
+   ],
+   "share": 0.17,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    232,
+    138,
+    130
+   ],
+   "share": 0.142,
+   "material": "fat",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    71,
+    10,
+    6
+   ],
+   "share": 0.142,
+   "material": "muscle",
+   "thickness_cm": 0.5
+  }
+ ]
+}

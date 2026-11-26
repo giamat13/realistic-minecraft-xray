@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_ingot.png",
+ "depicts": "netherite ingot item: dark metallic netherite bar",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    45,
+    36,
+    37
+   ],
+   "share": 0.281,
+   "material": "netherite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    69,
+    72
+   ],
+   "share": 0.23,
+   "material": "netherite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    54,
+    54
+   ],
+   "share": 0.207,
+   "material": "netherite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    17,
+    17,
+    17
+   ],
+   "share": 0.096,
+   "material": "netherite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    87,
+    90
+   ],
+   "share": 0.096,
+   "material": "netherite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    113,
+    115
+   ],
+   "share": 0.089,
+   "material": "netherite",
+   "thickness_cm": 1.5
+  }
+ ]
+}

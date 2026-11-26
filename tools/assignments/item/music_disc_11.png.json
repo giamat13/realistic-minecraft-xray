@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_11.png",
+ "depicts": "music disc (vinyl record) with dark grey print glyph, black vinyl body",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    20,
+    20
+   ],
+   "share": 0.293,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.241,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    52,
+    52
+   ],
+   "share": 0.181,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 3,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.138,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 4,
+   "rgb": [
+    38,
+    38,
+    38
+   ],
+   "share": 0.138,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 5,
+   "rgb": [
+    136,
+    136,
+    136
+   ],
+   "share": 0.009,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  }
+ ]
+}

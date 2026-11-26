@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_spear_in_hand.png",
+ "depicts": "netherite spear held in hand (32x32): netherite spearhead, dark wood shaft",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    35,
+    16,
+    18
+   ],
+   "share": 0.295,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    47,
+    35,
+    36
+   ],
+   "share": 0.238,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    70,
+    49,
+    62
+   ],
+   "share": 0.205,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    106,
+    61,
+    59
+   ],
+   "share": 0.139,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    89,
+    80,
+    88
+   ],
+   "share": 0.074,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    123,
+    134
+   ],
+   "share": 0.049,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  }
+ ]
+}

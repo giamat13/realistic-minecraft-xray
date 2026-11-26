@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_relic.png",
+ "depicts": "music disc, brown vinyl with light-cyan and blue printed label",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    123,
+    69,
+    57
+   ],
+   "share": 0.483,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    63,
+    33,
+    26
+   ],
+   "share": 0.288,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 2,
+   "rgb": [
+    154,
+    109,
+    83
+   ],
+   "share": 0.144,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 3,
+   "rgb": [
+    136,
+    230,
+    255
+   ],
+   "share": 0.042,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    49,
+    174,
+    254
+   ],
+   "share": 0.025,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    31,
+    123,
+    214
+   ],
+   "share": 0.017,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

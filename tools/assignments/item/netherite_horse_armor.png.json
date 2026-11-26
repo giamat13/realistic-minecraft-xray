@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_horse_armor.png",
+ "depicts": "netherite horse armor item: dark netherite plates with orange/gold ornament trim",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    61,
+    69
+   ],
+   "share": 0.292,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    50,
+    39,
+    39
+   ],
+   "share": 0.281,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    99,
+    90,
+    99
+   ],
+   "share": 0.202,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    80,
+    0
+   ],
+   "share": 0.101,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    209,
+    125,
+    0
+   ],
+   "share": 0.079,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    41,
+    6
+   ],
+   "share": 0.045,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

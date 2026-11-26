@@ -1,0 +1,73 @@
+{
+ "path": "item/oak_hanging_sign.png",
+ "depicts": "oak hanging sign item: oak plank sign board with iron chains",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    179,
+    146,
+    88
+   ],
+   "share": 0.439,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    138,
+    107,
+    60
+   ],
+   "share": 0.209,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.189,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    50,
+    50,
+    50
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

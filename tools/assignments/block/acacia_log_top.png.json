@@ -1,0 +1,73 @@
+{
+ "path": "block/acacia_log_top.png",
+ "depicts": "acacia log cross-section: orange heartwood rings and grey-brown bark ring",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    173,
+    93,
+    50
+   ],
+   "share": 0.273,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    155,
+    82,
+    45
+   ],
+   "share": 0.266,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    100,
+    56
+   ],
+   "share": 0.227,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    84,
+    79,
+    71
+   ],
+   "share": 0.125,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    74,
+    70,
+    61
+   ],
+   "share": 0.059,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    105,
+    98,
+    89
+   ],
+   "share": 0.051,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

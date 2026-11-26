@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_fence.png",
+ "depicts": "bamboo fence post and rail (thin bamboo culm sticks, ~20cm along beam)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    190,
+    172,
+    76
+   ],
+   "share": 0.415,
+   "material": "bamboo",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    215,
+    192,
+    89
+   ],
+   "share": 0.246,
+   "material": "bamboo",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    204,
+    106
+   ],
+   "share": 0.24,
+   "material": "bamboo",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    240,
+    218,
+    128
+   ],
+   "share": 0.07,
+   "material": "bamboo",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    121,
+    107,
+    54
+   ],
+   "share": 0.018,
+   "material": "bamboo",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    153,
+    135,
+    65
+   ],
+   "share": 0.012,
+   "material": "bamboo",
+   "thickness_cm": 20.0
+  }
+ ]
+}

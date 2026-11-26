@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_pigstep.png",
+ "depicts": "music disc, dark red vinyl body with yellow/gold/orange printed label",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    39,
+    39
+   ],
+   "share": 0.653,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    137,
+    72,
+    64
+   ],
+   "share": 0.153,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 2,
+   "rgb": [
+    31,
+    7,
+    7
+   ],
+   "share": 0.11,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    245,
+    95
+   ],
+   "share": 0.042,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    249,
+    177,
+    34
+   ],
+   "share": 0.025,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    233,
+    125,
+    21
+   ],
+   "share": 0.017,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

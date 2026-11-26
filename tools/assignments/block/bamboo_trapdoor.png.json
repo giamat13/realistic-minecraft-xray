@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_trapdoor.png",
+ "depicts": "bamboo trapdoor (3px ~18cm bamboo panel) with small dark hinge/handle bits",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    194,
+    177,
+    77
+   ],
+   "share": 0.41,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    223,
+    200,
+    102
+   ],
+   "share": 0.316,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    169,
+    152,
+    70
+   ],
+   "share": 0.127,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    135,
+    65
+   ],
+   "share": 0.094,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    217,
+    126
+   ],
+   "share": 0.047,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    248,
+    231,
+    162
+   ],
+   "share": 0.005,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  }
+ ]
+}

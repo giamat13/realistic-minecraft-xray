@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_lava_chicken.png",
+ "depicts": "music disc, grey vinyl with dark red-brown body and red/white chicken print",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    67,
+    67
+   ],
+   "share": 0.568,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    52,
+    29,
+    29
+   ],
+   "share": 0.237,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    29,
+    29
+   ],
+   "share": 0.085,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    181,
+    181
+   ],
+   "share": 0.051,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    249
+   ],
+   "share": 0.042,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    246,
+    133,
+    133
+   ],
+   "share": 0.017,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

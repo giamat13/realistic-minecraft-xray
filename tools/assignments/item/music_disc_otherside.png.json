@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_otherside.png",
+ "depicts": "music disc, grey vinyl with dark body and green/blue/teal printed label",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    69,
+    68
+   ],
+   "share": 0.525,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    30,
+    30,
+    30
+   ],
+   "share": 0.407,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    209,
+    78
+   ],
+   "share": 0.025,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    61,
+    173,
+    245
+   ],
+   "share": 0.025,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    30,
+    139,
+    140
+   ],
+   "share": 0.008,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    50,
+    164,
+    87
+   ],
+   "share": 0.008,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

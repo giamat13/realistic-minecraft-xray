@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_scrap.png",
+ "depicts": "netherite scrap item: rough brown-red ancient-debris nugget chunk",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    71,
+    64
+   ],
+   "share": 0.273,
+   "material": "ancient_debris",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    34,
+    24
+   ],
+   "share": 0.248,
+   "material": "ancient_debris",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    36,
+    17,
+    11
+   ],
+   "share": 0.207,
+   "material": "ancient_debris",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    52,
+    44
+   ],
+   "share": 0.198,
+   "material": "ancient_debris",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    96,
+    89
+   ],
+   "share": 0.041,
+   "material": "ancient_debris",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    149,
+    134,
+    126
+   ],
+   "share": 0.033,
+   "material": "ancient_debris",
+   "thickness_cm": 1.0
+  }
+ ]
+}

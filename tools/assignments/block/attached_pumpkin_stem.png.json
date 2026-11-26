@@ -1,0 +1,73 @@
+{
+ "path": "block/attached_pumpkin_stem.png",
+ "depicts": "pumpkin stem attached to a block: thin plant stalk",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    140,
+    140
+   ],
+   "share": 0.394,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    82,
+    82
+   ],
+   "share": 0.212,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    179,
+    179
+   ],
+   "share": 0.121,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    118,
+    118
+   ],
+   "share": 0.121,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    195,
+    195,
+    195
+   ],
+   "share": 0.091,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    210,
+    210,
+    210
+   ],
+   "share": 0.061,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

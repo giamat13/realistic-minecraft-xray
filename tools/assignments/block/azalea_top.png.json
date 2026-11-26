@@ -1,0 +1,62 @@
+{
+ "path": "block/azalea_top.png",
+ "depicts": "azalea bush block top: dense green leaves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    114,
+    51
+   ],
+   "share": 0.289,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.273,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.262,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.168,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    94,
+    39
+   ],
+   "share": 0.008,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

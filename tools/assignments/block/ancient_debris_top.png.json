@@ -1,0 +1,73 @@
+{
+ "path": "block/ancient_debris_top.png",
+ "depicts": "ancient debris block top face (same rock, dark bronze-brown)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    58,
+    27,
+    19
+   ],
+   "share": 0.371,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    149,
+    134,
+    126
+   ],
+   "share": 0.191,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    126,
+    96,
+    89
+   ],
+   "share": 0.164,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    44,
+    35
+   ],
+   "share": 0.109,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    101,
+    71,
+    64
+   ],
+   "share": 0.09,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    93,
+    52,
+    44
+   ],
+   "share": 0.074,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  }
+ ]
+}

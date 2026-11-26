@@ -1,0 +1,73 @@
+{
+ "path": "item/oak_chest_boat.png",
+ "depicts": "oak chest boat item: oak planks hull with a wooden chest on top",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    60,
+    40
+   ],
+   "share": 0.316,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    191,
+    156,
+    105
+   ],
+   "share": 0.19,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    50,
+    35,
+    17
+   ],
+   "share": 0.167,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    158,
+    111,
+    34
+   ],
+   "share": 0.144,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    92,
+    46
+   ],
+   "share": 0.109,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    159,
+    132,
+    77
+   ],
+   "share": 0.075,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  }
+ ]
+}

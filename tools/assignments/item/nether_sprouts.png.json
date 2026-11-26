@@ -1,0 +1,40 @@
+{
+ "path": "item/nether_sprouts.png",
+ "depicts": "nether sprouts (plant) item: thin teal-green sprouts",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    17,
+    155,
+    133
+   ],
+   "share": 0.387,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    22,
+    126,
+    134
+   ],
+   "share": 0.355,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    180,
+    133
+   ],
+   "share": 0.258,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

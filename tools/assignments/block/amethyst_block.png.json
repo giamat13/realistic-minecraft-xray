@@ -1,0 +1,73 @@
+{
+ "path": "block/amethyst_block.png",
+ "depicts": "block of amethyst (purple quartz-variety crystal mineral), solid block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    98,
+    68,
+    157
+   ],
+   "share": 0.297,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    91,
+    181
+   ],
+   "share": 0.293,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    141,
+    106,
+    204
+   ],
+   "share": 0.184,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    166,
+    120,
+    241
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    200,
+    144,
+    240
+   ],
+   "share": 0.066,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    203,
+    230
+   ],
+   "share": 0.035,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  }
+ ]
+}

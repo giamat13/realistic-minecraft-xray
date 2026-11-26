@@ -1,0 +1,73 @@
+{
+ "path": "block/acacia_planks.png",
+ "depicts": "acacia wood planks block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    99,
+    55
+   ],
+   "share": 0.215,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    73,
+    41
+   ],
+   "share": 0.207,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    173,
+    93,
+    50
+   ],
+   "share": 0.188,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    86,
+    48
+   ],
+   "share": 0.176,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    194,
+    109,
+    63
+   ],
+   "share": 0.145,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    153,
+    80,
+    43
+   ],
+   "share": 0.07,
+   "material": "planks",
+   "thickness_cm": 100.0
+  }
+ ]
+}

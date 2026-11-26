@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_nautilus_armor.png",
+ "depicts": "netherite nautilus armor item: dark netherite plate with shell-pattern metallic highlights",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    30,
+    32
+   ],
+   "share": 0.303,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    29,
+    13,
+    15
+   ],
+   "share": 0.23,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    68,
+    78
+   ],
+   "share": 0.184,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    57,
+    59
+   ],
+   "share": 0.105,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    52,
+    44,
+    46
+   ],
+   "share": 0.092,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    112,
+    103,
+    112
+   ],
+   "share": 0.086,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  }
+ ]
+}

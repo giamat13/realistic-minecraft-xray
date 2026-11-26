@@ -1,0 +1,73 @@
+{
+ "path": "block/bed_head_north.png",
+ "depicts": "bed headboard: wooden board with white pillow cloth and a thin iron rail",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    166,
+    130,
+    75
+   ],
+   "share": 0.318,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    211,
+    220,
+    220
+   ],
+   "share": 0.212,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    88,
+    54
+   ],
+   "share": 0.197,
+   "material": "wood_dark",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    236,
+    236
+   ],
+   "share": 0.152,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.121,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    175,
+    162,
+    138
+   ],
+   "share": 0.0,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  }
+ ]
+}

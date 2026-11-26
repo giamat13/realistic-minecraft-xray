@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_leggings.png",
+ "depicts": "netherite leggings armor item, dark netherite plate with metallic highlights",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    68,
+    71
+   ],
+   "share": 0.356,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    17,
+    17
+   ],
+   "share": 0.308,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    36,
+    31,
+    32
+   ],
+   "share": 0.173,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    53,
+    45,
+    45
+   ],
+   "share": 0.077,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    86,
+    93
+   ],
+   "share": 0.067,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    118,
+    106,
+    118
+   ],
+   "share": 0.019,
+   "material": "netherite",
+   "thickness_cm": 0.4
+  }
+ ]
+}

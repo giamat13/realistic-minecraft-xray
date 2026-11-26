@@ -1,0 +1,62 @@
+{
+ "path": "block/basalt_side.png",
+ "depicts": "basalt block side (dark columnar volcanic rock with grey streaks)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    75,
+    79
+   ],
+   "share": 0.371,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    92,
+    92
+   ],
+   "share": 0.293,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    59,
+    72
+   ],
+   "share": 0.152,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    50,
+    51,
+    61
+   ],
+   "share": 0.137,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    27,
+    38,
+    50
+   ],
+   "share": 0.047,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

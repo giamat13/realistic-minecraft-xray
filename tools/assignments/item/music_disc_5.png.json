@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_5.png",
+ "depicts": "music disc, dark vinyl body with teal/cyan printed label",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    54,
+    61
+   ],
+   "share": 0.339,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    89,
+    89
+   ],
+   "share": 0.297,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 2,
+   "rgb": [
+    14,
+    24,
+    30
+   ],
+   "share": 0.195,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 3,
+   "rgb": [
+    4,
+    81,
+    86
+   ],
+   "share": 0.144,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.017,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.008,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

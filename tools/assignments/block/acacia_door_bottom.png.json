@@ -1,0 +1,73 @@
+{
+ "path": "block/acacia_door_bottom.png",
+ "depicts": "acacia wood door lower half (panels, grain) with small iron hinge/handle pieces; door is 3px (~18.75cm) thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    91,
+    56
+   ],
+   "share": 0.418,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    68,
+    38
+   ],
+   "share": 0.283,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    201,
+    117,
+    77
+   ],
+   "share": 0.277,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.011,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.005,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    86,
+    86,
+    86
+   ],
+   "share": 0.005,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/amethyst_cluster.png",
+ "depicts": "amethyst crystal cluster: sprouting hexagonal crystal shards, ~20cm path",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    202,
+    157,
+    243
+   ],
+   "share": 0.314,
+   "material": "amethyst",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    91,
+    181
+   ],
+   "share": 0.236,
+   "material": "amethyst",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    141,
+    106,
+    204
+   ],
+   "share": 0.193,
+   "material": "amethyst",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    100,
+    71,
+    158
+   ],
+   "share": 0.136,
+   "material": "amethyst",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    203,
+    230
+   ],
+   "share": 0.093,
+   "material": "amethyst",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    253,
+    213
+   ],
+   "share": 0.029,
+   "material": "amethyst",
+   "thickness_cm": 20.0
+  }
+ ]
+}

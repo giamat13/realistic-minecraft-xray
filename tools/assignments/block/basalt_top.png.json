@@ -1,0 +1,73 @@
+{
+ "path": "block/basalt_top.png",
+ "depicts": "basalt block top: dark volcanic rock cross-section",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    92,
+    92
+   ],
+   "share": 0.312,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    57,
+    69
+   ],
+   "share": 0.262,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    116,
+    116,
+    116
+   ],
+   "share": 0.203,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    79,
+    75,
+    79
+   ],
+   "share": 0.105,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    27,
+    38,
+    50
+   ],
+   "share": 0.098,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    137,
+    137,
+    137
+   ],
+   "share": 0.02,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

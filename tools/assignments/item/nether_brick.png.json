@@ -1,0 +1,73 @@
+{
+ "path": "item/nether_brick.png",
+ "depicts": "nether brick item: dark red-brown fired brick block item",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    38,
+    44
+   ],
+   "share": 0.311,
+   "material": "brick",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    30,
+    36
+   ],
+   "share": 0.23,
+   "material": "brick",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    48,
+    24,
+    28
+   ],
+   "share": 0.178,
+   "material": "brick",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    46,
+    52
+   ],
+   "share": 0.119,
+   "material": "brick",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    30,
+    16,
+    19
+   ],
+   "share": 0.096,
+   "material": "brick",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    55,
+    25,
+    32
+   ],
+   "share": 0.067,
+   "material": "brick",
+   "thickness_cm": 3.0
+  }
+ ]
+}

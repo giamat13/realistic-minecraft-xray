@@ -1,0 +1,62 @@
+{
+ "path": "block/bamboo_large_leaves.png",
+ "depicts": "bamboo large leaves: thin broad green leaf plant",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    137,
+    25
+   ],
+   "share": 0.263,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    55,
+    90,
+    21
+   ],
+   "share": 0.247,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    161,
+    36
+   ],
+   "share": 0.21,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    47,
+    69,
+    23
+   ],
+   "share": 0.151,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    118,
+    22
+   ],
+   "share": 0.129,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  }
+ ]
+}

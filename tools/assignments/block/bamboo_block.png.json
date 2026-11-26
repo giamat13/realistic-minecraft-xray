@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_block.png",
+ "depicts": "bamboo block side: bamboo culm (green-yellow stalk) block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    132,
+    147,
+    57
+   ],
+   "share": 0.355,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    148,
+    171,
+    68
+   ],
+   "share": 0.234,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    96,
+    108,
+    45
+   ],
+   "share": 0.223,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    114,
+    132,
+    52
+   ],
+   "share": 0.141,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    173,
+    190,
+    77
+   ],
+   "share": 0.031,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    185,
+    219,
+    95
+   ],
+   "share": 0.016,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  }
+ ]
+}

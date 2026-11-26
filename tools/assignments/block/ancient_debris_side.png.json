@@ -1,0 +1,73 @@
+{
+ "path": "block/ancient_debris_side.png",
+ "depicts": "ancient debris block side: dark netherite-precursor metal ore rock with lighter flecks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    52,
+    44
+   ],
+   "share": 0.277,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    101,
+    71,
+    64
+   ],
+   "share": 0.266,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    44,
+    35
+   ],
+   "share": 0.156,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    28,
+    19
+   ],
+   "share": 0.125,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    96,
+    89
+   ],
+   "share": 0.09,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    149,
+    134,
+    126
+   ],
+   "share": 0.086,
+   "material": "ancient_debris",
+   "thickness_cm": 100.0
+  }
+ ]
+}

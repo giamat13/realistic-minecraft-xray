@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_block_top.png",
+ "depicts": "bamboo block top: cut bamboo culm cross-section",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    138,
+    138,
+    60
+   ],
+   "share": 0.375,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    166,
+    161,
+    85
+   ],
+   "share": 0.219,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    83,
+    97,
+    26
+   ],
+   "share": 0.188,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    187,
+    90
+   ],
+   "share": 0.109,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    100,
+    111,
+    46
+   ],
+   "share": 0.062,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    193,
+    196,
+    79
+   ],
+   "share": 0.047,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  }
+ ]
+}

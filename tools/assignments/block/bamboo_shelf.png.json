@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_shelf.png",
+ "depicts": "bamboo shelf block (pressed bamboo cabinet with compartments)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    152,
+    70
+   ],
+   "share": 0.32,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    184,
+    170,
+    74
+   ],
+   "share": 0.19,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    150,
+    132,
+    63
+   ],
+   "share": 0.174,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    223,
+    200,
+    101
+   ],
+   "share": 0.17,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    202,
+    180,
+    78
+   ],
+   "share": 0.144,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    217,
+    126
+   ],
+   "share": 0.002,
+   "material": "bamboo",
+   "thickness_cm": 100.0
+  }
+ ]
+}

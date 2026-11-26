@@ -1,0 +1,73 @@
+{
+ "path": "item/name_tag.png",
+ "depicts": "name tag item: tan paper label with brown cord and silver metal ring",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    182,
+    166,
+    128
+   ],
+   "share": 0.222,
+   "material": "paper",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    81,
+    50
+   ],
+   "share": 0.222,
+   "material": "leather",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    199,
+    140
+   ],
+   "share": 0.213,
+   "material": "paper",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 3,
+   "rgb": [
+    113,
+    118,
+    114
+   ],
+   "share": 0.157,
+   "material": "iron",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    177,
+    193,
+    193
+   ],
+   "share": 0.102,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    239,
+    239
+   ],
+   "share": 0.083,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

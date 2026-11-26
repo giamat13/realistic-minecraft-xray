@@ -1,0 +1,73 @@
+{
+ "path": "block/acacia_sign.png",
+ "depicts": "acacia standing sign: wooden board (2px ~12.5cm thick) with wooden post",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    167,
+    90,
+    49
+   ],
+   "share": 0.315,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    185,
+    101,
+    57
+   ],
+   "share": 0.289,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    143,
+    75,
+    42
+   ],
+   "share": 0.262,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    98,
+    89
+   ],
+   "share": 0.055,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    87,
+    82,
+    72
+   ],
+   "share": 0.053,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    129,
+    120,
+    109
+   ],
+   "share": 0.026,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "block/acacia_leaves.png",
+ "depicts": "acacia tree leaves (sparse foliage block, grey texture tinted in game)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    158,
+    158,
+    158
+   ],
+   "share": 0.284,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    181,
+    181,
+    181
+   ],
+   "share": 0.27,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    136,
+    135,
+    135
+   ],
+   "share": 0.264,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    109,
+    106,
+    106
+   ],
+   "share": 0.182,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    149,
+    149,
+    149
+   ],
+   "share": 0.0,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

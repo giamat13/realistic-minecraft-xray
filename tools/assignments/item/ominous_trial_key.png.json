@@ -1,0 +1,73 @@
+{
+ "path": "item/ominous_trial_key.png",
+ "depicts": "ominous trial key item: patinated copper-green key with red gem accent",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    82,
+    72
+   ],
+   "share": 0.364,
+   "material": "malachite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    48,
+    50,
+    46
+   ],
+   "share": 0.31,
+   "material": "iron",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    95,
+    130,
+    115
+   ],
+   "share": 0.186,
+   "material": "copper",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    192,
+    161
+   ],
+   "share": 0.093,
+   "material": "malachite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    154,
+    30,
+    51
+   ],
+   "share": 0.031,
+   "material": "cinnabar",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    222,
+    64,
+    88
+   ],
+   "share": 0.016,
+   "material": "cinnabar",
+   "thickness_cm": 0.3
+  }
+ ]
+}

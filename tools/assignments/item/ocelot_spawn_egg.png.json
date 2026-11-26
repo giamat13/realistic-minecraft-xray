@@ -1,0 +1,73 @@
+{
+ "path": "item/ocelot_spawn_egg.png",
+ "depicts": "ocelot spawn egg item: egg-shaped body in tan and brown spotted pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    100,
+    53
+   ],
+   "share": 0.324,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    219,
+    115
+   ],
+   "share": 0.206,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    212,
+    159,
+    90
+   ],
+   "share": 0.196,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    219,
+    166
+   ],
+   "share": 0.176,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    63,
+    32
+   ],
+   "share": 0.049,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    251,
+    245
+   ],
+   "share": 0.049,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

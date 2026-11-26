@@ -1,0 +1,51 @@
+{
+ "path": "block/attached_melon_stem.png",
+ "depicts": "melon stem attached to a block: thin green-grey plant stalk",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    141,
+    139
+   ],
+   "share": 0.455,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    97,
+    98
+   ],
+   "share": 0.273,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    198,
+    197
+   ],
+   "share": 0.152,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    178,
+    180
+   ],
+   "share": 0.121,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

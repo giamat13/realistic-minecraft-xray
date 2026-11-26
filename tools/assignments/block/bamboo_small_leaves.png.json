@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_small_leaves.png",
+ "depicts": "small bamboo leaves sprite cluster: thin green leaves on sprigs",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    69,
+    23
+   ],
+   "share": 0.253,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    103,
+    161,
+    36
+   ],
+   "share": 0.241,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    137,
+    25
+   ],
+   "share": 0.229,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    90,
+    21
+   ],
+   "share": 0.108,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    118,
+    22
+   ],
+   "share": 0.096,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    43,
+    62,
+    22
+   ],
+   "share": 0.072,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  }
+ ]
+}

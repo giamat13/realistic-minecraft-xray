@@ -1,0 +1,73 @@
+{
+ "path": "item/oak_door.png",
+ "depicts": "oak door item: oak wood door panels with iron hinge/handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    159,
+    132,
+    77
+   ],
+   "share": 0.578,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    105,
+    84,
+    51
+   ],
+   "share": 0.172,
+   "material": "wood_dark",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.138,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    116,
+    65
+   ],
+   "share": 0.069,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    111,
+    122
+   ],
+   "share": 0.034,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    128,
+    139,
+    149
+   ],
+   "share": 0.009,
+   "material": "steel",
+   "thickness_cm": 0.2
+  }
+ ]
+}

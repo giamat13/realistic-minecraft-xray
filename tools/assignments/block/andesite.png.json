@@ -1,0 +1,73 @@
+{
+ "path": "block/andesite.png",
+ "depicts": "andesite stone block (grey igneous rock)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    138,
+    138,
+    142
+   ],
+   "share": 0.348,
+   "material": "andesite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    127,
+    127
+   ],
+   "share": 0.215,
+   "material": "andesite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    156,
+    156
+   ],
+   "share": 0.195,
+   "material": "andesite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    116,
+    116
+   ],
+   "share": 0.145,
+   "material": "andesite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    170,
+    154
+   ],
+   "share": 0.055,
+   "material": "andesite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.043,
+   "material": "andesite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

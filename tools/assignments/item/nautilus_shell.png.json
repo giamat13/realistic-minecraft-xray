@@ -1,0 +1,73 @@
+{
+ "path": "item/nautilus_shell.png",
+ "depicts": "nautilus shell item, calcium carbonate (aragonite-type) nacreous shell in brown/cream/rust tones",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    163,
+    125,
+    102
+   ],
+   "share": 0.38,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    101,
+    79,
+    60
+   ],
+   "share": 0.203,
+   "material": "calcite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    186,
+    173,
+    150
+   ],
+   "share": 0.184,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    204,
+    195
+   ],
+   "share": 0.152,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    161,
+    69,
+    47
+   ],
+   "share": 0.044,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    202,
+    117,
+    72
+   ],
+   "share": 0.038,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  }
+ ]
+}

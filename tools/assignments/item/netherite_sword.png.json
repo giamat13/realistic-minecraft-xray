@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_sword.png",
+ "depicts": "netherite sword item: netherite blade with dark wood grip and guard",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    50,
+    66
+   ],
+   "share": 0.417,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    34,
+    16,
+    18
+   ],
+   "share": 0.274,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    104,
+    96,
+    104
+   ],
+   "share": 0.119,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    49,
+    38,
+    38
+   ],
+   "share": 0.107,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    134,
+    123,
+    134
+   ],
+   "share": 0.071,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    69,
+    67
+   ],
+   "share": 0.012,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

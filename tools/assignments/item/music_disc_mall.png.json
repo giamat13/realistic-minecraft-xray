@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_mall.png",
+ "depicts": "music disc, black vinyl with lavender and violet printed label",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.39,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    35,
+    35,
+    35
+   ],
+   "share": 0.297,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.119,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 3,
+   "rgb": [
+    17,
+    17,
+    17
+   ],
+   "share": 0.11,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 4,
+   "rgb": [
+    154,
+    117,
+    255
+   ],
+   "share": 0.068,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    72,
+    0,
+    255
+   ],
+   "share": 0.017,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

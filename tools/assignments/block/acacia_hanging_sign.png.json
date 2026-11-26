@@ -1,0 +1,73 @@
+{
+ "path": "block/acacia_hanging_sign.png",
+ "depicts": "acacia hanging sign: wooden board (2px ~12.5cm thick) with blue-grey iron chains and hooks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    163,
+    88,
+    57
+   ],
+   "share": 0.426,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    182,
+    94,
+    61
+   ],
+   "share": 0.422,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    62,
+    68,
+    83
+   ],
+   "share": 0.06,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.052,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    80,
+    101
+   ],
+   "share": 0.033,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    100,
+    124
+   ],
+   "share": 0.006,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

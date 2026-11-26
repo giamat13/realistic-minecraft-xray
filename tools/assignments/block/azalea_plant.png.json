@@ -1,0 +1,73 @@
+{
+ "path": "block/azalea_plant.png",
+ "depicts": "azalea shrub plant: green leafy tufts on brown twigs (potted-style plant)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    88,
+    109,
+    47
+   ],
+   "share": 0.363,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    139,
+    47
+   ],
+   "share": 0.337,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    92,
+    40
+   ],
+   "share": 0.179,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    72,
+    52,
+    18
+   ],
+   "share": 0.084,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    106,
+    82,
+    39
+   ],
+   "share": 0.021,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    68,
+    28
+   ],
+   "share": 0.016,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  }
+ ]
+}

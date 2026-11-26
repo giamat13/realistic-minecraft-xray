@@ -1,0 +1,73 @@
+{
+ "path": "block/beacon.png",
+ "depicts": "beacon block: transparent glowing cyan glass-like cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    197,
+    186
+   ],
+   "share": 0.359,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    204,
+    244,
+    246
+   ],
+   "share": 0.195,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    213,
+    204
+   ],
+   "share": 0.188,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    255,
+    255
+   ],
+   "share": 0.133,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    111,
+    227,
+    220
+   ],
+   "share": 0.094,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    156,
+    242,
+    237
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

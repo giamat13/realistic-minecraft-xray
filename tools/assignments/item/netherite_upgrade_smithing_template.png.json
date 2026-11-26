@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_upgrade_smithing_template.png",
+ "depicts": "netherite upgrade smithing template: dark red-brown stone plate with cyan diamond emblem",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    108,
+    45,
+    45
+   ],
+   "share": 0.431,
+   "material": "netherrack",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    16,
+    16
+   ],
+   "share": 0.292,
+   "material": "netherrack",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    66,
+    66
+   ],
+   "share": 0.153,
+   "material": "netherrack",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    154,
+    184
+   ],
+   "share": 0.056,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    75,
+    201,
+    201
+   ],
+   "share": 0.049,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    232,
+    232
+   ],
+   "share": 0.021,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  }
+ ]
+}

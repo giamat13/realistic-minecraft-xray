@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_stalk.png",
+ "depicts": "bamboo stalk segment (culm with leaf nodes on the sides)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    87,
+    139,
+    5
+   ],
+   "share": 0.676,
+   "material": "bamboo",
+   "thickness_cm": 37.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    104,
+    17
+   ],
+   "share": 0.129,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    141,
+    194,
+    79
+   ],
+   "share": 0.109,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    151,
+    209,
+    85
+   ],
+   "share": 0.047,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    152,
+    22
+   ],
+   "share": 0.031,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    121,
+    168,
+    66
+   ],
+   "share": 0.008,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  }
+ ]
+}

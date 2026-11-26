@@ -1,0 +1,73 @@
+{
+ "path": "block/bamboo_door_top.png",
+ "depicts": "bamboo door upper half: bamboo culm panels (3px ~18cm thick)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    142,
+    67
+   ],
+   "share": 0.37,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    174,
+    76
+   ],
+   "share": 0.255,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    191,
+    89
+   ],
+   "share": 0.192,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    227,
+    204,
+    106
+   ],
+   "share": 0.159,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    217,
+    126
+   ],
+   "share": 0.019,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    248,
+    231,
+    162
+   ],
+   "share": 0.005,
+   "material": "bamboo",
+   "thickness_cm": 18.0
+  }
+ ]
+}

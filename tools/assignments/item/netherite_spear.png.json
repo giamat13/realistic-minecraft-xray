@@ -1,0 +1,73 @@
+{
+ "path": "item/netherite_spear.png",
+ "depicts": "netherite spear item: netherite spearhead with dark wooden shaft",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    39,
+    21,
+    23
+   ],
+   "share": 0.378,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    46,
+    57
+   ],
+   "share": 0.351,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    82,
+    90
+   ],
+   "share": 0.108,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    134,
+    123,
+    134
+   ],
+   "share": 0.081,
+   "material": "netherite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    69,
+    67
+   ],
+   "share": 0.068,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    52,
+    50
+   ],
+   "share": 0.014,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

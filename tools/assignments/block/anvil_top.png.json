@@ -1,0 +1,62 @@
+{
+ "path": "block/anvil_top.png",
+ "depicts": "anvil top face: cast iron anvil top with transparent corners",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    82,
+    82
+   ],
+   "share": 0.325,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.287,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    66,
+    66,
+    66
+   ],
+   "share": 0.231,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    61,
+    61,
+    61
+   ],
+   "share": 0.119,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    56,
+    56,
+    56
+   ],
+   "share": 0.037,
+   "material": "iron",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/music_disc_tears.png",
+ "depicts": "music disc, light grey vinyl with pale and dark teal printed label",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    236,
+    235,
+    235
+   ],
+   "share": 0.508,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.288,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    136,
+    136
+   ],
+   "share": 0.11,
+   "material": "pvc",
+   "thickness_cm": 0.12
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    195,
+    195
+   ],
+   "share": 0.068,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    181,
+    219,
+    219
+   ],
+   "share": 0.017,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    87,
+    120,
+    120
+   ],
+   "share": 0.008,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

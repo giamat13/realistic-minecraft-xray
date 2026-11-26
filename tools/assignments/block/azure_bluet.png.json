@@ -1,0 +1,73 @@
+{
+ "path": "block/azure_bluet.png",
+ "depicts": "azure bluet flower: small white four-petal head with yellow centre on green stem and leaves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.233,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    247,
+    247,
+    247
+   ],
+   "share": 0.209,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    150,
+    44
+   ],
+   "share": 0.209,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    232,
+    232
+   ],
+   "share": 0.186,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    236,
+    79
+   ],
+   "share": 0.163,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    169,
+    205,
+    127
+   ],
+   "share": 0.0,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  }
+ ]
+}
