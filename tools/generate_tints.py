@@ -2,10 +2,9 @@
 
 An X-ray does not see dye, so every item tint becomes white and the physics-rendered texture shows
 as it is. Dyed equipment worn by an entity takes its colour from the item and is grayed by shaders.
-Usage: python3 tools/generate_tints.py <26.2 client.jar>"""
+Usage: python3 tools/generate_tints.py <client.jar> <overlay directory>"""
 import json, sys, zipfile, pathlib, shutil
 
-OVERLAY = pathlib.Path("overlay_26_2")
 DIRS = ("assets/minecraft/items/", "assets/minecraft/equipment/")
 WHITE = -1
 
@@ -28,8 +27,9 @@ def walk(node):
     return n
 
 def main():
+    overlay = pathlib.Path(sys.argv[2])
     for d in DIRS:
-        shutil.rmtree(OVERLAY / d, ignore_errors=True)
+        shutil.rmtree(overlay / d, ignore_errors=True)
     files = changes = 0
     with zipfile.ZipFile(sys.argv[1]) as z:
         for name in z.namelist():
@@ -38,7 +38,7 @@ def main():
             data = json.loads(z.read(name))
             n = walk(data)
             if n:
-                p = OVERLAY / name
+                p = overlay / name
                 p.parent.mkdir(parents=True, exist_ok=True)
                 p.write_text(json.dumps(data, indent=2))
                 files += 1

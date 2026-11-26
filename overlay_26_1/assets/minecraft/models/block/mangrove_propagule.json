@@ -52,7 +52,10 @@
           ],
           "texture": "#sapling"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "leaves",
@@ -95,7 +98,10 @@
           ],
           "texture": "#sapling"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "hypocotyl",
@@ -138,7 +144,10 @@
           ],
           "texture": "#sapling"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "hypocotyl",
@@ -181,7 +190,10 @@
           ],
           "texture": "#sapling"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ]
 }

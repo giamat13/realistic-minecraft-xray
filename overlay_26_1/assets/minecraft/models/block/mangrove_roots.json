@@ -50,7 +50,10 @@
           ],
           "texture": "#side"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -82,7 +85,10 @@
           ],
           "texture": "#side"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -116,7 +122,10 @@
           "texture": "#xray_mangrove_roots_top_d0",
           "cullface": "up"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -150,7 +159,10 @@
           "texture": "#xray_mangrove_roots_top_d0",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -184,7 +196,10 @@
           "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "north"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -218,7 +233,10 @@
           "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "south"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -252,7 +270,10 @@
           "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "west"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -286,7 +307,11 @@
           "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

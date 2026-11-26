@@ -35,8 +35,7 @@
             16,
             16
           ],
-          "texture": "#line",
-          "tintindex": 0
+          "texture": "#line"
         },
         "down": {
           "uv": [
@@ -45,10 +44,11 @@
             16,
             0
           ],
-          "texture": "#line",
-          "tintindex": 0
+          "texture": "#line"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -81,7 +81,9 @@
           ],
           "texture": "#overlay"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

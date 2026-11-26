@@ -1,6 +1,6 @@
 """Run the real shader pack off screen on a small scene and check it against Beer-Lambert.
 
-The game is not involved: boxes are built here (outward normals, both faces drawn, like the pack asks)
+The game is not involved: boxes are built here (outward normals, back faces culled like the game does)
 and the GLSL from shaderpack/ renders them with additive blending, then final.fsh makes the picture.
 Compatibility built-ins are swapped for uniforms so a core context accepts the source.
 Usage: uv run --with moderngl --with numpy --with pillow python tools/simulate_shaderpack.py <out dir>"""
@@ -30,7 +30,9 @@ def program(name):
     if name == "final":
         vs = vs.replace("ftransform()", "vec4(a_pos.xy, 0.0, 1.0)")
     out = "layout(location=0) out vec4 o0; layout(location=1) out vec4 o1;\n"
-    return ctx.program(vertex_shader=core(vs, VS_DECL), fragment_shader=core((ROOT / f"{name}.fsh").read_text(), out))
+    gsh = ROOT / f"{name}.gsh"
+    return ctx.program(vertex_shader=core(vs, VS_DECL), fragment_shader=core((ROOT / f"{name}.fsh").read_text(), out),
+                       geometry_shader=core(gsh.read_text(), "") if gsh.exists() else None)
 
 # faces of a box: normal, four corners (counter-clockwise from outside)
 FACES = [((0, 0, 1), [(0, 0, 1), (1, 0, 1), (1, 1, 1), (0, 1, 1)]), ((0, 0, -1), [(1, 0, 0), (0, 0, 0), (0, 1, 0), (1, 1, 0)]),
@@ -69,26 +71,29 @@ def render(scene, eye=(0, 0, 0), fov=70, size=(W, H)):
     solid = ctx.texture(size, 4, dtype="f4"); thin = ctx.texture(size, 4, dtype="f4")
     fbo = ctx.framebuffer([solid, thin], ctx.depth_renderbuffer(size))
     fbo.use(); fbo.clear(0, 0, 0, 0, depth=1.0)
-    ctx.enable(moderngl.BLEND | moderngl.DEPTH_TEST); ctx.disable(moderngl.CULL_FACE)
+    ctx.enable(moderngl.BLEND | moderngl.DEPTH_TEST)
     ctx.blend_func = moderngl.ONE, moderngl.ONE
     ctx.depth_func = "<="  # the game's test: an equal depth passes
     view = np.eye(4, dtype="f4"); view[:3, 3] = [-e for e in eye]
     for prog_name, tex, verts, uniforms, tint in scene:
         prog = program(prog_name)
+        # the game culls the back faces of terrain, so the test does too
+        (ctx.enable if prog_name == "gbuffers_terrain" else ctx.disable)(moderngl.CULL_FACE)
         values = {"u_tex": np.eye(4, dtype="f4"), "u_mv": view, "u_proj": perspective(fov, size[0] / size[1]),
                   "u_nm": np.eye(3, dtype="f4")}
         for k, v in values.items():
             if k in prog:
                 prog[k].write(np.ascontiguousarray(v.T).tobytes())
         for k, v in uniforms.items():
-            if k in prog:
+            if k in prog and k not in ("mc_Entity", "at_midBlock"):
                 prog[k].value = v
         texture(tex).use(0)
         data = np.hstack([verts[:, :4], verts[:, 4:8], np.tile(np.array(tint, "f4"), (len(verts), 1)), verts[:, 8:]])
-        ids = np.tile(np.array([uniforms.get("mc_Entity", 0), 0, 0, 0], "f4"), (len(verts), 1))
+        mid = uniforms.get("at_midBlock", 32)
+        ids = np.tile(np.array([uniforms.get("mc_Entity", 0), 0, 0, 0, mid, mid, mid, 0], "f4"), (len(verts), 1))
         buf = ctx.buffer(np.hstack([data, ids]).astype("f4").tobytes())
         content, fmt = [], []
-        for attr, n in (("a_pos", 4), ("a_uv", 4), ("a_color", 4), ("a_normal", 3), ("mc_Entity", 4)):
+        for attr, n in (("a_pos", 4), ("a_uv", 4), ("a_color", 4), ("a_normal", 3), ("mc_Entity", 4), ("at_midBlock", 4)):
             if attr in prog:
                 fmt.append(f"{n}f"); content.append(attr)
             else:
@@ -105,8 +110,12 @@ def render(scene, eye=(0, 0, 0), fov=70, size=(W, H)):
     return f4(solid), f4(thin), pic
 
 WHITE = (1, 1, 1, 1)
+def without(verts, face):
+    """A box without one face (0: towards +z, 1: towards -z)."""
+    return np.delete(verts, np.s_[face * 6:face * 6 + 6], axis=0)
+
 def terrain(tex, lo, size):
-    block_id = 2001 if tex.endswith("glass") else 0 if tex.endswith("leaves") else 2000
+    block_id = 2001 if tex.endswith("glass") else 2003 if tex == "ice" else 0 if tex.endswith("leaves") else 2000
     return ("gbuffers_terrain", f"block/{tex}.png", box(lo, size), {"mc_Entity": block_id}, WHITE)
 
 def player(x, y, z):
@@ -157,15 +166,31 @@ def main():
           f"max tau {rest[..., 0].max():.1f}, film {pic[..., 0].mean():.0f}")
     pane = render([terrain("glass", (-4, -4, -6), (8, 8, 1))], fov=20)[2]
     check("a glass cube is uniform, not a frame", pane[..., 0].min() > 80, f"film min {pane[..., 0].min()}")
-    rock = [terrain("stone", (-8, -6, -30), (16, 12, 20))]
-    behind = render(rock, fov=50)[2][..., 0].astype(float)
-    with_player = render(rock + [player(0, -0.9, -2.5)], fov=50)[2][..., 0].astype(float)
-    diff = np.abs(with_player - behind)
-    changed = diff[diff > 6]
-    check("a player stays visible in front of 20 m of rock (dual energy)", changed.size > 500 and np.median(changed) > 12,
-          f"pixels {changed.size}, median change {np.median(changed) if changed.size else 0:.0f}")
+    slab = length_of([terrain("stone", (-4, -4, -6), (8, 8, 0.5))])
+    check("half a metre measures half", abs(slab[0] - 0.5) < 0.02, f"{slab[0]:.3f}")
+    steps = [length_of([terrain("stone", (-4, -4, -4 - n), (8, 8, n))])[1] for n in (1, 2, 4, 8)]
+    check("depth stays readable up to 8 m of stone", all(b > a + 3 for a, b in zip(steps, steps[1:])), str([round(f) for f in steps]))
+    dirt_front = box((-4, -4, -6), (8, 8, 1))
+    for far_end in (6, 40):
+        # touching materials: the game leaves the shared faces out, here too
+        shared = [("gbuffers_terrain", "block/dirt.png", without(box((-4, -4, -far_end), (8, 8, 1)), 1), {"mc_Entity": 2000}, WHITE),
+                  ("gbuffers_terrain", "block/stone.png", without(box((-4, -4, -far_end - 1), (8, 8, 1)), 0), {"mc_Entity": 2000}, WHITE)]
+        got = length_of(shared)[0]
+        check(f"two touching materials measure 2 m at {far_end} m away", abs(got - 2) < 0.05, f"{got:.3f}")
+    gold_id = 4000 + int(round(255 * min(max((math.log10(sp.sprite_tau("block/gold_block")) - sp.pr.LO_BLOCK)
+                                             / (sp.pr.HI_BLOCK - sp.pr.LO_BLOCK), 0), 1)))
+    inner = ("gbuffers_terrain", "block/gold_block.png", box((-0.48, -0.48, -6.98), (0.96, 0.96, 0.96)),
+             {"mc_Entity": gold_id, "at_midBlock": 31}, WHITE)
+    slab_of_rock = [terrain("stone", (-4, -4, -8), (8, 8, 3))]
+    plain = render(slab_of_rock, fov=20)
+    ore = render(slab_of_rock + [inner], fov=20)
+    check("a dense block buried in rock adds its excess", ore[1][C][3] > 1000 and int(ore[2][C][0]) > int(plain[2][C][0]) + 10,
+          f"extra tau {ore[1][C][3]:.0f}, film {ore[2][C][0]} vs {plain[2][C][0]}")
+    check("and nothing next to it", abs(int(ore[2][4, 4][0]) - int(plain[2][4, 4][0])) <= 8)
     _, rest, pic = render([player(-0.0, -0.9, -2.5)], fov=50)
     body = rest[..., 1][rest[..., 1] > 0]
+    seen = pic[..., 0][rest[..., 1] > 0]
+    check("a player is visible against open air", body.size > 500 and np.median(seen) > 20, f"median film {np.median(seen):.0f}")
     check("a player shows bone and fainter flesh", body.size > 500 and np.percentile(body, 95) > 3 * np.percentile(body, 15),
           f"tau p15={np.percentile(body, 15):.2f} p95={np.percentile(body, 95):.2f}")
     Image.fromarray(pic).convert("L").save(out / "player.png")

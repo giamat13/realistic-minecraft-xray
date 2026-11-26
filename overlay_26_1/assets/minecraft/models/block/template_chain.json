@@ -45,7 +45,9 @@
           ],
           "texture": "#all"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -87,7 +89,10 @@
           ],
           "texture": "#all"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

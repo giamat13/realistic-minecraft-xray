@@ -102,7 +102,10 @@
           "texture": "#xray_sculk_sensor_bottom_d800",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -143,7 +146,10 @@
           ],
           "texture": "#tendrils"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -184,7 +190,10 @@
           ],
           "texture": "#tendrils"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -225,7 +234,10 @@
           ],
           "texture": "#tendrils"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -266,7 +278,11 @@
           ],
           "texture": "#tendrils"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

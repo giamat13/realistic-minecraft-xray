@@ -105,7 +105,10 @@
           "texture": "#xray_dragon_egg_d100",
           "cullface": "up"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -164,7 +167,10 @@
           ],
           "texture": "#xray_dragon_egg_d100"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -232,7 +238,10 @@
           ],
           "texture": "#xray_dragon_egg_d100"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -301,7 +310,10 @@
           "texture": "#xray_dragon_egg_d1300",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -369,7 +381,10 @@
           ],
           "texture": "#xray_dragon_egg_d1000"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -437,7 +452,11 @@
           ],
           "texture": "#xray_dragon_egg_d500"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

@@ -34,8 +34,7 @@
             16,
             16
           ],
-          "texture": "#cross",
-          "tintindex": 0
+          "texture": "#cross"
         },
         "south": {
           "uv": [
@@ -44,10 +43,11 @@
             16,
             16
           ],
-          "texture": "#cross",
-          "tintindex": 0
+          "texture": "#cross"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -79,8 +79,7 @@
             16,
             16
           ],
-          "texture": "#cross",
-          "tintindex": 0
+          "texture": "#cross"
         },
         "east": {
           "uv": [
@@ -89,10 +88,11 @@
             16,
             16
           ],
-          "texture": "#cross",
-          "tintindex": 0
+          "texture": "#cross"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

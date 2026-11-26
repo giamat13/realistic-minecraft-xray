@@ -1,40 +1,40 @@
 {
  "path": "item/redstone.png",
- "depicts": "bamboo stalk item (green bamboo culm with leaves) (same structure as item/bamboo.png; variant)",
+ "depicts": "pile of redstone dust",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
    "rgb": [
-    47,
-    1,
-    1
+    45,
+    0,
+    0
    ],
-   "share": 0.25,
-   "material": "bamboo",
-   "thickness_cm": 2.0
+   "share": 0.193,
+   "material": "redstone_dust",
+   "thickness_cm": 0.474
   },
   {
    "id": 1,
+   "rgb": [
+    52,
+    6,
+    5
+   ],
+   "share": 0.057,
+   "material": "redstone_dust",
+   "thickness_cm": 0.481
+  },
+  {
+   "id": 2,
    "rgb": [
     65,
     5,
     0
    ],
    "share": 0.216,
-   "material": "bamboo",
-   "thickness_cm": 2.0
-  },
-  {
-   "id": 2,
-   "rgb": [
-    170,
-    15,
-    1
-   ],
-   "share": 0.205,
-   "material": "bamboo",
-   "thickness_cm": 2.0
+   "material": "redstone_dust",
+   "thickness_cm": 0.485
   },
   {
    "id": 3,
@@ -44,8 +44,8 @@
     0
    ],
    "share": 0.136,
-   "material": "plant_tissue",
-   "thickness_cm": 0.3
+   "material": "redstone_dust",
+   "thickness_cm": 0.495
   },
   {
    "id": 4,
@@ -55,19 +55,30 @@
     0
    ],
    "share": 0.102,
-   "material": "plant_tissue",
-   "thickness_cm": 0.3
+   "material": "redstone_dust",
+   "thickness_cm": 0.498
   },
   {
    "id": 5,
+   "rgb": [
+    170,
+    15,
+    1
+   ],
+   "share": 0.205,
+   "material": "redstone_dust",
+   "thickness_cm": 0.529
+  },
+  {
+   "id": 6,
    "rgb": [
     255,
     0,
     0
    ],
    "share": 0.091,
-   "material": "plant_tissue",
-   "thickness_cm": 0.3
+   "material": "redstone_dust",
+   "thickness_cm": 0.548
   }
  ]
 }

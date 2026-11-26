@@ -1,5 +1,5 @@
 {
-  "ambientocclusion": true,
+  "ambientocclusion": false,
   "textures": {
     "particle": "#cross"
   },
@@ -45,7 +45,9 @@
           ],
           "texture": "#cross"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -88,7 +90,9 @@
           ],
           "texture": "#cross"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

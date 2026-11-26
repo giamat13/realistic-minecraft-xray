@@ -36,7 +36,9 @@
           ],
           "texture": "#fire"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -70,7 +72,9 @@
           ],
           "texture": "#fire"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -104,7 +108,9 @@
           ],
           "texture": "#fire"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -138,7 +144,9 @@
           ],
           "texture": "#fire"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

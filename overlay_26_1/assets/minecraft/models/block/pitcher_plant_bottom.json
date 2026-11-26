@@ -90,7 +90,9 @@
           "rotation": 270,
           "texture": "#bottom"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "name": "pitcher_plant_bottom",
@@ -169,7 +171,9 @@
           ],
           "texture": "#bottom"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

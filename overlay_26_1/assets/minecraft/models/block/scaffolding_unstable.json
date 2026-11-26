@@ -48,7 +48,10 @@
             0
           ]
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -80,7 +83,10 @@
           "texture": "#bottom",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -112,7 +118,10 @@
           "texture": "#bottom",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -144,7 +153,10 @@
           "texture": "#bottom",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -176,7 +188,10 @@
           "texture": "#bottom",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -206,7 +221,10 @@
         "down": {
           "texture": "#bottom"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -236,7 +254,10 @@
         "down": {
           "texture": "#bottom"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -272,7 +293,10 @@
         "down": {
           "texture": "#bottom"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -302,7 +326,10 @@
         "down": {
           "texture": "#bottom"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -328,7 +355,10 @@
           ],
           "texture": "#xray_scaffolding_top_d1"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -365,7 +395,10 @@
           "texture": "#bottom",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -402,7 +435,10 @@
           "texture": "#bottom",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -439,7 +475,10 @@
           "texture": "#bottom",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -476,7 +515,11 @@
           "texture": "#bottom",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

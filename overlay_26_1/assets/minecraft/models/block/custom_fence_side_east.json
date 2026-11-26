@@ -64,7 +64,10 @@
           "rotation": 90,
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "lower bar",
@@ -127,7 +130,10 @@
           "rotation": 90,
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ],
   "groups": [
@@ -144,5 +150,6 @@
         1
       ]
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

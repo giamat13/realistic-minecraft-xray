@@ -23,8 +23,7 @@
             16,
             16
           ],
-          "texture": "#texture",
-          "tintindex": 0
+          "texture": "#texture"
         },
         "down": {
           "uv": [
@@ -33,10 +32,12 @@
             16,
             8
           ],
-          "texture": "#texture",
-          "tintindex": 0
+          "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ]
 }

@@ -1,73 +1,106 @@
 {
  "path": "item/diamond_shovel.png",
- "depicts": "copper shovel: wooden handle with copper blade (same structure as item/copper_shovel.png; variant)",
+ "depicts": "diamond shovel: diamond head on a wooden handle",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
    "rgb": [
-    56,
-    42,
-    16
+    8,
+    37,
+    32
    ],
-   "share": 0.34,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "share": 0.132,
+   "material": "diamond",
+   "thickness_cm": 0.408
   },
   {
    "id": 1,
    "rgb": [
-    10,
-    48,
-    41
+    14,
+    63,
+    54
    ],
-   "share": 0.226,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "share": 0.094,
+   "material": "diamond",
+   "thickness_cm": 0.431
   },
   {
    "id": 2,
    "rgb": [
-    41,
-    188,
-    163
+    39,
+    178,
+    154
    ],
-   "share": 0.151,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "share": 0.075,
+   "material": "diamond",
+   "thickness_cm": 0.532
   },
   {
    "id": 3,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.17,
+   "material": "wood_oak",
+   "thickness_cm": 1.868
+  },
+  {
+   "id": 4,
+   "rgb": [
+    43,
+    199,
+    172
+   ],
+   "share": 0.075,
+   "material": "diamond",
+   "thickness_cm": 0.551
+  },
+  {
+   "id": 5,
    "rgb": [
     51,
     235,
     203
    ],
    "share": 0.151,
+   "material": "diamond",
+   "thickness_cm": 0.583
+  },
+  {
+   "id": 6,
+   "rgb": [
+    73,
+    54,
+    21
+   ],
+   "share": 0.17,
    "material": "wood_oak",
-   "thickness_cm": 2.0
+   "thickness_cm": 1.986
   },
   {
-   "id": 4,
+   "id": 7,
    "rgb": [
-    128,
-    96,
-    36
+    104,
+    78,
+    30
    ],
-   "share": 0.132,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "share": 0.038,
+   "material": "wood_oak",
+   "thickness_cm": 2.101
   },
   {
-   "id": 5,
+   "id": 8,
    "rgb": [
-    52,
-    102,
-    75
+    137,
+    103,
+    39
    ],
-   "share": 0.0,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "share": 0.094,
+   "material": "wood_oak",
+   "thickness_cm": 2.221
   }
  ]
 }

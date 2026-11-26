@@ -46,7 +46,9 @@
           ],
           "texture": "#base"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -91,7 +93,9 @@
           "texture": "#flower",
           "rotation": 270
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -136,7 +140,9 @@
           "texture": "#flower",
           "rotation": 90
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -179,7 +185,9 @@
           ],
           "texture": "#flower"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -222,7 +230,10 @@
           ],
           "texture": "#flower"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

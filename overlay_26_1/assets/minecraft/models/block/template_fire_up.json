@@ -37,7 +37,9 @@
           "texture": "#fire",
           "rotation": 270
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -72,7 +74,9 @@
           "texture": "#fire",
           "rotation": 90
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

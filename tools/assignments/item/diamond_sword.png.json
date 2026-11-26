@@ -1,73 +1,128 @@
 {
  "path": "item/diamond_sword.png",
- "depicts": "copper sword: copper blade with wooden grip and copper guard (same structure as item/copper_sword.png; variant)",
+ "depicts": "diamond sword: diamond head on a wooden handle",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
    "rgb": [
-    11,
-    51,
-    43
+    8,
+    37,
+    32
    ],
-   "share": 0.548,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "share": 0.262,
+   "material": "diamond",
+   "thickness_cm": 0.43
   },
   {
    "id": 1,
    "rgb": [
-    48,
-    221,
-    191
+    14,
+    63,
+    54
    ],
-   "share": 0.179,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "share": 0.286,
+   "material": "diamond",
+   "thickness_cm": 0.453
   },
   {
    "id": 2,
+   "rgb": [
+    21,
+    99,
+    85
+   ],
+   "share": 0.048,
+   "material": "diamond",
+   "thickness_cm": 0.484
+  },
+  {
+   "id": 3,
+   "rgb": [
+    30,
+    138,
+    119
+   ],
+   "share": 0.048,
+   "material": "diamond",
+   "thickness_cm": 0.519
+  },
+  {
+   "id": 4,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.024,
+   "material": "wood_oak",
+   "thickness_cm": 1.849
+  },
+  {
+   "id": 5,
+   "rgb": [
+    43,
+    199,
+    172
+   ],
+   "share": 0.071,
+   "material": "diamond",
+   "thickness_cm": 0.573
+  },
+  {
+   "id": 6,
+   "rgb": [
+    51,
+    235,
+    203
+   ],
+   "share": 0.107,
+   "material": "diamond",
+   "thickness_cm": 0.604
+  },
+  {
+   "id": 7,
+   "rgb": [
+    73,
+    54,
+    21
+   ],
+   "share": 0.024,
+   "material": "wood_oak",
+   "thickness_cm": 1.967
+  },
+  {
+   "id": 8,
+   "rgb": [
+    104,
+    78,
+    30
+   ],
+   "share": 0.024,
+   "material": "wood_oak",
+   "thickness_cm": 2.082
+  },
+  {
+   "id": 9,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.012,
+   "material": "wood_oak",
+   "thickness_cm": 2.202
+  },
+  {
+   "id": 10,
    "rgb": [
     164,
     253,
     240
    ],
    "share": 0.095,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 3,
-   "rgb": [
-    26,
-    118,
-    102
-   ],
-   "share": 0.095,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 4,
-   "rgb": [
-    56,
-    42,
-    16
-   ],
-   "share": 0.048,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 5,
-   "rgb": [
-    115,
-    86,
-    33
-   ],
-   "share": 0.036,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.662
   }
  ]
 }

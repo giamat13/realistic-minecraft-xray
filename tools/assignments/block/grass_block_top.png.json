@@ -1,6 +1,6 @@
 {
  "path": "block/grass_block_top.png",
- "depicts": "grass block top face: grayscale grass tint over short grass blades",
+ "depicts": "top of a grass block: grass on one metre of soil",
  "kind": "block",
  "clusters": [
   {
@@ -11,7 +11,7 @@
     149
    ],
    "share": 0.289,
-   "material": "grass",
+   "material": "soil",
    "thickness_cm": 100.0
   },
   {
@@ -22,7 +22,7 @@
     136
    ],
    "share": 0.258,
-   "material": "grass",
+   "material": "soil",
    "thickness_cm": 100.0
   },
   {
@@ -33,7 +33,7 @@
     167
    ],
    "share": 0.207,
-   "material": "grass",
+   "material": "soil",
    "thickness_cm": 100.0
   },
   {
@@ -44,7 +44,7 @@
     125
    ],
    "share": 0.18,
-   "material": "grass",
+   "material": "soil",
    "thickness_cm": 100.0
   },
   {
@@ -55,7 +55,7 @@
     182
    ],
    "share": 0.043,
-   "material": "grass",
+   "material": "soil",
    "thickness_cm": 100.0
   },
   {
@@ -66,7 +66,7 @@
     193
    ],
    "share": 0.023,
-   "material": "grass",
+   "material": "soil",
    "thickness_cm": 100.0
   }
  ]

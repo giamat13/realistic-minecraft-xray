@@ -83,7 +83,10 @@
           "cullface": "down"
         }
       },
-      "__comment": "Left post"
+      "__comment": "Left post",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -153,7 +156,10 @@
           "cullface": "down"
         }
       },
-      "__comment": "Right post"
+      "__comment": "Right post",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -204,7 +210,10 @@
           "texture": "#xray_bamboo_fence_d300"
         }
       },
-      "__comment": "Top bar"
+      "__comment": "Top bar",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -264,7 +273,10 @@
           "texture": "#xray_bamboo_fence_d300"
         }
       },
-      "__comment": "Top bar left"
+      "__comment": "Top bar left",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -324,7 +336,10 @@
           "texture": "#xray_bamboo_fence_d300"
         }
       },
-      "__comment": "Top bar right"
+      "__comment": "Top bar right",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -375,7 +390,10 @@
           "texture": "#xray_bamboo_fence_d300"
         }
       },
-      "__comment": "Lower bar"
+      "__comment": "Lower bar",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -435,7 +453,10 @@
           "texture": "#xray_bamboo_fence_d300"
         }
       },
-      "__comment": "Lower bar left"
+      "__comment": "Lower bar left",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -495,7 +516,11 @@
           "texture": "#xray_bamboo_fence_d300"
         }
       },
-      "__comment": "Lower bar right"
+      "__comment": "Lower bar right",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

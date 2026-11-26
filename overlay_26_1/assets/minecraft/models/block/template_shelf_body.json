@@ -103,7 +103,10 @@
           "texture": "#all",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "shelf_bottom",
@@ -166,7 +169,10 @@
           "texture": "#all",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "shelf_top",
@@ -229,7 +235,11 @@
           ],
           "texture": "#all"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

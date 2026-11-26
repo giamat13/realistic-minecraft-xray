@@ -4,5 +4,6 @@
       "force_translucent": true,
       "sprite": "minecraft:item/light_02"
     }
-  }
+  },
+  "ambientocclusion": false
 }

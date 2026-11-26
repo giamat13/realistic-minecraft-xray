@@ -47,7 +47,9 @@
           "texture": "#fan",
           "rotation": 270
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -92,7 +94,9 @@
           "texture": "#fan",
           "rotation": 90
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -135,7 +139,9 @@
           ],
           "texture": "#fan"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -178,7 +184,9 @@
           ],
           "texture": "#fan"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

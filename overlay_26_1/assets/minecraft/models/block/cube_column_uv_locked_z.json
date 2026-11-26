@@ -39,7 +39,10 @@
           "rotation": 90,
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ],
   "textures": {
@@ -50,5 +53,6 @@
     "east": "#side",
     "south": "#end",
     "west": "#side"
-  }
+  },
+  "ambientocclusion": false
 }

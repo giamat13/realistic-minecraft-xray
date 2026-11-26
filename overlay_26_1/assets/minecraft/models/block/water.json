@@ -4,5 +4,6 @@
       "force_translucent": true,
       "sprite": "block/water_still"
     }
-  }
+  },
+  "ambientocclusion": false
 }

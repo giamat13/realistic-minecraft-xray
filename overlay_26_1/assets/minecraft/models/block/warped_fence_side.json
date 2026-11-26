@@ -78,7 +78,10 @@
           "texture": "#xray_warped_planks_d200"
         }
       },
-      "__comment": "top bar"
+      "__comment": "top bar",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -139,7 +142,11 @@
           "texture": "#xray_warped_planks_d200"
         }
       },
-      "__comment": "lower bar"
+      "__comment": "lower bar",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

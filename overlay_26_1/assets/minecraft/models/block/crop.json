@@ -35,7 +35,9 @@
           ],
           "texture": "#crop"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -68,7 +70,9 @@
           ],
           "texture": "#crop"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -101,7 +105,9 @@
           ],
           "texture": "#crop"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -134,7 +140,9 @@
           ],
           "texture": "#crop"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

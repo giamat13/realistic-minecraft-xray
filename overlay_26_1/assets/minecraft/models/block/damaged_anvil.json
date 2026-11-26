@@ -107,7 +107,10 @@
           "texture": "#xray_anvil_d1200",
           "rotation": 270
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Lower narrow portion",
@@ -170,7 +173,10 @@
           "texture": "#xray_anvil_d800",
           "rotation": 270
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Wider section beneath top portion",
@@ -223,7 +229,10 @@
           "texture": "#xray_anvil_d400",
           "rotation": 270
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Anvil top",
@@ -296,7 +305,11 @@
           "texture": "#xray_anvil_d1000",
           "rotation": 270
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

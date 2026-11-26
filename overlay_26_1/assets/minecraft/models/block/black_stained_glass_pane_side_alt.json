@@ -73,7 +73,11 @@
           ],
           "texture": "#xray_black_stained_glass_d200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

@@ -57,7 +57,10 @@
           ],
           "texture": "#xray_glow_item_frame_d50"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -125,7 +128,10 @@
           ],
           "texture": "#xray_birch_planks_d1200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -193,7 +199,10 @@
           ],
           "texture": "#xray_birch_planks_d1200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -243,7 +252,10 @@
           ],
           "texture": "#xray_birch_planks_d100"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -293,7 +305,11 @@
           ],
           "texture": "#xray_birch_planks_d100"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

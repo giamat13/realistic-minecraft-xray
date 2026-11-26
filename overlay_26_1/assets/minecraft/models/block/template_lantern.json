@@ -71,7 +71,10 @@
           ],
           "texture": "#lantern"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -130,7 +133,10 @@
           ],
           "texture": "#lantern"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -172,7 +178,9 @@
           ],
           "texture": "#lantern"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -214,7 +222,10 @@
           ],
           "texture": "#lantern"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

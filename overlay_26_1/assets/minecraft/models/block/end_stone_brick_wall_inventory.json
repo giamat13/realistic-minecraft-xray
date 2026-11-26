@@ -87,7 +87,10 @@
           "texture": "#xray_end_stone_bricks_d800"
         }
       },
-      "__comment": "Center post"
+      "__comment": "Center post",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -159,7 +162,11 @@
           "texture": "#xray_end_stone_bricks_d600"
         }
       },
-      "__comment": "Full wall"
+      "__comment": "Full wall",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

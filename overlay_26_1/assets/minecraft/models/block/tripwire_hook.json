@@ -109,7 +109,10 @@
           ],
           "texture": "#hook"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -141,7 +144,10 @@
           ],
           "texture": "#hook"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -173,7 +179,10 @@
           ],
           "texture": "#hook"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -205,7 +214,10 @@
           ],
           "texture": "#hook"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -237,7 +249,10 @@
           ],
           "texture": "#hook"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -314,7 +329,10 @@
           ],
           "texture": "#xray_oak_planks_d140"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -383,7 +401,11 @@
           ],
           "texture": "#xray_oak_planks_d400"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

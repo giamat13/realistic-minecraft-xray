@@ -74,7 +74,10 @@
           ],
           "texture": "#xray_bamboo_fence_d300"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "lower bar",
@@ -135,7 +138,11 @@
           ],
           "texture": "#xray_bamboo_fence_d300"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

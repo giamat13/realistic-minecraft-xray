@@ -1,73 +1,84 @@
 {
  "path": "item/diamond_chestplate.png",
- "depicts": "copper armour chestplate, copper plate with shaded folds (same structure as item/copper_chestplate.png; variant)",
+ "depicts": "diamond chestplate",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
    "rgb": [
-    11,
-    51,
-    43
+    8,
+    37,
+    32
    ],
-   "share": 0.333,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "share": 0.159,
+   "material": "diamond",
+   "thickness_cm": 0.226
   },
   {
    "id": 1,
+   "rgb": [
+    14,
+    63,
+    54
+   ],
+   "share": 0.174,
+   "material": "diamond",
+   "thickness_cm": 0.24
+  },
+  {
+   "id": 2,
+   "rgb": [
+    26,
+    170,
+    167
+   ],
+   "share": 0.058,
+   "material": "diamond",
+   "thickness_cm": 0.296
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    197,
+    181
+   ],
+   "share": 0.152,
+   "material": "diamond",
+   "thickness_cm": 0.31
+  },
+  {
+   "id": 4,
    "rgb": [
     74,
     237,
     217
    ],
    "share": 0.333,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.338
   },
   {
-   "id": 2,
-   "rgb": [
-    30,
-    190,
-    177
-   ],
-   "share": 0.21,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 3,
+   "id": 5,
    "rgb": [
     161,
     251,
     232
    ],
    "share": 0.101,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.363
   },
   {
-   "id": 4,
+   "id": 6,
    "rgb": [
     255,
     255,
     255
    ],
    "share": 0.022,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 5,
-   "rgb": [
-    57,
-    167,
-    153
-   ],
-   "share": 0.0,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.387
   }
  ]
 }

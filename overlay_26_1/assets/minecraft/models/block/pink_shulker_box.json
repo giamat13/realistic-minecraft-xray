@@ -4,5 +4,6 @@
       "force_translucent": true,
       "sprite": "minecraft:block/pink_shulker_box"
     }
-  }
+  },
+  "ambientocclusion": false
 }

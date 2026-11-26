@@ -24,7 +24,6 @@
             16
           ],
           "texture": "#all",
-          "tintindex": 0,
           "cullface": "down"
         },
         "up": {
@@ -35,7 +34,6 @@
             16
           ],
           "texture": "#all",
-          "tintindex": 0,
           "cullface": "up"
         },
         "north": {
@@ -46,7 +44,6 @@
             16
           ],
           "texture": "#all",
-          "tintindex": 0,
           "cullface": "north"
         },
         "south": {
@@ -57,7 +54,6 @@
             16
           ],
           "texture": "#all",
-          "tintindex": 0,
           "cullface": "south"
         },
         "west": {
@@ -68,7 +64,6 @@
             16
           ],
           "texture": "#all",
-          "tintindex": 0,
           "cullface": "west"
         },
         "east": {
@@ -79,10 +74,13 @@
             16
           ],
           "texture": "#all",
-          "tintindex": 0,
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

@@ -86,7 +86,10 @@
           ],
           "texture": "#propagule"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -164,7 +167,10 @@
           ],
           "texture": "#propagule"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -243,7 +249,10 @@
           "rotation": 90,
           "texture": "#propagule"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -321,7 +330,10 @@
           "rotation": 180,
           "texture": "#propagule"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -400,7 +412,10 @@
           "rotation": 270,
           "texture": "#propagule"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -477,7 +492,10 @@
           ],
           "texture": "#propagule"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -554,7 +572,10 @@
           ],
           "texture": "#propagule"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -631,7 +652,11 @@
           ],
           "texture": "#propagule"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

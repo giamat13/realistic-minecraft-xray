@@ -102,7 +102,10 @@
           "texture": "#side",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -123,8 +126,7 @@
             15,
             16
           ],
-          "texture": "#saw",
-          "tintindex": 0
+          "texture": "#saw"
         },
         "south": {
           "uv": [
@@ -133,10 +135,13 @@
             1,
             16
           ],
-          "texture": "#saw",
-          "tintindex": 0
+          "texture": "#saw"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

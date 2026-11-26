@@ -85,7 +85,10 @@
           "texture": "#xray_straw_bed_d400",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "pillow_frills_01",
@@ -120,7 +123,10 @@
           "texture": "#all",
           "cullface": "west"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "pillow_frills_02",
@@ -155,7 +161,10 @@
           "texture": "#all",
           "cullface": "west"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "pillow_frills_03",
@@ -190,7 +199,10 @@
           "texture": "#all",
           "cullface": "west"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "pillow_frills_04",
@@ -225,7 +237,10 @@
           "texture": "#all",
           "cullface": "west"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "pillow_frills_05",
@@ -260,7 +275,10 @@
           "texture": "#all",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "pillow_frills_06",
@@ -295,7 +313,10 @@
           "texture": "#all",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "pillow_frills_07",
@@ -330,7 +351,10 @@
           "texture": "#all",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "pillow_frills_08",
@@ -365,7 +389,10 @@
           "texture": "#all",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "pillow",
@@ -438,7 +465,10 @@
           "texture": "#all",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "frills_02",
@@ -473,7 +503,10 @@
           "texture": "#all",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "frills_03",
@@ -508,7 +541,10 @@
           "texture": "#all",
           "cullface": "west"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ],
   "display": {
@@ -621,5 +657,6 @@
         0.9375
       ]
     }
-  }
+  },
+  "ambientocclusion": false
 }

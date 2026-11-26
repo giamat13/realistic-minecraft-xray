@@ -72,7 +72,9 @@
           ],
           "texture": "#torch"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

@@ -1,73 +1,172 @@
 {
  "path": "item/diamond_spear.png",
- "depicts": "copper-tipped spear: wooden shaft with copper spear head (same structure as item/copper_spear.png; variant)",
+ "depicts": "diamond spear: diamond head on a wooden handle",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
    "rgb": [
-    11,
-    51,
-    44
+    8,
+    37,
+    32
    ],
-   "share": 0.284,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "share": 0.135,
+   "material": "diamond",
+   "thickness_cm": 0.394
   },
   {
    "id": 1,
    "rgb": [
-    66,
-    39,
-    13
+    14,
+    63,
+    54
    ],
-   "share": 0.243,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "share": 0.149,
+   "material": "diamond",
+   "thickness_cm": 0.417
   },
   {
    "id": 2,
-   "rgb": [
-    48,
-    222,
-    192
-   ],
-   "share": 0.149,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
-  },
-  {
-   "id": 3,
-   "rgb": [
-    203,
-    254,
-    246
-   ],
-   "share": 0.135,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 4,
-   "rgb": [
-    145,
-    93,
-    38
-   ],
-   "share": 0.122,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 5,
    "rgb": [
     30,
     138,
     119
    ],
    "share": 0.068,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.483
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.081,
+   "material": "wood_oak",
+   "thickness_cm": 1.847
+  },
+  {
+   "id": 4,
+   "rgb": [
+    43,
+    199,
+    172
+   ],
+   "share": 0.054,
+   "material": "diamond",
+   "thickness_cm": 0.537
+  },
+  {
+   "id": 5,
+   "rgb": [
+    51,
+    235,
+    203
+   ],
+   "share": 0.095,
+   "material": "diamond",
+   "thickness_cm": 0.569
+  },
+  {
+   "id": 6,
+   "rgb": [
+    65,
+    24,
+    5
+   ],
+   "share": 0.041,
+   "material": "wood_oak",
+   "thickness_cm": 1.862
+  },
+  {
+   "id": 7,
+   "rgb": [
+    73,
+    54,
+    21
+   ],
+   "share": 0.081,
+   "material": "wood_oak",
+   "thickness_cm": 1.965
+  },
+  {
+   "id": 8,
+   "rgb": [
+    103,
+    41,
+    11
+   ],
+   "share": 0.041,
+   "material": "wood_oak",
+   "thickness_cm": 1.966
+  },
+  {
+   "id": 9,
+   "rgb": [
+    104,
+    78,
+    30
+   ],
+   "share": 0.014,
+   "material": "wood_oak",
+   "thickness_cm": 2.08
+  },
+  {
+   "id": 10,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.068,
+   "material": "wood_oak",
+   "thickness_cm": 2.2
+  },
+  {
+   "id": 11,
+   "rgb": [
+    163,
+    75,
+    34
+   ],
+   "share": 0.027,
+   "material": "wood_oak",
+   "thickness_cm": 2.156
+  },
+  {
+   "id": 12,
+   "rgb": [
+    164,
+    253,
+    240
+   ],
+   "share": 0.068,
+   "material": "diamond",
+   "thickness_cm": 0.626
+  },
+  {
+   "id": 13,
+   "rgb": [
+    186,
+    95,
+    52
+   ],
+   "share": 0.014,
+   "material": "wood_oak",
+   "thickness_cm": 2.254
+  },
+  {
+   "id": 14,
+   "rgb": [
+    242,
+    255,
+    253
+   ],
+   "share": 0.068,
+   "material": "diamond",
+   "thickness_cm": 0.657
   }
  ]
 }

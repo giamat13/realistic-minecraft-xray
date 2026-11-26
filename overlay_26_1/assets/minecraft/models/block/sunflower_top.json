@@ -60,7 +60,9 @@
           ],
           "texture": "#cross"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -103,7 +105,9 @@
           ],
           "texture": "#cross"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -146,7 +150,9 @@
           ],
           "texture": "#front"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

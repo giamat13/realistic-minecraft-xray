@@ -5,7 +5,7 @@ A texture is shared by many shapes (planks, pressure plate, fence, ...), so for 
 is capped at the element's depth along that face normal (16 model units = 100 cm). Where that changes
 the physics, a variant texture is rendered into textures/block/xray/ and the model is pointed at it.
 Usage: python3 tools/generate_models.py   (needs MC_JAR / MC_VERSIONS, see texsrc.py)"""
-import sys, os, json, zipfile, pathlib, shutil, copy
+import sys, os, re, json, zipfile, pathlib, shutil, copy
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
 from PIL import Image
@@ -16,6 +16,8 @@ VARIANTS = OVERLAY / "textures/block/xray"
 PREFIX = "assets/minecraft/models/block/"
 AXIS = {"east": 0, "west": 0, "up": 1, "down": 1, "north": 2, "south": 2}
 CM_PER_UNIT = 100 / 16
+# dense blocks get a second box just inside, which neighbours never hide: the shader pack sees them buried in rock
+DENSE = re.compile(r"block/((deepslate_|nether_)?\w+_ore|ancient_debris|(raw_)?(iron|gold|copper)_block|netherite_block)(_\w+)?$")
 
 def short(name): return name.split(":", 1)[-1]
 def sprite_of(v): return v.get("sprite") if isinstance(v, dict) else v
@@ -64,6 +66,15 @@ def variant(sprite, units):
                 cache[key] = "block/xray/" + name
     return cache[key]
 
+def flatten_light(elements):
+    """A radiograph has no lamps, shadows or dye: drop tints and shading and light every face fully."""
+    for el in elements:
+        el["shade"] = False                    # older spelling
+        el["shade_direction_override"] = "up"  # 26.x: "up" is the unshaded direction
+        el["light_emission"] = 15
+        for data in el.get("faces", {}).values():
+            data.pop("tintindex", None)
+
 def main():
     with zipfile.ZipFile(texsrc.JAR) as z:
         models = {"block/" + n[len(PREFIX):-5]: json.loads(z.read(n))
@@ -74,7 +85,8 @@ def main():
         m = copy.deepcopy(source)
         tex, elements = resolve(models, name)
         # only models that supply a real sprite of their own or through their parents need a file
-        if not any(follow(tex, "#" + k) for k in tex):
+        own = "elements" in source
+        if not own and not any(follow(tex, "#" + k) for k in tex):
             continue
         textures = m.setdefault("textures", {})
         new_elements, added = copy.deepcopy(elements or []), {}
@@ -94,8 +106,22 @@ def main():
             m["elements"] = new_elements
             textures.update(added)
             shaped += 1
-        elif not source.get("textures"):
+        dense = bool(elements) and bool(DENSE.match(name))
+        if dense:
+            m.setdefault("elements", copy.deepcopy(elements))
+            for el in list(m["elements"]):
+                if el["from"] == [0, 0, 0] and el["to"] == [16, 16, 16]:
+                    inner = copy.deepcopy(el)
+                    inner["from"], inner["to"] = [0.25] * 3, [15.75] * 3
+                    for data in inner["faces"].values():
+                        data.pop("cullface", None)
+                    m["elements"].append(inner)
+        if not added and not own and not dense and not source.get("textures"):
             continue
+        if "elements" in m:
+            flatten_light(m["elements"])
+        if "elements" in m or "ambientocclusion" in m or "parent" not in m:
+            m["ambientocclusion"] = False
         for k, v in textures.items():
             if isinstance(v, str) and not v.startswith("#"):
                 textures[k] = {"force_translucent": True, "sprite": v}

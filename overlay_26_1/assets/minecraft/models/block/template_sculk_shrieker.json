@@ -111,7 +111,10 @@
           "texture": "#xray_sculk_shrieker_bottom_d800",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "top_slab",
@@ -171,7 +174,10 @@
           ],
           "texture": "#xray_sculk_shrieker_top_d700"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "up",
@@ -195,7 +201,10 @@
           ],
           "texture": "#top"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "south",
@@ -219,7 +228,10 @@
           ],
           "texture": "#side"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "north",
@@ -243,7 +255,10 @@
           ],
           "texture": "#side"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "east",
@@ -267,7 +282,10 @@
           ],
           "texture": "#side"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "west",
@@ -291,7 +309,11 @@
           ],
           "texture": "#side"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

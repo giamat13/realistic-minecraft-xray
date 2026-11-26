@@ -49,7 +49,10 @@
           ],
           "texture": "#back"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -117,7 +120,10 @@
           ],
           "texture": "#wood"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -185,7 +191,10 @@
           ],
           "texture": "#wood"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -235,7 +244,10 @@
           ],
           "texture": "#xray_birch_planks_d100"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -285,7 +297,11 @@
           ],
           "texture": "#xray_birch_planks_d100"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

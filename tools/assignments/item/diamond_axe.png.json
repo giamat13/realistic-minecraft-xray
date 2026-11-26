@@ -1,73 +1,117 @@
 {
  "path": "item/diamond_axe.png",
- "depicts": "copper axe: copper head with oak wooden handle (same structure as item/copper_axe.png; variant)",
+ "depicts": "diamond axe: diamond head on a wooden handle",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
    "rgb": [
-    56,
-    41,
-    16
+    8,
+    37,
+    32
    ],
-   "share": 0.317,
-   "material": "wood_oak",
-   "thickness_cm": 0.5
+   "share": 0.117,
+   "material": "diamond",
+   "thickness_cm": 0.417
   },
   {
    "id": 1,
    "rgb": [
-    11,
-    50,
-    43
+    14,
+    63,
+    54
    ],
-   "share": 0.233,
-   "material": "wood_oak",
-   "thickness_cm": 2.0
+   "share": 0.117,
+   "material": "diamond",
+   "thickness_cm": 0.44
   },
   {
    "id": 2,
-   "rgb": [
-    40,
-    182,
-    157
-   ],
-   "share": 0.2,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 3,
-   "rgb": [
-    116,
-    87,
-    33
-   ],
-   "share": 0.133,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 4,
-   "rgb": [
-    51,
-    235,
-    203
-   ],
-   "share": 0.083,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 5,
    "rgb": [
     30,
     138,
     119
    ],
    "share": 0.033,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.506
+  },
+  {
+   "id": 3,
+   "rgb": [
+    39,
+    178,
+    154
+   ],
+   "share": 0.167,
+   "material": "diamond",
+   "thickness_cm": 0.541
+  },
+  {
+   "id": 4,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.167,
+   "material": "wood_oak",
+   "thickness_cm": 1.878
+  },
+  {
+   "id": 5,
+   "rgb": [
+    43,
+    199,
+    172
+   ],
+   "share": 0.033,
+   "material": "diamond",
+   "thickness_cm": 0.56
+  },
+  {
+   "id": 6,
+   "rgb": [
+    51,
+    235,
+    203
+   ],
+   "share": 0.083,
+   "material": "diamond",
+   "thickness_cm": 0.592
+  },
+  {
+   "id": 7,
+   "rgb": [
+    73,
+    54,
+    21
+   ],
+   "share": 0.15,
+   "material": "wood_oak",
+   "thickness_cm": 1.996
+  },
+  {
+   "id": 8,
+   "rgb": [
+    104,
+    78,
+    30
+   ],
+   "share": 0.083,
+   "material": "wood_oak",
+   "thickness_cm": 2.111
+  },
+  {
+   "id": 9,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.05,
+   "material": "wood_oak",
+   "thickness_cm": 2.231
   }
  ]
 }

@@ -64,7 +64,10 @@
         "east": {
           "texture": "#flowerpot"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -118,7 +121,10 @@
           ],
           "texture": "#xray_cactus_side_d400"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ]
 }

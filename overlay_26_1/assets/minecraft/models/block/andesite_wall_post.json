@@ -44,7 +44,11 @@
           "texture": "#xray_andesite_d800"
         }
       },
-      "__comment": "Center post"
+      "__comment": "Center post",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

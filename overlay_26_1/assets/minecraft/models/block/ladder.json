@@ -42,7 +42,9 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

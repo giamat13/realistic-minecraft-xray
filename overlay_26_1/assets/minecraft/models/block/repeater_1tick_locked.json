@@ -106,7 +106,10 @@
           "texture": "#slab",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -166,7 +169,10 @@
           ],
           "texture": "#xray_bedrock_d1200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -225,7 +231,10 @@
           ],
           "texture": "#unlit"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ]
 }

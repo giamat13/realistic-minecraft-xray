@@ -60,7 +60,9 @@
           ],
           "texture": "#stage_4_top"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "name": "pitcher_crop_top_stage_4",
@@ -103,7 +105,9 @@
           ],
           "texture": "#stage_4_top"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

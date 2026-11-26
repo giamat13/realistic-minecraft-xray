@@ -91,7 +91,10 @@
           ],
           "texture": "#xray_jungle_planks_d200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Right-hand post",
@@ -161,7 +164,10 @@
           "texture": "#xray_jungle_planks_d200",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Inner vertical post of left-hand gate door",
@@ -230,7 +236,10 @@
           ],
           "texture": "#xray_jungle_planks_d200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Inner vertical post of right-hand gate door",
@@ -299,7 +308,10 @@
           ],
           "texture": "#xray_jungle_planks_d200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Lower horizontal bar of left-hand gate door",
@@ -350,7 +362,10 @@
           ],
           "texture": "#xray_jungle_planks_d200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Upper horizontal bar of left-hand gate door",
@@ -401,7 +416,10 @@
           ],
           "texture": "#xray_jungle_planks_d200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Lower horizontal bar of right-hand gate door",
@@ -452,7 +470,10 @@
           ],
           "texture": "#xray_jungle_planks_d200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "__comment": "Upper horizontal bar of right-hand gate door",
@@ -503,7 +524,11 @@
           ],
           "texture": "#xray_jungle_planks_d200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

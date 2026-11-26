@@ -6,12 +6,16 @@ in vec4 tint;
 in vec3 viewPos;
 in vec3 normal;
 flat in int blockId;
+flat in int inset;
 const float LO_BLOCK = 0.545597;
 const float HI_BLOCK = 3.639247;
 const float LO_OBJ = -1.874226;
 const float HI_OBJ = 1.303458;
 const float HARDENING = 0.959739;
 const float TAU_WATER_1M = 19.755301;
+const float TAU_STONE_1M = 52.629721;
+const float TAU_DEEPSLATE_1M = 55.983920;
+const float TAU_NETHERRACK_1M = 56.432216;
 const float TAU_GLASS_1M = 48.575710;
 const float TAU_BONE = 1.329111;
 const float TAU_FLESH = 0.612538;
@@ -23,13 +27,16 @@ float objectTau(float gray) { return pow(10.0, mix(LO_OBJ, HI_OBJ, clamp((gray *
 
 /* DRAWBUFFERS:23 */
 // buffer 2: entry distances, exit distances, entries, exits
-// buffer 3: thin attenuation, creature attenuation, sum of attenuation per metre of the cube faces
-void emit(vec4 cubes, vec3 rest) {
+// buffer 3: thin attenuation, creature attenuation, attenuation per metre summed over faces, dense extra
+void emit(vec4 cubes, vec4 rest) {
     gl_FragData[0] = cubes;
-    gl_FragData[1] = vec4(rest, 0.0);
+    gl_FragData[1] = rest;
 }
-void thinSurface(float t) { emit(vec4(0.0), vec3(t, 0.0, 0.0)); }
-void creatureSurface(float t) { emit(vec4(0.0), vec3(0.0, t, 0.0)); }
+void thinSurface(float t) { emit(vec4(0.0), vec4(t, 0.0, 0.0, 0.0)); }
+void creatureSurface(float t) { emit(vec4(0.0), vec4(0.0, t, 0.0, 0.0)); }
+float levelTau(int level) { return pow(10.0, mix(LO_BLOCK, HI_BLOCK, float(level) / 255.0)); }
+// the resource pack's alpha is 1 - transmission, exact for thin things; opaque pixels fall back to the gray
+float thinTau(vec4 t, float fromGray) { return t.a < 0.98 ? -log(1.0 - t.a) : fromGray; }
 
 bool inBox(ivec2 p, int x, int y, int w, int h) { return p.x >= x && p.y >= y && p.x < x + w && p.y < y + h; }
 
@@ -69,6 +76,7 @@ float skeletonSkin(ivec2 p) {
     return -1.0; // hat, jacket, sleeves, trousers
 }
 uniform int entityId;
+uniform int currentRenderedItemId;
 
 void main() {
     if (entityId == 1001 && textureSize(gtexture, 0) == ivec2(64)) {
@@ -79,5 +87,9 @@ void main() {
     }
     vec4 t = texture(gtexture, uv);
     if (t.a < 0.1) discard;
+    if (currentRenderedItemId == 3000) { // a small copy of a block, held or dropped: block gray, a quarter metre
+        creatureSurface(0.125 * blockTau(luma(t.rgb)) * t.a);
+        return;
+    }
     creatureSurface(objectTau(luma(t.rgb)) * t.a);
 }

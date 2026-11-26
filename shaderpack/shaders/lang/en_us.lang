@@ -1,4 +1,3 @@
-option.WINDOW_LOW=Faintest visible
-option.WINDOW_HIGH=Full white
-option.DUAL_ENERGY=Separate creatures (dual energy)
+option.TAU_HALF=Exposure (higher shows denser matter)
+option.DUAL_ENERGY=Creatures through rock (not physical)
 option.RANGE=Range (blocks)

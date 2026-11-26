@@ -64,7 +64,9 @@
           ],
           "texture": "#stage_1"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "name": "pitcher_crop_bottom_stage_1",
@@ -107,7 +109,9 @@
           ],
           "texture": "#stage_1"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "name": "pitcher_crop_bottom_stage_1",
@@ -176,7 +180,10 @@
           ],
           "texture": "#pitcher_bottom"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ]
 }

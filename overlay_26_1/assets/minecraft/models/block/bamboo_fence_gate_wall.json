@@ -83,7 +83,10 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "Right-hand post",
@@ -153,7 +156,10 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "Inner vertical post of left-hand gate door",
@@ -213,7 +219,10 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "Inner vertical post of right-hand gate door",
@@ -273,7 +282,10 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "Lower horizontal bar of left-hand gate door",
@@ -324,7 +336,10 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "Upper horizontal bar of left-hand gate door",
@@ -375,7 +390,10 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "Lower horizontal bar of right-hand gate door",
@@ -426,7 +444,10 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "Upper horizontal bar of right-hand gate door",
@@ -477,7 +498,11 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

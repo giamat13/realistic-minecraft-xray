@@ -86,7 +86,10 @@
           ],
           "texture": "#flowerpot"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -155,7 +158,10 @@
           ],
           "texture": "#flowerpot"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -206,7 +212,10 @@
           ],
           "texture": "#flowerpot"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -257,7 +266,10 @@
           ],
           "texture": "#flowerpot"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -290,7 +302,10 @@
           ],
           "texture": "#xray_dirt_d400"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -322,8 +337,7 @@
             16,
             16
           ],
-          "texture": "#plant",
-          "tintindex": 0
+          "texture": "#plant"
         },
         "south": {
           "uv": [
@@ -332,10 +346,11 @@
             16,
             16
           ],
-          "texture": "#plant",
-          "tintindex": 0
+          "texture": "#plant"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -367,8 +382,7 @@
             16,
             16
           ],
-          "texture": "#plant",
-          "tintindex": 0
+          "texture": "#plant"
         },
         "east": {
           "uv": [
@@ -377,10 +391,11 @@
             16,
             16
           ],
-          "texture": "#plant",
-          "tintindex": 0
+          "texture": "#plant"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

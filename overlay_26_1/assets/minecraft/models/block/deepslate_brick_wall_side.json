@@ -49,7 +49,11 @@
           "texture": "#xray_deepslate_bricks_d600"
         }
       },
-      "__comment": "wall"
+      "__comment": "wall",
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

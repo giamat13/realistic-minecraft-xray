@@ -85,7 +85,10 @@
           "texture": "#xray_chorus_plant_d1200",
           "cullface": "up"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -149,7 +152,10 @@
           "texture": "#xray_chorus_plant_d200",
           "cullface": "west"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -213,7 +219,10 @@
           "texture": "#xray_chorus_plant_d1200",
           "cullface": "north"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -277,7 +286,10 @@
           "texture": "#xray_chorus_plant_d1200",
           "cullface": "south"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -341,7 +353,10 @@
           "texture": "#xray_chorus_plant_d200",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -405,7 +420,10 @@
           "texture": "#xray_chorus_plant_d1200",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -473,7 +491,11 @@
           ],
           "texture": "#xray_chorus_plant_d1200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

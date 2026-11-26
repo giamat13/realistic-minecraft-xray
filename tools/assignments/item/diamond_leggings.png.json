@@ -1,73 +1,84 @@
 {
  "path": "item/diamond_leggings.png",
- "depicts": "copper armour leggings, copper plate (same structure as item/copper_leggings.png; variant)",
+ "depicts": "diamond leggings",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
    "rgb": [
-    10,
-    46,
-    40
+    8,
+    37,
+    32
    ],
-   "share": 0.481,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "share": 0.308,
+   "material": "diamond",
+   "thickness_cm": 0.245
   },
   {
    "id": 1,
    "rgb": [
-    30,
-    188,
-    177
+    14,
+    63,
+    54
    ],
-   "share": 0.24,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "share": 0.173,
+   "material": "diamond",
+   "thickness_cm": 0.259
   },
   {
    "id": 2,
+   "rgb": [
+    26,
+    170,
+    167
+   ],
+   "share": 0.077,
+   "material": "diamond",
+   "thickness_cm": 0.315
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    197,
+    181
+   ],
+   "share": 0.163,
+   "material": "diamond",
+   "thickness_cm": 0.328
+  },
+  {
+   "id": 4,
    "rgb": [
     74,
     237,
     217
    ],
    "share": 0.192,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.357
   },
   {
-   "id": 3,
+   "id": 5,
    "rgb": [
     161,
     251,
     232
    ],
    "share": 0.067,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.382
   },
   {
-   "id": 4,
+   "id": 6,
    "rgb": [
     255,
     255,
     255
    ],
    "share": 0.019,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 5,
-   "rgb": [
-    42,
-    135,
-    124
-   ],
-   "share": 0.0,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.405
   }
  ]
 }

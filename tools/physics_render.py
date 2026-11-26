@@ -1,7 +1,7 @@
 """Render every texture from its per-region material assignment using the X-ray physics model.
 Usage: python3 tools/physics_render.py [--out DIR] [--only-assigned]
 Needs tools/assignments/<rel>.json for each texture (made by the annotators), /tmp/mc sources (texsrc.py)."""
-import sys, os, json, pathlib, argparse, zlib, subprocess
+import sys, os, json, pathlib, argparse, zlib, subprocess, zipfile
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
 from PIL import Image
@@ -21,11 +21,53 @@ BLEND_MASKS = ("misc/", "environment/")
 WATER = ("block/water_still", "block/water_flow", "block/water_overlay")
 WATER_TINT = np.array([0x3F, 0x76, 0xE4], float)
 MIN_ITEM_ALPHA = 55  # display floor: things fainter than ~0.1 alpha are discarded by the game
-# thin water in air: an X-ray passes straight through
-AIRBORNE = ("environment/clouds", "environment/rain", "environment/snow")
+MIN_VISIBLE_TAU = 0.02
+# thin water in air, and lights in the sky: an X-ray film records neither
+AIRBORNE = ("environment/clouds", "environment/rain", "environment/snow", "environment/sun", "environment/moon",
+            "environment/celestial", "environment/end_sky", "environment/end_flash")
 DETAIL = 1.2   #texture shading modulates density/path length (cosmetic mottle, clipped to x0.3..x1.7)
 
-def render(rel, arr, asg):
+GAS_DENSITY = 0.05   # g/cm3: flames, plasma and air stop nothing
+
+def full_cube_sprites():
+    """Block sprites shown on a face of a one metre cube in the newest jar: the beam crosses 100 cm there."""
+    with zipfile.ZipFile(texsrc.JAR) as z:
+        prefix = "assets/minecraft/models/block/"
+        models = {"block/" + n[len(prefix):-5]: json.loads(z.read(n))
+                  for n in z.namelist() if n.startswith(prefix) and n.endswith(".json")}
+    short = lambda s: s.split(":", 1)[-1]
+    found = set()
+    for name in models:
+        tex, elements, walk = {}, None, name
+        while walk in models:
+            m = models[walk]
+            for k, v in m.get("textures", {}).items():
+                tex.setdefault(k, v)
+            if elements is None:
+                elements = m.get("elements")
+            walk = short(m.get("parent", ""))
+        for el in elements or []:
+            if el["from"] != [0, 0, 0] or el["to"] != [16, 16, 16]:
+                continue
+            for face in el.get("faces", {}).values():
+                ref, seen = face["texture"], set()
+                while isinstance(ref, str) and ref.startswith("#") and ref not in seen:
+                    seen.add(ref)
+                    ref = tex.get(ref[1:])
+                    ref = ref.get("sprite") if isinstance(ref, dict) else ref
+                if isinstance(ref, str) and not ref.startswith("#"):
+                    found.add(short(ref) + ".png")
+    return found
+
+def host_material(clusters):
+    """What the body of a block is made of: the solid material covering most of its face."""
+    share = {}
+    for c in clusters:
+        if MATS[c["material"]]["density"] > GAS_DENSITY:
+            share[c["material"]] = share.get(c["material"], 0) + c.get("share", 0) + 1e-6
+    return MATS[max(share, key=share.get)] if share else None
+
+def render(rel, arr, asg, fill=False):
     h, w = arr.shape[:2]
     first = clusters.first_frame(arr)
     cl = asg["clusters"]
@@ -45,13 +87,20 @@ def render(rel, arr, asg):
     kind = asg.get("kind", rel.split("/")[0])
     is_block = rel.startswith("block/")
     logt = np.zeros((h, w))
-    base = {}
+    # a solid cube has no holes: behind each surface detail lies the rest of the metre
+    host = host_material(cl) if fill and (arr[..., 3] == 255).all() else None
     for i, c in enumerate(cl):
         mat = MATS[c["material"]]
         mod = np.clip(1 + DETAIL * (lum - clum[i]), 0.3, 1.7)
         # tau is not linear in thickness for a polychromatic beam -> evaluate on a few thickness multipliers, interpolate
         ms = np.array([0.3, 0.5, 0.75, 1.0, 1.25, 1.5, 1.7])
-        taus = np.array([LOG(max(xp.tau_eff(mat, c["thickness_cm"] * m), 1e-9)) for m in ms])
+        taus = np.array([xp.tau_eff(mat, c["thickness_cm"] * m) for m in ms])
+        if host is not None:
+            if mat["density"] <= GAS_DENSITY:      # a cavity or a flame: three quarters of the block remain
+                taus = taus + xp.tau_eff(host, 75.0)
+            elif c["thickness_cm"] < 100:
+                taus = taus + xp.tau_eff(host, 100.0 - c["thickness_cm"])
+        taus = LOG(np.maximum(taus, 1e-9))
         logt = np.where(lab == i, np.interp(mod, ms, taus), logt)
     if is_block: s = (logt - LO_BLOCK) / (HI_BLOCK - LO_BLOCK)
     else: s = (logt - LO_OBJ) / (HI_OBJ - LO_OBJ)
@@ -64,8 +113,10 @@ def render(rel, arr, asg):
         # the game's see-through look, so it is ignored.
         alpha = -np.expm1(-10.0 ** logt) * (np.where(valid, 255.0, 0.0) if rel.startswith(WATER) else src_a)
     elif rel.startswith("particle/") or (rel.startswith("item/") and kind not in RELATIVE_KINDS):
-        gray = 150 + 105 * s   # bright, so whatever attenuates reads lighter than the background
-        alpha = np.maximum(-np.expm1(-10.0 ** logt) * 255, MIN_ITEM_ALPHA) * src_a / 255
+        gray = 25 + 230 * s    # the same scale as every object (the shader pack decodes it back)
+        # smoke, flame and the like attenuate nothing measurable, so they do not show at all
+        alpha = np.where(10.0 ** logt < MIN_VISIBLE_TAU, 0.0,
+                         np.maximum(-np.expm1(-10.0 ** logt) * 255, MIN_ITEM_ALPHA) * src_a / 255)
     elif kind in RELATIVE_KINDS:
         lt = logt[valid]
         rel_s = (logt - lt.min()) / (lt.max() - lt.min()) if valid.any() and lt.max() > lt.min() else np.full_like(logt, 0.8)
@@ -89,6 +140,7 @@ def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--out", default="assets/minecraft/textures"); ap.add_argument("--only-assigned", action="store_true")
     a = ap.parse_args(); out = pathlib.Path(a.out); adir = pathlib.Path(__file__).with_name("assignments")
     n = miss = 0
+    cubes = full_cube_sprites()
     for rel in texsrc.all_paths():
         ap_ = adir / (rel + ".json")
         if not ap_.exists():
@@ -97,7 +149,7 @@ def main():
             continue
         asg = json.loads(ap_.read_text())
         arr = np.asarray(texsrc.load(rel))
-        res = render(rel, arr, asg)
+        res = render(rel, arr, asg, fill=rel in cubes)
         p = out / rel; p.parent.mkdir(parents=True, exist_ok=True)
         Image.fromarray(res).save(p)
         mc = texsrc.mcmeta(rel)

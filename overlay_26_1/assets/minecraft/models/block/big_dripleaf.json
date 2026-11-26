@@ -62,7 +62,9 @@
           ],
           "texture": "#top"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -96,7 +98,9 @@
           ],
           "texture": "#xray_big_dripleaf_tip_d0"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -130,7 +134,9 @@
           "texture": "#xray_big_dripleaf_side_d0",
           "cullface": "west"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -164,7 +170,9 @@
           ],
           "texture": "#xray_big_dripleaf_side_d0"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -207,7 +215,9 @@
           ],
           "texture": "#stem"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -250,7 +260,10 @@
           ],
           "texture": "#stem"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

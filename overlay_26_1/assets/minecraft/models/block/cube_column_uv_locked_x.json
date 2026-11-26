@@ -41,7 +41,10 @@
           "texture": "#east",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ],
   "textures": {
@@ -52,5 +55,6 @@
     "east": "#end",
     "south": "#side",
     "west": "#end"
-  }
+  },
+  "ambientocclusion": false
 }

@@ -46,7 +46,10 @@
           "texture": "#top",
           "cullface": "up"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -79,7 +82,10 @@
           ],
           "texture": "#xray_flowering_azalea_side_d1"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -112,7 +118,10 @@
           "texture": "#xray_flowering_azalea_side_d1",
           "cullface": "south"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -145,7 +154,10 @@
           ],
           "texture": "#xray_flowering_azalea_side_d1"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -178,7 +190,10 @@
           "texture": "#xray_flowering_azalea_side_d1",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -220,7 +235,10 @@
           ],
           "texture": "#plant"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -262,7 +280,11 @@
           ],
           "texture": "#plant"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

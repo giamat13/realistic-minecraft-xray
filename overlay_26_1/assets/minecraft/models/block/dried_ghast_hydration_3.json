@@ -149,7 +149,10 @@
           "texture": "#xray_dried_ghast_hydration_3_bottom_d1000",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "left_tent_1",
@@ -231,7 +234,10 @@
           "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "left_tent_2",
@@ -313,7 +319,10 @@
           "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "right_tent_1",
@@ -395,7 +404,10 @@
           "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "right_tent_2",
@@ -477,7 +489,10 @@
           "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "back_tent_2",
@@ -559,7 +574,10 @@
           "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "back_tent_1",
@@ -641,7 +659,11 @@
           "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

@@ -94,7 +94,10 @@
           "texture": "#slab",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -154,7 +157,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -214,7 +219,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -238,7 +245,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -262,7 +271,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -286,7 +297,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -310,7 +323,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -334,7 +349,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -358,7 +375,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -382,7 +401,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -406,7 +427,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -430,7 +453,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -454,7 +479,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -478,7 +505,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -502,7 +531,9 @@
           ],
           "texture": "#lit"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

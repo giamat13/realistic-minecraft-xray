@@ -44,7 +44,9 @@
           "texture": "#texture",
           "rotation": 90
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -79,7 +81,9 @@
           "texture": "#texture",
           "rotation": 90
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -112,7 +116,9 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     },
     {
       "from": [
@@ -145,7 +151,9 @@
           ],
           "texture": "#texture"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }

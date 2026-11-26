@@ -1,18 +1,18 @@
 {
  "path": "item/raw_iron.png",
- "depicts": "raw copper ore chunk with malachite patches (same structure as item/raw_copper.png; variant)",
+ "depicts": "lump of raw iron ore",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
    "rgb": [
-    158,
-    131,
-    105
+    59,
+    52,
+    41
    ],
-   "share": 0.28,
-   "material": "copper",
-   "thickness_cm": 1.0
+   "share": 0.143,
+   "material": "magnetite",
+   "thickness_cm": 1.202
   },
   {
    "id": 1,
@@ -22,30 +22,30 @@
     57
    ],
    "share": 0.232,
-   "material": "malachite",
-   "thickness_cm": 1.0
+   "material": "magnetite",
+   "thickness_cm": 1.29
   },
   {
    "id": 2,
    "rgb": [
-    243,
-    210,
-    188
+    136,
+    116,
+    85
    ],
-   "share": 0.19,
-   "material": "copper",
-   "thickness_cm": 1.0
+   "share": 0.119,
+   "material": "magnetite",
+   "thickness_cm": 1.434
   },
   {
    "id": 3,
    "rgb": [
-    59,
-    52,
-    41
+    175,
+    142,
+    119
    ],
-   "share": 0.143,
-   "material": "malachite",
-   "thickness_cm": 0.5
+   "share": 0.161,
+   "material": "magnetite",
+   "thickness_cm": 1.542
   },
   {
    "id": 4,
@@ -55,19 +55,41 @@
     147
    ],
    "share": 0.095,
-   "material": "malachite",
-   "thickness_cm": 0.3
+   "material": "magnetite",
+   "thickness_cm": 1.665
   },
   {
    "id": 5,
+   "rgb": [
+    233,
+    200,
+    177
+   ],
+   "share": 0.101,
+   "material": "magnetite",
+   "thickness_cm": 1.747
+  },
+  {
+   "id": 6,
+   "rgb": [
+    254,
+    222,
+    200
+   ],
+   "share": 0.089,
+   "material": "magnetite",
+   "thickness_cm": 1.824
+  },
+  {
+   "id": 7,
    "rgb": [
     254,
     244,
     237
    ],
    "share": 0.06,
-   "material": "malachite",
-   "thickness_cm": 0.2
+   "material": "magnetite",
+   "thickness_cm": 1.884
   }
  ]
 }

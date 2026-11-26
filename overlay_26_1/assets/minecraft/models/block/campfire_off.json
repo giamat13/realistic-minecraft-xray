@@ -109,7 +109,10 @@
           "texture": "#xray_campfire_log_d400",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -180,7 +183,10 @@
           ],
           "texture": "#xray_campfire_log_d400"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -253,7 +259,10 @@
           "texture": "#xray_campfire_log_d400",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -324,7 +333,10 @@
           ],
           "texture": "#xray_campfire_log_d400"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -379,7 +391,11 @@
           "texture": "#xray_campfire_log_d100",
           "cullface": "down"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

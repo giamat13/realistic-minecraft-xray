@@ -4,5 +4,6 @@
       "force_translucent": true,
       "sprite": "block/lava_still"
     }
-  }
+  },
+  "ambientocclusion": false
 }

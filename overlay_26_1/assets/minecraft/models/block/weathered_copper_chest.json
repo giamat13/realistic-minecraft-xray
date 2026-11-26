@@ -4,5 +4,6 @@
       "force_translucent": true,
       "sprite": "minecraft:block/weathered_copper"
     }
-  }
+  },
+  "ambientocclusion": false
 }

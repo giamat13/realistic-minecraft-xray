@@ -91,7 +91,10 @@
           "texture": "#east",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -153,7 +156,10 @@
           ],
           "texture": "#xray_lime_bed_foot_south_d300"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -215,7 +221,11 @@
           "texture": "#xray_lime_bed_foot_east_d300",
           "cullface": "east"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
-  ]
+  ],
+  "ambientocclusion": false
 }

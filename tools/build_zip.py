@@ -6,7 +6,7 @@ zp = out / f"RealisticXRay-{ver}.zip"
 with zipfile.ZipFile(zp, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
     for f in ["pack.mcmeta", "pack.png", "LICENSE", "README.md"]:
         z.write(f)
-    for d in ["assets", "overlay_26_1", "overlay_26_2"]:
+    for d in sorted(p.name for p in pathlib.Path(".").iterdir() if p.is_dir() and (p.name == "assets" or p.name.startswith("overlay_"))):
         for p in sorted(pathlib.Path(d).rglob("*")):
             if p.is_file():
                 z.write(p)

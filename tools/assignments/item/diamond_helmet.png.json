@@ -1,73 +1,84 @@
 {
  "path": "item/diamond_helmet.png",
- "depicts": "copper armour helmet, copper plate with shaded rim (same structure as item/copper_helmet.png; variant)",
+ "depicts": "diamond helmet",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
    "rgb": [
-    10,
-    48,
-    41
+    8,
+    37,
+    32
    ],
-   "share": 0.59,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "share": 0.346,
+   "material": "diamond",
+   "thickness_cm": 0.255
   },
   {
    "id": 1,
    "rgb": [
-    30,
-    187,
-    176
+    14,
+    63,
+    54
    ],
-   "share": 0.179,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "share": 0.244,
+   "material": "diamond",
+   "thickness_cm": 0.269
   },
   {
    "id": 2,
+   "rgb": [
+    26,
+    170,
+    167
+   ],
+   "share": 0.064,
+   "material": "diamond",
+   "thickness_cm": 0.325
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    197,
+    181
+   ],
+   "share": 0.115,
+   "material": "diamond",
+   "thickness_cm": 0.338
+  },
+  {
+   "id": 4,
    "rgb": [
     74,
     237,
     217
    ],
    "share": 0.167,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.367
   },
   {
-   "id": 3,
+   "id": 5,
    "rgb": [
     161,
     251,
     232
    ],
    "share": 0.051,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.392
   },
   {
-   "id": 4,
+   "id": 6,
    "rgb": [
     255,
     255,
     255
    ],
    "share": 0.013,
-   "material": "copper",
-   "thickness_cm": 0.3
-  },
-  {
-   "id": 5,
-   "rgb": [
-    35,
-    117,
-    107
-   ],
-   "share": 0.0,
-   "material": "copper",
-   "thickness_cm": 0.3
+   "material": "diamond",
+   "thickness_cm": 0.415
   }
  ]
 }

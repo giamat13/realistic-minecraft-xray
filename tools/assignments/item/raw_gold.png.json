@@ -1,73 +1,84 @@
 {
  "path": "item/raw_gold.png",
- "depicts": "raw copper ore chunk with malachite patches (same structure as item/raw_copper.png; variant)",
+ "depicts": "lump of raw gold",
  "kind": "item",
  "clusters": [
   {
    "id": 0,
-   "rgb": [
-    248,
-    210,
-    48
-   ],
-   "share": 0.312,
-   "material": "copper",
-   "thickness_cm": 1.0
-  },
-  {
-   "id": 1,
-   "rgb": [
-    226,
-    145,
-    4
-   ],
-   "share": 0.212,
-   "material": "malachite",
-   "thickness_cm": 1.0
-  },
-  {
-   "id": 2,
-   "rgb": [
-    178,
-    100,
-    17
-   ],
-   "share": 0.194,
-   "material": "copper",
-   "thickness_cm": 1.0
-  },
-  {
-   "id": 3,
    "rgb": [
     109,
     71,
     24
    ],
    "share": 0.15,
-   "material": "malachite",
-   "thickness_cm": 0.5
+   "material": "gold",
+   "thickness_cm": 0.801
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    100,
+    17
+   ],
+   "share": 0.194,
+   "material": "gold",
+   "thickness_cm": 0.887
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    145,
+    4
+   ],
+   "share": 0.212,
+   "material": "gold",
+   "thickness_cm": 0.98
+  },
+  {
+   "id": 3,
+   "rgb": [
+    247,
+    196,
+    49
+   ],
+   "share": 0.2,
+   "material": "gold",
+   "thickness_cm": 1.077
   },
   {
    "id": 4,
+   "rgb": [
+    250,
+    234,
+    46
+   ],
+   "share": 0.113,
+   "material": "gold",
+   "thickness_cm": 1.131
+  },
+  {
+   "id": 5,
    "rgb": [
     255,
     247,
     157
    ],
    "share": 0.075,
-   "material": "malachite",
-   "thickness_cm": 0.3
+   "material": "gold",
+   "thickness_cm": 1.182
   },
   {
-   "id": 5,
+   "id": 6,
    "rgb": [
     255,
     255,
     253
    ],
    "share": 0.056,
-   "material": "malachite",
-   "thickness_cm": 0.2
+   "material": "gold",
+   "thickness_cm": 1.219
   }
  ]
 }

@@ -67,5 +67,5 @@ void vanillaMain() {
 
 void main() {
     vanillaMain();
-    fragColor.rgb = vec3(dot(fragColor.rgb, vec3(0.2126, 0.7152, 0.0722)));
+    fragColor = vec4(1.0);
 }

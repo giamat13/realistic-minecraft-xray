@@ -104,7 +104,10 @@
           ],
           "texture": "#xray_shelf_mushroom_stage1_d300"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "name": "mushroom_bottom",
@@ -174,7 +177,10 @@
           ],
           "texture": "#xray_shelf_mushroom_stage1_d200"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ],
   "display": {
@@ -279,5 +285,6 @@
         4
       ]
     }
-  }
+  },
+  "ambientocclusion": false
 }

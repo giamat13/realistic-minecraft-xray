@@ -38,7 +38,10 @@
         "north": {
           "texture": "#xray_chorus_plant_d800"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     },
     {
       "from": [
@@ -67,7 +70,10 @@
         "east": {
           "texture": "#xray_chorus_plant_d800"
         }
-      }
+      },
+      "shade": false,
+      "shade_direction_override": "up",
+      "light_emission": 15
     }
   ]
 }

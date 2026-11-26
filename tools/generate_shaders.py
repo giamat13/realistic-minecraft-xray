@@ -1,15 +1,18 @@
-"""Black and white for what the game colours in code (particles, entities, held and GUI items, sky, text).
+"""Black and white for what the game colours in code (particles, entities, held and GUI items, text),
+no lighting, and a black sky: nothing on a radiograph is lit, and empty space is unexposed.
 
 Wraps the vanilla core fragment shaders so their output keeps its brightness but loses its hue.
+The light map becomes plain white and the sky, sun, stars and clouds emit nothing.
 Left out on purpose: terrain (Sodium does not support resource packs replacing it; water and terrain
 are covered by the Improved Transparency composite in shaders/post/transparency.fsh) and the
 technical blit / mask shaders, whose output is not a colour on screen.
-Usage: python3 tools/generate_shaders.py <26.2 client.jar>"""
+Usage: python3 tools/generate_shaders.py <client.jar> <overlay directory>"""
 import re, sys, zipfile, pathlib, shutil
 
-OUT = pathlib.Path("overlay_26_2/assets/minecraft/shaders/core")
 PREFIX = "assets/minecraft/shaders/core/"
-SKIP = {"terrain", "animate_sprite_blit", "animate_sprite_interpolate", "blit_screen", "rendertype_water_mask"}
+SKIP = {"terrain", "animate_sprite_blit", "animate_sprite_interpolate", "blit_screen", "rendertype_water_mask",
+        "blit_depth", "integrate_depth", "oit_depth_bounds_cull"}
+CONSTANT = {"lightmap": "vec4(1.0)", "sky": "vec4(0.0, 0.0, 0.0, 1.0)", "stars": "vec4(0.0)"}
 WRAPPER = """
 void main() {
     vanillaMain();
@@ -18,8 +21,9 @@ void main() {
 """
 
 def main():
-    shutil.rmtree(OUT, ignore_errors=True)
-    OUT.mkdir(parents=True)
+    out = pathlib.Path(sys.argv[2]) / PREFIX
+    shutil.rmtree(out, ignore_errors=True)
+    out.mkdir(parents=True)
     done = 0
     with zipfile.ZipFile(sys.argv[1]) as z:
         for name in z.namelist():
@@ -29,7 +33,11 @@ def main():
             src, n = re.subn(r"\bvoid\s+main\s*\(\s*(?:void)?\s*\)", "void vanillaMain()", src)
             if n != 1 or not re.search(r"\bout\s+vec4\s+fragColor\s*;", src):
                 sys.exit(f"unexpected shader layout: {name}")
-            (OUT / pathlib.PurePosixPath(name).name).write_text(src.rstrip() + "\n" + WRAPPER, encoding="utf-8", newline="\n")
+            stem = pathlib.PurePosixPath(name).stem
+            body = WRAPPER
+            if stem in CONSTANT:
+                body = f"\nvoid main() {{\n    vanillaMain();\n    fragColor = {CONSTANT[stem]};\n}}\n"
+            (out / (stem + ".fsh")).write_text(src.rstrip() + "\n" + body, encoding="utf-8", newline="\n")
             done += 1
     print(f"shaders written: {done}")
 

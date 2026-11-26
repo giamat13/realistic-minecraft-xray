@@ -31,8 +31,7 @@
             0,
             16
           ],
-          "texture": "#vine",
-          "tintindex": 0
+          "texture": "#vine"
         },
         "south": {
           "uv": [
@@ -41,10 +40,11 @@
             16,
             16
           ],
-          "texture": "#vine",
-          "tintindex": 0
+          "texture": "#vine"
         }
-      }
+      },
+      "shade": false,
+      "light_emission": 15
     }
   ]
 }
