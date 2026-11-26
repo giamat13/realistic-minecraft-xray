@@ -1,0 +1,73 @@
+{
+ "path": "entity/cow/cow_warm_baby.png",
+ "depicts": "baby warm cow: reddish-brown hide over muscle, pink ears and muzzle, dark hooves",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    60,
+    41
+   ],
+   "share": 0.597,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    35,
+    26
+   ],
+   "share": 0.177,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    153,
+    133
+   ],
+   "share": 0.154,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    173,
+    109,
+    90
+   ],
+   "share": 0.05,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    73,
+    73
+   ],
+   "share": 0.019,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.004,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

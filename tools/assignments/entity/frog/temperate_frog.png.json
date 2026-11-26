@@ -1,0 +1,73 @@
+{
+ "path": "entity/frog/temperate_frog.png",
+ "depicts": "temperate frog (~8 cm body, alternate texture): orange-brown frog skin over soft tissue, pale belly, pink mouth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    197,
+    114,
+    71
+   ],
+   "share": 0.581,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    219,
+    170,
+    110
+   ],
+   "share": 0.171,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    77,
+    44
+   ],
+   "share": 0.12,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    61,
+    26,
+    8
+   ],
+   "share": 0.099,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    244,
+    150,
+    129
+   ],
+   "share": 0.028,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    182,
+    182
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

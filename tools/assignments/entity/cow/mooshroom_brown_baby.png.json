@@ -1,0 +1,73 @@
+{
+ "path": "entity/cow/mooshroom_brown_baby.png",
+ "depicts": "baby brown mooshroom: brown hide over muscle, dark hooves and black eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    147,
+    107,
+    78
+   ],
+   "share": 0.792,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    195,
+    147,
+    118
+   ],
+   "share": 0.093,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    22,
+    19,
+    19
+   ],
+   "share": 0.073,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.031,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    69,
+    69
+   ],
+   "share": 0.01,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    220,
+    220,
+    220
+   ],
+   "share": 0.002,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

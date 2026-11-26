@@ -1,0 +1,73 @@
+{
+ "path": "environment/end_flash.png",
+ "depicts": "End-dimension lightning flash glow: energetic plasma over a near-black void",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    2,
+    1,
+    2
+   ],
+   "share": 0.638,
+   "material": "vacuum",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    12,
+    20
+   ],
+   "share": 0.148,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    37,
+    27,
+    44
+   ],
+   "share": 0.083,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    44,
+    71
+   ],
+   "share": 0.058,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    83,
+    61,
+    99
+   ],
+   "share": 0.041,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    108,
+    80,
+    130
+   ],
+   "share": 0.032,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  }
+ ]
+}

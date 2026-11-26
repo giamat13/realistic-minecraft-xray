@@ -1,0 +1,73 @@
+{
+ "path": "entity/chicken/chicken_warm.png",
+ "depicts": "adult warm-biome chicken UV map: orange-cream feathered body, red comb, dark beak and legs, black eye",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    237,
+    152,
+    83
+   ],
+   "share": 0.405,
+   "material": "feather",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    208,
+    127
+   ],
+   "share": 0.335,
+   "material": "feather",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    195,
+    97,
+    44
+   ],
+   "share": 0.112,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    121,
+    65,
+    53
+   ],
+   "share": 0.085,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    238,
+    0,
+    0
+   ],
+   "share": 0.058,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.004,
+   "material": "water",
+   "thickness_cm": 1.5
+  }
+ ]
+}

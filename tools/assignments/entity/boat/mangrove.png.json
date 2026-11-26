@@ -1,0 +1,73 @@
+{
+ "path": "entity/boat/mangrove.png",
+ "depicts": "mangrove boat entity skin: reddish-brown mangrove wood hull planks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    118,
+    53,
+    53
+   ],
+   "share": 0.342,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    66,
+    52
+   ],
+   "share": 0.223,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    111,
+    42,
+    45
+   ],
+   "share": 0.142,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    77,
+    58
+   ],
+   "share": 0.121,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    100,
+    36,
+    35
+   ],
+   "share": 0.096,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    93,
+    28,
+    30
+   ],
+   "share": 0.075,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_markings_whitefield.png",
+ "depicts": "horse coat overlay: white field marking, white hair layer over hide (overlay)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    252,
+    252
+   ],
+   "share": 0.338,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.262,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    218,
+    218,
+    218
+   ],
+   "share": 0.262,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    202,
+    202,
+    202
+   ],
+   "share": 0.121,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    190,
+    190,
+    190
+   ],
+   "share": 0.015,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    177,
+    177
+   ],
+   "share": 0.003,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

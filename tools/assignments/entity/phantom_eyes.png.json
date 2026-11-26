@@ -1,0 +1,29 @@
+{
+ "path": "entity/phantom_eyes.png",
+ "depicts": "glowing green eyes of a phantom (same eye sprite, alternate path)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    220,
+    11
+   ],
+   "share": 0.5,
+   "material": "phosphor",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    255,
+    0
+   ],
+   "share": 0.5,
+   "material": "phosphor",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/llama_body/white.png",
+ "depicts": "Llama carpet (white woven wool with green and red stripes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    242,
+    238
+   ],
+   "share": 0.338,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    175,
+    175,
+    175
+   ],
+   "share": 0.199,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    99,
+    188,
+    84
+   ],
+   "share": 0.157,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    82,
+    82
+   ],
+   "share": 0.157,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    184,
+    184
+   ],
+   "share": 0.104,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.044,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

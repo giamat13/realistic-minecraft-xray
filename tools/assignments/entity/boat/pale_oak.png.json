@@ -1,0 +1,73 @@
+{
+ "path": "entity/boat/pale_oak.png",
+ "depicts": "pale oak boat entity skin: near-white pale oak wood hull planks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    250,
+    239,
+    238
+   ],
+   "share": 0.223,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    227,
+    225
+   ],
+   "share": 0.178,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    196,
+    181,
+    181
+   ],
+   "share": 0.171,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    221,
+    206,
+    205
+   ],
+   "share": 0.164,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    210,
+    198,
+    199
+   ],
+   "share": 0.142,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    251,
+    248
+   ],
+   "share": 0.121,
+   "material": "planks",
+   "thickness_cm": 2.0
+  }
+ ]
+}

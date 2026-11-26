@@ -1,0 +1,18 @@
+{
+ "path": "environment/clouds.png",
+ "depicts": "White cumulus clouds: suspended water droplets, effective 0.5 cm path",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "water",
+   "thickness_cm": 0.5
+  }
+ ]
+}

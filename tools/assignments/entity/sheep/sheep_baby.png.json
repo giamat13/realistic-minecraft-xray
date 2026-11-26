@@ -1,0 +1,73 @@
+{
+ "path": "entity/sheep/sheep_baby.png",
+ "depicts": "baby sheep mob body: wool-coloured body with grey shading, tan face skin, dark hooves and eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    245,
+    245,
+    245
+   ],
+   "share": 0.526,
+   "material": "wool",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.288,
+   "material": "wool",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    152,
+    127
+   ],
+   "share": 0.096,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    70,
+    58
+   ],
+   "share": 0.084,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.004,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    184,
+    184
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

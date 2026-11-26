@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_woods_baby.png",
+ "depicts": "baby wild woodland wolf: brown fur over skin, dark nose and paws",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    87,
+    70,
+    46
+   ],
+   "share": 0.372,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    209,
+    195,
+    171
+   ],
+   "share": 0.188,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    134,
+    104,
+    72
+   ],
+   "share": 0.137,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    162,
+    149,
+    131
+   ],
+   "share": 0.121,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    172,
+    128,
+    88
+   ],
+   "share": 0.117,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    55,
+    45,
+    32
+   ],
+   "share": 0.064,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

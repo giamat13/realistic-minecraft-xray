@@ -1,0 +1,73 @@
+{
+ "path": "gui/book.png",
+ "depicts": "written-book GUI background: cream paper pages with leather-brown cover edges, ink text pixels and paper shading",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    253,
+    247,
+    231
+   ],
+   "share": 0.778,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    39,
+    21
+   ],
+   "share": 0.126,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    218,
+    202,
+    168
+   ],
+   "share": 0.036,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    147,
+    54,
+    37
+   ],
+   "share": 0.028,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    28,
+    15,
+    0
+   ],
+   "share": 0.024,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    118,
+    92
+   ],
+   "share": 0.007,
+   "material": "paper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

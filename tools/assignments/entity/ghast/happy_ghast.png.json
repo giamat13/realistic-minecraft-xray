@@ -1,0 +1,73 @@
+{
+ "path": "entity/ghast/happy_ghast.png",
+ "depicts": "happy ghast (~4.5 m organic gel mantle, same body as ghast): white body with grey tentacle shading",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    240,
+    240,
+    240
+   ],
+   "share": 0.643,
+   "material": "organic_gel",
+   "thickness_cm": 450.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    249,
+    249,
+    249
+   ],
+   "share": 0.135,
+   "material": "organic_gel",
+   "thickness_cm": 450.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    222,
+    222
+   ],
+   "share": 0.116,
+   "material": "organic_gel",
+   "thickness_cm": 450.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    204,
+    204
+   ],
+   "share": 0.099,
+   "material": "organic_gel",
+   "thickness_cm": 450.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    115,
+    115
+   ],
+   "share": 0.005,
+   "material": "organic_gel",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    157,
+    153,
+    153
+   ],
+   "share": 0.002,
+   "material": "organic_gel",
+   "thickness_cm": 20.0
+  }
+ ]
+}

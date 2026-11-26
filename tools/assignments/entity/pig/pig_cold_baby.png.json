@@ -1,0 +1,73 @@
+{
+ "path": "entity/pig/pig_cold_baby.png",
+ "depicts": "cold-variant baby pig mob skin, smaller body with snout and hooves",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    208,
+    162,
+    122
+   ],
+   "share": 0.581,
+   "material": "soft_tissue",
+   "thickness_cm": 7.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    210,
+    164
+   ],
+   "share": 0.191,
+   "material": "soft_tissue",
+   "thickness_cm": 7.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    166,
+    114,
+    92
+   ],
+   "share": 0.126,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    75,
+    66
+   ],
+   "share": 0.072,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    62,
+    35,
+    27
+   ],
+   "share": 0.027,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    2,
+    0,
+    1
+   ],
+   "share": 0.003,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

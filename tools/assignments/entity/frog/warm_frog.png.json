@@ -1,0 +1,73 @@
+{
+ "path": "entity/frog/warm_frog.png",
+ "depicts": "warm frog (~8 cm body, alternate texture): pale grey-green frog skin over soft tissue, pale belly, red throat",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    169,
+    147
+   ],
+   "share": 0.745,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    117,
+    116,
+    93
+   ],
+   "share": 0.107,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    41,
+    41
+   ],
+   "share": 0.099,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    78,
+    78
+   ],
+   "share": 0.018,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    206,
+    201,
+    181
+   ],
+   "share": 0.018,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    138,
+    138
+   ],
+   "share": 0.013,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

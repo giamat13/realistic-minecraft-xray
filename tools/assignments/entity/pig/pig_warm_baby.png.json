@@ -1,0 +1,73 @@
+{
+ "path": "entity/pig/pig_warm_baby.png",
+ "depicts": "warm-variant baby pig mob skin: orange-brown body with snout and legs",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    174,
+    88,
+    46
+   ],
+   "share": 0.361,
+   "material": "soft_tissue",
+   "thickness_cm": 7.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    210,
+    122,
+    61
+   ],
+   "share": 0.337,
+   "material": "soft_tissue",
+   "thickness_cm": 7.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    59,
+    52
+   ],
+   "share": 0.132,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    102,
+    45,
+    17
+   ],
+   "share": 0.124,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    159,
+    107
+   ],
+   "share": 0.043,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    2,
+    0,
+    1
+   ],
+   "share": 0.003,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

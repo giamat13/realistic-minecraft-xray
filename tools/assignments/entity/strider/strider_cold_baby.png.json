@@ -1,0 +1,73 @@
+{
+ "path": "entity/strider/strider_cold_baby.png",
+ "depicts": "baby cold-variant strider mob (mauve-hided body, grey hooves, pale tusks, eye)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    98,
+    65,
+    80
+   ],
+   "share": 0.458,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    94,
+    116
+   ],
+   "share": 0.354,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    59,
+    47,
+    52
+   ],
+   "share": 0.166,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    203,
+    167,
+    136
+   ],
+   "share": 0.008,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    12,
+    8,
+    8
+   ],
+   "share": 0.007,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    246,
+    224,
+    191
+   ],
+   "share": 0.007,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

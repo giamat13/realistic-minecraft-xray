@@ -1,0 +1,73 @@
+{
+ "path": "entity/cushion/light_blue_cushion.png",
+ "depicts": "light blue dyed cushion: wool stuffing under dyed fabric with textile seams",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    143,
+    208
+   ],
+   "share": 0.471,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    37,
+    129,
+    194
+   ],
+   "share": 0.197,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    117,
+    182
+   ],
+   "share": 0.096,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    45,
+    158,
+    211
+   ],
+   "share": 0.092,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    55,
+    186,
+    212
+   ],
+   "share": 0.072,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    51,
+    173,
+    209
+   ],
+   "share": 0.072,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

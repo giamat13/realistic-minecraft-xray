@@ -1,0 +1,73 @@
+{
+ "path": "entity/chicken/chicken_temperate.png",
+ "depicts": "adult temperate chicken UV map: white feathered body, red comb and wattle, yellow beak and legs, black eye",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.618,
+   "material": "feather",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.219,
+   "material": "feather",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    162,
+    124,
+    58
+   ],
+   "share": 0.076,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    0,
+    0
+   ],
+   "share": 0.058,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    203,
+    102
+   ],
+   "share": 0.025,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.004,
+   "material": "water",
+   "thickness_cm": 1.5
+  }
+ ]
+}

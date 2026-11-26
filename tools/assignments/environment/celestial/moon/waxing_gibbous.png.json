@@ -1,0 +1,73 @@
+{
+ "path": "environment/celestial/moon/waxing_gibbous.png",
+ "depicts": "Waxing gibbous moon phase sprite: lunar basalt-like surface on a dark night-sky background",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    4,
+    6,
+    11
+   ],
+   "share": 0.951,
+   "material": "vacuum",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    93,
+    101,
+    120
+   ],
+   "share": 0.016,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    175,
+    184,
+    204
+   ],
+   "share": 0.01,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    134,
+    153
+   ],
+   "share": 0.009,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    43,
+    47,
+    56
+   ],
+   "share": 0.008,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    228,
+    255
+   ],
+   "share": 0.007,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  }
+ ]
+}

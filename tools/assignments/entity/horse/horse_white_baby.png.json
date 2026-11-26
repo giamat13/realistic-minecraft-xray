@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_white_baby.png",
+ "depicts": "baby white horse: white hide over muscle, pinkish muzzle, dark hooves",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    209,
+    209
+   ],
+   "share": 0.385,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    186,
+    186,
+    186
+   ],
+   "share": 0.359,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.163,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    81,
+    74
+   ],
+   "share": 0.06,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    47,
+    31,
+    24
+   ],
+   "share": 0.031,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.003,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

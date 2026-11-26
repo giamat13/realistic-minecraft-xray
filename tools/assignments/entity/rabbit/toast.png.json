@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/toast.png",
+ "depicts": "toast rabbit mob skin: black-brown fur body with white/light-grey patches and pale ear inner",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    38,
+    38
+   ],
+   "share": 0.291,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    223,
+    223
+   ],
+   "share": 0.288,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    15,
+    14,
+    14
+   ],
+   "share": 0.18,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.158,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    189,
+    189,
+    189
+   ],
+   "share": 0.069,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    98,
+    98,
+    98
+   ],
+   "share": 0.013,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

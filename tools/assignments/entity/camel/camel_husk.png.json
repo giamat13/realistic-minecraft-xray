@@ -1,0 +1,73 @@
+{
+ "path": "entity/camel/camel_husk.png",
+ "depicts": "husk camel (undead camel) skin: decayed dark-tan flesh over soft tissue, dark hair and shadows",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    63,
+    54,
+    41
+   ],
+   "share": 0.417,
+   "material": "soft_tissue",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    35,
+    31,
+    26
+   ],
+   "share": 0.305,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    84,
+    73,
+    55
+   ],
+   "share": 0.16,
+   "material": "soft_tissue",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    86,
+    68
+   ],
+   "share": 0.113,
+   "material": "soft_tissue",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    103,
+    82
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    3,
+    2,
+    1
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/cow/temperate_cow.png",
+ "depicts": "temperate cow (alternate file): dark hide and white patches over muscle, grey-brown hooves, black nose and bone horns",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    63,
+    49,
+    36
+   ],
+   "share": 0.611,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    184,
+    169,
+    169
+   ],
+   "share": 0.214,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    89,
+    81,
+    73
+   ],
+   "share": 0.079,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    126,
+    126
+   ],
+   "share": 0.073,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    20,
+    17,
+    17
+   ],
+   "share": 0.016,
+   "material": "ink",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    220,
+    220,
+    220
+   ],
+   "share": 0.008,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

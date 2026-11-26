@@ -1,0 +1,18 @@
+{
+ "path": "entity/horse/horse_markings_blackdots_baby.png",
+ "depicts": "baby horse coat overlay: black spot markings, pigmented hair (overlay layer)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 1.0,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

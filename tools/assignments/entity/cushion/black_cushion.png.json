@@ -1,0 +1,73 @@
+{
+ "path": "entity/cushion/black_cushion.png",
+ "depicts": "black dyed cushion: wool stuffing under dyed fabric with textile seams",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    39,
+    38,
+    55
+   ],
+   "share": 0.473,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    31,
+    30,
+    43
+   ],
+   "share": 0.195,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    25,
+    24,
+    34
+   ],
+   "share": 0.096,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    47,
+    46,
+    63
+   ],
+   "share": 0.092,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    55,
+    71
+   ],
+   "share": 0.072,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    52,
+    51,
+    67
+   ],
+   "share": 0.072,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

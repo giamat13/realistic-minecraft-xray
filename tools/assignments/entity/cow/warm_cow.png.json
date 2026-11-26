@@ -1,0 +1,73 @@
+{
+ "path": "entity/cow/warm_cow.png",
+ "depicts": "warm cow (alternate file): reddish-brown hide over muscle, pink muzzle, black nose and white horn tips",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    143,
+    72,
+    54
+   ],
+   "share": 0.42,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    118,
+    51,
+    35
+   ],
+   "share": 0.38,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    152,
+    134
+   ],
+   "share": 0.148,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    247,
+    175,
+    175
+   ],
+   "share": 0.033,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    28,
+    20,
+    18
+   ],
+   "share": 0.017,
+   "material": "ink",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

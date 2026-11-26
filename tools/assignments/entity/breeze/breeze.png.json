@@ -1,0 +1,73 @@
+{
+ "path": "entity/breeze/breeze.png",
+ "depicts": "breeze wind-elemental mob skin: visible wind-body shell in lavender and blue tones with dark sockets and glowing yellow marks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    179,
+    164,
+    202
+   ],
+   "share": 0.354,
+   "material": "steam",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    101,
+    145
+   ],
+   "share": 0.293,
+   "material": "steam",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    131,
+    195
+   ],
+   "share": 0.262,
+   "material": "steam",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    236,
+    247
+   ],
+   "share": 0.046,
+   "material": "steam",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    42,
+    55
+   ],
+   "share": 0.038,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    249,
+    213,
+    100
+   ],
+   "share": 0.008,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  }
+ ]
+}

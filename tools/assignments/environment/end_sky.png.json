@@ -1,0 +1,73 @@
+{
+ "path": "environment/end_sky.png",
+ "depicts": "End dimension sky: purple gaseous sky texture (treated as sky gas)",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    85,
+    162
+   ],
+   "share": 0.486,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    68,
+    129
+   ],
+   "share": 0.195,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    134,
+    106,
+    176
+   ],
+   "share": 0.129,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    154,
+    130,
+    189
+   ],
+   "share": 0.085,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    65,
+    47,
+    90
+   ],
+   "share": 0.075,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    180,
+    162,
+    206
+   ],
+   "share": 0.03,
+   "material": "air",
+   "thickness_cm": 1000.0
+  }
+ ]
+}

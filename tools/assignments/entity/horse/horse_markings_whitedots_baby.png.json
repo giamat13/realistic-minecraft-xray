@@ -1,0 +1,29 @@
+{
+ "path": "entity/horse/horse_markings_whitedots_baby.png",
+ "depicts": "baby horse coat overlay: white dotted markings, white hair (overlay layer)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.975,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.025,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

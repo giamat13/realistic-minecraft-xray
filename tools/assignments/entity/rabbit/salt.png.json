@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/salt.png",
+ "depicts": "salt rabbit mob skin: grey-brown salt-and-pepper fur body/head with pale ear inner and light belly",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    158,
+    143,
+    125
+   ],
+   "share": 0.286,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    124,
+    104
+   ],
+   "share": 0.283,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    92,
+    82,
+    67
+   ],
+   "share": 0.163,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    185,
+    184
+   ],
+   "share": 0.159,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    220,
+    218,
+    220
+   ],
+   "share": 0.066,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    242,
+    240,
+    242
+   ],
+   "share": 0.043,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_tame_baby.png",
+ "depicts": "baby tamed grey wolf: grey fur over skin, dark nose and paws",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    210,
+    211
+   ],
+   "share": 0.535,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    190,
+    190
+   ],
+   "share": 0.259,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    173,
+    161,
+    152
+   ],
+   "share": 0.16,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    152,
+    116,
+    87
+   ],
+   "share": 0.022,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    56,
+    53
+   ],
+   "share": 0.019,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.005,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

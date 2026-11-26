@@ -1,0 +1,73 @@
+{
+ "path": "entity/shulker/shulker_black.png",
+ "depicts": "shulker box mob (black dyed chitinous shell lid + pale soft body peeking below)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    13,
+    15,
+    19
+   ],
+   "share": 0.517,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    28,
+    28,
+    32
+   ],
+   "share": 0.365,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    228,
+    236,
+    171
+   ],
+   "share": 0.072,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    204,
+    202,
+    146
+   ],
+   "share": 0.025,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    180,
+    176,
+    115
+   ],
+   "share": 0.02,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

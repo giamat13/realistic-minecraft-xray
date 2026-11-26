@@ -1,0 +1,73 @@
+{
+ "path": "entity/camel/camel_baby.png",
+ "depicts": "baby camel mob skin: light tan hide over soft-tissue body, dark hooves and hair",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    247,
+    205,
+    128
+   ],
+   "share": 0.418,
+   "material": "soft_tissue",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    175,
+    96
+   ],
+   "share": 0.37,
+   "material": "soft_tissue",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    208,
+    146,
+    72
+   ],
+   "share": 0.172,
+   "material": "soft_tissue",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    78,
+    54
+   ],
+   "share": 0.027,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    98,
+    67
+   ],
+   "share": 0.011,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    169,
+    132,
+    72
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

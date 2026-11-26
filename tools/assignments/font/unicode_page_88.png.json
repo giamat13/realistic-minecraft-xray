@@ -1,0 +1,18 @@
+{
+ "path": "font/unicode_page_88.png",
+ "depicts": "Minecraft Unicode font bitmap page U+8800-U+88FF (CJK ideograph range): white glyph strokes of printed characters on a transparent background, i.e. ink-only text",
+ "kind": "font",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/llama_body/trader_llama_baby.png",
+ "depicts": "baby trader llama carpet (striped wool with gold and dark red trim)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    85,
+    132
+   ],
+   "share": 0.519,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    190,
+    0
+   ],
+   "share": 0.148,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    204,
+    142,
+    41
+   ],
+   "share": 0.148,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    17,
+    0
+   ],
+   "share": 0.139,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    95,
+    30
+   ],
+   "share": 0.046,
+   "material": "wool",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    100,
+    76
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 0.3
+  }
+ ]
+}

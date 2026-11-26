@@ -1,0 +1,73 @@
+{
+ "path": "entity/pig/pig_cold.png",
+ "depicts": "cold-variant adult pig mob skin (same layout as cold_pig)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    190,
+    139,
+    108
+   ],
+   "share": 0.619,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    227,
+    197,
+    148
+   ],
+   "share": 0.332,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    127,
+    84,
+    74
+   ],
+   "share": 0.04,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    35,
+    27
+   ],
+   "share": 0.007,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_skeleton_baby.png",
+ "depicts": "baby skeleton horse: bleached bone skull and limbs with dark sockets",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    218,
+    218,
+    218
+   ],
+   "share": 0.447,
+   "material": "bone",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    180,
+    179,
+    180
+   ],
+   "share": 0.263,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    22,
+    22,
+    22
+   ],
+   "share": 0.107,
+   "material": "air",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    149,
+    149
+   ],
+   "share": 0.1,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.046,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    113,
+    113
+   ],
+   "share": 0.037,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

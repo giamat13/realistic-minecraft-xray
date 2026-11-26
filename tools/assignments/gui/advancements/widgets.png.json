@@ -1,0 +1,73 @@
+{
+ "path": "gui/advancements/widgets.png",
+ "depicts": "advancement widget sprites: gold and blue bordered frames, dark bevel panels and white highlight pixels",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    22,
+    23
+   ],
+   "share": 0.337,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    184,
+    140,
+    35
+   ],
+   "share": 0.303,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    3,
+    108,
+    153
+   ],
+   "share": 0.219,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.075,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    80,
+    73,
+    55
+   ],
+   "share": 0.058,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.008,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

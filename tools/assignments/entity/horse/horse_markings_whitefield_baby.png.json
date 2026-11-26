@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_markings_whitefield_baby.png",
+ "depicts": "baby horse coat overlay: white field marking, white hair layer (overlay)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    199,
+    199,
+    199
+   ],
+   "share": 0.241,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.235,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    246,
+    246,
+    246
+   ],
+   "share": 0.209,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    218,
+    218
+   ],
+   "share": 0.198,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    177,
+    177,
+    177
+   ],
+   "share": 0.096,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    190,
+    190
+   ],
+   "share": 0.021,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

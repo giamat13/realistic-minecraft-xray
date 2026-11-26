@@ -1,0 +1,29 @@
+{
+ "path": "gui/inworld_header_separator.png",
+ "depicts": "32x2 UI divider bar: black backing band plus white hairline highlight; abstract GUI sprite",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.5,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.5,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

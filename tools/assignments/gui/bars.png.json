@@ -1,0 +1,73 @@
+{
+ "path": "gui/bars.png",
+ "depicts": "boss and status bar sprites: dark brown track with purple, orange, cyan, green coloured bar fills and grey outline pixels",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    34,
+    28,
+    26
+   ],
+   "share": 0.761,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    142,
+    0,
+    166
+   ],
+   "share": 0.072,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    194,
+    131,
+    0
+   ],
+   "share": 0.059,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    144,
+    186
+   ],
+   "share": 0.036,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    23,
+    186,
+    0
+   ],
+   "share": 0.036,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    187,
+    187,
+    187
+   ],
+   "share": 0.036,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

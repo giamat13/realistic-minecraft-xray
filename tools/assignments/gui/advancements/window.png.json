@@ -1,0 +1,73 @@
+{
+ "path": "gui/advancements/window.png",
+ "depicts": "advancement window frame: grey panel with black border lines and white highlight edges",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.465,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.357,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.061,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.061,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    147,
+    147,
+    147
+   ],
+   "share": 0.028,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    33,
+    33
+   ],
+   "share": 0.028,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

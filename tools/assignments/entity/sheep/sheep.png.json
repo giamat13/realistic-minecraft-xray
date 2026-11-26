@@ -1,0 +1,73 @@
+{
+ "path": "entity/sheep/sheep.png",
+ "depicts": "sheep mob base skin layer (under the wool): tan skin body with pale speckles, pale face, pink nose, dark hooves and eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    151,
+    126
+   ],
+   "share": 0.52,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    226,
+    226,
+    226
+   ],
+   "share": 0.374,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    248,
+    246,
+    245
+   ],
+   "share": 0.072,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    70,
+    58
+   ],
+   "share": 0.023,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    240,
+    162,
+    162
+   ],
+   "share": 0.01,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    4,
+    4,
+    4
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  }
+ ]
+}

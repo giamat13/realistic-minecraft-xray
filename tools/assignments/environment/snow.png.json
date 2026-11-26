@@ -1,0 +1,18 @@
+{
+ "path": "environment/snow.png",
+ "depicts": "Falling snowflakes: white ice crystals (4-frame strip)",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "ice",
+   "thickness_cm": 0.2
+  }
+ ]
+}

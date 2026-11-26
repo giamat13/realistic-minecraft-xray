@@ -1,0 +1,73 @@
+{
+ "path": "environment/celestial/sun.png",
+ "depicts": "Sun disc: hot hydrogen plasma glowing over the dark sky background",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    3,
+    3,
+    1
+   ],
+   "share": 0.594,
+   "material": "vacuum",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    17,
+    17,
+    6
+   ],
+   "share": 0.211,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    32,
+    32,
+    13
+   ],
+   "share": 0.133,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    213,
+    74
+   ],
+   "share": 0.027,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    170
+   ],
+   "share": 0.02,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    217
+   ],
+   "share": 0.016,
+   "material": "plasma_particle",
+   "thickness_cm": 1000.0
+  }
+ ]
+}

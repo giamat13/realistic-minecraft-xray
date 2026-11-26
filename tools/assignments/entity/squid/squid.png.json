@@ -1,0 +1,73 @@
+{
+ "path": "entity/squid/squid.png",
+ "depicts": "squid body (dark blue-grey mantle and tentacles) with white eyes and red markings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    18,
+    39,
+    55
+   ],
+   "share": 0.345,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    84,
+    109,
+    128
+   ],
+   "share": 0.304,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    70,
+    89
+   ],
+   "share": 0.296,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    127,
+    24,
+    24
+   ],
+   "share": 0.028,
+   "material": "blood",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.014,
+   "material": "water",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    92,
+    0,
+    0
+   ],
+   "share": 0.012,
+   "material": "blood",
+   "thickness_cm": 0.5
+  }
+ ]
+}

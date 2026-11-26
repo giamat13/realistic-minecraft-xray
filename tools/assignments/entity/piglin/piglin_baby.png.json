@@ -1,0 +1,73 @@
+{
+ "path": "entity/piglin/piglin_baby.png",
+ "depicts": "baby piglin mob: skin, dark hair, cloth clothing, gold trim",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    250,
+    184,
+    139
+   ],
+   "share": 0.357,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    221,
+    136,
+    103
+   ],
+   "share": 0.339,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    125,
+    68,
+    44
+   ],
+   "share": 0.181,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    54,
+    38,
+    29
+   ],
+   "share": 0.119,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.002,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    245,
+    218,
+    42
+   ],
+   "share": 0.001,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

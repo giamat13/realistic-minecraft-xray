@@ -1,0 +1,62 @@
+{
+ "path": "entity/warden/warden_heart.png",
+ "depicts": "Warden chest heart: glowing sculk-skinned core with bright cyan veins",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    5,
+    98,
+    93
+   ],
+   "share": 0.361,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    13,
+    18,
+    23
+   ],
+   "share": 0.306,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.25,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    11,
+    33,
+    42
+   ],
+   "share": 0.056,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.028,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  }
+ ]
+}

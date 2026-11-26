@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_markings_whitedots.png",
+ "depicts": "horse coat overlay: white dotted markings, white hair with grey shading (overlay layer)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    254,
+    254
+   ],
+   "share": 0.657,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.146,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    231,
+    231,
+    231
+   ],
+   "share": 0.094,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.046,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.036,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    182,
+    182,
+    182
+   ],
+   "share": 0.021,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

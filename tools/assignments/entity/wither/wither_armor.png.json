@@ -1,0 +1,73 @@
+{
+ "path": "entity/wither/wither_armor.png",
+ "depicts": "Wither power armour overlay: bone plates with pale glowing charge patches",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    16,
+    16,
+    16
+   ],
+   "share": 0.288,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    255,
+    248
+   ],
+   "share": 0.162,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    229,
+    243,
+    171
+   ],
+   "share": 0.153,
+   "material": "phosphor",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    189,
+    130
+   ],
+   "share": 0.153,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    92,
+    65
+   ],
+   "share": 0.126,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    118,
+    126,
+    92
+   ],
+   "share": 0.117,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

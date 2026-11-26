@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_white.png",
+ "depicts": "white horse: white hide over muscle, pinkish muzzle, dark hooves and mane",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.711,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    157,
+    157,
+    157
+   ],
+   "share": 0.258,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    92,
+    87
+   ],
+   "share": 0.017,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    48,
+    39,
+    38
+   ],
+   "share": 0.008,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    20,
+    13,
+    10
+   ],
+   "share": 0.004,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

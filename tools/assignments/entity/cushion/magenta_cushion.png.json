@@ -1,0 +1,73 @@
+{
+ "path": "entity/cushion/magenta_cushion.png",
+ "depicts": "magenta dyed cushion: wool stuffing under dyed fabric with textile seams",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    189,
+    58,
+    175
+   ],
+   "share": 0.305,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    159,
+    52,
+    155
+   ],
+   "share": 0.195,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    56,
+    166
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    208,
+    88,
+    169
+   ],
+   "share": 0.143,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    139,
+    49,
+    140
+   ],
+   "share": 0.096,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    198,
+    71,
+    171
+   ],
+   "share": 0.092,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

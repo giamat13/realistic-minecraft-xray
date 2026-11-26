@@ -1,0 +1,73 @@
+{
+ "path": "gui/options_background.png",
+ "depicts": "options-screen backdrop tile: lighter brown soil/dirt with grey stone specks",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    85,
+    58
+   ],
+   "share": 0.422,
+   "material": "soil",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    150,
+    108,
+    74
+   ],
+   "share": 0.266,
+   "material": "soil",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    133,
+    92
+   ],
+   "share": 0.152,
+   "material": "soil",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    61,
+    41
+   ],
+   "share": 0.133,
+   "material": "soil",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    135,
+    135,
+    135
+   ],
+   "share": 0.016,
+   "material": "stone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    108,
+    108,
+    108
+   ],
+   "share": 0.012,
+   "material": "stone",
+   "thickness_cm": 0.3
+  }
+ ]
+}

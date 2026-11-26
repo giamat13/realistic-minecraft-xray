@@ -1,0 +1,73 @@
+{
+ "path": "entity/pig/pig_saddle.png",
+ "depicts": "leather saddle overlay for a pig: brown leather saddle body with dark shadow, plus grey metal buckles and stirrup fittings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    64,
+    28
+   ],
+   "share": 0.338,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    220,
+    106,
+    49
+   ],
+   "share": 0.308,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    33,
+    12
+   ],
+   "share": 0.277,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    127,
+    111,
+    99
+   ],
+   "share": 0.046,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    176,
+    153,
+    136
+   ],
+   "share": 0.015,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    72,
+    67
+   ],
+   "share": 0.015,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

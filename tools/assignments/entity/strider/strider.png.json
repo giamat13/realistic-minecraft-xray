@@ -1,0 +1,73 @@
+{
+ "path": "entity/strider/strider.png",
+ "depicts": "strider mob (red-hided hovering rubbery creature with wiry legs, grey hooves, pale tusks, dark eyes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    47,
+    49
+   ],
+   "share": 0.78,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    39,
+    40
+   ],
+   "share": 0.142,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    98,
+    91,
+    98
+   ],
+   "share": 0.049,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    205,
+    168,
+    134
+   ],
+   "share": 0.015,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    247,
+    226,
+    196
+   ],
+   "share": 0.013,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    12,
+    8,
+    8
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

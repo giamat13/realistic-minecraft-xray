@@ -1,0 +1,73 @@
+{
+ "path": "entity/ghast/ghast_shooting.png",
+ "depicts": "ghast in attack pose (~4.5 m organic gel mantle): white body, dark mouth/eyes, red glowing fire-mouth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    237,
+    236,
+    236
+   ],
+   "share": 0.981,
+   "material": "organic_gel",
+   "thickness_cm": 450.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    94,
+    94,
+    94
+   ],
+   "share": 0.006,
+   "material": "organic_gel",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    49,
+    49,
+    49
+   ],
+   "share": 0.006,
+   "material": "organic_gel",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    19,
+    19
+   ],
+   "share": 0.004,
+   "material": "fire",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    28,
+    28
+   ],
+   "share": 0.002,
+   "material": "fire",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    157,
+    153,
+    153
+   ],
+   "share": 0.001,
+   "material": "organic_gel",
+   "thickness_cm": 20.0
+  }
+ ]
+}

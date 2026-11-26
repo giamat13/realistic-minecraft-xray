@@ -1,0 +1,51 @@
+{
+ "path": "entity/breeze/breeze_eyes.png",
+ "depicts": "breeze mob eye overlay: glossy translucent eyes (white, pale and yellow glow with dark rim)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    243,
+    245,
+    255
+   ],
+   "share": 0.5,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    218,
+    220,
+    234
+   ],
+   "share": 0.286,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    249,
+    213,
+    100
+   ],
+   "share": 0.143,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    43,
+    59,
+    82
+   ],
+   "share": 0.071,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

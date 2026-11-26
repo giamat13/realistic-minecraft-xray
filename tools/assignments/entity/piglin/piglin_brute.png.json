@@ -1,0 +1,73 @@
+{
+ "path": "entity/piglin/piglin_brute.png",
+ "depicts": "piglin brute mob (fictional): darker skin, black cloth, leather straps, gold trim, bone tusks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    220,
+    154,
+    118
+   ],
+   "share": 0.329,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    37,
+    35,
+    37
+   ],
+   "share": 0.215,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    53,
+    25
+   ],
+   "share": 0.209,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    165,
+    86,
+    55
+   ],
+   "share": 0.199,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    174,
+    33
+   ],
+   "share": 0.039,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    236,
+    182
+   ],
+   "share": 0.008,
+   "material": "bone",
+   "thickness_cm": 1.0
+  }
+ ]
+}

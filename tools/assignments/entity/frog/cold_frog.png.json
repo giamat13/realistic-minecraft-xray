@@ -1,0 +1,73 @@
+{
+ "path": "entity/frog/cold_frog.png",
+ "depicts": "cold frog (~8 cm body): green-olive frog skin over soft tissue, pale belly, red throat and mouth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    117,
+    34
+   ],
+   "share": 0.61,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    185,
+    167,
+    101
+   ],
+   "share": 0.169,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    47,
+    37,
+    18
+   ],
+   "share": 0.122,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    155,
+    147,
+    80
+   ],
+   "share": 0.068,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    216,
+    78,
+    78
+   ],
+   "share": 0.018,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    142,
+    142
+   ],
+   "share": 0.014,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/piglin/piglin.png",
+ "depicts": "piglin mob (fictional pig-faced humanoid): skin, brown tunic, bone tusks, gold jewelry",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    147,
+    114
+   ],
+   "share": 0.376,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    85,
+    54
+   ],
+   "share": 0.3,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    46,
+    30
+   ],
+   "share": 0.252,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    192,
+    136
+   ],
+   "share": 0.068,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    245,
+    218,
+    42
+   ],
+   "share": 0.003,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/squid/glow_squid_baby.png",
+ "depicts": "baby glow squid body (teal mantle, tentacles) with glowing photophore spots and eye highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    160,
+    145
+   ],
+   "share": 0.339,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    190,
+    178
+   ],
+   "share": 0.292,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    13,
+    127,
+    119
+   ],
+   "share": 0.2,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    170,
+    254,
+    212
+   ],
+   "share": 0.109,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    232,
+    188
+   ],
+   "share": 0.056,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    236,
+    252,
+    244
+   ],
+   "share": 0.004,
+   "material": "water",
+   "thickness_cm": 0.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/strider/strider_baby.png",
+ "depicts": "baby strider mob (red-hided body, grey hooves, pale tusks, dark eyes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    144,
+    49,
+    51
+   ],
+   "share": 0.79,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    38,
+    39
+   ],
+   "share": 0.162,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    93,
+    86,
+    93
+   ],
+   "share": 0.019,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    224,
+    191
+   ],
+   "share": 0.01,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    168,
+    134
+   ],
+   "share": 0.01,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    12,
+    8,
+    8
+   ],
+   "share": 0.01,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

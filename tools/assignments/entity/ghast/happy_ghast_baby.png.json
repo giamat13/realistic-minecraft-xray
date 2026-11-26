@@ -1,0 +1,73 @@
+{
+ "path": "entity/ghast/happy_ghast_baby.png",
+ "depicts": "baby happy ghast (~2 m organic gel mantle): white body with pinkish blush and grey tentacle shading",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.4,
+   "material": "organic_gel",
+   "thickness_cm": 200.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    110,
+    98
+   ],
+   "share": 0.352,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    140,
+    128
+   ],
+   "share": 0.153,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    217,
+    217
+   ],
+   "share": 0.089,
+   "material": "organic_gel",
+   "thickness_cm": 200.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    115,
+    115
+   ],
+   "share": 0.003,
+   "material": "organic_gel",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    157,
+    153,
+    153
+   ],
+   "share": 0.002,
+   "material": "organic_gel",
+   "thickness_cm": 20.0
+  }
+ ]
+}

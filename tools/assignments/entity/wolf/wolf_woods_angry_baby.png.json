@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_woods_angry_baby.png",
+ "depicts": "baby angry woodland wolf: brown fur over skin, red eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    87,
+    70,
+    46
+   ],
+   "share": 0.369,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    148,
+    112,
+    78
+   ],
+   "share": 0.227,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    195,
+    171
+   ],
+   "share": 0.188,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    166,
+    148,
+    126
+   ],
+   "share": 0.142,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    54,
+    43,
+    31
+   ],
+   "share": 0.07,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    228,
+    46,
+    46
+   ],
+   "share": 0.003,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

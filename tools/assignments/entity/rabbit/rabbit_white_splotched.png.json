@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_white_splotched.png",
+ "depicts": "adult white rabbit splotched variant mob skin: white and grey-dappled fur over body, dark eye/nose/foot spots, pale pink inner-ear skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    248,
+    248
+   ],
+   "share": 0.421,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    226,
+    219,
+    219
+   ],
+   "share": 0.335,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    53,
+    51
+   ],
+   "share": 0.114,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    35,
+    34
+   ],
+   "share": 0.093,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    189,
+    175,
+    177
+   ],
+   "share": 0.034,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    119,
+    81,
+    42
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

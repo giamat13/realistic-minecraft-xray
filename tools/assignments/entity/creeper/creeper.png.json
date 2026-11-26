@@ -1,0 +1,73 @@
+{
+ "path": "entity/creeper/creeper.png",
+ "depicts": "creeper mob: green fictional skin, closest analogue plant tissue (chlorophyll-rich green skin) with dark face and mouth patches",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    91,
+    195,
+    76
+   ],
+   "share": 0.289,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    142,
+    67
+   ],
+   "share": 0.231,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    209,
+    126
+   ],
+   "share": 0.19,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    193,
+    217,
+    189
+   ],
+   "share": 0.173,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    29,
+    63,
+    25
+   ],
+   "share": 0.067,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    11,
+    166,
+    10
+   ],
+   "share": 0.05,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

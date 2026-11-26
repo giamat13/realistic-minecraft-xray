@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/horse_skeleton.png",
+ "depicts": "skeleton horse: bleached bone skull, ribs and limbs with dark eye and jaw sockets",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.479,
+   "material": "bone",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    194,
+    193,
+    193
+   ],
+   "share": 0.262,
+   "material": "bone",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    162,
+    161,
+    162
+   ],
+   "share": 0.19,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    23,
+    23,
+    23
+   ],
+   "share": 0.035,
+   "material": "air",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    119,
+    116,
+    116
+   ],
+   "share": 0.02,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.014,
+   "material": "bone",
+   "thickness_cm": 1.0
+  }
+ ]
+}

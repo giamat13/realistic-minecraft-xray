@@ -1,0 +1,73 @@
+{
+ "path": "environment/moon_phases.png",
+ "depicts": "Sheet of moon phase sprites on a night-sky background: lunar basalt surface on dark space",
+ "kind": "environment",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    4,
+    6,
+    11
+   ],
+   "share": 0.961,
+   "material": "vacuum",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    99,
+    117
+   ],
+   "share": 0.014,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    43,
+    47,
+    56
+   ],
+   "share": 0.009,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    217,
+    228,
+    255
+   ],
+   "share": 0.005,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    175,
+    184,
+    204
+   ],
+   "share": 0.005,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    138,
+    156
+   ],
+   "share": 0.005,
+   "material": "basalt",
+   "thickness_cm": 300.0
+  }
+ ]
+}

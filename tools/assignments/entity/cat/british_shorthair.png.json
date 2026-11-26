@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/british_shorthair.png",
+ "depicts": "British shorthair cat mob skin: grey dense fur over soft-tissue body, cream eye and dark eye details",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    130,
+    133,
+    134
+   ],
+   "share": 0.362,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    153,
+    157,
+    155
+   ],
+   "share": 0.295,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    166,
+    167,
+    166
+   ],
+   "share": 0.213,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.124,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    212,
+    150
+   ],
+   "share": 0.003,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    25,
+    40
+   ],
+   "share": 0.003,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

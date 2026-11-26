@@ -1,0 +1,73 @@
+{
+ "path": "entity/cushion/cyan_cushion.png",
+ "depicts": "cyan dyed cushion: wool stuffing under dyed fabric with textile seams",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    139,
+    142
+   ],
+   "share": 0.473,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    17,
+    124,
+    131
+   ],
+   "share": 0.195,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    17,
+    115,
+    126
+   ],
+   "share": 0.096,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    28,
+    155,
+    153
+   ],
+   "share": 0.092,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    47,
+    179,
+    168
+   ],
+   "share": 0.072,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    37,
+    166,
+    160
+   ],
+   "share": 0.072,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

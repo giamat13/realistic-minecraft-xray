@@ -1,0 +1,29 @@
+{
+ "path": "entity/phantom/phantom_eyes.png",
+ "depicts": "glowing green eyes of a phantom (fictional undead flying mob), two emissive eye spots on transparent background; closest analogue phosphor glow on an eyeball",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    220,
+    11
+   ],
+   "share": 0.5,
+   "material": "phosphor",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    255,
+    0
+   ],
+   "share": 0.5,
+   "material": "phosphor",
+   "thickness_cm": 0.3
+  }
+ ]
+}

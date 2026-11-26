@@ -1,0 +1,73 @@
+{
+ "path": "entity/pig/temperate_pig.png",
+ "depicts": "temperate-variant adult pig mob skin (same layout as pig.png, alternate path)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    134,
+    129
+   ],
+   "share": 0.475,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    240,
+    161,
+    157
+   ],
+   "share": 0.277,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    211,
+    100,
+    97
+   ],
+   "share": 0.232,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    71,
+    70
+   ],
+   "share": 0.013,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.002,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    2,
+    0,
+    1
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

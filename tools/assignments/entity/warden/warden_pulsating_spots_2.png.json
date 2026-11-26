@@ -1,0 +1,73 @@
+{
+ "path": "entity/warden/warden_pulsating_spots_2.png",
+ "depicts": "Warden body overlay, second pulse frame of glowing spots on sculk skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.348,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    3,
+    65,
+    80
+   ],
+   "share": 0.304,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    11,
+    33,
+    42
+   ],
+   "share": 0.13,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    5,
+    98,
+    93
+   ],
+   "share": 0.087,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.087,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    87,
+    108
+   ],
+   "share": 0.043,
+   "material": "sculk",
+   "thickness_cm": 10.0
+  }
+ ]
+}

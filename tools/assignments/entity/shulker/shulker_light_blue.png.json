@@ -1,0 +1,73 @@
+{
+ "path": "entity/shulker/shulker_light_blue.png",
+ "depicts": "shulker mob (light blue dyed chitinous shell, pale soft body)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    161,
+    211
+   ],
+   "share": 0.573,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    29,
+    118,
+    174
+   ],
+   "share": 0.307,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    233,
+    169
+   ],
+   "share": 0.082,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    188,
+    184,
+    126
+   ],
+   "share": 0.035,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

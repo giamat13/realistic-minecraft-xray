@@ -1,0 +1,73 @@
+{
+ "path": "entity/ghast/happy_ghast_ropes.png",
+ "depicts": "happy ghast harness ropes and straps: woven textile rope, leather straps, brass buckles",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    138,
+    110,
+    72
+   ],
+   "share": 0.446,
+   "material": "textile",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    86,
+    52
+   ],
+   "share": 0.424,
+   "material": "textile",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    138,
+    28
+   ],
+   "share": 0.049,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    207,
+    98,
+    14
+   ],
+   "share": 0.035,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    213,
+    25
+   ],
+   "share": 0.032,
+   "material": "brass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    232,
+    191
+   ],
+   "share": 0.014,
+   "material": "brass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

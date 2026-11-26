@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/rabbit_white_splotched_baby.png",
+ "depicts": "baby white rabbit splotched variant mob skin (half-size body, fur and dark splotches, pink ear skin)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    247,
+    247
+   ],
+   "share": 0.502,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    225,
+    216,
+    217
+   ],
+   "share": 0.229,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    50,
+    48
+   ],
+   "share": 0.206,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    182,
+    176,
+    177
+   ],
+   "share": 0.05,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    245,
+    169,
+    178
+   ],
+   "share": 0.007,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    119,
+    81,
+    42
+   ],
+   "share": 0.005,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}

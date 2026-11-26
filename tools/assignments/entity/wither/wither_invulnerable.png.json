@@ -1,0 +1,73 @@
+{
+ "path": "entity/wither/wither_invulnerable.png",
+ "depicts": "Wither invulnerability shield: translucent blue energy shell with white glints",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    71,
+    104
+   ],
+   "share": 0.449,
+   "material": "plasma_particle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    71,
+    107,
+    149
+   ],
+   "share": 0.306,
+   "material": "plasma_particle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    91,
+    132,
+    182
+   ],
+   "share": 0.166,
+   "material": "plasma_particle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    142,
+    183,
+    232
+   ],
+   "share": 0.061,
+   "material": "plasma_particle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.01,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    231,
+    231,
+    231
+   ],
+   "share": 0.008,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  }
+ ]
+}

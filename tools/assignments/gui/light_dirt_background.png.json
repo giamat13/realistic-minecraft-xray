@@ -1,0 +1,73 @@
+{
+ "path": "gui/light_dirt_background.png",
+ "depicts": "light dirt-earth menu backdrop tile: brown soil with dark grey pebble specks",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    36,
+    25,
+    17
+   ],
+   "share": 0.418,
+   "material": "soil",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    32,
+    22
+   ],
+   "share": 0.273,
+   "material": "soil",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    40,
+    27
+   ],
+   "share": 0.145,
+   "material": "soil",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    27,
+    18,
+    12
+   ],
+   "share": 0.137,
+   "material": "soil",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    40,
+    40,
+    40
+   ],
+   "share": 0.016,
+   "material": "stone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    32,
+    32,
+    32
+   ],
+   "share": 0.012,
+   "material": "stone",
+   "thickness_cm": 0.3
+  }
+ ]
+}

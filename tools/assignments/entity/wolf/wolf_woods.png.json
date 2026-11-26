@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_woods.png",
+ "depicts": "adult wild woodland wolf: brown fur over skin, dark eyes and nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    66,
+    44
+   ],
+   "share": 0.461,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    106,
+    72
+   ],
+   "share": 0.182,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    170,
+    135,
+    100
+   ],
+   "share": 0.182,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    203,
+    189,
+    167
+   ],
+   "share": 0.152,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    245,
+    233,
+    215
+   ],
+   "share": 0.018,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.005,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/wither/wither.png",
+ "depicts": "Wither boss: dark skeletal three-headed body of bone",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    27,
+    27,
+    27
+   ],
+   "share": 0.797,
+   "material": "bone",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    59,
+    59
+   ],
+   "share": 0.156,
+   "material": "bone",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    133,
+    133
+   ],
+   "share": 0.029,
+   "material": "bone",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    165,
+    165,
+    165
+   ],
+   "share": 0.01,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    231,
+    231
+   ],
+   "share": 0.005,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.003,
+   "material": "bone",
+   "thickness_cm": 2.0
+  }
+ ]
+}

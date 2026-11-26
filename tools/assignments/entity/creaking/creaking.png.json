@@ -1,0 +1,73 @@
+{
+ "path": "entity/creaking/creaking.png",
+ "depicts": "creaking mob: dark wooden bark body with mossy grey-green patches, pale bone-like face, amber glow at the edges",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    99,
+    89,
+    86
+   ],
+   "share": 0.467,
+   "material": "wood_dark",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    61,
+    59
+   ],
+   "share": 0.333,
+   "material": "wood_dark",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    125,
+    117
+   ],
+   "share": 0.15,
+   "material": "moss",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    201,
+    186,
+    187
+   ],
+   "share": 0.044,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    236,
+    114,
+    20
+   ],
+   "share": 0.003,
+   "material": "amber",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    163,
+    55
+   ],
+   "share": 0.002,
+   "material": "amber",
+   "thickness_cm": 0.2
+  }
+ ]
+}

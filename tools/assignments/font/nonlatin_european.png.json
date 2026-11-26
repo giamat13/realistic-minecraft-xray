@@ -1,0 +1,18 @@
+{
+ "path": "font/nonlatin_european.png",
+ "depicts": "Bitmap font sheet of non-Latin European glyphs (Cyrillic/Greek-like): white strokes on transparent background",
+ "kind": "font",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

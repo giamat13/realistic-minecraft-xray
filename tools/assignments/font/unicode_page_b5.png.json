@@ -1,0 +1,18 @@
+{
+ "path": "font/unicode_page_b5.png",
+ "depicts": "Unicode font glyph sheet page (almost empty, single white glyph row)",
+ "kind": "font",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

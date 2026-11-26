@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/white_splotched.png",
+ "depicts": "white rabbit with black splotches mob skin: white body, black/dark-grey splotch areas, black eye/nose pixels",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    222,
+    223
+   ],
+   "share": 0.394,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    35,
+    34,
+    34
+   ],
+   "share": 0.241,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    241,
+    241
+   ],
+   "share": 0.215,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    189,
+    189,
+    189
+   ],
+   "share": 0.127,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.014,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.009,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}

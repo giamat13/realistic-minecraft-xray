@@ -1,0 +1,73 @@
+{
+ "path": "entity/rabbit/white.png",
+ "depicts": "plain white rabbit mob skin: white fur body with light grey shading, red-pink eye pixels",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    223,
+    223
+   ],
+   "share": 0.513,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.33,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    189,
+    189
+   ],
+   "share": 0.136,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.017,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    224,
+    83,
+    76
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    95,
+    86
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}
