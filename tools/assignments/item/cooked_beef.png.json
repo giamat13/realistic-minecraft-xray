@@ -1,0 +1,73 @@
+{
+ "path": "item/cooked_beef.png",
+ "depicts": "cooked steak item: browned beef muscle with charred edges, about 2.5 cm",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    43,
+    28
+   ],
+   "share": 0.286,
+   "material": "muscle",
+   "thickness_cm": 2.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    86,
+    63
+   ],
+   "share": 0.219,
+   "material": "muscle",
+   "thickness_cm": 2.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    67,
+    48
+   ],
+   "share": 0.181,
+   "material": "muscle",
+   "thickness_cm": 2.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    42,
+    22,
+    13
+   ],
+   "share": 0.143,
+   "material": "charcoal",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    63,
+    33,
+    22
+   ],
+   "share": 0.095,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    55,
+    40
+   ],
+   "share": 0.076,
+   "material": "muscle",
+   "thickness_cm": 2.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/realm_status/open.png",
+ "depicts": "realm-status \"open\" indicator (10x28): dark plastic panel with light-grey outline and a green round lamp/lens (abstract status icon)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    48,
+    46
+   ],
+   "share": 0.629,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    190,
+    194,
+    191
+   ],
+   "share": 0.271,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    4,
+    146,
+    46
+   ],
+   "share": 0.064,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    4,
+    199,
+    63
+   ],
+   "share": 0.032,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    101,
+    211,
+    134
+   ],
+   "share": 0.004,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    80,
+    99,
+    86
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

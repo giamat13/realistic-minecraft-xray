@@ -1,0 +1,40 @@
+{
+ "path": "particle/effect_1.png",
+ "depicts": "potion-effect sparkle particle (white glow dot with grey shading)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.6,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    213,
+    213
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    179,
+    179
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

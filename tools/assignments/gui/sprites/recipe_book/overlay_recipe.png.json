@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/recipe_book/overlay_recipe.png",
+ "depicts": "recipe-book recipe-detail overlay panel (32x32): light-grey plastic panel with black outline, white bevel and dark-grey shading (abstract UI panel)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.668,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.115,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.109,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.109,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

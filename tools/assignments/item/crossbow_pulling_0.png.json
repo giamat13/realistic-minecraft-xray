@@ -1,0 +1,73 @@
+{
+ "path": "item/crossbow_pulling_0.png",
+ "depicts": "crossbow being drawn, frame 0: wooden stock and steel limbs",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    54,
+    24
+   ],
+   "share": 0.508,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    24,
+    8
+   ],
+   "share": 0.305,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    144,
+    88,
+    31
+   ],
+   "share": 0.059,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    109,
+    109,
+    109
+   ],
+   "share": 0.059,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.051,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    181,
+    115,
+    47
+   ],
+   "share": 0.017,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

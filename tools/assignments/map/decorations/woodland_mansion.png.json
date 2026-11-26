@@ -1,0 +1,73 @@
+{
+ "path": "map/decorations/woodland_mansion.png",
+ "depicts": "woodland mansion map icon: dark oak planks, stone walls, dark windows and red roof accents",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.448,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    52,
+    23
+   ],
+   "share": 0.259,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    97,
+    97
+   ],
+   "share": 0.121,
+   "material": "stone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    35,
+    26,
+    18
+   ],
+   "share": 0.086,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    113,
+    113,
+    113
+   ],
+   "share": 0.052,
+   "material": "andesite",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    15,
+    10
+   ],
+   "share": 0.034,
+   "material": "dye_pigment",
+   "thickness_cm": 0.1
+  }
+ ]
+}

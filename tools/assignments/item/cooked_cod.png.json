@@ -1,0 +1,73 @@
+{
+ "path": "item/cooked_cod.png",
+ "depicts": "cooked cod fillet: flaky white flesh with browned edges and dark crust, outline",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    179,
+    143,
+    103
+   ],
+   "share": 0.388,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    212,
+    194,
+    165
+   ],
+   "share": 0.247,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    152,
+    109,
+    78
+   ],
+   "share": 0.2,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    226,
+    229,
+    198
+   ],
+   "share": 0.106,
+   "material": "fat",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    68,
+    43
+   ],
+   "share": 0.047,
+   "material": "charcoal",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.012,
+   "material": "charcoal",
+   "thickness_cm": 0.1
+  }
+ ]
+}

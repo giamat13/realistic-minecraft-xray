@@ -1,0 +1,73 @@
+{
+ "path": "item/jungle_door.png",
+ "depicts": "jungle wood door item (door thickness ~3/16 block), iron hinge/knob",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    178,
+    130,
+    94
+   ],
+   "share": 0.534,
+   "material": "wood_soft",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 1,
+   "rgb": [
+    151,
+    106,
+    68
+   ],
+   "share": 0.211,
+   "material": "wood_soft",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 2,
+   "rgb": [
+    120,
+    84,
+    55
+   ],
+   "share": 0.188,
+   "material": "wood_soft",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    116,
+    85
+   ],
+   "share": 0.03,
+   "material": "wood_soft",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 4,
+   "rgb": [
+    52,
+    52,
+    52
+   ],
+   "share": 0.03,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.008,
+   "material": "iron",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/swamp_hut_map.png",
+ "depicts": "Swamp hut map: paper map of a swamp hut area drawn with ink lines and earth-tone pigments",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    249,
+    234,
+    202
+   ],
+   "share": 0.246,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    147,
+    125,
+    90
+   ],
+   "share": 0.241,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    206,
+    170
+   ],
+   "share": 0.232,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    94,
+    61
+   ],
+   "share": 0.132,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.096,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    71,
+    51,
+    30
+   ],
+   "share": 0.053,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

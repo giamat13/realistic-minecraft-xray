@@ -1,0 +1,73 @@
+{
+ "path": "item/cooked_rabbit.png",
+ "depicts": "cooked rabbit leg: cooked meat with dark browned crust",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    191,
+    162
+   ],
+   "share": 0.215,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    45,
+    20
+   ],
+   "share": 0.2,
+   "material": "charcoal",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    127,
+    65,
+    30
+   ],
+   "share": 0.2,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    142,
+    98
+   ],
+   "share": 0.17,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    219,
+    165,
+    129
+   ],
+   "share": 0.111,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    169,
+    95,
+    50
+   ],
+   "share": 0.104,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  }
+ ]
+}

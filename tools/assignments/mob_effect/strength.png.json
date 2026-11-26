@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/strength.png",
+ "depicts": "Strength mob effect icon: a steel sword with a leather-wrapped wooden grip, light steel blade with dark edge outline",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    207,
+    207,
+    207
+   ],
+   "share": 0.269,
+   "material": "steel",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    25,
+    25,
+    23
+   ],
+   "share": 0.237,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    68,
+    68,
+    68
+   ],
+   "share": 0.226,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.129,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.086,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    98,
+    73,
+    28
+   ],
+   "share": 0.054,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "path": "item/filled_map_markings.png",
+ "depicts": "filled map marker overlay: white and black map markings on paper",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.808,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.192,
+   "material": "ink",
+   "thickness_cm": 0.02
+  }
+ ]
+}

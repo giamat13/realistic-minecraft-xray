@@ -1,0 +1,73 @@
+{
+ "path": "item/yellow_bundle.png",
+ "depicts": "yellow dyed bundle item: rabbit-hide leather pouch (bundle bag) with straps, closed",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    203,
+    133,
+    20
+   ],
+   "share": 0.458,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    80,
+    30
+   ],
+   "share": 0.183,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    199,
+    5
+   ],
+   "share": 0.16,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    229,
+    123
+   ],
+   "share": 0.153,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.038,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    195,
+    141
+   ],
+   "share": 0.008,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

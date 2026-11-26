@@ -1,0 +1,62 @@
+{
+ "path": "item/rabbit_foot.png",
+ "depicts": "rabbit foot (fur tuft) lucky-charm item",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    78,
+    57
+   ],
+   "share": 0.232,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    158,
+    103
+   ],
+   "share": 0.232,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    216,
+    178,
+    129
+   ],
+   "share": 0.183,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    130,
+    96,
+    65
+   ],
+   "share": 0.183,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    180,
+    139,
+    91
+   ],
+   "share": 0.171,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  }
+ ]
+}

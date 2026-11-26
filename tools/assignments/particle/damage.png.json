@@ -1,0 +1,51 @@
+{
+ "path": "particle/damage.png",
+ "depicts": "damage indicator smoke-puff with dark cloud, red-black dust and white highlight",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.5,
+   "material": "smoke",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    30,
+    30
+   ],
+   "share": 0.471,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    208,
+    208,
+    208
+   ],
+   "share": 0.029,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    81,
+    52,
+    52
+   ],
+   "share": 0.0,
+   "material": "blood",
+   "thickness_cm": 0.05
+  }
+ ]
+}

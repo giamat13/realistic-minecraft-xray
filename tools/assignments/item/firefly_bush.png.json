@@ -1,0 +1,73 @@
+{
+ "path": "item/firefly_bush.png",
+ "depicts": "firefly bush item: leafy green bush with brown branches and glowing firefly spot",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    80,
+    43
+   ],
+   "share": 0.325,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    48,
+    53,
+    27
+   ],
+   "share": 0.318,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    155,
+    124,
+    54
+   ],
+   "share": 0.175,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    117,
+    108,
+    65
+   ],
+   "share": 0.162,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    225
+   ],
+   "share": 0.013,
+   "material": "phosphor",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    195,
+    197,
+    167
+   ],
+   "share": 0.006,
+   "material": "foliage",
+   "thickness_cm": 20.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/clock_13.png",
+ "depicts": "pocket-watch style clock (day/night dial): gold rim and case, blue/dark enamel dial, steel hands",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    241,
+    207,
+    44
+   ],
+   "share": 0.284,
+   "material": "gold",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    190,
+    114,
+    18
+   ],
+   "share": 0.244,
+   "material": "gold",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    83,
+    34,
+    11
+   ],
+   "share": 0.21,
+   "material": "gold",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    245,
+    107
+   ],
+   "share": 0.125,
+   "material": "gold",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    66,
+    95,
+    196
+   ],
+   "share": 0.102,
+   "material": "ceramic_glaze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    93,
+    93,
+    118
+   ],
+   "share": 0.034,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

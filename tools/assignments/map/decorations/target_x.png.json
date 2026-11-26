@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/target_x.png",
+ "depicts": "white X target marker on map, painted white mark",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.533,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.267,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    241,
+    241
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    98,
+    98
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

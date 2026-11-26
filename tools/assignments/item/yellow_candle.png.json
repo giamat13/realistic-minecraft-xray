@@ -1,0 +1,73 @@
+{
+ "path": "item/yellow_candle.png",
+ "depicts": "yellow dyed candle: cylindrical paraffin wax candle with a cotton wick at the top",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    207,
+    161,
+    44
+   ],
+   "share": 0.407,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    210,
+    67
+   ],
+   "share": 0.319,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    122,
+    30
+   ],
+   "share": 0.187,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    252,
+    235,
+    160
+   ],
+   "share": 0.055,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    48,
+    101
+   ],
+   "share": 0.022,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.011,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

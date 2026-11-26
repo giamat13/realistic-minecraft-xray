@@ -1,0 +1,73 @@
+{
+ "path": "item/jungle_hanging_sign.png",
+ "depicts": "jungle hanging sign: wooden board hanging from iron chains",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    126,
+    90
+   ],
+   "share": 0.426,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    47,
+    34,
+    12
+   ],
+   "share": 0.149,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    146,
+    102,
+    66
+   ],
+   "share": 0.142,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    97,
+    63,
+    40
+   ],
+   "share": 0.122,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    62,
+    62,
+    62
+   ],
+   "share": 0.108,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

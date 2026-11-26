@@ -1,0 +1,73 @@
+{
+ "path": "item/iron_horse_armor.png",
+ "depicts": "iron horse armor item, iron plates with dark outline and shading",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    79,
+    79
+   ],
+   "share": 0.461,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    174,
+    174,
+    174
+   ],
+   "share": 0.191,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    23,
+    23,
+    23
+   ],
+   "share": 0.112,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    60,
+    4,
+    4
+   ],
+   "share": 0.112,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    131,
+    131,
+    131
+   ],
+   "share": 0.101,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.022,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

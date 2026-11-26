@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_leggings.png",
+ "depicts": "golden leggings armor item: gold-alloy leg plates",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    63,
+    46,
+    14
+   ],
+   "share": 0.308,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    239,
+    242,
+    95
+   ],
+   "share": 0.26,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    229,
+    168,
+    20
+   ],
+   "share": 0.24,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    130,
+    93,
+    22
+   ],
+   "share": 0.173,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.019,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    164,
+    139,
+    43
+   ],
+   "share": 0.0,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

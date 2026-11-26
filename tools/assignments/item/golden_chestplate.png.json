@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_chestplate.png",
+ "depicts": "golden chestplate armor item: gold-alloy chest plate",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    242,
+    94
+   ],
+   "share": 0.435,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    170,
+    20
+   ],
+   "share": 0.21,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    93,
+    22
+   ],
+   "share": 0.174,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    46,
+    14
+   ],
+   "share": 0.159,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.022,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    170,
+    57
+   ],
+   "share": 0.0,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/carrot_on_a_stick.png",
+ "depicts": "carrot on a stick: wooden fishing-rod style stick, iron fitting, orange carrot head and leaves",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    64,
+    53,
+    32
+   ],
+   "share": 0.605,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    161,
+    77,
+    12
+   ],
+   "share": 0.171,
+   "material": "vegetable",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    102,
+    102,
+    102
+   ],
+   "share": 0.092,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    172,
+    172,
+    172
+   ],
+   "share": 0.053,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    15,
+    125,
+    14
+   ],
+   "share": 0.039,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    145,
+    27
+   ],
+   "share": 0.039,
+   "material": "vegetable",
+   "thickness_cm": 2.0
+  }
+ ]
+}

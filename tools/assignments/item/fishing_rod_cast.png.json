@@ -1,0 +1,73 @@
+{
+ "path": "item/fishing_rod_cast.png",
+ "depicts": "fishing rod item cast out: oak wooden rod with steel reel and nylon line",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    61,
+    39
+   ],
+   "share": 0.574,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.241,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.074,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    179,
+    179
+   ],
+   "share": 0.056,
+   "material": "plastic",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    100,
+    100,
+    100
+   ],
+   "share": 0.037,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.019,
+   "material": "steel",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "item/firework_star_overlay.png",
+ "depicts": "firework star overlay: grey paper-printed pattern on the pellet",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    204,
+    204,
+    204
+   ],
+   "share": 0.292,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    232,
+    232,
+    232
+   ],
+   "share": 0.292,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    185,
+    185
+   ],
+   "share": 0.292,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    172,
+    172,
+    172
+   ],
+   "share": 0.125,
+   "material": "paper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/gold_ingot.png",
+ "depicts": "gold ingot item: solid bar of gold",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    236,
+    89
+   ],
+   "share": 0.43,
+   "material": "gold",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    226,
+    163,
+    20
+   ],
+   "share": 0.2,
+   "material": "gold",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    178,
+    100,
+    17
+   ],
+   "share": 0.163,
+   "material": "gold",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    117,
+    40,
+    2
+   ],
+   "share": 0.111,
+   "material": "gold",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    253,
+    226
+   ],
+   "share": 0.096,
+   "material": "gold",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    220,
+    179,
+    67
+   ],
+   "share": 0.0,
+   "material": "gold",
+   "thickness_cm": 1.5
+  }
+ ]
+}

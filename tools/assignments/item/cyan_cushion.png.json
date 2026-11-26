@@ -1,0 +1,62 @@
+{
+ "path": "item/cyan_cushion.png",
+ "depicts": "cyan cushion: textile cover stuffed with polyester fill",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    176,
+    167
+   ],
+   "share": 0.25,
+   "material": "textile",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    18,
+    142,
+    143
+   ],
+   "share": 0.231,
+   "material": "textile",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    17,
+    115,
+    126
+   ],
+   "share": 0.212,
+   "material": "textile",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    13,
+    69,
+    84
+   ],
+   "share": 0.173,
+   "material": "textile",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    16,
+    88,
+    105
+   ],
+   "share": 0.135,
+   "material": "textile",
+   "thickness_cm": 5.0
+  }
+ ]
+}

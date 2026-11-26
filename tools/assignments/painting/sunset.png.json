@@ -1,0 +1,73 @@
+{
+ "path": "painting/sunset.png",
+ "depicts": "Minecraft painting \"Sunset\": painted sunset sky over dark sea/land, wooden frame",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    60,
+    106
+   ],
+   "share": 0.225,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    63,
+    55,
+    51
+   ],
+   "share": 0.209,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    144,
+    133,
+    147
+   ],
+   "share": 0.178,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    86,
+    94,
+    144
+   ],
+   "share": 0.17,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    25,
+    14,
+    4
+   ],
+   "share": 0.109,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    211,
+    161,
+    148
+   ],
+   "share": 0.109,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

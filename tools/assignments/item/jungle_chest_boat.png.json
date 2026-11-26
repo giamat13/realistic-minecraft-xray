@@ -1,0 +1,73 @@
+{
+ "path": "item/jungle_chest_boat.png",
+ "depicts": "jungle wood boat with chest, jungle planks and chest",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    52,
+    34
+   ],
+   "share": 0.345,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    187,
+    139,
+    105
+   ],
+   "share": 0.19,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    111,
+    34
+   ],
+   "share": 0.144,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    46,
+    31,
+    16
+   ],
+   "share": 0.138,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    113,
+    80,
+    41
+   ],
+   "share": 0.109,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    104,
+    69
+   ],
+   "share": 0.075,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  }
+ ]
+}

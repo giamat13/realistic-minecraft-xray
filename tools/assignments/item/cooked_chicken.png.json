@@ -1,0 +1,73 @@
+{
+ "path": "item/cooked_chicken.png",
+ "depicts": "cooked chicken drumstick: pale cooked meat, crispy brown skin, dark char, bone end",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    217,
+    152,
+    114
+   ],
+   "share": 0.273,
+   "material": "fat",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    68,
+    32
+   ],
+   "share": 0.25,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    205,
+    125,
+    74
+   ],
+   "share": 0.144,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    90,
+    44,
+    16
+   ],
+   "share": 0.129,
+   "material": "charcoal",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    192,
+    165
+   ],
+   "share": 0.114,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    172,
+    93,
+    49
+   ],
+   "share": 0.091,
+   "material": "fat",
+   "thickness_cm": 0.5
+  }
+ ]
+}

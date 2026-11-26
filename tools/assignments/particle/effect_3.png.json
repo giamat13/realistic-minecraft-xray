@@ -1,0 +1,51 @@
+{
+ "path": "particle/effect_3.png",
+ "depicts": "potion-effect sparkle particle (swirl of white and grey dots)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.588,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    213,
+    213
+   ],
+   "share": 0.235,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    179,
+    179
+   ],
+   "share": 0.118,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    146,
+    146,
+    146
+   ],
+   "share": 0.059,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

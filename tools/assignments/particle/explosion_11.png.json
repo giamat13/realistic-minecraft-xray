@@ -1,0 +1,18 @@
+{
+ "path": "particle/explosion_11.png",
+ "depicts": "explosion blast-cloud frame 11 (large expanding smoke plume)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "smoke",
+   "thickness_cm": 1.0
+  }
+ ]
+}

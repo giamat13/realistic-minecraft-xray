@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/recipe_book/slot_many_uncraftable.png",
+ "depicts": "recipe-book many-uncraftable item-slot frame (25x25): dark-grey plastic slot background with dark-red bevel, black outline and red highlight (abstract UI slot)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    106,
+    106,
+    106
+   ],
+   "share": 0.641,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    138,
+    34,
+    34
+   ],
+   "share": 0.147,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.077,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    27,
+    27
+   ],
+   "share": 0.069,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    194,
+    79,
+    79
+   ],
+   "share": 0.066,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

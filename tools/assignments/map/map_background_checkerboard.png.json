@@ -1,0 +1,73 @@
+{
+ "path": "map/map_background_checkerboard.png",
+ "depicts": "parchment map background checkerboard with darker edge stains",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    194,
+    172,
+    136
+   ],
+   "share": 0.42,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    201,
+    178,
+    141
+   ],
+   "share": 0.42,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    135,
+    108
+   ],
+   "share": 0.076,
+   "material": "paper",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    190,
+    150
+   ],
+   "share": 0.076,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    139,
+    122,
+    98
+   ],
+   "share": 0.004,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    127,
+    101
+   ],
+   "share": 0.004,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

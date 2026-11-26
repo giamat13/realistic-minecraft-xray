@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/recipe_book/page_backward.png",
+ "depicts": "recipe-book previous-page arrow (12x17): grey plastic arrow glyph with black outline, white highlight and dark-grey shading (abstract UI glyph)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.415,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.358,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.114,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.114,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

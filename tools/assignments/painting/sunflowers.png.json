@@ -1,0 +1,73 @@
+{
+ "path": "painting/sunflowers.png",
+ "depicts": "Minecraft painting \"Sunflowers\": painted sunflowers in a vase on a dark ground, wooden frame",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    43,
+    11
+   ],
+   "share": 0.373,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    19,
+    10,
+    2
+   ],
+   "share": 0.275,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    86,
+    57
+   ],
+   "share": 0.127,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    174,
+    137,
+    108
+   ],
+   "share": 0.122,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    158,
+    109,
+    2
+   ],
+   "share": 0.1,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    136,
+    40
+   ],
+   "share": 0.003,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

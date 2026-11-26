@@ -1,0 +1,73 @@
+{
+ "path": "item/phantom_membrane.png",
+ "depicts": "phantom membrane: thin leathery skin of a flying undead creature",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    129,
+    107,
+    116
+   ],
+   "share": 0.224,
+   "material": "soft_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    145,
+    132,
+    122
+   ],
+   "share": 0.204,
+   "material": "soft_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    220,
+    217,
+    192
+   ],
+   "share": 0.197,
+   "material": "soft_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    195,
+    185,
+    161
+   ],
+   "share": 0.163,
+   "material": "soft_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    111,
+    81,
+    108
+   ],
+   "share": 0.143,
+   "material": "soft_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    169,
+    155,
+    135
+   ],
+   "share": 0.068,
+   "material": "soft_tissue",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/target_point.png",
+ "depicts": "red target-point map marker, painted red pigment on paper",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.526,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    234,
+    30,
+    23
+   ],
+   "share": 0.316,
+   "material": "dye_pigment",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    188,
+    24,
+    18
+   ],
+   "share": 0.158,
+   "material": "dye_pigment",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    13,
+    10
+   ],
+   "share": 0.0,
+   "material": "dye_pigment",
+   "thickness_cm": 0.1
+  }
+ ]
+}

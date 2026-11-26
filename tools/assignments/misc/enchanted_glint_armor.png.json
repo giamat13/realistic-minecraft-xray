@@ -1,0 +1,73 @@
+{
+ "path": "misc/enchanted_glint_armor.png",
+ "depicts": "enchantment glint overlay for armour: purple light-swirl pattern, closest analogue a purple dye-like glow film",
+ "kind": "misc",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    8,
+    6,
+    38
+   ],
+   "share": 0.335,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    2,
+    2,
+    10
+   ],
+   "share": 0.3,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    26,
+    10,
+    65
+   ],
+   "share": 0.163,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    46,
+    14,
+    90
+   ],
+   "share": 0.133,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    24,
+    111
+   ],
+   "share": 0.052,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    86,
+    41,
+    139
+   ],
+   "share": 0.016,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

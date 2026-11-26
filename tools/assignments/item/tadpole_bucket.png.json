@@ -1,0 +1,73 @@
+{
+ "path": "item/tadpole_bucket.png",
+ "depicts": "Tadpole bucket: an iron bucket holding water with a tadpole",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    55,
+    54
+   ],
+   "share": 0.349,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.247,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    89,
+    118,
+    113
+   ],
+   "share": 0.219,
+   "material": "water",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.144,
+   "material": "water",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    147,
+    104,
+    67
+   ],
+   "share": 0.027,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    22,
+    10,
+    0
+   ],
+   "share": 0.014,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  }
+ ]
+}

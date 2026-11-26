@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_horse_armor.png",
+ "depicts": "golden horse armor item: gold-alloy barding plates over a dark leather saddle cloth",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    178,
+    100,
+    17
+   ],
+   "share": 0.281,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    237,
+    215,
+    79
+   ],
+   "share": 0.236,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    4,
+    4
+   ],
+   "share": 0.225,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    219,
+    162,
+    19
+   ],
+   "share": 0.18,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    253,
+    255,
+    118
+   ],
+   "share": 0.079,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    179,
+    129,
+    37
+   ],
+   "share": 0.0,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

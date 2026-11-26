@@ -1,0 +1,73 @@
+{
+ "path": "item/ravager_spawn_egg.png",
+ "depicts": "ravager spawn egg, egg-shaped grey-green item",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    91,
+    87
+   ],
+   "share": 0.391,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    64,
+    62
+   ],
+   "share": 0.262,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    135,
+    128
+   ],
+   "share": 0.149,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    34,
+    34,
+    32
+   ],
+   "share": 0.129,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    147,
+    174,
+    173
+   ],
+   "share": 0.05,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    199,
+    206,
+    206
+   ],
+   "share": 0.02,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

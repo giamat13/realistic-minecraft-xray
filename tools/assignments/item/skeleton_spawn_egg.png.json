@@ -1,0 +1,73 @@
+{
+ "path": "item/skeleton_spawn_egg.png",
+ "depicts": "a spawn egg item with a bone-white eggshell (skeleton variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    187,
+    187,
+    187
+   ],
+   "share": 0.388,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    147,
+    147,
+    147
+   ],
+   "share": 0.164,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    87,
+    85,
+    85
+   ],
+   "share": 0.134,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    121,
+    118,
+    118
+   ],
+   "share": 0.134,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.119,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    218,
+    218,
+    218
+   ],
+   "share": 0.06,
+   "material": "egg",
+   "thickness_cm": 4.5
+  }
+ ]
+}

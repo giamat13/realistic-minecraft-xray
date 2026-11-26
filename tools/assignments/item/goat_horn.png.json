@@ -1,0 +1,73 @@
+{
+ "path": "item/goat_horn.png",
+ "depicts": "goat horn instrument item: curved dark keratin horn with ridged highlights",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    93,
+    91
+   ],
+   "share": 0.293,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    72,
+    69
+   ],
+   "share": 0.253,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    54,
+    53
+   ],
+   "share": 0.212,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    41,
+    39,
+    36
+   ],
+   "share": 0.141,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    126,
+    118
+   ],
+   "share": 0.071,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    163,
+    163,
+    147
+   ],
+   "share": 0.03,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

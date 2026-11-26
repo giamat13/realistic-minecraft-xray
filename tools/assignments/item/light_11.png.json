@@ -1,0 +1,73 @@
+{
+ "path": "item/light_11.png",
+ "depicts": "light-level bulb item icon (lit bulb, digit overlay 11)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    193,
+    84
+   ],
+   "share": 0.273,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    221,
+    154,
+    60
+   ],
+   "share": 0.222,
+   "material": "glass",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    248,
+    227
+   ],
+   "share": 0.152,
+   "material": "tungsten",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    84,
+    83,
+    81
+   ],
+   "share": 0.141,
+   "material": "aluminum",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    216,
+    172
+   ],
+   "share": 0.141,
+   "material": "tungsten",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    139,
+    127,
+    133
+   ],
+   "share": 0.071,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

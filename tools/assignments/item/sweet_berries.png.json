@@ -1,0 +1,73 @@
+{
+ "path": "item/sweet_berries.png",
+ "depicts": "Sweet berries: cluster of red sweet berries (fruit) on dark green leaves",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    65,
+    18,
+    19
+   ],
+   "share": 0.344,
+   "material": "fruit",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    150,
+    9,
+    2
+   ],
+   "share": 0.204,
+   "material": "fruit",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    89,
+    55
+   ],
+   "share": 0.172,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    31,
+    33
+   ],
+   "share": 0.161,
+   "material": "fruit",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    29,
+    56,
+    34
+   ],
+   "share": 0.086,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    70,
+    126
+   ],
+   "share": 0.032,
+   "material": "fruit",
+   "thickness_cm": 2.0
+  }
+ ]
+}

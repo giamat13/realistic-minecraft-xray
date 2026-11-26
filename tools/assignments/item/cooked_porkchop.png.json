@@ -1,0 +1,73 @@
+{
+ "path": "item/cooked_porkchop.png",
+ "depicts": "cooked porkchop: tan lean meat core, pale rendered fat rim, browned crust, dark bottom edge",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    190,
+    133
+   ],
+   "share": 0.196,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    169,
+    118
+   ],
+   "share": 0.186,
+   "material": "fat",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    121,
+    66
+   ],
+   "share": 0.186,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    207,
+    168
+   ],
+   "share": 0.176,
+   "material": "fat",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    95,
+    79,
+    39
+   ],
+   "share": 0.137,
+   "material": "charcoal",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    138,
+    104,
+    49
+   ],
+   "share": 0.118,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  }
+ ]
+}

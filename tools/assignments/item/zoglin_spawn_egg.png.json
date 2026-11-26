@@ -1,0 +1,73 @@
+{
+ "path": "item/zoglin_spawn_egg.png",
+ "depicts": "spawn egg item: egg-shaped egg with pink and red zoglin-coloured spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    220,
+    163,
+    159
+   ],
+   "share": 0.253,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    105,
+    80
+   ],
+   "share": 0.232,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    203,
+    117,
+    111
+   ],
+   "share": 0.197,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    75,
+    73
+   ],
+   "share": 0.192,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    45,
+    56,
+    54
+   ],
+   "share": 0.066,
+   "material": "egg",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.061,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "map/decorations/taiga_village.png",
+ "depicts": "taiga village map icon: wooden houses with stone-grey roofs",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.478,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    101,
+    77,
+    47
+   ],
+   "share": 0.304,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    97,
+    97
+   ],
+   "share": 0.13,
+   "material": "stone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    136,
+    135,
+    136
+   ],
+   "share": 0.087,
+   "material": "andesite",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    55,
+    48,
+    39
+   ],
+   "share": 0.0,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

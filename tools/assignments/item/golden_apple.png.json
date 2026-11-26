@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_apple.png",
+ "depicts": "golden apple item: apple fruit with a gold-leaf coating and dark stem",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    219,
+    162,
+    19
+   ],
+   "share": 0.289,
+   "material": "gold",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    235,
+    219,
+    77
+   ],
+   "share": 0.272,
+   "material": "gold",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    32,
+    5
+   ],
+   "share": 0.263,
+   "material": "fruit",
+   "thickness_cm": 7.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    100,
+    17
+   ],
+   "share": 0.123,
+   "material": "gold",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    255,
+    230
+   ],
+   "share": 0.035,
+   "material": "gold",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    246,
+    248,
+    146
+   ],
+   "share": 0.018,
+   "material": "gold",
+   "thickness_cm": 0.05
+  }
+ ]
+}

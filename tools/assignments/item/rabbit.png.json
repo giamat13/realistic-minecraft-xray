@@ -1,0 +1,73 @@
+{
+ "path": "item/rabbit.png",
+ "depicts": "raw rabbit meat cut (item icon) with brown fur skin edges",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    229,
+    210
+   ],
+   "share": 0.215,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    134,
+    82,
+    69
+   ],
+   "share": 0.2,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    181,
+    124,
+    106
+   ],
+   "share": 0.2,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    188,
+    172
+   ],
+   "share": 0.163,
+   "material": "fat",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    218,
+    160,
+    140
+   ],
+   "share": 0.111,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    242,
+    201,
+    189
+   ],
+   "share": 0.111,
+   "material": "fat",
+   "thickness_cm": 1.0
+  }
+ ]
+}

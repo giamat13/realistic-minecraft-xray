@@ -1,0 +1,73 @@
+{
+ "path": "item/rabbit_spawn_egg.png",
+ "depicts": "rabbit spawn egg, egg-shaped item with brown spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    96,
+    62
+   ],
+   "share": 0.473,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    79,
+    51,
+    34
+   ],
+   "share": 0.237,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    180,
+    142,
+    110
+   ],
+   "share": 0.145,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    64,
+    41
+   ],
+   "share": 0.084,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    201,
+    172,
+    145
+   ],
+   "share": 0.046,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    247,
+    184,
+    198
+   ],
+   "share": 0.015,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

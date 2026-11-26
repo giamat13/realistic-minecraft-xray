@@ -1,0 +1,73 @@
+{
+ "path": "item/wooden_sword.png",
+ "depicts": "wooden sword: oak planks blade on an oak wood handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    24,
+    10
+   ],
+   "share": 0.286,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    55,
+    41,
+    16
+   ],
+   "share": 0.286,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    115,
+    86,
+    33
+   ],
+   "share": 0.155,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    67,
+    25
+   ],
+   "share": 0.107,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    134,
+    101,
+    38
+   ],
+   "share": 0.095,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    72,
+    54,
+    20
+   ],
+   "share": 0.071,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

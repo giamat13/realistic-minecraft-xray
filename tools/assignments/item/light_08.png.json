@@ -1,0 +1,73 @@
+{
+ "path": "item/light_08.png",
+ "depicts": "light-level bulb item icon (lit bulb, glass envelope, aluminium base, digit overlay 8)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    236,
+    177,
+    66
+   ],
+   "share": 0.302,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    211,
+    173
+   ],
+   "share": 0.24,
+   "material": "tungsten",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    175,
+    114,
+    51
+   ],
+   "share": 0.177,
+   "material": "glass",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    83,
+    82
+   ],
+   "share": 0.115,
+   "material": "aluminum",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    122,
+    130
+   ],
+   "share": 0.094,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    248,
+    227
+   ],
+   "share": 0.073,
+   "material": "tungsten",
+   "thickness_cm": 0.05
+  }
+ ]
+}

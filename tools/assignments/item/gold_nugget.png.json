@@ -1,0 +1,73 @@
+{
+ "path": "item/gold_nugget.png",
+ "depicts": "gold nugget item: small lump of native gold",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    120,
+    77,
+    12
+   ],
+   "share": 0.459,
+   "material": "gold",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    249,
+    249,
+    105
+   ],
+   "share": 0.162,
+   "material": "gold",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    159,
+    20
+   ],
+   "share": 0.162,
+   "material": "gold",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.108,
+   "material": "gold",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    248,
+    210,
+    106
+   ],
+   "share": 0.108,
+   "material": "gold",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    186,
+    152,
+    65
+   ],
+   "share": 0.0,
+   "material": "gold",
+   "thickness_cm": 0.8
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "particle/effect_5.png",
+ "depicts": "potion-effect sparkle particle (dotted spark with grey shading)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.696,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    179,
+    179,
+    179
+   ],
+   "share": 0.13,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    213,
+    213
+   ],
+   "share": 0.13,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    146,
+    146,
+    146
+   ],
+   "share": 0.043,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

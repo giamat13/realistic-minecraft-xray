@@ -1,0 +1,73 @@
+{
+ "path": "item/cyan_candle.png",
+ "depicts": "cyan dyed candle: wax column with a cotton wick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    14,
+    95,
+    95
+   ],
+   "share": 0.407,
+   "material": "wax",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    19,
+    168,
+    167
+   ],
+   "share": 0.33,
+   "material": "wax",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    16,
+    136,
+    135
+   ],
+   "share": 0.176,
+   "material": "wax",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    23,
+    210,
+    210
+   ],
+   "share": 0.055,
+   "material": "wax",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    48,
+    101
+   ],
+   "share": 0.022,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.011,
+   "material": "wax",
+   "thickness_cm": 3.0
+  }
+ ]
+}

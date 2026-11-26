@@ -1,0 +1,73 @@
+{
+ "path": "item/dark_oak_boat.png",
+ "depicts": "dark oak boat: dark wood hull planks",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    48,
+    28,
+    12
+   ],
+   "share": 0.382,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    68,
+    43,
+    18
+   ],
+   "share": 0.2,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    65,
+    32
+   ],
+   "share": 0.164,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    57,
+    26
+   ],
+   "share": 0.127,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    82,
+    38
+   ],
+   "share": 0.067,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    29,
+    19,
+    9
+   ],
+   "share": 0.061,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  }
+ ]
+}

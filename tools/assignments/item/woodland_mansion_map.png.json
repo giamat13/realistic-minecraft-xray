@@ -1,0 +1,73 @@
+{
+ "path": "item/woodland_mansion_map.png",
+ "depicts": "woodland mansion map item: paper map with ink-drawn mansion footprint and brown roof shapes, dye-coloured",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    249,
+    233,
+    202
+   ],
+   "share": 0.215,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    225,
+    205,
+    169
+   ],
+   "share": 0.211,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    119,
+    103,
+    79
+   ],
+   "share": 0.197,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    128,
+    94
+   ],
+   "share": 0.167,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    6,
+    4,
+    3
+   ],
+   "share": 0.136,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    82,
+    48,
+    21
+   ],
+   "share": 0.075,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

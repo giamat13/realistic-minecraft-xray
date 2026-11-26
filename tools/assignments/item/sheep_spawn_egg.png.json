@@ -1,0 +1,73 @@
+{
+ "path": "item/sheep_spawn_egg.png",
+ "depicts": "a spawn egg item with a wool-white speckled eggshell (sheep variant; wool-white spots)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    129,
+    114,
+    103
+   ],
+   "share": 0.269,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    240,
+    240,
+    240
+   ],
+   "share": 0.261,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    199,
+    199,
+    199
+   ],
+   "share": 0.187,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    151,
+    129
+   ],
+   "share": 0.127,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    98,
+    72,
+    54
+   ],
+   "share": 0.104,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    235,
+    174,
+    162
+   ],
+   "share": 0.052,
+   "material": "egg",
+   "thickness_cm": 4.5
+  }
+ ]
+}

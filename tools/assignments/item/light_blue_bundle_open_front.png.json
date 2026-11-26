@@ -1,0 +1,73 @@
+{
+ "path": "item/light_blue_bundle_open_front.png",
+ "depicts": "dyed light-blue leather bundle, open, front face with rope straps",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    30,
+    123,
+    178
+   ],
+   "share": 0.521,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    28,
+    91,
+    135
+   ],
+   "share": 0.151,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    48,
+    175,
+    229
+   ],
+   "share": 0.126,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    112,
+    203,
+    247
+   ],
+   "share": 0.101,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    86,
+    52
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.05,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

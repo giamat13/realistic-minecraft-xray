@@ -1,0 +1,40 @@
+{
+ "path": "item/chain.png",
+ "depicts": "iron chain: linked iron rings",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.552,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    68,
+    83
+   ],
+   "share": 0.31,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    80,
+    101
+   ],
+   "share": 0.138,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

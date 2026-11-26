@@ -1,0 +1,73 @@
+{
+ "path": "item/firework_star.png",
+ "depicts": "firework star item: grey gunpowder pellet",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.389,
+   "material": "gunpowder",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    114,
+    114,
+    114
+   ],
+   "share": 0.292,
+   "material": "gunpowder",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    45,
+    45
+   ],
+   "share": 0.167,
+   "material": "charcoal",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    138,
+    138,
+    138
+   ],
+   "share": 0.097,
+   "material": "gunpowder",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    87,
+    87,
+    87
+   ],
+   "share": 0.028,
+   "material": "gunpowder",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    98,
+    98,
+    98
+   ],
+   "share": 0.028,
+   "material": "gunpowder",
+   "thickness_cm": 0.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/shulker_shell.png",
+ "depicts": "a shulker shell (purple organic chitinous shell plate)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    150,
+    104,
+    150
+   ],
+   "share": 0.258,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    52,
+    96
+   ],
+   "share": 0.22,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    72,
+    107
+   ],
+   "share": 0.189,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    67,
+    38,
+    80
+   ],
+   "share": 0.182,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    171,
+    132,
+    170
+   ],
+   "share": 0.083,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    132,
+    82,
+    137
+   ],
+   "share": 0.068,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  }
+ ]
+}

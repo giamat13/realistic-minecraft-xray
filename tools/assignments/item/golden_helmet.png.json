@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_helmet.png",
+ "depicts": "golden helmet armor item: gold-alloy helmet",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    63,
+    46,
+    14
+   ],
+   "share": 0.346,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    130,
+    93,
+    22
+   ],
+   "share": 0.244,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    238,
+    242,
+    94
+   ],
+   "share": 0.218,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    228,
+    167,
+    20
+   ],
+   "share": 0.179,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.013,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    125,
+    38
+   ],
+   "share": 0.0,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

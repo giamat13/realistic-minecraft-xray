@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/recipe_book/slot_many_craftable.png",
+ "depicts": "recipe-book many-craftable item-slot frame (25x25): grey plastic slot background with light bevel, black outline and white highlight (abstract UI slot)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.643,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    204,
+    204,
+    204
+   ],
+   "share": 0.147,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.077,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.067,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.066,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

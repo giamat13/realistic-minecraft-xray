@@ -1,0 +1,62 @@
+{
+ "path": "item/light_blue_cushion.png",
+ "depicts": "light-blue dyed wool cushion (flat pillow)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    181,
+    209
+   ],
+   "share": 0.25,
+   "material": "wool",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    41,
+    146,
+    210
+   ],
+   "share": 0.231,
+   "material": "wool",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    115,
+    180
+   ],
+   "share": 0.212,
+   "material": "wool",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    75,
+    115
+   ],
+   "share": 0.173,
+   "material": "wool",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    45,
+    88,
+    140
+   ],
+   "share": 0.135,
+   "material": "wool",
+   "thickness_cm": 3.0
+  }
+ ]
+}

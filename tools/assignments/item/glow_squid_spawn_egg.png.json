@@ -1,0 +1,73 @@
+{
+ "path": "item/glow_squid_spawn_egg.png",
+ "depicts": "glow squid spawn egg item: teal egg-shaped shell with dark blue outline and glowing green spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    31,
+    128,
+    128
+   ],
+   "share": 0.413,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    61,
+    86
+   ],
+   "share": 0.34,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    63,
+    193,
+    148
+   ],
+   "share": 0.14,
+   "material": "phosphor",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    103,
+    160
+   ],
+   "share": 0.047,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    165,
+    255,
+    204
+   ],
+   "share": 0.04,
+   "material": "calcite",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    161,
+    233
+   ],
+   "share": 0.02,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

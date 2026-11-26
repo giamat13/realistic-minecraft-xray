@@ -1,0 +1,73 @@
+{
+ "path": "item/iron_nugget.png",
+ "depicts": "small iron nugget, about 0.6 cm",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    88,
+    95,
+    104
+   ],
+   "share": 0.265,
+   "material": "iron",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 1,
+   "rgb": [
+    226,
+    230,
+    235
+   ],
+   "share": 0.235,
+   "material": "iron",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    60,
+    64
+   ],
+   "share": 0.235,
+   "material": "iron",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 3,
+   "rgb": [
+    187,
+    200,
+    218
+   ],
+   "share": 0.118,
+   "material": "iron",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 4,
+   "rgb": [
+    162,
+    176,
+    190
+   ],
+   "share": 0.088,
+   "material": "iron",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    141,
+    141
+   ],
+   "share": 0.059,
+   "material": "iron",
+   "thickness_cm": 0.6
+  }
+ ]
+}

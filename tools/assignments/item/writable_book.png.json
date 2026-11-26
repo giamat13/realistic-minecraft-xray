@@ -1,0 +1,73 @@
+{
+ "path": "item/writable_book.png",
+ "depicts": "writable book: bound book with a leather cover and blank paper pages, grey writing lines",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    39,
+    21
+   ],
+   "share": 0.312,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    16,
+    4
+   ],
+   "share": 0.269,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.181,
+   "material": "paper",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    220,
+    220,
+    220
+   ],
+   "share": 0.131,
+   "material": "paper",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    147,
+    147,
+    147
+   ],
+   "share": 0.056,
+   "material": "paper",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    106,
+    106,
+    106
+   ],
+   "share": 0.05,
+   "material": "ink",
+   "thickness_cm": 0.02
+  }
+ ]
+}

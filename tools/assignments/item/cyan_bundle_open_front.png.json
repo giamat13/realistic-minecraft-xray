@@ -1,0 +1,73 @@
+{
+ "path": "item/cyan_bundle_open_front.png",
+ "depicts": "open cyan bundle seen from the front: dyed leather pouch with tan leather straps",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    14,
+    97,
+    96
+   ],
+   "share": 0.387,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    134,
+    134
+   ],
+   "share": 0.286,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    180,
+    180
+   ],
+   "share": 0.126,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    18,
+    216,
+    219
+   ],
+   "share": 0.101,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    86,
+    52
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.05,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

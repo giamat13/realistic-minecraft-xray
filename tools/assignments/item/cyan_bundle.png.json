@@ -1,0 +1,73 @@
+{
+ "path": "item/cyan_bundle.png",
+ "depicts": "cyan dyed bundle: rabbit-hide leather pouch with leather straps",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    16,
+    130,
+    130
+   ],
+   "share": 0.336,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    19,
+    198,
+    199
+   ],
+   "share": 0.313,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    13,
+    94,
+    94
+   ],
+   "share": 0.252,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    129,
+    86,
+    52
+   ],
+   "share": 0.053,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.038,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    195,
+    141
+   ],
+   "share": 0.008,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

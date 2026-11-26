@@ -1,0 +1,73 @@
+{
+ "path": "item/iron_ingot.png",
+ "depicts": "iron ingot, bar of iron 1.5 cm thick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.267,
+   "material": "iron",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    121,
+    121,
+    121
+   ],
+   "share": 0.215,
+   "material": "iron",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    168,
+    168
+   ],
+   "share": 0.17,
+   "material": "iron",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    94,
+    94
+   ],
+   "share": 0.156,
+   "material": "iron",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.096,
+   "material": "iron",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.096,
+   "material": "iron",
+   "thickness_cm": 1.5
+  }
+ ]
+}

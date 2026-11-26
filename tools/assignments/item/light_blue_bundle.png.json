@@ -1,0 +1,73 @@
+{
+ "path": "item/light_blue_bundle.png",
+ "depicts": "dyed light-blue leather bundle (closed bag with rope tie)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    39,
+    145,
+    199
+   ],
+   "share": 0.496,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    27,
+    100,
+    151
+   ],
+   "share": 0.252,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    203,
+    247
+   ],
+   "share": 0.153,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    129,
+    86,
+    52
+   ],
+   "share": 0.053,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.038,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    195,
+    141
+   ],
+   "share": 0.008,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

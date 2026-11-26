@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/wither.png",
+ "depicts": "Wither mob effect icon: a withered dark maroon skull with rotten flesh and pale bone highlights",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    35,
+    40
+   ],
+   "share": 0.299,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    118,
+    72,
+    87
+   ],
+   "share": 0.26,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    55,
+    64
+   ],
+   "share": 0.227,
+   "material": "soft_tissue",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    26,
+    22,
+    22
+   ],
+   "share": 0.175,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    136,
+    102,
+    113
+   ],
+   "share": 0.026,
+   "material": "bone",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    175,
+    163,
+    167
+   ],
+   "share": 0.013,
+   "material": "bone",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "item/rabbit_hide.png",
+ "depicts": "tanned rabbit hide (leather item)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    174,
+    134,
+    88
+   ],
+   "share": 0.345,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    130,
+    96,
+    65
+   ],
+   "share": 0.264,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    78,
+    58,
+    39
+   ],
+   "share": 0.218,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    199,
+    158,
+    103
+   ],
+   "share": 0.173,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    146,
+    111,
+    74
+   ],
+   "share": 0.0,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

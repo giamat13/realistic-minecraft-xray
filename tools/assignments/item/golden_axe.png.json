@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_axe.png",
+ "depicts": "golden axe tool: gold-alloy axe head on an oak wooden handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    50,
+    18
+   ],
+   "share": 0.267,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    123,
+    90,
+    28
+   ],
+   "share": 0.25,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    231,
+    172,
+    21
+   ],
+   "share": 0.2,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.167,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    253,
+    255,
+    118
+   ],
+   "share": 0.083,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    234,
+    238,
+    87
+   ],
+   "share": 0.033,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/light_blue_candle.png",
+ "depicts": "light-blue dyed paraffin wax candle with cotton wick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    35,
+    144,
+    205
+   ],
+   "share": 0.582,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    29,
+    103,
+    153
+   ],
+   "share": 0.187,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    65,
+    183,
+    231
+   ],
+   "share": 0.143,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    196,
+    239
+   ],
+   "share": 0.055,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    48,
+    101
+   ],
+   "share": 0.022,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.011,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/fire_charge.png",
+ "depicts": "fire charge item: small ball of charcoal and gunpowder with orange flame",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    50,
+    37,
+    27
+   ],
+   "share": 0.446,
+   "material": "charcoal",
+   "thickness_cm": 1.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    101,
+    85,
+    64
+   ],
+   "share": 0.348,
+   "material": "gunpowder",
+   "thickness_cm": 1.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    53,
+    0
+   ],
+   "share": 0.08,
+   "material": "fire",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    137,
+    109
+   ],
+   "share": 0.054,
+   "material": "gunpowder",
+   "thickness_cm": 1.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    193,
+    109,
+    11
+   ],
+   "share": 0.054,
+   "material": "fire",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    238,
+    172,
+    24
+   ],
+   "share": 0.018,
+   "material": "fire",
+   "thickness_cm": 0.3
+  }
+ ]
+}

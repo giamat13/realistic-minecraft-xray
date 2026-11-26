@@ -1,0 +1,73 @@
+{
+ "path": "map/decorations/trial_chambers.png",
+ "depicts": "trial chamber map icon: tuff walls with copper-brick accents and oxidised copper",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.444,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    113,
+    113,
+    113
+   ],
+   "share": 0.267,
+   "material": "tuff",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    180,
+    96,
+    52
+   ],
+   "share": 0.178,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    82,
+    82
+   ],
+   "share": 0.089,
+   "material": "tuff",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    181,
+    170
+   ],
+   "share": 0.022,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    72,
+    59,
+    51
+   ],
+   "share": 0.0,
+   "material": "tuff",
+   "thickness_cm": 0.5
+  }
+ ]
+}

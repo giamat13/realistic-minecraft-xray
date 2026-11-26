@@ -1,0 +1,73 @@
+{
+ "path": "item/flint_and_steel.png",
+ "depicts": "flint and steel item: steel striker and flint chip",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    47,
+    47
+   ],
+   "share": 0.294,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    15,
+    15,
+    15
+   ],
+   "share": 0.282,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    75,
+    75,
+    75
+   ],
+   "share": 0.224,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.082,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    118,
+    118,
+    118
+   ],
+   "share": 0.071,
+   "material": "quartz",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    185,
+    185,
+    185
+   ],
+   "share": 0.047,
+   "material": "quartz",
+   "thickness_cm": 0.8
+  }
+ ]
+}

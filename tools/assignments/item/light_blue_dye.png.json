@@ -1,0 +1,73 @@
+{
+ "path": "item/light_blue_dye.png",
+ "depicts": "light-blue dye pigment pile in a small wooden dish",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    123,
+    193
+   ],
+   "share": 0.285,
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    158,
+    198,
+    248
+   ],
+   "share": 0.27,
+   "material": "dye_pigment",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    32,
+    28
+   ],
+   "share": 0.168,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    31,
+    68,
+    120
+   ],
+   "share": 0.117,
+   "material": "dye_pigment",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    125,
+    93,
+    74
+   ],
+   "share": 0.095,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    166,
+    152,
+    110
+   ],
+   "share": 0.066,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

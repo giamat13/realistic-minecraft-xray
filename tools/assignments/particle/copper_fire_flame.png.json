@@ -1,0 +1,51 @@
+{
+ "path": "particle/copper_fire_flame.png",
+ "depicts": "copper-salt green flame particle (copper chloride emission flame), bright core",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    235,
+    153
+   ],
+   "share": 0.455,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    105,
+    178,
+    110
+   ],
+   "share": 0.318,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.136,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    70,
+    130,
+    77
+   ],
+   "share": 0.091,
+   "material": "malachite",
+   "thickness_cm": 0.05
+  }
+ ]
+}

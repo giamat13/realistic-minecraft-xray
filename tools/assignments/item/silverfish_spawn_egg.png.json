@@ -1,0 +1,73 @@
+{
+ "path": "item/silverfish_spawn_egg.png",
+ "depicts": "a spawn egg item with a grey speckled eggshell (silverfish variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    130,
+    139,
+    142
+   ],
+   "share": 0.349,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    100,
+    100
+   ],
+   "share": 0.255,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    39,
+    39,
+    39
+   ],
+   "share": 0.132,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    75,
+    71
+   ],
+   "share": 0.123,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.094,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    165,
+    165,
+    165
+   ],
+   "share": 0.047,
+   "material": "egg",
+   "thickness_cm": 4.5
+  }
+ ]
+}

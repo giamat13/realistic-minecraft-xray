@@ -1,0 +1,73 @@
+{
+ "path": "item/filled_map.png",
+ "depicts": "filled map item: paper map with coloured terrain pixels",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    135,
+    78
+   ],
+   "share": 0.285,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    26,
+    119,
+    19
+   ],
+   "share": 0.197,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    67,
+    77,
+    221
+   ],
+   "share": 0.145,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    217,
+    197,
+    161
+   ],
+   "share": 0.136,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    250,
+    234,
+    203
+   ],
+   "share": 0.127,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    111,
+    92,
+    63
+   ],
+   "share": 0.11,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

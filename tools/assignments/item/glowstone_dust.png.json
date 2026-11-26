@@ -1,0 +1,73 @@
+{
+ "path": "item/glowstone_dust.png",
+ "depicts": "glowstone dust item: pile of orange-yellow glowstone grains",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    180,
+    113,
+    64
+   ],
+   "share": 0.227,
+   "material": "glowstone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    57,
+    28
+   ],
+   "share": 0.193,
+   "material": "glowstone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    76,
+    36
+   ],
+   "share": 0.182,
+   "material": "glowstone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    188,
+    94
+   ],
+   "share": 0.17,
+   "material": "glowstone",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    235,
+    170,
+    78
+   ],
+   "share": 0.125,
+   "material": "glowstone",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    249,
+    212,
+    156
+   ],
+   "share": 0.102,
+   "material": "glowstone",
+   "thickness_cm": 0.2
+  }
+ ]
+}

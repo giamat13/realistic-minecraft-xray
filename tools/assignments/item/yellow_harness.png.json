@@ -1,0 +1,73 @@
+{
+ "path": "item/yellow_harness.png",
+ "depicts": "yellow dyed harness: leather straps with metal buckles and rings",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    93,
+    52
+   ],
+   "share": 0.466,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    41,
+    19
+   ],
+   "share": 0.325,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    145,
+    159,
+    162
+   ],
+   "share": 0.104,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    223,
+    100
+   ],
+   "share": 0.055,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    226,
+    165,
+    17
+   ],
+   "share": 0.037,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    208,
+    234,
+    233
+   ],
+   "share": 0.012,
+   "material": "steel",
+   "thickness_cm": 0.3
+  }
+ ]
+}

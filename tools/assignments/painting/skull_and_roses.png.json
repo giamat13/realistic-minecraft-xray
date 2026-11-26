@@ -1,0 +1,73 @@
+{
+ "path": "painting/skull_and_roses.png",
+ "depicts": "Minecraft painting \"Skull and Roses\": painted skull with roses on teal ground, wooden frame",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    128,
+    160
+   ],
+   "share": 0.285,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    10,
+    52,
+    67
+   ],
+   "share": 0.207,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    93,
+    99
+   ],
+   "share": 0.174,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    101,
+    170,
+    199
+   ],
+   "share": 0.17,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    157,
+    218,
+    234
+   ],
+   "share": 0.108,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    93,
+    91
+   ],
+   "share": 0.056,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

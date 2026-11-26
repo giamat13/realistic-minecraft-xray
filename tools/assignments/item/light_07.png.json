@@ -1,0 +1,73 @@
+{
+ "path": "item/light_07.png",
+ "depicts": "light-level bulb item icon (lit bulb with glowing filament and aluminium base, digit overlay 7)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    113,
+    53
+   ],
+   "share": 0.273,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    253,
+    217,
+    152
+   ],
+   "share": 0.216,
+   "material": "tungsten",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    111,
+    103,
+    106
+   ],
+   "share": 0.205,
+   "material": "aluminum",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    176,
+    67
+   ],
+   "share": 0.182,
+   "material": "glass",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    248,
+    227
+   ],
+   "share": 0.068,
+   "material": "tungsten",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    204,
+    202,
+    202
+   ],
+   "share": 0.057,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

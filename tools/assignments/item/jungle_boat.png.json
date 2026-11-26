@@ -1,0 +1,73 @@
+{
+ "path": "item/jungle_boat.png",
+ "depicts": "jungle wood boat (side view), jungle planks",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    84,
+    57,
+    38
+   ],
+   "share": 0.491,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    184,
+    135,
+    100
+   ],
+   "share": 0.164,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    104,
+    69
+   ],
+   "share": 0.127,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    84,
+    57
+   ],
+   "share": 0.091,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    193,
+    149,
+    117
+   ],
+   "share": 0.067,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    54,
+    32,
+    22
+   ],
+   "share": 0.061,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

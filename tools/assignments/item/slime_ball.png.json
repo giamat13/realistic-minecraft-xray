@@ -1,0 +1,73 @@
+{
+ "path": "item/slime_ball.png",
+ "depicts": "a slime ball (translucent green gel sphere)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    127,
+    200,
+    118
+   ],
+   "share": 0.33,
+   "material": "slime",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    100,
+    158,
+    89
+   ],
+   "share": 0.25,
+   "material": "slime",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    75,
+    125,
+    69
+   ],
+   "share": 0.223,
+   "material": "slime",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    52,
+    83,
+    47
+   ],
+   "share": 0.161,
+   "material": "slime",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    201,
+    254,
+    206
+   ],
+   "share": 0.027,
+   "material": "slime",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.009,
+   "material": "slime",
+   "thickness_cm": 5.0
+  }
+ ]
+}

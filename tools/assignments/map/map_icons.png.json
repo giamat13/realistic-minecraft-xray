@@ -1,0 +1,73 @@
+{
+ "path": "map/map_icons.png",
+ "depicts": "map marker icon sprites: black outline, orange and blue painted markers, pale skin/head, white highlights, green marker",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    3,
+    2,
+    1
+   ],
+   "share": 0.599,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    160,
+    79,
+    38
+   ],
+   "share": 0.146,
+   "material": "terracotta",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    87,
+    115,
+    146
+   ],
+   "share": 0.103,
+   "material": "dye_pigment",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    197,
+    164,
+    142
+   ],
+   "share": 0.087,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    232,
+    239,
+    238
+   ],
+   "share": 0.053,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    215,
+    64
+   ],
+   "share": 0.011,
+   "material": "dye_pigment",
+   "thickness_cm": 0.1
+  }
+ ]
+}

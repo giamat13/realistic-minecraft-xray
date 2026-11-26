@@ -1,0 +1,73 @@
+{
+ "path": "map/decorations/swamp_hut.png",
+ "depicts": "swamp hut map icon: wooden hut walls and thatched roof, dark outline",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.478,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    76,
+    54,
+    32
+   ],
+   "share": 0.217,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    97,
+    58
+   ],
+   "share": 0.13,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    112,
+    82,
+    46
+   ],
+   "share": 0.087,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    44,
+    33,
+    21
+   ],
+   "share": 0.043,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    203,
+    157,
+    76
+   ],
+   "share": 0.043,
+   "material": "straw",
+   "thickness_cm": 5.0
+  }
+ ]
+}

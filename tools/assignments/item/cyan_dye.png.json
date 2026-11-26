@@ -1,0 +1,73 @@
+{
+ "path": "item/cyan_dye.png",
+ "depicts": "cyan dye item: cyan dye pigment in a small container",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    36,
+    110,
+    144
+   ],
+   "share": 0.302,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    18,
+    76,
+    99
+   ],
+   "share": 0.208,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    175,
+    204
+   ],
+   "share": 0.188,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    57,
+    31,
+    27
+   ],
+   "share": 0.141,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    91,
+    72
+   ],
+   "share": 0.101,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    166,
+    152,
+    110
+   ],
+   "share": 0.06,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

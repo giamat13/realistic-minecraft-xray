@@ -1,0 +1,73 @@
+{
+ "path": "item/compass_29.png",
+ "depicts": "compass icon frame 29: iron ring and dial, steel needle half, red iron-oxide paint half",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    41,
+    41
+   ],
+   "share": 0.607,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    148,
+    148,
+    148
+   ],
+   "share": 0.15,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    91,
+    91,
+    91
+   ],
+   "share": 0.121,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.057,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    22,
+    22
+   ],
+   "share": 0.036,
+   "material": "iron_oxide",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.029,
+   "material": "steel",
+   "thickness_cm": 0.2
+  }
+ ]
+}

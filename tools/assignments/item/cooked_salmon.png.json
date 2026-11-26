@@ -1,0 +1,73 @@
+{
+ "path": "item/cooked_salmon.png",
+ "depicts": "cooked salmon fillet: orange-pink flesh, dark skin, grey-green fin edges",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    109,
+    64,
+    35
+   ],
+   "share": 0.233,
+   "material": "fat",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    177,
+    75,
+    34
+   ],
+   "share": 0.2,
+   "material": "muscle",
+   "thickness_cm": 2.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    203,
+    133,
+    87
+   ],
+   "share": 0.167,
+   "material": "muscle",
+   "thickness_cm": 2.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    65,
+    82,
+    70
+   ],
+   "share": 0.156,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    41,
+    38
+   ],
+   "share": 0.144,
+   "material": "charcoal",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    94,
+    122,
+    102
+   ],
+   "share": 0.1,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

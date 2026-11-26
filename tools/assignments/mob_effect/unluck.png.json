@@ -1,0 +1,51 @@
+{
+ "path": "mob_effect/unluck.png",
+ "depicts": "Unluck mob effect icon: a tarnished gold charm/coin with dark olive patina",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    197,
+    167,
+    78
+   ],
+   "share": 0.301,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    126,
+    110,
+    50
+   ],
+   "share": 0.293,
+   "material": "brass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    61,
+    53,
+    21
+   ],
+   "share": 0.278,
+   "material": "bronze",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    83,
+    73,
+    33
+   ],
+   "share": 0.128,
+   "material": "brass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

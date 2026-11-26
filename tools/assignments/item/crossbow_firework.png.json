@@ -1,0 +1,73 @@
+{
+ "path": "item/crossbow_firework.png",
+ "depicts": "crossbow loaded with a firework rocket: wooden stock, steel limbs, paper rocket body with gunpowder star",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    57,
+    26
+   ],
+   "share": 0.362,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    36,
+    28,
+    24
+   ],
+   "share": 0.355,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    115,
+    121,
+    123
+   ],
+   "share": 0.13,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    189,
+    46,
+    42
+   ],
+   "share": 0.116,
+   "material": "paper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    178,
+    204,
+    209
+   ],
+   "share": 0.022,
+   "material": "gunpowder",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.014,
+   "material": "paper",
+   "thickness_cm": 0.1
+  }
+ ]
+}

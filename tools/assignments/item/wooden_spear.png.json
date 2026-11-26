@@ -1,0 +1,73 @@
+{
+ "path": "item/wooden_spear.png",
+ "depicts": "wooden spear: oak wood shaft with a reddish leather binding near the tip",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    47,
+    18
+   ],
+   "share": 0.432,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    26,
+    10
+   ],
+   "share": 0.257,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    113,
+    85,
+    32
+   ],
+   "share": 0.149,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    135,
+    102,
+    38
+   ],
+   "share": 0.122,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    163,
+    75,
+    34
+   ],
+   "share": 0.027,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    186,
+    95,
+    52
+   ],
+   "share": 0.014,
+   "material": "leather",
+   "thickness_cm": 0.3
+  }
+ ]
+}

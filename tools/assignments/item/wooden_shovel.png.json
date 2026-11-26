@@ -1,0 +1,73 @@
+{
+ "path": "item/wooden_shovel.png",
+ "depicts": "wooden shovel: oak planks blade on an oak wood handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    36,
+    27,
+    11
+   ],
+   "share": 0.302,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    135,
+    102,
+    38
+   ],
+   "share": 0.245,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    83,
+    32
+   ],
+   "share": 0.189,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    54,
+    21
+   ],
+   "share": 0.17,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    55,
+    41,
+    16
+   ],
+   "share": 0.094,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    83,
+    62,
+    24
+   ],
+   "share": 0.0,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

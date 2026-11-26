@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_hoe.png",
+ "depicts": "golden hoe tool: gold-alloy blade on an oak wooden handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    91,
+    30
+   ],
+   "share": 0.314,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    51,
+    18
+   ],
+   "share": 0.314,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    40,
+    30,
+    11
+   ],
+   "share": 0.196,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    233,
+    177,
+    21
+   ],
+   "share": 0.078,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    238,
+    87
+   ],
+   "share": 0.078,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    255,
+    118
+   ],
+   "share": 0.02,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

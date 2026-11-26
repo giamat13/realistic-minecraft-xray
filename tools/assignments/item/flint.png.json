@@ -1,0 +1,73 @@
+{
+ "path": "item/flint.png",
+ "depicts": "flint item: dark cryptocrystalline quartz flint chip",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    53,
+    53
+   ],
+   "share": 0.457,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    34,
+    32,
+    32
+   ],
+   "share": 0.216,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    14,
+    14,
+    14
+   ],
+   "share": 0.172,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    86,
+    86,
+    86
+   ],
+   "share": 0.095,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    127,
+    127,
+    127
+   ],
+   "share": 0.043,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    168,
+    168
+   ],
+   "share": 0.017,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  }
+ ]
+}

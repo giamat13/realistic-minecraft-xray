@@ -1,0 +1,73 @@
+{
+ "path": "item/suspicious_stew.png",
+ "depicts": "Suspicious stew: bowl of brown stew (oak bowl, vegetable broth, small flower on top)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    55,
+    38,
+    8
+   ],
+   "share": 0.514,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    128,
+    89,
+    42
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    201,
+    155,
+    103
+   ],
+   "share": 0.176,
+   "material": "vegetable",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    142,
+    95,
+    165
+   ],
+   "share": 0.054,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    212,
+    117
+   ],
+   "share": 0.054,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    243,
+    84
+   ],
+   "share": 0.027,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

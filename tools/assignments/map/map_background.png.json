@@ -1,0 +1,29 @@
+{
+ "path": "map/map_background.png",
+ "depicts": "parchment paper map background with faint stains",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    190,
+    150
+   ],
+   "share": 0.916,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    153,
+    135,
+    108
+   ],
+   "share": 0.084,
+   "material": "paper",
+   "thickness_cm": 0.03
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/weaving.png",
+ "depicts": "Weaving mob effect icon: a grey cobweb mesh of silk strands with dark outline",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    120,
+    122
+   ],
+   "share": 0.344,
+   "material": "silk",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    139,
+    141
+   ],
+   "share": 0.182,
+   "material": "silk",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.178,
+   "material": "silk",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    31,
+    24,
+    24
+   ],
+   "share": 0.134,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    196,
+    206,
+    210
+   ],
+   "share": 0.115,
+   "material": "silk",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    56,
+    58,
+    60
+   ],
+   "share": 0.047,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

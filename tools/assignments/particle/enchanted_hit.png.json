@@ -1,0 +1,51 @@
+{
+ "path": "particle/enchanted_hit.png",
+ "depicts": "enchanted-hit sparkle burst (white and grey star sparks)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    206,
+    206,
+    206
+   ],
+   "share": 0.4,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    122,
+    122
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    153,
+    153
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

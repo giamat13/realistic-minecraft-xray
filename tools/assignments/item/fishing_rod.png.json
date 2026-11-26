@@ -1,0 +1,73 @@
+{
+ "path": "item/fishing_rod.png",
+ "depicts": "fishing rod item: oak wooden rod with steel reel, nylon line and bobber",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    42,
+    16
+   ],
+   "share": 0.403,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    68,
+    56
+   ],
+   "share": 0.313,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    102,
+    102,
+    102
+   ],
+   "share": 0.104,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    168,
+    167,
+    167
+   ],
+   "share": 0.075,
+   "material": "plastic",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.06,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.045,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

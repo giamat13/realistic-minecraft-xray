@@ -1,0 +1,29 @@
+{
+ "path": "particle/drip_fall.png",
+ "depicts": "falling water droplet particle with specular highlight",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    213,
+    213,
+    213
+   ],
+   "share": 0.75,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.25,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

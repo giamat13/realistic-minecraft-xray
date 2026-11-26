@@ -1,0 +1,62 @@
+{
+ "path": "item/light_blue_bundle_open_back.png",
+ "depicts": "dyed light-blue leather bundle, open, back face",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    28,
+    91,
+    135
+   ],
+   "share": 0.38,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    25,
+    109,
+    168
+   ],
+   "share": 0.225,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    32,
+    123,
+    180
+   ],
+   "share": 0.169,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    37,
+    143,
+    191
+   ],
+   "share": 0.141,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    48,
+    175,
+    229
+   ],
+   "share": 0.085,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

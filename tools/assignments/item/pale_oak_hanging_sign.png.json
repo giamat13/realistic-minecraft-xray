@@ -1,0 +1,73 @@
+{
+ "path": "item/pale_oak_hanging_sign.png",
+ "depicts": "pale oak hanging sign: wooden board hung from iron chains",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    184,
+    171,
+    171
+   ],
+   "share": 0.311,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    240,
+    231,
+    229
+   ],
+   "share": 0.304,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    252,
+    246,
+    245
+   ],
+   "share": 0.128,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    130,
+    117,
+    117
+   ],
+   "share": 0.122,
+   "material": "wood_oak",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    81,
+    81,
+    81
+   ],
+   "share": 0.081,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    50,
+    50,
+    50
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

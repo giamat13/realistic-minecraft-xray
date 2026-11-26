@@ -1,0 +1,18 @@
+{
+ "path": "particle/explosion_1.png",
+ "depicts": "explosion blast-cloud puff frame 1 (expanding smoke ring disc)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "smoke",
+   "thickness_cm": 1.0
+  }
+ ]
+}

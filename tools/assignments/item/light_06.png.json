@@ -1,0 +1,73 @@
+{
+ "path": "item/light_06.png",
+ "depicts": "light-level bulb item icon (lit incandescent bulb, glass envelope, glowing filament, aluminium screw base, number overlay)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    162,
+    141,
+    118
+   ],
+   "share": 0.33,
+   "material": "glass",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    233,
+    155
+   ],
+   "share": 0.245,
+   "material": "tungsten",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    234,
+    184,
+    74
+   ],
+   "share": 0.17,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    84,
+    82
+   ],
+   "share": 0.106,
+   "material": "aluminum",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    122,
+    130
+   ],
+   "share": 0.096,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    204,
+    202,
+    202
+   ],
+   "share": 0.053,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

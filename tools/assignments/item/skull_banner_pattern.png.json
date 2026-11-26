@@ -1,0 +1,73 @@
+{
+ "path": "item/skull_banner_pattern.png",
+ "depicts": "a banner pattern paper sheet with a printed skull motif (paper with dye pigment ink)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.287,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    137,
+    124,
+    88
+   ],
+   "share": 0.226,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    101,
+    77,
+    64
+   ],
+   "share": 0.171,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    165,
+    137
+   ],
+   "share": 0.152,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    218,
+    210,
+    188
+   ],
+   "share": 0.14,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    53,
+    35
+   ],
+   "share": 0.024,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

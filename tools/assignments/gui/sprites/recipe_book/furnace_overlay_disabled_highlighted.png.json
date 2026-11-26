@@ -1,0 +1,62 @@
+{
+ "path": "gui/sprites/recipe_book/furnace_overlay_disabled_highlighted.png",
+ "depicts": "recipe-book furnace slot overlay panel, disabled and highlighted (24x24): blue-grey plastic panel with navy/white bevel and two slot frames (abstract UI panel)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    141,
+    126,
+    153
+   ],
+   "share": 0.642,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    3,
+    30
+   ],
+   "share": 0.149,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    68,
+    73,
+    100
+   ],
+   "share": 0.073,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.073,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    95,
+    100,
+    127
+   ],
+   "share": 0.064,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "item/sulfur_spike.png",
+ "depicts": "Sulfur spike: a sharp yellow-olive sulfur crystal spike, about 2-3 cm thick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    213,
+    204,
+    109
+   ],
+   "share": 0.342,
+   "material": "sulfur",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    181,
+    160,
+    101
+   ],
+   "share": 0.233,
+   "material": "sulfur",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    185,
+    92
+   ],
+   "share": 0.192,
+   "material": "sulfur",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    129,
+    78
+   ],
+   "share": 0.123,
+   "material": "sulfur",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    163,
+    148,
+    85
+   ],
+   "share": 0.11,
+   "material": "sulfur",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "item/cyan_bundle_open_back.png",
+ "depicts": "open cyan bundle seen from the back: dyed rabbit-hide leather pouch",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    12,
+    84,
+    84
+   ],
+   "share": 0.38,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    15,
+    105,
+    104
+   ],
+   "share": 0.225,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    15,
+    120,
+    120
+   ],
+   "share": 0.169,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    17,
+    144,
+    144
+   ],
+   "share": 0.141,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    20,
+    180,
+    180
+   ],
+   "share": 0.085,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

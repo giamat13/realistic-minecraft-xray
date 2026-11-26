@@ -1,0 +1,73 @@
+{
+ "path": "item/iron_spear.png",
+ "depicts": "iron spear: iron head and wooden shaft",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    81,
+    81
+   ],
+   "share": 0.284,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    30,
+    26,
+    19
+   ],
+   "share": 0.216,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    46,
+    16
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    239,
+    239
+   ],
+   "share": 0.135,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    95,
+    39
+   ],
+   "share": 0.108,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    162,
+    162
+   ],
+   "share": 0.081,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

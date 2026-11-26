@@ -1,0 +1,73 @@
+{
+ "path": "item/paper.png",
+ "depicts": "sheet of paper",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    252,
+    242
+   ],
+   "share": 0.429,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    135,
+    135,
+    135
+   ],
+   "share": 0.163,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    174,
+    174
+   ],
+   "share": 0.143,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.122,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    234,
+    235
+   ],
+   "share": 0.122,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.02,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

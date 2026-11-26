@@ -1,0 +1,73 @@
+{
+ "path": "item/cyan_harness.png",
+ "depicts": "cyan horse harness: leather straps with iron buckles",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    41,
+    19
+   ],
+   "share": 0.325,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    28,
+    128,
+    135
+   ],
+   "share": 0.221,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    115,
+    85,
+    65
+   ],
+   "share": 0.178,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    95,
+    60
+   ],
+   "share": 0.172,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    164,
+    167
+   ],
+   "share": 0.092,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    208,
+    234,
+    233
+   ],
+   "share": 0.012,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

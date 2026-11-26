@@ -1,0 +1,73 @@
+{
+ "path": "item/taiga_village_map.png",
+ "depicts": "Taiga village map: paper map of a taiga village with ink lines and earth-tone pigments",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    249,
+    233,
+    202
+   ],
+   "share": 0.25,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    225,
+    205,
+    169
+   ],
+   "share": 0.228,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    144,
+    123,
+    90
+   ],
+   "share": 0.228,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    90,
+    63
+   ],
+   "share": 0.175,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.096,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    146,
+    141,
+    134
+   ],
+   "share": 0.022,
+   "material": "ink",
+   "thickness_cm": 0.02
+  }
+ ]
+}

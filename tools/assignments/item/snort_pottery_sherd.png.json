@@ -1,0 +1,73 @@
+{
+ "path": "item/snort_pottery_sherd.png",
+ "depicts": "a fired clay pottery sherd (terracotta-coloured shard, snort pattern)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    41,
+    33
+   ],
+   "share": 0.357,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    95,
+    55,
+    47
+   ],
+   "share": 0.236,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    117,
+    66,
+    54
+   ],
+   "share": 0.146,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.14,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.083,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.038,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

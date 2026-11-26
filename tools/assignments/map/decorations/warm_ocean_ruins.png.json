@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/warm_ocean_ruins.png",
+ "depicts": "warm ocean ruins map icon: sandstone ruin blocks with terracotta accents",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.48,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    209,
+    186,
+    138
+   ],
+   "share": 0.28,
+   "material": "sandstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    126,
+    72
+   ],
+   "share": 0.24,
+   "material": "terracotta",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    96,
+    82,
+    56
+   ],
+   "share": 0.0,
+   "material": "sandstone",
+   "thickness_cm": 2.0
+  }
+ ]
+}

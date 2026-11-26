@@ -1,0 +1,73 @@
+{
+ "path": "item/light_15.png",
+ "depicts": "light-level bulb item icon (fully lit white bulb, digit overlay 15, aluminium base)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    254,
+    254
+   ],
+   "share": 0.45,
+   "material": "tungsten",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    249,
+    228,
+    159
+   ],
+   "share": 0.19,
+   "material": "tungsten",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    238,
+    190,
+    70
+   ],
+   "share": 0.19,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    80,
+    78
+   ],
+   "share": 0.1,
+   "material": "aluminum",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    185,
+    181,
+    176
+   ],
+   "share": 0.04,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    154,
+    147,
+    139
+   ],
+   "share": 0.03,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

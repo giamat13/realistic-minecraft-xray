@@ -1,0 +1,73 @@
+{
+ "path": "item/golden_nautilus_armor.png",
+ "depicts": "golden nautilus armor item: gold-alloy shell-shaped plating",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    189,
+    126,
+    17
+   ],
+   "share": 0.303,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    151,
+    85,
+    14
+   ],
+   "share": 0.23,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    238,
+    224,
+    87
+   ],
+   "share": 0.184,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    203,
+    69
+   ],
+   "share": 0.105,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    212,
+    151,
+    19
+   ],
+   "share": 0.092,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    255,
+    118
+   ],
+   "share": 0.086,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

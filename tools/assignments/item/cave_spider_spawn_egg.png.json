@@ -1,0 +1,73 @@
+{
+ "path": "item/cave_spider_spawn_egg.png",
+ "depicts": "cave spider spawn egg: dark teal egg shell with chitin spider markings (fictional mob egg)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    10,
+    10
+   ],
+   "share": 0.351,
+   "material": "calcite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    13,
+    54,
+    51
+   ],
+   "share": 0.266,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    16,
+    35,
+    30
+   ],
+   "share": 0.253,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    74,
+    62
+   ],
+   "share": 0.091,
+   "material": "egg",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    106,
+    95
+   ],
+   "share": 0.019,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    146,
+    137,
+    127
+   ],
+   "share": 0.019,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

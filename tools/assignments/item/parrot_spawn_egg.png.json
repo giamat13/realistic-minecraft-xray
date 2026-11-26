@@ -1,0 +1,73 @@
+{
+ "path": "item/parrot_spawn_egg.png",
+ "depicts": "parrot spawn egg: multicoloured egg shell with black markings",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    0,
+    20
+   ],
+   "share": 0.32,
+   "material": "egg",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    176,
+    0
+   ],
+   "share": 0.194,
+   "material": "egg",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    244,
+    47,
+    47
+   ],
+   "share": 0.194,
+   "material": "egg",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    7,
+    54,
+    158
+   ],
+   "share": 0.146,
+   "material": "egg",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    32,
+    32,
+    32
+   ],
+   "share": 0.078,
+   "material": "ink",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    4,
+    103,
+    254
+   ],
+   "share": 0.068,
+   "material": "egg",
+   "thickness_cm": 1.0
+  }
+ ]
+}

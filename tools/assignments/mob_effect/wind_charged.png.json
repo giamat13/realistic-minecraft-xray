@@ -1,0 +1,62 @@
+{
+ "path": "mob_effect/wind_charged.png",
+ "depicts": "Wind Charged mob effect icon: a swirl of pale charged gust/vapour with a slate-grey outline",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    235,
+    239,
+    255
+   ],
+   "share": 0.297,
+   "material": "steam",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    109,
+    122,
+    140
+   ],
+   "share": 0.268,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    201,
+    255
+   ],
+   "share": 0.167,
+   "material": "steam",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    156,
+    167,
+    207
+   ],
+   "share": 0.146,
+   "material": "steam",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    140,
+    169
+   ],
+   "share": 0.122,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

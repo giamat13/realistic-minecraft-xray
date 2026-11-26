@@ -1,0 +1,73 @@
+{
+ "path": "item/slime_spawn_egg.png",
+ "depicts": "a spawn egg item with a green speckled eggshell (slime variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    117,
+    185,
+    100
+   ],
+   "share": 0.339,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    81,
+    154,
+    62
+   ],
+   "share": 0.207,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    99,
+    50
+   ],
+   "share": 0.161,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    47,
+    77,
+    39
+   ],
+   "share": 0.109,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    74,
+    128,
+    56
+   ],
+   "share": 0.109,
+   "material": "egg",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    214,
+    124
+   ],
+   "share": 0.075,
+   "material": "egg",
+   "thickness_cm": 4.5
+  }
+ ]
+}

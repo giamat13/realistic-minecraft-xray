@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/recipe_book/page_forward_highlighted.png",
+ "depicts": "recipe-book next-page arrow, highlighted (12x17): blue plastic arrow glyph with navy outline, white highlight and dark-blue shading (abstract UI glyph)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    7,
+    62
+   ],
+   "share": 0.358,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    146,
+    201
+   ],
+   "share": 0.333,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.179,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    52,
+    62,
+    117
+   ],
+   "share": 0.13,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "mob_effect/water_breathing.png",
+ "depicts": "Water Breathing mob effect icon: blue air bubbles and water droplets",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    182,
+    211
+   ],
+   "share": 0.314,
+   "material": "water",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    175,
+    207
+   ],
+   "share": 0.314,
+   "material": "water",
+   "thickness_cm": 0.25
+  },
+  {
+   "id": 2,
+   "rgb": [
+    86,
+    161,
+    189
+   ],
+   "share": 0.176,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    242,
+    255,
+    255
+   ],
+   "share": 0.137,
+   "material": "water",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    130,
+    204,
+    232
+   ],
+   "share": 0.059,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}
