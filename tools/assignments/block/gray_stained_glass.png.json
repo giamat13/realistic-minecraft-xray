@@ -1,0 +1,18 @@
+{
+ "path": "block/gray_stained_glass.png",
+ "depicts": "gray stained glass block: glass dyed gray",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    76,
+    76
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/brown_stained_glass_pane_top.png",
+ "depicts": "Brown stained glass pane top view (thin glass sheet, sheet height gives 100 cm path)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    76,
+    50
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    73,
+    48
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    94,
+    71,
+    47
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    99,
+    74,
+    49
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

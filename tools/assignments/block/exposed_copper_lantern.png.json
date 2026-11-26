@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_copper_lantern.png",
+ "depicts": "exposed copper lantern (animated strip, first frame): oxidised copper frame and cage, glass panes, glowing flame core",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    161,
+    119,
+    101
+   ],
+   "share": 0.642,
+   "material": "copper",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    96,
+    79
+   ],
+   "share": 0.17,
+   "material": "copper",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    235,
+    153
+   ],
+   "share": 0.075,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    178,
+    110
+   ],
+   "share": 0.057,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    238,
+    252,
+    238
+   ],
+   "share": 0.038,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    70,
+    130,
+    77
+   ],
+   "share": 0.019,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/cake_side.png",
+ "depicts": "Cake block side face: baked sponge cake sides with thin white frosting top band and crust, 14/16 block wide so horizontal path 87.5 cm",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    88,
+    34
+   ],
+   "share": 0.321,
+   "material": "bread",
+   "thickness_cm": 87.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    253,
+    254
+   ],
+   "share": 0.232,
+   "material": "sugar",
+   "thickness_cm": 87.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    135,
+    63,
+    33
+   ],
+   "share": 0.232,
+   "material": "bread",
+   "thickness_cm": 87.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    249,
+    237,
+    209
+   ],
+   "share": 0.196,
+   "material": "sugar",
+   "thickness_cm": 87.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    224,
+    211,
+    184
+   ],
+   "share": 0.018,
+   "material": "sugar",
+   "thickness_cm": 87.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    203,
+    152,
+    122
+   ],
+   "share": 0.0,
+   "material": "bread",
+   "thickness_cm": 87.5
+  }
+ ]
+}

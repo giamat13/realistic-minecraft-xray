@@ -1,0 +1,73 @@
+{
+ "path": "block/red_wool.png",
+ "depicts": "red wool block (dyed sheep wool fibres, dense)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    35,
+    33
+   ],
+   "share": 0.25,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    166,
+    41,
+    34
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    44,
+    36
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    38,
+    33
+   ],
+   "share": 0.16,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    145,
+    33,
+    32
+   ],
+   "share": 0.137,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    184,
+    52,
+    44
+   ],
+   "share": 0.082,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/brown_terracotta.png",
+ "depicts": "Solid brown-dyed terracotta block (fired clay with brown pigment)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    50,
+    35
+   ],
+   "share": 0.441,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    78,
+    52,
+    36
+   ],
+   "share": 0.262,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    75,
+    49,
+    34
+   ],
+   "share": 0.121,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    79,
+    53,
+    37
+   ],
+   "share": 0.117,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    80,
+    54,
+    38
+   ],
+   "share": 0.055,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    77,
+    52,
+    39
+   ],
+   "share": 0.004,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/budding_amethyst.png",
+ "depicts": "Budding amethyst block: solid amethyst (silicate quartz variety, purple coloured) with crystal buds",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    129,
+    97,
+    190
+   ],
+   "share": 0.352,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    66,
+    155
+   ],
+   "share": 0.324,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    200,
+    144,
+    240
+   ],
+   "share": 0.105,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    166,
+    120,
+    241
+   ],
+   "share": 0.098,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    70,
+    43,
+    125
+   ],
+   "share": 0.066,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    203,
+    230
+   ],
+   "share": 0.055,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  }
+ ]
+}

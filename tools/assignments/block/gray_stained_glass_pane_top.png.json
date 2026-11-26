@@ -1,0 +1,51 @@
+{
+ "path": "block/gray_stained_glass_pane_top.png",
+ "depicts": "gray stained glass pane top edge: dyed glass pane seen from above",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    76,
+    76
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    71,
+    71
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 12.5
+  }
+ ]
+}

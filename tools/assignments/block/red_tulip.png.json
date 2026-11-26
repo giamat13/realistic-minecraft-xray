@@ -1,0 +1,73 @@
+{
+ "path": "block/red_tulip.png",
+ "depicts": "red tulip flower plant (petals and green stem/leaves, thin plant sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    84,
+    164,
+    45
+   ],
+   "share": 0.408,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    124,
+    4
+   ],
+   "share": 0.265,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    143,
+    40
+   ],
+   "share": 0.143,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    52,
+    48
+   ],
+   "share": 0.102,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    155,
+    34,
+    26
+   ],
+   "share": 0.041,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    191,
+    37,
+    41
+   ],
+   "share": 0.041,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

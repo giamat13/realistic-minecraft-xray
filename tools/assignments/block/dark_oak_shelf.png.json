@@ -1,0 +1,73 @@
+{
+ "path": "block/dark_oak_shelf.png",
+ "depicts": "dark oak shelf block: dark oak wood with carved compartments",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    48,
+    32
+   ],
+   "share": 0.318,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    54,
+    35
+   ],
+   "share": 0.261,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    57,
+    36
+   ],
+   "share": 0.154,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    81,
+    62,
+    38
+   ],
+   "share": 0.144,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    54,
+    37,
+    21
+   ],
+   "share": 0.077,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    26,
+    12
+   ],
+   "share": 0.046,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

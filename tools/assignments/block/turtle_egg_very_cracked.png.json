@@ -1,0 +1,73 @@
+{
+ "path": "block/turtle_egg_very_cracked.png",
+ "depicts": "turtle egg with large cracks, dark interior exposed",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    245,
+    237,
+    207
+   ],
+   "share": 0.429,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    227,
+    176
+   ],
+   "share": 0.211,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    136,
+    125,
+    84
+   ],
+   "share": 0.158,
+   "material": "air",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    193,
+    180,
+    132
+   ],
+   "share": 0.135,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    72,
+    167,
+    142
+   ],
+   "share": 0.045,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    52,
+    121,
+    103
+   ],
+   "share": 0.023,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

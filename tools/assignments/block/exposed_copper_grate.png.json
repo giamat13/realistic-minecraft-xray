@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_copper_grate.png",
+ "depicts": "exposed copper grate: oxidised copper lattice grate (open mesh, effective solid path about 30 cm)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    161,
+    128,
+    101
+   ],
+   "share": 0.391,
+   "material": "copper",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    125,
+    110,
+    86
+   ],
+   "share": 0.196,
+   "material": "copper",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    186,
+    130,
+    119
+   ],
+   "share": 0.156,
+   "material": "copper",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    206,
+    141,
+    131
+   ],
+   "share": 0.134,
+   "material": "copper",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    148,
+    118,
+    97
+   ],
+   "share": 0.106,
+   "material": "copper",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    152,
+    105
+   ],
+   "share": 0.017,
+   "material": "copper",
+   "thickness_cm": 30.0
+  }
+ ]
+}

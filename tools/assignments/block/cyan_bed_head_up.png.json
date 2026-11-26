@@ -1,0 +1,73 @@
+{
+ "path": "block/cyan_bed_head_up.png",
+ "depicts": "cyan bed head end, top face: white/light grey pillow wool and cyan mattress wool (37.5 cm mattress)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    196,
+    202,
+    203
+   ],
+   "share": 0.281,
+   "material": "wool",
+   "thickness_cm": 37.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    18,
+    149,
+    148
+   ],
+   "share": 0.258,
+   "material": "wool",
+   "thickness_cm": 37.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.219,
+   "material": "wool",
+   "thickness_cm": 37.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    14,
+    101,
+    100
+   ],
+   "share": 0.18,
+   "material": "wool",
+   "thickness_cm": 37.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    8,
+    71,
+    71
+   ],
+   "share": 0.062,
+   "material": "wool",
+   "thickness_cm": 37.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    116,
+    171,
+    171
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 37.5
+  }
+ ]
+}

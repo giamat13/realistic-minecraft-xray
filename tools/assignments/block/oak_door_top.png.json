@@ -1,0 +1,73 @@
+{
+ "path": "block/oak_door_top.png",
+ "depicts": "oak door upper half: oak wood panels with transparent rounded corners; grey iron door handle pixels",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    113,
+    63
+   ],
+   "share": 0.361,
+   "material": "wood_oak",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    76,
+    43
+   ],
+   "share": 0.284,
+   "material": "wood_oak",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    166,
+    130,
+    77
+   ],
+   "share": 0.173,
+   "material": "wood_oak",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    183,
+    145,
+    89
+   ],
+   "share": 0.149,
+   "material": "wood_oak",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    128,
+    139,
+    149
+   ],
+   "share": 0.019,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    108,
+    111,
+    118
+   ],
+   "share": 0.014,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

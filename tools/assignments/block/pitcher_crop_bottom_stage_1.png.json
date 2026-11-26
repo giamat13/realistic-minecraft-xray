@@ -1,0 +1,62 @@
+{
+ "path": "block/pitcher_crop_bottom_stage_1.png",
+ "depicts": "pitcher plant sprout stage 1: thin green leaves and pale bud tips",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    153,
+    77
+   ],
+   "share": 0.283,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    194,
+    192,
+    110
+   ],
+   "share": 0.261,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    128,
+    79
+   ],
+   "share": 0.196,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    105,
+    70
+   ],
+   "share": 0.13,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    165,
+    173,
+    94
+   ],
+   "share": 0.13,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/calibrated_sculk_sensor_top.png",
+ "depicts": "Calibrated sculk sensor top face: sculk surface with glowing veins, vertical path 50 cm",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    5,
+    68,
+    83
+   ],
+   "share": 0.801,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    104,
+    148
+   ],
+   "share": 0.086,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    188,
+    148,
+    243
+   ],
+   "share": 0.047,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    254,
+    203,
+    230
+   ],
+   "share": 0.027,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    5,
+    42,
+    50
+   ],
+   "share": 0.023,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.016,
+   "material": "sculk",
+   "thickness_cm": 50.0
+  }
+ ]
+}

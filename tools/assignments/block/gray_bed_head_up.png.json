@@ -1,0 +1,73 @@
+{
+ "path": "block/gray_bed_head_up.png",
+ "depicts": "gray bed head end, top face: white pillow textile and gray wool mattress",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    90,
+    91
+   ],
+   "share": 0.285,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.219,
+   "material": "textile",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    204,
+    210,
+    210
+   ],
+   "share": 0.219,
+   "material": "textile",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    97,
+    112,
+    117
+   ],
+   "share": 0.152,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    68,
+    65
+   ],
+   "share": 0.062,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.062,
+   "material": "textile",
+   "thickness_cm": 56.0
+  }
+ ]
+}

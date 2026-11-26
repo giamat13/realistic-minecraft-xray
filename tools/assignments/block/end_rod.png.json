@@ -1,0 +1,73 @@
+{
+ "path": "block/end_rod.png",
+ "depicts": "end rod: thin light-emitting quartz rod (about 12 cm across) with steel mounting cap at the base",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    250,
+    242
+   ],
+   "share": 0.31,
+   "material": "quartz",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    248,
+    231,
+    206
+   ],
+   "share": 0.276,
+   "material": "quartz",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    131,
+    125
+   ],
+   "share": 0.172,
+   "material": "steel",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    174,
+    169
+   ],
+   "share": 0.138,
+   "material": "steel",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    101,
+    101
+   ],
+   "share": 0.103,
+   "material": "steel",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    208,
+    198,
+    187
+   ],
+   "share": 0.0,
+   "material": "quartz",
+   "thickness_cm": 12.0
+  }
+ ]
+}

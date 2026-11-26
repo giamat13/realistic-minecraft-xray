@@ -1,0 +1,73 @@
+{
+ "path": "block/gray_terracotta.png",
+ "depicts": "gray glazed-less terracotta block: dyed fired clay, dark brown-gray",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    58,
+    42,
+    36
+   ],
+   "share": 0.547,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    41,
+    35
+   ],
+   "share": 0.176,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    59,
+    44,
+    36
+   ],
+   "share": 0.109,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    56,
+    41,
+    34
+   ],
+   "share": 0.062,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    60,
+    43,
+    36
+   ],
+   "share": 0.059,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    60,
+    45,
+    37
+   ],
+   "share": 0.047,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

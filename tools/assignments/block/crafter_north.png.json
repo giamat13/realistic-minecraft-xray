@@ -1,0 +1,73 @@
+{
+ "path": "block/crafter_north.png",
+ "depicts": "crafter north face (steel frame with oak-wood panel)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    116,
+    116
+   ],
+   "share": 0.254,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    151,
+    151,
+    151
+   ],
+   "share": 0.25,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    79,
+    77
+   ],
+   "share": 0.234,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    56,
+    46
+   ],
+   "share": 0.141,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    147,
+    117,
+    67
+   ],
+   "share": 0.082,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    184,
+    150,
+    92
+   ],
+   "share": 0.039,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

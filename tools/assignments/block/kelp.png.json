@@ -1,0 +1,73 @@
+{
+ "path": "block/kelp.png",
+ "depicts": "animated kelp strip (water-logged seaweed fronds, first frame of 20; green fronds with darker shading)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    89,
+    171,
+    48
+   ],
+   "share": 0.46,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    131,
+    50
+   ],
+   "share": 0.24,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    113,
+    45
+   ],
+   "share": 0.12,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    90,
+    26
+   ],
+   "share": 0.08,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    94,
+    112,
+    37
+   ],
+   "share": 0.08,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    103,
+    30
+   ],
+   "share": 0.02,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

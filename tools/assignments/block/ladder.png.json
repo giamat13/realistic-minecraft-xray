@@ -1,0 +1,73 @@
+{
+ "path": "block/ladder.png",
+ "depicts": "wooden ladder: two vertical oak rails with horizontal rungs, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.278,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    181,
+    141,
+    80
+   ],
+   "share": 0.236,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    61,
+    36
+   ],
+   "share": 0.167,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    116,
+    65
+   ],
+   "share": 0.139,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.125,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    58,
+    47,
+    30
+   ],
+   "share": 0.056,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  }
+ ]
+}

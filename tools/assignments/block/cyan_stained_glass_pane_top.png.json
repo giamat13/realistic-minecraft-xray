@@ -1,0 +1,51 @@
+{
+ "path": "block/cyan_stained_glass_pane_top.png",
+ "depicts": "cyan stained glass pane top: thin cyan-tinted glass pane, 2/16 block = 12.5 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    127,
+    152
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    122,
+    146
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    118,
+    142
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    124,
+    148
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 12.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/gray_candle_lit.png",
+ "depicts": "lit gray candle: dyed wax body with a small flame and wick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    91,
+    92
+   ],
+   "share": 0.476,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    238,
+    198,
+    145
+   ],
+   "share": 0.19,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    101,
+    118,
+    113
+   ],
+   "share": 0.143,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    154,
+    166,
+    124
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    143,
+    131
+   ],
+   "share": 0.048,
+   "material": "wax",
+   "thickness_cm": 12.5
+  }
+ ]
+}

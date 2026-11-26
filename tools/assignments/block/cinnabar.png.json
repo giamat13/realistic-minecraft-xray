@@ -1,0 +1,73 @@
+{
+ "path": "block/cinnabar.png",
+ "depicts": "cinnabar block: red mercury sulfide mineral with dark mottling",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    157,
+    82,
+    77
+   ],
+   "share": 0.59,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    128,
+    64,
+    58
+   ],
+   "share": 0.164,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    173,
+    103,
+    100
+   ],
+   "share": 0.129,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    81,
+    82
+   ],
+   "share": 0.09,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    198,
+    111,
+    111
+   ],
+   "share": 0.02,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    104,
+    107
+   ],
+   "share": 0.008,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  }
+ ]
+}

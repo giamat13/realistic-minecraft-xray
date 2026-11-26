@@ -1,0 +1,73 @@
+{
+ "path": "block/cut_sandstone.png",
+ "depicts": "cut sandstone block: pale sandstone (quartz sand cemented) with chiselled texture",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    218,
+    210,
+    163
+   ],
+   "share": 0.391,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    228,
+    222,
+    180
+   ],
+   "share": 0.23,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    196,
+    150
+   ],
+   "share": 0.156,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    198,
+    174,
+    113
+   ],
+   "share": 0.113,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    209,
+    186,
+    138
+   ],
+   "share": 0.059,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    235,
+    203
+   ],
+   "share": 0.051,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

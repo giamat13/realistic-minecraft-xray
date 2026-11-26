@@ -1,0 +1,73 @@
+{
+ "path": "block/chorus_flower.png",
+ "depicts": "living chorus flower: purple flower petals with pale highlights",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    89,
+    51,
+    89
+   ],
+   "share": 0.387,
+   "material": "chorus_flesh",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    246,
+    232,
+    248
+   ],
+   "share": 0.258,
+   "material": "chorus_flesh",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    162,
+    129,
+    162
+   ],
+   "share": 0.164,
+   "material": "chorus_flesh",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    187,
+    214
+   ],
+   "share": 0.07,
+   "material": "chorus_flesh",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    124,
+    91,
+    124
+   ],
+   "share": 0.062,
+   "material": "chorus_flesh",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    67,
+    29,
+    67
+   ],
+   "share": 0.059,
+   "material": "chorus_flesh",
+   "thickness_cm": 5.0
+  }
+ ]
+}

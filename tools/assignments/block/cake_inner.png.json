@@ -1,0 +1,73 @@
+{
+ "path": "block/cake_inner.png",
+ "depicts": "Cake block cut interior face: baked sponge cake (bread analogue) with thin cream/white icing strips at top (icing as sugar)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    122,
+    58,
+    30
+   ],
+   "share": 0.464,
+   "material": "bread",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    44,
+    25
+   ],
+   "share": 0.357,
+   "material": "bread",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    251,
+    240,
+    212
+   ],
+   "share": 0.134,
+   "material": "sugar",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    224,
+    211,
+    184
+   ],
+   "share": 0.027,
+   "material": "sugar",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    253,
+    254
+   ],
+   "share": 0.018,
+   "material": "sugar",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    85,
+    61
+   ],
+   "share": 0.0,
+   "material": "bread",
+   "thickness_cm": 50.0
+  }
+ ]
+}

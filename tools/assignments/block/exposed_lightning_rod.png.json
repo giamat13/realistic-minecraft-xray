@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_lightning_rod.png",
+ "depicts": "exposed lightning rod: thin oxidised copper rod (about 12 cm across)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    130,
+    119
+   ],
+   "share": 0.3,
+   "material": "copper",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    156,
+    116,
+    96
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    120,
+    106,
+    86
+   ],
+   "share": 0.175,
+   "material": "copper",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    206,
+    141,
+    131
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    102,
+    88,
+    73
+   ],
+   "share": 0.1,
+   "material": "copper",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    152,
+    140,
+    105
+   ],
+   "share": 0.05,
+   "material": "copper",
+   "thickness_cm": 12.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/oak_sapling.png",
+ "depicts": "oak sapling sprite: thin oak trunk with small green leaves, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    114,
+    85,
+    48
+   ],
+   "share": 0.252,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    58,
+    26
+   ],
+   "share": 0.207,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    25,
+    94,
+    22
+   ],
+   "share": 0.189,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    143,
+    47
+   ],
+   "share": 0.18,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    87,
+    173,
+    63
+   ],
+   "share": 0.171,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    78,
+    107,
+    41
+   ],
+   "share": 0.0,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  }
+ ]
+}

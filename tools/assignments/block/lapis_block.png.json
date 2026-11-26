@@ -1,0 +1,73 @@
+{
+ "path": "block/lapis_block.png",
+ "depicts": "lapis lazuli block: solid polished blue lazurite rock",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    29,
+    64,
+    137
+   ],
+   "share": 0.781,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    32,
+    79,
+    155
+   ],
+   "share": 0.094,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    38,
+    89,
+    171
+   ],
+   "share": 0.055,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    20,
+    50,
+    113
+   ],
+   "share": 0.027,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    52,
+    100,
+    142
+   ],
+   "share": 0.023,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    43,
+    86,
+    141
+   ],
+   "share": 0.02,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  }
+ ]
+}

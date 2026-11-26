@@ -1,0 +1,73 @@
+{
+ "path": "block/muddy_mangrove_roots_side.png",
+ "depicts": "muddy mangrove roots block side: interwoven brown wood roots embedded in grey-brown mud",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    64,
+    50,
+    34
+   ],
+   "share": 0.242,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    60,
+    56,
+    58
+   ],
+   "share": 0.184,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    72,
+    44
+   ],
+   "share": 0.156,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    78,
+    63,
+    39
+   ],
+   "share": 0.148,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    67,
+    67
+   ],
+   "share": 0.137,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    51,
+    49,
+    58
+   ],
+   "share": 0.133,
+   "material": "mud",
+   "thickness_cm": 100.0
+  }
+ ]
+}

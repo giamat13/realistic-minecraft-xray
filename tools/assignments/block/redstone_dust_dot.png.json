@@ -1,0 +1,40 @@
+{
+ "path": "block/redstone_dust_dot.png",
+ "depicts": "redstone dust powder dot on a wire (thin layer of redstone dust, grayscale tint sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    254,
+    254
+   ],
+   "share": 0.517,
+   "material": "redstone_dust",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.241,
+   "material": "redstone_dust",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.241,
+   "material": "redstone_dust",
+   "thickness_cm": 0.2
+  }
+ ]
+}

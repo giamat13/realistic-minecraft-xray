@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_copper_bulb_powered.png",
+ "depicts": "exposed copper bulb (unlit, powered): copper shell with a red redstone power indicator",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    94,
+    82,
+    67
+   ],
+   "share": 0.316,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    106,
+    85
+   ],
+   "share": 0.289,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    136,
+    126
+   ],
+   "share": 0.191,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    124,
+    100
+   ],
+   "share": 0.188,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    163,
+    23,
+    23
+   ],
+   "share": 0.012,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    35,
+    35
+   ],
+   "share": 0.004,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

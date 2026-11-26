@@ -1,0 +1,18 @@
+{
+ "path": "block/green_stained_glass.png",
+ "depicts": "green stained glass block: dyed soda-lime glass",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    102,
+    127,
+    51
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

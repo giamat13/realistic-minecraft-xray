@@ -1,0 +1,29 @@
+{
+ "path": "block/sculk_shrieker_top.png",
+ "depicts": "sculk shrieker top face: pale bone-like shrieker plate with sculk edges",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    214,
+    182
+   ],
+   "share": 0.538,
+   "material": "bone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    187,
+    195,
+    155
+   ],
+   "share": 0.462,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  }
+ ]
+}

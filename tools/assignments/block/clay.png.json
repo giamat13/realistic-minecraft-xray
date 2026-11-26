@@ -1,0 +1,73 @@
+{
+ "path": "block/clay.png",
+ "depicts": "clay block: grey-blue fired-clay/clay soil block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    161,
+    167,
+    177
+   ],
+   "share": 0.375,
+   "material": "clay",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    154,
+    163,
+    179
+   ],
+   "share": 0.188,
+   "material": "clay",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    174,
+    189
+   ],
+   "share": 0.18,
+   "material": "clay",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    156,
+    161,
+    172
+   ],
+   "share": 0.164,
+   "material": "clay",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    148,
+    153,
+    164
+   ],
+   "share": 0.055,
+   "material": "clay",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    175,
+    185,
+    214
+   ],
+   "share": 0.039,
+   "material": "clay",
+   "thickness_cm": 100.0
+  }
+ ]
+}

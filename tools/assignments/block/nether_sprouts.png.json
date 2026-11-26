@@ -1,0 +1,40 @@
+{
+ "path": "block/nether_sprouts.png",
+ "depicts": "nether sprouts: thin teal-green fungal/plant sprouts, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    17,
+    155,
+    133
+   ],
+   "share": 0.387,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    22,
+    126,
+    134
+   ],
+   "share": 0.355,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    180,
+    133
+   ],
+   "share": 0.258,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

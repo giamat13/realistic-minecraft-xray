@@ -1,0 +1,73 @@
+{
+ "path": "block/nether_gold_ore.png",
+ "depicts": "nether gold ore: netherrack host rock with embedded native gold nuggets",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    47,
+    47
+   ],
+   "share": 0.566,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    26,
+    26
+   ],
+   "share": 0.305,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    84,
+    26
+   ],
+   "share": 0.055,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    248,
+    175,
+    43
+   ],
+   "share": 0.031,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    238,
+    75
+   ],
+   "share": 0.027,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    181
+   ],
+   "share": 0.016,
+   "material": "gold",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/dark_oak_planks.png",
+ "depicts": "dark oak planks: dark oak wood boards with grain, solid cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    49,
+    24
+   ],
+   "share": 0.391,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    41,
+    18
+   ],
+   "share": 0.184,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    83,
+    56,
+    26
+   ],
+   "share": 0.148,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    41,
+    26,
+    12
+   ],
+   "share": 0.113,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    48,
+    30,
+    14
+   ],
+   "share": 0.094,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    58,
+    36,
+    17
+   ],
+   "share": 0.07,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

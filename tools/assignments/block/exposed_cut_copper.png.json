@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_cut_copper.png",
+ "depicts": "exposed cut copper block: solid copper with thin oxidised patina",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    156,
+    122,
+    99
+   ],
+   "share": 0.387,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    114,
+    87
+   ],
+   "share": 0.195,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    186,
+    130,
+    119
+   ],
+   "share": 0.172,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    115,
+    96,
+    81
+   ],
+   "share": 0.113,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    206,
+    141,
+    131
+   ],
+   "share": 0.098,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    152,
+    105
+   ],
+   "share": 0.035,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

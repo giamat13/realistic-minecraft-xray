@@ -1,0 +1,73 @@
+{
+ "path": "block/cactus_bottom.png",
+ "depicts": "Cactus block bottom face: cactus flesh (succulent, water-storing parenchyma) with dark ribs",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    202,
+    204,
+    112
+   ],
+   "share": 0.286,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    209,
+    211,
+    122
+   ],
+   "share": 0.245,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    13,
+    97,
+    24
+   ],
+   "share": 0.163,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    191,
+    100
+   ],
+   "share": 0.128,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    9,
+    66,
+    16
+   ],
+   "share": 0.102,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    141,
+    176,
+    75
+   ],
+   "share": 0.077,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

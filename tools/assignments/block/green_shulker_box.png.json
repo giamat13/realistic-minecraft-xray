@@ -1,0 +1,73 @@
+{
+ "path": "block/green_shulker_box.png",
+ "depicts": "green shulker box: shulker shell (chitin-based hard shell, dyed green) forming a box",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    84,
+    108,
+    28
+   ],
+   "share": 0.473,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    77,
+    97,
+    34
+   ],
+   "share": 0.172,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    93,
+    36
+   ],
+   "share": 0.117,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    89,
+    36
+   ],
+   "share": 0.113,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    81,
+    104,
+    31
+   ],
+   "share": 0.074,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    68,
+    85,
+    35
+   ],
+   "share": 0.051,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

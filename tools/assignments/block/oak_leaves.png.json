@@ -1,0 +1,51 @@
+{
+ "path": "block/oak_leaves.png",
+ "depicts": "oak leaves: sparse foliage canopy with transparent gaps, leaf matter",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    153,
+    152
+   ],
+   "share": 0.331,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    185,
+    188,
+    185
+   ],
+   "share": 0.262,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    119,
+    117,
+    119
+   ],
+   "share": 0.209,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    100,
+    104
+   ],
+   "share": 0.198,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

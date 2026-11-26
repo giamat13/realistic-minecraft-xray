@@ -1,0 +1,73 @@
+{
+ "path": "block/oak_trapdoor.png",
+ "depicts": "oak trapdoor: thin oak planked hatch panel with cut-out grille holes",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    156,
+    121,
+    74
+   ],
+   "share": 0.277,
+   "material": "wood_oak",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    80,
+    41
+   ],
+   "share": 0.214,
+   "material": "wood_oak",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    60,
+    32
+   ],
+   "share": 0.195,
+   "material": "wood_oak",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    113,
+    65
+   ],
+   "share": 0.182,
+   "material": "wood_oak",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 4,
+   "rgb": [
+    179,
+    140,
+    81
+   ],
+   "share": 0.091,
+   "material": "wood_oak",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    93,
+    49
+   ],
+   "share": 0.041,
+   "material": "wood_oak",
+   "thickness_cm": 18.75
+  }
+ ]
+}

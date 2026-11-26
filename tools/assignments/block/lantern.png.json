@@ -1,0 +1,73 @@
+{
+ "path": "block/lantern.png",
+ "depicts": "iron lantern (animated strip first frame): iron cage frame around a flame, flame clusters modelled as combustion gas",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    71,
+    78,
+    99
+   ],
+   "share": 0.34,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    63,
+    78
+   ],
+   "share": 0.34,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    142,
+    77,
+    41
+   ],
+   "share": 0.151,
+   "material": "fire",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    245,
+    177,
+    90
+   ],
+   "share": 0.132,
+   "material": "fire",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    213
+   ],
+   "share": 0.019,
+   "material": "fire",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    253,
+    139
+   ],
+   "share": 0.019,
+   "material": "fire",
+   "thickness_cm": 6.0
+  }
+ ]
+}

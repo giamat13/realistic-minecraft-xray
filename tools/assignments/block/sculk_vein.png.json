@@ -1,0 +1,73 @@
+{
+ "path": "block/sculk_vein.png",
+ "depicts": "sculk vein film on a face, animated 4 frames, dark teal sculk with glowing spots",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    3,
+    65,
+    80
+   ],
+   "share": 0.333,
+   "material": "sculk",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    5,
+    42,
+    50
+   ],
+   "share": 0.322,
+   "material": "sculk",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    17,
+    27,
+    33
+   ],
+   "share": 0.22,
+   "material": "sculk",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    13,
+    18,
+    23
+   ],
+   "share": 0.085,
+   "material": "sculk",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.028,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.011,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  }
+ ]
+}

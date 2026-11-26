@@ -1,0 +1,73 @@
+{
+ "path": "block/end_portal_frame_side.png",
+ "depicts": "end portal frame side face: end stone block with dark green-teal ceramic inlay band along the top",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    207,
+    206,
+    144
+   ],
+   "share": 0.317,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    239,
+    174
+   ],
+   "share": 0.221,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    48,
+    57
+   ],
+   "share": 0.188,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    104,
+    93
+   ],
+   "share": 0.159,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    181,
+    171,
+    121
+   ],
+   "share": 0.106,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    171,
+    134,
+    95
+   ],
+   "share": 0.01,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/green_candle_lit.png",
+ "depicts": "green wax candle (lit): green-dyed wax body, cotton wick, yellow flame on top",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    88,
+    18
+   ],
+   "share": 0.476,
+   "material": "wax",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    126,
+    22
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    136,
+    142,
+    20
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    181,
+    30
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    179,
+    21
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

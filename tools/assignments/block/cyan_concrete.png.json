@@ -1,0 +1,62 @@
+{
+ "path": "block/cyan_concrete.png",
+ "depicts": "cyan concrete block: cement and aggregate concrete dyed cyan",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    21,
+    119,
+    136
+   ],
+   "share": 0.422,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    22,
+    120,
+    137
+   ],
+   "share": 0.32,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    21,
+    118,
+    135
+   ],
+   "share": 0.164,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    23,
+    120,
+    137
+   ],
+   "share": 0.062,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    21,
+    119,
+    135
+   ],
+   "share": 0.031,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

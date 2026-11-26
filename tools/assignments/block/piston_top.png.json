@@ -1,0 +1,73 @@
+{
+ "path": "block/piston_top.png",
+ "depicts": "piston head top face: oak planks with pale iron nail plates and corner bands",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    139,
+    82
+   ],
+   "share": 0.316,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.266,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.152,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    194,
+    157,
+    98
+   ],
+   "share": 0.141,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    202,
+    196,
+    196
+   ],
+   "share": 0.086,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.039,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

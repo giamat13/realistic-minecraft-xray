@@ -1,0 +1,73 @@
+{
+ "path": "block/green_wool.png",
+ "depicts": "green wool block: sheep wool fibres dyed green",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    102,
+    30
+   ],
+   "share": 0.238,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    88,
+    114,
+    24
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    75,
+    95,
+    34
+   ],
+   "share": 0.176,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    92,
+    120,
+    22
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    84,
+    108,
+    27
+   ],
+   "share": 0.133,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    101,
+    134,
+    25
+   ],
+   "share": 0.082,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

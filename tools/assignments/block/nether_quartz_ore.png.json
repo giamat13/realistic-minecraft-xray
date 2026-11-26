@@ -1,0 +1,73 @@
+{
+ "path": "block/nether_quartz_ore.png",
+ "depicts": "nether quartz ore: netherrack host rock with embedded white quartz crystals",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    50,
+    48
+   ],
+   "share": 0.535,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    26,
+    26
+   ],
+   "share": 0.273,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    113,
+    106
+   ],
+   "share": 0.066,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    182,
+    164,
+    142
+   ],
+   "share": 0.051,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    212,
+    202,
+    186
+   ],
+   "share": 0.039,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    234,
+    229,
+    222
+   ],
+   "share": 0.035,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  }
+ ]
+}

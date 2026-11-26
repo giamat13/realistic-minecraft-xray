@@ -1,0 +1,40 @@
+{
+ "path": "block/gray_concrete.png",
+ "depicts": "gray concrete block: cured dyed concrete",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    55,
+    58,
+    62
+   ],
+   "share": 0.57,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    54,
+    57,
+    61
+   ],
+   "share": 0.406,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    56,
+    59,
+    63
+   ],
+   "share": 0.023,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

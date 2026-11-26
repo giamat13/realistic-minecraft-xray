@@ -1,0 +1,73 @@
+{
+ "path": "block/gray_bed_head_east.png",
+ "depicts": "gray bed head end, east side: pillow textile and gray wool over wooden bed frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    80,
+    80
+   ],
+   "share": 0.26,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    156,
+    122,
+    68
+   ],
+   "share": 0.187,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    86,
+    52
+   ],
+   "share": 0.179,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    222,
+    222
+   ],
+   "share": 0.171,
+   "material": "textile",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    144,
+    87
+   ],
+   "share": 0.114,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.089,
+   "material": "textile",
+   "thickness_cm": 100.0
+  }
+ ]
+}

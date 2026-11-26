@@ -1,0 +1,62 @@
+{
+ "path": "block/nether_wart_block.png",
+ "depicts": "nether wart block: fleshy dark red fungal block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    123,
+    0,
+    0
+   ],
+   "share": 0.496,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    0,
+    0
+   ],
+   "share": 0.234,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    4,
+    0
+   ],
+   "share": 0.191,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    148,
+    24,
+    24
+   ],
+   "share": 0.043,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    172,
+    32,
+    32
+   ],
+   "share": 0.035,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

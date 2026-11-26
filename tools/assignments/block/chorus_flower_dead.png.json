@@ -1,0 +1,73 @@
+{
+ "path": "block/chorus_flower_dead.png",
+ "depicts": "dead chorus flower: faded mauve petals with dry tan stems",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    51,
+    89
+   ],
+   "share": 0.461,
+   "material": "chorus_flesh",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    28,
+    66
+   ],
+   "share": 0.273,
+   "material": "chorus_flesh",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    102,
+    133
+   ],
+   "share": 0.219,
+   "material": "chorus_flesh",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    150,
+    112
+   ],
+   "share": 0.035,
+   "material": "straw",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    201,
+    197,
+    176
+   ],
+   "share": 0.008,
+   "material": "straw",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    221,
+    188
+   ],
+   "share": 0.004,
+   "material": "straw",
+   "thickness_cm": 3.0
+  }
+ ]
+}

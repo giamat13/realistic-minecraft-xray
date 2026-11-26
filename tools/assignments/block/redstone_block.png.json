@@ -1,0 +1,62 @@
+{
+ "path": "block/redstone_block.png",
+ "depicts": "solid block of compressed redstone dust (red mineral powder block)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    32,
+    8
+   ],
+   "share": 0.289,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    12,
+    0
+   ],
+   "share": 0.184,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    24,
+    8
+   ],
+   "share": 0.18,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    148,
+    20,
+    0
+   ],
+   "share": 0.176,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    189,
+    32,
+    8
+   ],
+   "share": 0.172,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

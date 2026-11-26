@@ -1,0 +1,73 @@
+{
+ "path": "block/bush.png",
+ "depicts": "Bush sprite (grey-green dense leafy foliage, mostly air, tinted greyscale texture)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    107,
+    110,
+    107
+   ],
+   "share": 0.307,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    126,
+    124
+   ],
+   "share": 0.22,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    88,
+    89,
+    88
+   ],
+   "share": 0.22,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    165,
+    162,
+    165
+   ],
+   "share": 0.102,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    140,
+    138,
+    140
+   ],
+   "share": 0.094,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    184,
+    182,
+    184
+   ],
+   "share": 0.055,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  }
+ ]
+}

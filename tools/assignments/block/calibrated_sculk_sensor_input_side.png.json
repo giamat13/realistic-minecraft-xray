@@ -1,0 +1,73 @@
+{
+ "path": "block/calibrated_sculk_sensor_input_side.png",
+ "depicts": "Calibrated sculk sensor side (input face): sculk (dark blue sculk tissue with glowing cyan and purple veins), 16 px wide and 8 px tall so horizontal path 100 cm",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    11,
+    29,
+    36
+   ],
+   "share": 0.477,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    39,
+    69,
+    105
+   ],
+   "share": 0.266,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    152,
+    116,
+    215
+   ],
+   "share": 0.133,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    229,
+    180,
+    237
+   ],
+   "share": 0.102,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.016,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.008,
+   "material": "sculk",
+   "thickness_cm": 100.0
+  }
+ ]
+}

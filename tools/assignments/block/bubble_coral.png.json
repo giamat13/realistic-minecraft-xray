@@ -1,0 +1,62 @@
+{
+ "path": "block/bubble_coral.png",
+ "depicts": "Bubble coral plant sprite (living polyp tissue over calcium-carbonate skeleton, thin sprite with gaps)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    165,
+    29,
+    165
+   ],
+   "share": 0.308,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    200,
+    25,
+    186
+   ],
+   "share": 0.263,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    126,
+    9,
+    135
+   ],
+   "share": 0.233,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    103,
+    5,
+    112
+   ],
+   "share": 0.113,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    69,
+    191
+   ],
+   "share": 0.083,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  }
+ ]
+}

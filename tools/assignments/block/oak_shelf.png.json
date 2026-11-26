@@ -1,0 +1,73 @@
+{
+ "path": "block/oak_shelf.png",
+ "depicts": "oak shelf block: oak wood planks with shelf grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    117,
+    91,
+    51
+   ],
+   "share": 0.454,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    180,
+    146,
+    87
+   ],
+   "share": 0.174,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    192,
+    159,
+    99
+   ],
+   "share": 0.146,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    119,
+    67
+   ],
+   "share": 0.104,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    162,
+    130,
+    74
+   ],
+   "share": 0.077,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    87,
+    67,
+    38
+   ],
+   "share": 0.045,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

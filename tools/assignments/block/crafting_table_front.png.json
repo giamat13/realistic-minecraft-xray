@@ -1,0 +1,73 @@
+{
+ "path": "block/crafting_table_front.png",
+ "depicts": "crafting table front face (oak planks with steel tool relief: hammer and saw)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    178,
+    145,
+    88
+   ],
+   "share": 0.438,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    27,
+    22,
+    12
+   ],
+   "share": 0.188,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    94,
+    52
+   ],
+   "share": 0.168,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    36,
+    22
+   ],
+   "share": 0.125,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    207,
+    207
+   ],
+   "share": 0.062,
+   "material": "steel",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.02,
+   "material": "steel",
+   "thickness_cm": 2.0
+  }
+ ]
+}

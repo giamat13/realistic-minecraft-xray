@@ -1,0 +1,73 @@
+{
+ "path": "block/green_terracotta.png",
+ "depicts": "green-dyed terracotta block: fired clay body with green pigment (unglazed)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    84,
+    43
+   ],
+   "share": 0.277,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    82,
+    42
+   ],
+   "share": 0.273,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    75,
+    82,
+    41
+   ],
+   "share": 0.238,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    78,
+    86,
+    45
+   ],
+   "share": 0.117,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    74,
+    82,
+    40
+   ],
+   "share": 0.059,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    78,
+    85,
+    44
+   ],
+   "share": 0.035,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

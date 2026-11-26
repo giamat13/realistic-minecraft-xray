@@ -1,0 +1,73 @@
+{
+ "path": "block/nether_portal.png",
+ "depicts": "nether portal energy field animated strip: purple swirling magical plasma-like energy (fictional, closest analogue plasma)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    83,
+    5,
+    192
+   ],
+   "share": 0.223,
+   "material": "plasma_particle",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    1,
+    181
+   ],
+   "share": 0.219,
+   "material": "plasma_particle",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    17,
+    205
+   ],
+   "share": 0.199,
+   "material": "plasma_particle",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    58,
+    0,
+    167
+   ],
+   "share": 0.191,
+   "material": "plasma_particle",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    132,
+    38,
+    217
+   ],
+   "share": 0.125,
+   "material": "plasma_particle",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    153,
+    61,
+    225
+   ],
+   "share": 0.043,
+   "material": "plasma_particle",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/large_amethyst_bud.png",
+ "depicts": "large amethyst crystal bud (purple quartz crystal, glints on faces)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    201,
+    156,
+    243
+   ],
+   "share": 0.244,
+   "material": "amethyst",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    106,
+    204
+   ],
+   "share": 0.218,
+   "material": "amethyst",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    71,
+    158
+   ],
+   "share": 0.205,
+   "material": "amethyst",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    91,
+    181
+   ],
+   "share": 0.179,
+   "material": "amethyst",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    203,
+    230
+   ],
+   "share": 0.09,
+   "material": "amethyst",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    253,
+    213
+   ],
+   "share": 0.064,
+   "material": "amethyst",
+   "thickness_cm": 2.0
+  }
+ ]
+}

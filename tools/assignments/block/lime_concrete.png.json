@@ -1,0 +1,73 @@
+{
+ "path": "block/lime_concrete.png",
+ "depicts": "lime dyed solid concrete block, 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    94,
+    169,
+    24
+   ],
+   "share": 0.305,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    95,
+    170,
+    25
+   ],
+   "share": 0.27,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    93,
+    168,
+    24
+   ],
+   "share": 0.184,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    167,
+    24
+   ],
+   "share": 0.16,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    170,
+    26
+   ],
+   "share": 0.047,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    170,
+    27
+   ],
+   "share": 0.035,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

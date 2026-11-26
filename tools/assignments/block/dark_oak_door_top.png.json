@@ -1,0 +1,73 @@
+{
+ "path": "block/dark_oak_door_top.png",
+ "depicts": "dark oak door upper half: dark oak wood panels with iron hinge and brass handle pixels; door 3/16 block = 18.75 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    84,
+    57,
+    29
+   ],
+   "share": 0.672,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 1,
+   "rgb": [
+    55,
+    36,
+    16
+   ],
+   "share": 0.312,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 2,
+   "rgb": [
+    165,
+    119,
+    0
+   ],
+   "share": 0.004,
+   "material": "brass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    229,
+    0
+   ],
+   "share": 0.004,
+   "material": "brass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.004,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    204,
+    148,
+    0
+   ],
+   "share": 0.004,
+   "material": "brass",
+   "thickness_cm": 0.3
+  }
+ ]
+}

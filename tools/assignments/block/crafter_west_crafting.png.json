@@ -1,0 +1,73 @@
+{
+ "path": "block/crafter_west_crafting.png",
+ "depicts": "crafter west face while crafting (oak-wood panel, steel frame, lit redstone indicator)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    167,
+    155,
+    136
+   ],
+   "share": 0.352,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    88,
+    79,
+    64
+   ],
+   "share": 0.297,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    143,
+    125,
+    92
+   ],
+   "share": 0.289,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    41,
+    31,
+    14
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    21,
+    21
+   ],
+   "share": 0.012,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    35,
+    35
+   ],
+   "share": 0.004,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

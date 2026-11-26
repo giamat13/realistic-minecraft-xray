@@ -1,0 +1,73 @@
+{
+ "path": "block/oak_planks.png",
+ "depicts": "oak planks block: oak wood boards with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    152,
+    96
+   ],
+   "share": 0.352,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    175,
+    143,
+    85
+   ],
+   "share": 0.188,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    132,
+    77
+   ],
+   "share": 0.184,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.113,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.094,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    116,
+    65
+   ],
+   "share": 0.07,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

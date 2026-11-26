@@ -1,0 +1,73 @@
+{
+ "path": "block/cracked_nether_bricks.png",
+ "depicts": "cracked nether bricks (dark fired brick, red-brown ceramic)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    24,
+    29
+   ],
+   "share": 0.328,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    36,
+    18,
+    22
+   ],
+   "share": 0.27,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    25,
+    13,
+    16
+   ],
+   "share": 0.25,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    30,
+    36
+   ],
+   "share": 0.062,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    68,
+    36,
+    42
+   ],
+   "share": 0.051,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    11,
+    6,
+    7
+   ],
+   "share": 0.039,
+   "material": "brick",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/exposed_copper_chain.png",
+ "depicts": "exposed copper chain: thin oxidised copper chain links (about 10 cm cross-section)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    102,
+    88,
+    73
+   ],
+   "share": 0.464,
+   "material": "copper",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    143,
+    112,
+    91
+   ],
+   "share": 0.429,
+   "material": "copper",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    119,
+    98
+   ],
+   "share": 0.089,
+   "material": "copper",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    152,
+    140,
+    105
+   ],
+   "share": 0.018,
+   "material": "copper",
+   "thickness_cm": 10.0
+  }
+ ]
+}

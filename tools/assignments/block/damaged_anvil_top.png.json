@@ -1,0 +1,73 @@
+{
+ "path": "block/damaged_anvil_top.png",
+ "depicts": "damaged anvil top face: cast iron anvil surface with chips and dents, holes at edges transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    58,
+    58,
+    58
+   ],
+   "share": 0.369,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.163,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    66,
+    66,
+    66
+   ],
+   "share": 0.156,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    90,
+    90,
+    90
+   ],
+   "share": 0.125,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    82,
+    82,
+    82
+   ],
+   "share": 0.125,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    114,
+    112,
+    112
+   ],
+   "share": 0.062,
+   "material": "iron",
+   "thickness_cm": 100.0
+  }
+ ]
+}

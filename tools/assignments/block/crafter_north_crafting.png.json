@@ -1,0 +1,73 @@
+{
+ "path": "block/crafter_north_crafting.png",
+ "depicts": "crafter north face while crafting (wood grid panel in steel frame)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    71,
+    64,
+    52
+   ],
+   "share": 0.219,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    151,
+    151,
+    151
+   ],
+   "share": 0.211,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    49,
+    35,
+    14
+   ],
+   "share": 0.188,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    95,
+    90
+   ],
+   "share": 0.18,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    166,
+    133,
+    78
+   ],
+   "share": 0.102,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    123,
+    123,
+    123
+   ],
+   "share": 0.102,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

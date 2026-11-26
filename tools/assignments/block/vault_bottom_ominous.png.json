@@ -1,0 +1,51 @@
+{
+ "path": "block/vault_bottom_ominous.png",
+ "depicts": "ominous trial vault bottom: dark sealed metal casing with ornate panel",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    37,
+    31,
+    46
+   ],
+   "share": 0.375,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    44,
+    45,
+    59
+   ],
+   "share": 0.316,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    50,
+    53,
+    64
+   ],
+   "share": 0.207,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    58,
+    64,
+    69
+   ],
+   "share": 0.102,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/crafter_south.png",
+ "depicts": "crafter south face (steel frame with oak-wood panel and rust-red trim)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    118,
+    113,
+    105
+   ],
+   "share": 0.281,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    132,
+    78
+   ],
+   "share": 0.234,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    72,
+    70
+   ],
+   "share": 0.227,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    151,
+    151,
+    151
+   ],
+   "share": 0.211,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    75,
+    36,
+    26
+   ],
+   "share": 0.039,
+   "material": "iron_oxide",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    32,
+    11,
+    14
+   ],
+   "share": 0.008,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

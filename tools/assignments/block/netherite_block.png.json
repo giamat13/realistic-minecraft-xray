@@ -1,0 +1,73 @@
+{
+ "path": "block/netherite_block.png",
+ "depicts": "netherite metal block: dark grey-black ancient netherite alloy plating",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    71,
+    74
+   ],
+   "share": 0.422,
+   "material": "netherite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    61,
+    64
+   ],
+   "share": 0.188,
+   "material": "netherite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    50,
+    50
+   ],
+   "share": 0.117,
+   "material": "netherite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    48,
+    41,
+    42
+   ],
+   "share": 0.098,
+   "material": "netherite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    87,
+    90
+   ],
+   "share": 0.09,
+   "material": "netherite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    36,
+    30,
+    31
+   ],
+   "share": 0.086,
+   "material": "netherite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

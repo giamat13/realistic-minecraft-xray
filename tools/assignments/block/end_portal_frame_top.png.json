@@ -1,0 +1,73 @@
+{
+ "path": "block/end_portal_frame_top.png",
+ "depicts": "end portal frame top face: teal ceramic frame plate with end-stone rim and a dark recessed central panel (obsidian analogue for the void)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    115,
+    103
+   ],
+   "share": 0.328,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    81,
+    71
+   ],
+   "share": 0.234,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    185,
+    128
+   ],
+   "share": 0.148,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    5,
+    23,
+    18
+   ],
+   "share": 0.141,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    237,
+    180
+   ],
+   "share": 0.102,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    153,
+    198,
+    147
+   ],
+   "share": 0.047,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  }
+ ]
+}

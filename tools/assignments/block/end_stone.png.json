@@ -1,0 +1,73 @@
+{
+ "path": "block/end_stone.png",
+ "depicts": "end stone: pale yellow Endstone rock (silicate, mainly feldspathic/pyroxene-like)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    213,
+    218,
+    148
+   ],
+   "share": 0.293,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    238,
+    246,
+    180
+   ],
+   "share": 0.238,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    230,
+    164
+   ],
+   "share": 0.191,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    205,
+    198,
+    139
+   ],
+   "share": 0.145,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    197,
+    190,
+    139
+   ],
+   "share": 0.09,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    246,
+    250,
+    189
+   ],
+   "share": 0.043,
+   "material": "end_stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

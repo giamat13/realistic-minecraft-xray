@@ -1,0 +1,73 @@
+{
+ "path": "block/blue_candle_lit.png",
+ "depicts": "lit blue candle: blue dyed wax body with a bright flame and a dark wick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    73,
+    157
+   ],
+   "share": 0.476,
+   "material": "wax",
+   "thickness_cm": 2.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    63,
+    85,
+    190
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 2.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    81,
+    214
+   ],
+   "share": 0.095,
+   "material": "wax",
+   "thickness_cm": 2.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    138,
+    242
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    97,
+    124,
+    249
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    28,
+    23
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

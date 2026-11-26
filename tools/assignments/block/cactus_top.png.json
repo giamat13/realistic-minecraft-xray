@@ -1,0 +1,73 @@
+{
+ "path": "block/cactus_top.png",
+ "depicts": "Cactus block top face: cactus flesh with ribs (vertical path full 100 cm)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    131,
+    40
+   ],
+   "share": 0.459,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    101,
+    32
+   ],
+   "share": 0.204,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    152,
+    50
+   ],
+   "share": 0.189,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    57,
+    88,
+    26
+   ],
+   "share": 0.097,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    167,
+    109
+   ],
+   "share": 0.031,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    186,
+    191,
+    149
+   ],
+   "share": 0.02,
+   "material": "cactus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

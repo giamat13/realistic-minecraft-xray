@@ -1,0 +1,73 @@
+{
+ "path": "block/cyan_bed_foot_west.png",
+ "depicts": "cyan bed foot end, west side: cyan wool mattress rows over oak wood bed frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    10,
+    85,
+    85
+   ],
+   "share": 0.325,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    15,
+    114,
+    113
+   ],
+   "share": 0.195,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    122,
+    68
+   ],
+   "share": 0.187,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    86,
+    52
+   ],
+   "share": 0.179,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    144,
+    87
+   ],
+   "share": 0.114,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    105,
+    82
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

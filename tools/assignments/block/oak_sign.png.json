@@ -1,0 +1,73 @@
+{
+ "path": "block/oak_sign.png",
+ "depicts": "oak sign item/board: flat oak planks board with grain and dark edges",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    183,
+    150,
+    92
+   ],
+   "share": 0.455,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    155,
+    126,
+    73
+   ],
+   "share": 0.231,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    123,
+    96,
+    55
+   ],
+   "share": 0.188,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    101,
+    78,
+    44
+   ],
+   "share": 0.1,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    56,
+    43,
+    24
+   ],
+   "share": 0.014,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    76,
+    61,
+    38
+   ],
+   "share": 0.012,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  }
+ ]
+}

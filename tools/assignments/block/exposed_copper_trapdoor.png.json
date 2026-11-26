@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_copper_trapdoor.png",
+ "depicts": "exposed copper trapdoor: oxidised copper panel about 19 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    126,
+    111,
+    86
+   ],
+   "share": 0.289,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    159,
+    119,
+    98
+   ],
+   "share": 0.255,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    206,
+    141,
+    131
+   ],
+   "share": 0.196,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    186,
+    130,
+    119
+   ],
+   "share": 0.137,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    152,
+    140,
+    105
+   ],
+   "share": 0.108,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    152,
+    105
+   ],
+   "share": 0.015,
+   "material": "copper",
+   "thickness_cm": 19.0
+  }
+ ]
+}

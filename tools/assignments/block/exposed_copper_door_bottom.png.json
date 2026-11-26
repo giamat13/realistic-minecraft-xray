@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_copper_door_bottom.png",
+ "depicts": "exposed copper door (bottom half): oxidised copper door panel about 19 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    161,
+    122,
+    101
+   ],
+   "share": 0.496,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    105,
+    86
+   ],
+   "share": 0.223,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    195,
+    135,
+    124
+   ],
+   "share": 0.199,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    77,
+    80,
+    70
+   ],
+   "share": 0.039,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    51,
+    51
+   ],
+   "share": 0.023,
+   "material": "copper",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    152,
+    105
+   ],
+   "share": 0.02,
+   "material": "copper",
+   "thickness_cm": 19.0
+  }
+ ]
+}

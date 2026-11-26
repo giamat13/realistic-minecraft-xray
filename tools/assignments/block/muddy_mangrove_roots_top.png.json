@@ -1,0 +1,73 @@
+{
+ "path": "block/muddy_mangrove_roots_top.png",
+ "depicts": "muddy mangrove roots block top: woody roots crossing wet mud surface",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    49,
+    35
+   ],
+   "share": 0.281,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    78,
+    63,
+    39
+   ],
+   "share": 0.242,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    52,
+    58
+   ],
+   "share": 0.219,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    90,
+    72,
+    44
+   ],
+   "share": 0.16,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    67,
+    66
+   ],
+   "share": 0.086,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    102,
+    82,
+    52
+   ],
+   "share": 0.012,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

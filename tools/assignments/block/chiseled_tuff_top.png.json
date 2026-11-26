@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_tuff_top.png",
+ "depicts": "chiseled tuff top face: grey-green tuff with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    78,
+    68
+   ],
+   "share": 0.336,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    118,
+    119,
+    111
+   ],
+   "share": 0.168,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    90,
+    81
+   ],
+   "share": 0.137,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    91,
+    98,
+    94
+   ],
+   "share": 0.129,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    133,
+    131,
+    122
+   ],
+   "share": 0.117,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    99,
+    108,
+    109
+   ],
+   "share": 0.113,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  }
+ ]
+}

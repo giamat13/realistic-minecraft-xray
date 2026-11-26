@@ -1,0 +1,40 @@
+{
+ "path": "block/pitcher_crop_bottom.png",
+ "depicts": "pitcher plant crop pod (lower bulb, brown husk)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    119,
+    69,
+    45
+   ],
+   "share": 0.417,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    56,
+    35
+   ],
+   "share": 0.361,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    42,
+    24
+   ],
+   "share": 0.222,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

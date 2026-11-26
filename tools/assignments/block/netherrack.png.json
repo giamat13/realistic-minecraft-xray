@@ -1,0 +1,73 @@
+{
+ "path": "block/netherrack.png",
+ "depicts": "netherrack block: dark red crumbly nether rock",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    40,
+    40
+   ],
+   "share": 0.281,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    25,
+    25
+   ],
+   "share": 0.277,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    114,
+    50,
+    50
+   ],
+   "share": 0.266,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    33,
+    33
+   ],
+   "share": 0.066,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    65,
+    22,
+    22
+   ],
+   "share": 0.055,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    133,
+    66,
+    66
+   ],
+   "share": 0.055,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  }
+ ]
+}

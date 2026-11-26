@@ -1,0 +1,18 @@
+{
+ "path": "block/cyan_stained_glass.png",
+ "depicts": "cyan stained glass block: transparent cyan-tinted soda-lime glass cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    127,
+    153
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

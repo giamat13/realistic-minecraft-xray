@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_copper.png",
+ "depicts": "exposed copper block: solid copper with a thin oxidised surface patina (copper-brown, verdigris streaks)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    162,
+    119,
+    98
+   ],
+   "share": 0.352,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    125,
+    110,
+    86
+   ],
+   "share": 0.188,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    152,
+    140,
+    105
+   ],
+   "share": 0.176,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    186,
+    130,
+    119
+   ],
+   "share": 0.156,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    206,
+    141,
+    131
+   ],
+   "share": 0.109,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    152,
+    105
+   ],
+   "share": 0.02,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/cracked_stone_bricks.png",
+ "depicts": "cracked stone bricks (grey stone masonry)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    102,
+    101
+   ],
+   "share": 0.273,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    127,
+    127
+   ],
+   "share": 0.234,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    120,
+    118,
+    120
+   ],
+   "share": 0.16,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    137,
+    139
+   ],
+   "share": 0.129,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    89,
+    90
+   ],
+   "share": 0.121,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    156,
+    153,
+    156
+   ],
+   "share": 0.082,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

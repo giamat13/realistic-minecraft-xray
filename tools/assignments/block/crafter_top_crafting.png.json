@@ -1,0 +1,73 @@
+{
+ "path": "block/crafter_top_crafting.png",
+ "depicts": "crafter top face while crafting (steel plate with lit redstone grid)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    148,
+    148,
+    148
+   ],
+   "share": 0.383,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    118,
+    118,
+    118
+   ],
+   "share": 0.242,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    19,
+    19
+   ],
+   "share": 0.133,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    88,
+    88
+   ],
+   "share": 0.094,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    217,
+    35,
+    35
+   ],
+   "share": 0.086,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    176,
+    23,
+    23
+   ],
+   "share": 0.062,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

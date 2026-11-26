@@ -1,0 +1,73 @@
+{
+ "path": "block/lime_bed_head_up.png",
+ "depicts": "lime bed head top face: white pillow, grey linen sheet and lime wool blanket on mattress 15cm",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    107,
+    183,
+    24
+   ],
+   "share": 0.371,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.219,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    204,
+    210,
+    210
+   ],
+   "share": 0.219,
+   "material": "textile",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    135,
+    16
+   ],
+   "share": 0.129,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.062,
+   "material": "textile",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    158,
+    195,
+    121
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 15.0
+  }
+ ]
+}

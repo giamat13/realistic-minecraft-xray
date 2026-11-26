@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_chiseled_copper.png",
+ "depicts": "exposed chiseled copper block: copper with a thin oxide patina film (copper-brown, slight verdigris)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    158,
+    118,
+    97
+   ],
+   "share": 0.391,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    125,
+    111,
+    90
+   ],
+   "share": 0.184,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    117,
+    97,
+    82
+   ],
+   "share": 0.145,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    206,
+    141,
+    131
+   ],
+   "share": 0.141,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    186,
+    130,
+    119
+   ],
+   "share": 0.082,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    152,
+    140,
+    105
+   ],
+   "share": 0.059,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

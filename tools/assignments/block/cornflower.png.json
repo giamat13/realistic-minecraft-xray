@@ -1,0 +1,73 @@
+{
+ "path": "block/cornflower.png",
+ "depicts": "cornflower plant (blue petals on green stem and leaves, cross-plant sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    88,
+    146,
+    78
+   ],
+   "share": 0.314,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    61,
+    96,
+    223
+   ],
+   "share": 0.257,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    137,
+    237
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    52,
+    110,
+    42
+   ],
+   "share": 0.171,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    67,
+    46,
+    153
+   ],
+   "share": 0.029,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    142,
+    108,
+    195
+   ],
+   "share": 0.029,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/green_bed_foot_east.png",
+ "depicts": "green bed foot end, east side: green wool mattress over wooden bed frame and legs",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    66,
+    18
+   ],
+   "share": 0.309,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    88,
+    18
+   ],
+   "share": 0.211,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    122,
+    68
+   ],
+   "share": 0.187,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    84,
+    51
+   ],
+   "share": 0.163,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    144,
+    87
+   ],
+   "share": 0.114,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    98,
+    62
+   ],
+   "share": 0.016,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

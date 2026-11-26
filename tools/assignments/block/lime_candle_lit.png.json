@@ -1,0 +1,73 @@
+{
+ "path": "block/lime_candle_lit.png",
+ "depicts": "lime wax candle lit: yellow flame tip over wax body with dark cotton wick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    170,
+    18
+   ],
+   "share": 0.476,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    210,
+    218,
+    60
+   ],
+   "share": 0.19,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    201,
+    26
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    116,
+    189,
+    26
+   ],
+   "share": 0.048,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    162,
+    213,
+    40
+   ],
+   "share": 0.048,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/mud_bricks.png",
+ "depicts": "mud brick block: sun-dried mud bricks with darker mortar joints",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    110,
+    80
+   ],
+   "share": 0.414,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    126,
+    93,
+    72
+   ],
+   "share": 0.176,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    157,
+    120,
+    92
+   ],
+   "share": 0.164,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    72,
+    65
+   ],
+   "share": 0.098,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    105,
+    81,
+    70
+   ],
+   "share": 0.09,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    171,
+    134,
+    97
+   ],
+   "share": 0.059,
+   "material": "mud",
+   "thickness_cm": 100.0
+  }
+ ]
+}

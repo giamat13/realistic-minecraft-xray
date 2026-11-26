@@ -1,0 +1,73 @@
+{
+ "path": "block/green_bed_head_up.png",
+ "depicts": "green bed head top view: white pillow with grey shading edge over green wool blanket",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    223,
+    227,
+    227
+   ],
+   "share": 0.273,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    86,
+    115,
+    21
+   ],
+   "share": 0.258,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    56,
+    74,
+    18
+   ],
+   "share": 0.242,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    182,
+    186,
+    186
+   ],
+   "share": 0.141,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.086,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    158,
+    120
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 20.0
+  }
+ ]
+}

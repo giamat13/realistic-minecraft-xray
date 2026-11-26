@@ -1,0 +1,73 @@
+{
+ "path": "block/oak_door_bottom.png",
+ "depicts": "oak door lower half: oak wood panels with dark recessed panel borders; grey-blue edge pixels are small iron-like hardware",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    142,
+    110,
+    62
+   ],
+   "share": 0.477,
+   "material": "wood_oak",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    95,
+    73,
+    41
+   ],
+   "share": 0.242,
+   "material": "wood_oak",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    182,
+    142,
+    83
+   ],
+   "share": 0.137,
+   "material": "wood_oak",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    166,
+    130,
+    77
+   ],
+   "share": 0.133,
+   "material": "wood_oak",
+   "thickness_cm": 4.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    111,
+    122
+   ],
+   "share": 0.008,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    128,
+    139,
+    149
+   ],
+   "share": 0.004,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

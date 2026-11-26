@@ -1,0 +1,73 @@
+{
+ "path": "block/dark_oak_sign.png",
+ "depicts": "dark oak standing sign board: dark oak wood board with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    45,
+    22
+   ],
+   "share": 0.407,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    52,
+    25
+   ],
+   "share": 0.268,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    29,
+    13
+   ],
+   "share": 0.227,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    54,
+    37,
+    18
+   ],
+   "share": 0.086,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    88,
+    68,
+    40
+   ],
+   "share": 0.008,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    30,
+    19,
+    9
+   ],
+   "share": 0.004,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  }
+ ]
+}

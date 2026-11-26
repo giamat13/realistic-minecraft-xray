@@ -1,0 +1,73 @@
+{
+ "path": "block/pitcher_crop_bottom_stage_2.png",
+ "depicts": "pitcher plant stage 2: young leaves with a purple-tinted bud",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    126,
+    143,
+    78
+   ],
+   "share": 0.282,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    60,
+    74,
+    57
+   ],
+   "share": 0.212,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    105,
+    70
+   ],
+   "share": 0.2,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    165,
+    173,
+    94
+   ],
+   "share": 0.153,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    194,
+    192,
+    110
+   ],
+   "share": 0.118,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    84,
+    125
+   ],
+   "share": 0.035,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

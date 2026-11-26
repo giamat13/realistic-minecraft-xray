@@ -1,0 +1,73 @@
+{
+ "path": "block/campfire_fire.png",
+ "depicts": "Campfire flames (animated strip, 8 frames, first frame): hot combustion flame, air-like gas with hot core, path about 30 cm",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    228,
+    174,
+    41
+   ],
+   "share": 0.281,
+   "material": "fire",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    239,
+    205,
+    86
+   ],
+   "share": 0.23,
+   "material": "fire",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    201,
+    108,
+    3
+   ],
+   "share": 0.165,
+   "material": "fire",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    177,
+    63,
+    0
+   ],
+   "share": 0.144,
+   "material": "fire",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    249,
+    235,
+    171
+   ],
+   "share": 0.137,
+   "material": "fire",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    254,
+    251
+   ],
+   "share": 0.043,
+   "material": "fire",
+   "thickness_cm": 30.0
+  }
+ ]
+}

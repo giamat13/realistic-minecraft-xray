@@ -1,0 +1,73 @@
+{
+ "path": "block/vault_front_ejecting.png",
+ "depicts": "trial vault front while ejecting: dark metal front with glowing orange light panels",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    35,
+    47,
+    57
+   ],
+   "share": 0.741,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    79,
+    101,
+    109
+   ],
+   "share": 0.177,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    153,
+    81
+   ],
+   "share": 0.041,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    106,
+    0
+   ],
+   "share": 0.018,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    77,
+    0
+   ],
+   "share": 0.014,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    193,
+    149
+   ],
+   "share": 0.009,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  }
+ ]
+}

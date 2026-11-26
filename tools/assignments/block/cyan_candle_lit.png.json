@@ -1,0 +1,73 @@
+{
+ "path": "block/cyan_candle_lit.png",
+ "depicts": "cyan candle (lit): cyan-dyed wax column with cotton wick and small flame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    15,
+    105,
+    104
+   ],
+   "share": 0.333,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    17,
+    140,
+    137
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    24,
+    168,
+    156
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    138,
+    220,
+    176
+   ],
+   "share": 0.19,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    207,
+    170
+   ],
+   "share": 0.048,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

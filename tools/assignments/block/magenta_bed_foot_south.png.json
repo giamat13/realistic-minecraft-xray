@@ -1,0 +1,73 @@
+{
+ "path": "block/magenta_bed_foot_south.png",
+ "depicts": "magenta bed foot half, south facing: magenta wool blanket and oak frame with exposed wood grain on the side; mattress 15cm wool, frame 40cm wood",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    133,
+    35,
+    125
+   ],
+   "share": 0.341,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    88,
+    54
+   ],
+   "share": 0.197,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    121,
+    68
+   ],
+   "share": 0.189,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    41,
+    151
+   ],
+   "share": 0.144,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    181,
+    143,
+    85
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    76,
+    99
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 15.0
+  }
+ ]
+}

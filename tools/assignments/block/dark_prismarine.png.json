@@ -1,0 +1,73 @@
+{
+ "path": "block/dark_prismarine.png",
+ "depicts": "dark prismarine block: dark green-grey prismarine with dark tiled pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    49,
+    80,
+    65
+   ],
+   "share": 0.246,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    39,
+    62,
+    54
+   ],
+   "share": 0.219,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    63,
+    109,
+    92
+   ],
+   "share": 0.184,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    130,
+    104
+   ],
+   "share": 0.168,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    52,
+    86,
+    72
+   ],
+   "share": 0.121,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    56,
+    98,
+    81
+   ],
+   "share": 0.062,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/green_bed_foot_west.png",
+ "depicts": "green bed foot side view (west): green wool blanket top edge, oak wooden frame below",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    66,
+    18
+   ],
+   "share": 0.325,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    88,
+    18
+   ],
+   "share": 0.195,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    122,
+    68
+   ],
+   "share": 0.187,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    84,
+    51
+   ],
+   "share": 0.154,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    144,
+    87
+   ],
+   "share": 0.114,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    98,
+    62
+   ],
+   "share": 0.024,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  }
+ ]
+}

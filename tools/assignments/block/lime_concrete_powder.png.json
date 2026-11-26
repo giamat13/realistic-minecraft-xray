@@ -1,0 +1,73 @@
+{
+ "path": "block/lime_concrete_powder.png",
+ "depicts": "lime dyed loose concrete powder, grainy dry cement and aggregate mix (1 m cube, lower bulk density)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    189,
+    41
+   ],
+   "share": 0.484,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    135,
+    198,
+    44
+   ],
+   "share": 0.254,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    116,
+    180,
+    40
+   ],
+   "share": 0.246,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    157,
+    214,
+    59
+   ],
+   "share": 0.008,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    181,
+    223,
+    122
+   ],
+   "share": 0.004,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    167,
+    216,
+    90
+   ],
+   "share": 0.004,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  }
+ ]
+}

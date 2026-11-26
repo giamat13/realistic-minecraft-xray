@@ -1,0 +1,73 @@
+{
+ "path": "block/sunflower_front.png",
+ "depicts": "sunflower head front: yellow ray petals with brown seed disc in centre",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    214,
+    57
+   ],
+   "share": 0.288,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    236,
+    79
+   ],
+   "share": 0.25,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    245,
+    186,
+    39
+   ],
+   "share": 0.231,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    157,
+    37
+   ],
+   "share": 0.154,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    189,
+    106,
+    34
+   ],
+   "share": 0.038,
+   "material": "seed_grain",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    211,
+    125,
+    50
+   ],
+   "share": 0.038,
+   "material": "seed_grain",
+   "thickness_cm": 5.0
+  }
+ ]
+}

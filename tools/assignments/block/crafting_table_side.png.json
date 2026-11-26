@@ -1,0 +1,73 @@
+{
+ "path": "block/crafting_table_side.png",
+ "depicts": "crafting table side face (oak planks with steel tool relief)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    177,
+    145,
+    88
+   ],
+   "share": 0.504,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    93,
+    52
+   ],
+   "share": 0.195,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    26,
+    21,
+    12
+   ],
+   "share": 0.172,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    37,
+    22
+   ],
+   "share": 0.109,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.012,
+   "material": "steel",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    181,
+    181,
+    181
+   ],
+   "share": 0.008,
+   "material": "steel",
+   "thickness_cm": 2.0
+  }
+ ]
+}

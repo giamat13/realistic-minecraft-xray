@@ -1,0 +1,73 @@
+{
+ "path": "block/turtle_egg_slightly_cracked.png",
+ "depicts": "turtle egg with a small hairline crack showing dark interior",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    245,
+    238,
+    208
+   ],
+   "share": 0.459,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    228,
+    179
+   ],
+   "share": 0.301,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    193,
+    180,
+    132
+   ],
+   "share": 0.098,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    136,
+    125,
+    84
+   ],
+   "share": 0.068,
+   "material": "air",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    72,
+    167,
+    142
+   ],
+   "share": 0.045,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    54,
+    124,
+    106
+   ],
+   "share": 0.03,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

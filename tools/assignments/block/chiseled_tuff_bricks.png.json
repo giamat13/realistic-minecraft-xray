@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_tuff_bricks.png",
+ "depicts": "chiseled tuff bricks: grey-green tuff bricks with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    118,
+    110
+   ],
+   "share": 0.273,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    79,
+    68
+   ],
+   "share": 0.273,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    105,
+    104
+   ],
+   "share": 0.18,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    90,
+    81
+   ],
+   "share": 0.133,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    133,
+    131,
+    122
+   ],
+   "share": 0.125,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    145,
+    142,
+    128
+   ],
+   "share": 0.016,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  }
+ ]
+}

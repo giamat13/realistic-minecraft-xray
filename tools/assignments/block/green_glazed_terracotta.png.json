@@ -1,0 +1,73 @@
+{
+ "path": "block/green_glazed_terracotta.png",
+ "depicts": "green glazed terracotta tile: fired clay body with lead-glaze surface pattern (green with white design)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    94,
+    37
+   ],
+   "share": 0.281,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    157,
+    36
+   ],
+   "share": 0.23,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    96,
+    127,
+    22
+   ],
+   "share": 0.203,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    206,
+    212,
+    213
+   ],
+   "share": 0.156,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    141,
+    167,
+    89
+   ],
+   "share": 0.117,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    102,
+    127,
+    51
+   ],
+   "share": 0.012,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

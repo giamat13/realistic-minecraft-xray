@@ -1,0 +1,62 @@
+{
+ "path": "block/lime_candle.png",
+ "depicts": "lime dyed wax candle, 2px wide (12.5cm diameter) with dark cotton wick at the top",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    165,
+    16
+   ],
+   "share": 0.429,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    182,
+    24
+   ],
+   "share": 0.286,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    123,
+    198,
+    24
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    139,
+    206,
+    41
+   ],
+   "share": 0.048,
+   "material": "wax",
+   "thickness_cm": 12.5
+  }
+ ]
+}

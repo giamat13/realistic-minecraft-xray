@@ -1,0 +1,73 @@
+{
+ "path": "block/grass_block_top.png",
+ "depicts": "grass block top face: grayscale grass tint over short grass blades",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    149,
+    149,
+    149
+   ],
+   "share": 0.289,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    136,
+    136
+   ],
+   "share": 0.258,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    167,
+    167
+   ],
+   "share": 0.207,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    125,
+    125
+   ],
+   "share": 0.18,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    182,
+    182
+   ],
+   "share": 0.043,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.023,
+   "material": "grass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

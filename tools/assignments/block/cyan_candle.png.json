@@ -1,0 +1,62 @@
+{
+ "path": "block/cyan_candle.png",
+ "depicts": "cyan candle (unlit): cyan-dyed paraffin wax column (2 px wide) with dark cotton wick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    15,
+    105,
+    104
+   ],
+   "share": 0.429,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    136,
+    135
+   ],
+   "share": 0.286,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    18,
+    158,
+    157
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    22,
+    171,
+    170
+   ],
+   "share": 0.048,
+   "material": "wax",
+   "thickness_cm": 12.5
+  }
+ ]
+}

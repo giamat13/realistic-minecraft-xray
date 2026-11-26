@@ -1,0 +1,73 @@
+{
+ "path": "block/chorus_plant.png",
+ "depicts": "chorus plant block: purple chorus flesh with dark mottled grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    54,
+    92
+   ],
+   "share": 0.293,
+   "material": "chorus_flesh",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    86,
+    46,
+    86
+   ],
+   "share": 0.191,
+   "material": "chorus_flesh",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    62,
+    24,
+    62
+   ],
+   "share": 0.145,
+   "material": "chorus_flesh",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    33,
+    71
+   ],
+   "share": 0.129,
+   "material": "chorus_flesh",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    124,
+    91,
+    124
+   ],
+   "share": 0.121,
+   "material": "chorus_flesh",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    113,
+    143
+   ],
+   "share": 0.121,
+   "material": "chorus_flesh",
+   "thickness_cm": 100.0
+  }
+ ]
+}

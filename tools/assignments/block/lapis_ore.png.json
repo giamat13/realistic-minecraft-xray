@@ -1,0 +1,73 @@
+{
+ "path": "block/lapis_ore.png",
+ "depicts": "lapis lazuli ore block: grey stone host rock with blue lapis lazuli mineral specks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    116,
+    116
+   ],
+   "share": 0.539,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.227,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    19,
+    69,
+    183
+   ],
+   "share": 0.078,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    111,
+    220
+   ],
+   "share": 0.066,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    23,
+    69,
+    143
+   ],
+   "share": 0.062,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    105,
+    149,
+    244
+   ],
+   "share": 0.027,
+   "material": "lapis_lazuli",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/gray_shulker_box.png",
+ "depicts": "gray shulker box: hollow chitin-like shulker shell block (modeled as solid shell chitin)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    66,
+    70
+   ],
+   "share": 0.43,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    54,
+    57,
+    61
+   ],
+   "share": 0.172,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    59,
+    63,
+    67
+   ],
+   "share": 0.117,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    48,
+    51,
+    54
+   ],
+   "share": 0.113,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    44,
+    46,
+    50
+   ],
+   "share": 0.086,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    42,
+    44,
+    47
+   ],
+   "share": 0.082,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

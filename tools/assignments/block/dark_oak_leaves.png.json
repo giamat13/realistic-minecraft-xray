@@ -1,0 +1,51 @@
+{
+ "path": "block/dark_oak_leaves.png",
+ "depicts": "dark oak leaves block: foliage with grey-scale biome-tinted leaf cards (air-heavy, low density)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    183,
+    185,
+    183
+   ],
+   "share": 0.341,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    152,
+    153,
+    152
+   ],
+   "share": 0.33,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    109,
+    112
+   ],
+   "share": 0.218,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    123,
+    125
+   ],
+   "share": 0.112,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/calibrated_sculk_sensor_amethyst.png",
+ "depicts": "Calibrated sculk sensor amethyst shard sprite on top: purple crystal (amethyst, quartz variety) with pale highlights, thin sprite",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    193,
+    151,
+    243
+   ],
+   "share": 0.453,
+   "material": "amethyst",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    203,
+    230
+   ],
+   "share": 0.234,
+   "material": "amethyst",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    141,
+    106,
+    204
+   ],
+   "share": 0.109,
+   "material": "amethyst",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    253,
+    213
+   ],
+   "share": 0.094,
+   "material": "amethyst",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    122,
+    91,
+    181
+   ],
+   "share": 0.062,
+   "material": "amethyst",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    100,
+    71,
+    158
+   ],
+   "share": 0.047,
+   "material": "amethyst",
+   "thickness_cm": 4.0
+  }
+ ]
+}

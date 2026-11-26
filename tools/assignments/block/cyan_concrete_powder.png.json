@@ -1,0 +1,73 @@
+{
+ "path": "block/cyan_concrete_powder.png",
+ "depicts": "cyan concrete powder block: dry cement and sand powder dyed cyan (treated as solid concrete cube)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    36,
+    149,
+    157
+   ],
+   "share": 0.367,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    36,
+    140,
+    152
+   ],
+   "share": 0.355,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    38,
+    160,
+    165
+   ],
+   "share": 0.203,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    130,
+    142
+   ],
+   "share": 0.047,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    40,
+    179,
+    180
+   ],
+   "share": 0.016,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    47,
+    202,
+    202
+   ],
+   "share": 0.012,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

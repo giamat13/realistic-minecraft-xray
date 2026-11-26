@@ -1,0 +1,62 @@
+{
+ "path": "block/seagrass.png",
+ "depicts": "seagrass blade animated strip, thin marine plant",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    130,
+    0
+   ],
+   "share": 0.299,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    33,
+    88,
+    0
+   ],
+   "share": 0.195,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    56,
+    147,
+    6
+   ],
+   "share": 0.195,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    149,
+    41
+   ],
+   "share": 0.182,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    113,
+    0
+   ],
+   "share": 0.13,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/sea_lantern.png",
+ "depicts": "sea lantern: prismarine crystal block with glowing light core, animated 5 frames",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    222,
+    233,
+    225
+   ],
+   "share": 0.453,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    81,
+    133,
+    121
+   ],
+   "share": 0.25,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    202,
+    223,
+    217
+   ],
+   "share": 0.125,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    175,
+    208,
+    200
+   ],
+   "share": 0.082,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    142,
+    188,
+    176
+   ],
+   "share": 0.059,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    116,
+    172,
+    159
+   ],
+   "share": 0.031,
+   "material": "prismarine",
+   "thickness_cm": 100.0
+  }
+ ]
+}

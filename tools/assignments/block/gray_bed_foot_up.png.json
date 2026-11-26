@@ -1,0 +1,51 @@
+{
+ "path": "block/gray_bed_foot_up.png",
+ "depicts": "gray bed foot end, top face: gray wool mattress surface",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    98,
+    113,
+    115
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    107,
+    113
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    117,
+    123
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 56.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    97,
+    98
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 56.0
+  }
+ ]
+}

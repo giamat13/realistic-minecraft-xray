@@ -1,0 +1,73 @@
+{
+ "path": "block/mycelium_top.png",
+ "depicts": "mycelium block top: grey-mauve fungal mycelium mat over humus soil",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    99,
+    102
+   ],
+   "share": 0.438,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    106,
+    93,
+    98
+   ],
+   "share": 0.25,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    123,
+    109,
+    115
+   ],
+   "share": 0.113,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    90,
+    89,
+    82
+   ],
+   "share": 0.094,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    131,
+    105,
+    106
+   ],
+   "share": 0.078,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    139,
+    113,
+    115
+   ],
+   "share": 0.027,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/gray_concrete_powder.png",
+ "depicts": "gray concrete powder: loose dry cement-aggregate mix before water",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    78,
+    82,
+    85
+   ],
+   "share": 0.375,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    77,
+    81
+   ],
+   "share": 0.273,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    87,
+    91
+   ],
+   "share": 0.16,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    70,
+    73,
+    76
+   ],
+   "share": 0.125,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    87,
+    94,
+    98
+   ],
+   "share": 0.062,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    101,
+    115,
+    119
+   ],
+   "share": 0.004,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

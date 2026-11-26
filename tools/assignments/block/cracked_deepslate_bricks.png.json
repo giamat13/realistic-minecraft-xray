@@ -1,0 +1,73 @@
+{
+ "path": "block/cracked_deepslate_bricks.png",
+ "depicts": "cracked deepslate bricks (dark metamorphic slate bricks)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    60,
+    59,
+    59
+   ],
+   "share": 0.328,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    40,
+    40
+   ],
+   "share": 0.258,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    88,
+    88,
+    88
+   ],
+   "share": 0.184,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    75,
+    76,
+    79
+   ],
+   "share": 0.117,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    110,
+    110
+   ],
+   "share": 0.086,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    26,
+    26,
+    26
+   ],
+   "share": 0.027,
+   "material": "slate",
+   "thickness_cm": 100.0
+  }
+ ]
+}

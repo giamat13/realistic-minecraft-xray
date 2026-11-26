@@ -1,0 +1,73 @@
+{
+ "path": "block/red_terracotta.png",
+ "depicts": "red glazed-free terracotta block (fired clay, mottled reddish-brown)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    142,
+    61,
+    47
+   ],
+   "share": 0.305,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    59,
+    46
+   ],
+   "share": 0.281,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    145,
+    62,
+    48
+   ],
+   "share": 0.176,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    146,
+    64,
+    49
+   ],
+   "share": 0.113,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    148,
+    64,
+    50
+   ],
+   "share": 0.07,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    139,
+    58,
+    44
+   ],
+   "share": 0.055,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/green_bed_foot_up.png",
+ "depicts": "green bed foot top view: green dyed wool blanket surface (all shades of green)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    129,
+    22
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    87,
+    117,
+    20
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    101,
+    135,
+    24
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    99,
+    19
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 20.0
+  }
+ ]
+}

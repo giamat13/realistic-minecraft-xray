@@ -1,0 +1,62 @@
+{
+ "path": "block/sunflower_top.png",
+ "depicts": "sunflower head top view, green bud and stem tip",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    145,
+    41
+   ],
+   "share": 0.419,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    124,
+    4
+   ],
+   "share": 0.355,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    38,
+    99,
+    37
+   ],
+   "share": 0.194,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.032,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    50,
+    129,
+    27
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/green_bed_head_east.png",
+ "depicts": "green bed head end (east): white cotton/linen pillow, green wool blanket, oak frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    58,
+    77,
+    18
+   ],
+   "share": 0.26,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    156,
+    122,
+    68
+   ],
+   "share": 0.187,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    86,
+    52
+   ],
+   "share": 0.179,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    222,
+    222
+   ],
+   "share": 0.171,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    144,
+    87
+   ],
+   "share": 0.114,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.089,
+   "material": "textile",
+   "thickness_cm": 10.0
+  }
+ ]
+}

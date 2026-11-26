@@ -1,0 +1,62 @@
+{
+ "path": "block/mushroom_block_inside.png",
+ "depicts": "brown/red mushroom block interior: pale cream fleshy fungal tissue",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    206,
+    174,
+    123
+   ],
+   "share": 0.422,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    168,
+    119
+   ],
+   "share": 0.355,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    182,
+    128
+   ],
+   "share": 0.109,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    171,
+    144,
+    102
+   ],
+   "share": 0.059,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    159,
+    110
+   ],
+   "share": 0.055,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

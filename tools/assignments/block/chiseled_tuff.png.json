@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_tuff.png",
+ "depicts": "chiseled tuff: grey-green volcanic tuff with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    77,
+    67
+   ],
+   "share": 0.473,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    87,
+    95,
+    89
+   ],
+   "share": 0.191,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    119,
+    111
+   ],
+   "share": 0.145,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    99,
+    108,
+    109
+   ],
+   "share": 0.125,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    133,
+    131,
+    122
+   ],
+   "share": 0.047,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    145,
+    142,
+    128
+   ],
+   "share": 0.02,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  }
+ ]
+}

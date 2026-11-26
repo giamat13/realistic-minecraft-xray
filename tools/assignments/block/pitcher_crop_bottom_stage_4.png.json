@@ -1,0 +1,73 @@
+{
+ "path": "block/pitcher_crop_bottom_stage_4.png",
+ "depicts": "pitcher plant stage 4: mature leaves with blue-tinted pitcher cup interior",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    94,
+    66
+   ],
+   "share": 0.39,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    143,
+    156,
+    80
+   ],
+   "share": 0.22,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    128,
+    79
+   ],
+   "share": 0.183,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    112,
+    134,
+    181
+   ],
+   "share": 0.122,
+   "material": "water",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    174,
+    199
+   ],
+   "share": 0.049,
+   "material": "water",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    194,
+    192,
+    110
+   ],
+   "share": 0.037,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

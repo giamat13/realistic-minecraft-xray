@@ -1,0 +1,73 @@
+{
+ "path": "block/brown_shulker_box.png",
+ "depicts": "Brown shulker box (closed hard container; fictional shulker shell, closest analogue chitin-like shell)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    72,
+    40
+   ],
+   "share": 0.43,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    103,
+    64,
+    34
+   ],
+   "share": 0.172,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    69,
+    38
+   ],
+   "share": 0.117,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    57,
+    30
+   ],
+   "share": 0.117,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    98,
+    61,
+    32
+   ],
+   "share": 0.113,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    88,
+    53,
+    27
+   ],
+   "share": 0.051,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

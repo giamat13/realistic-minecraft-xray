@@ -1,0 +1,73 @@
+{
+ "path": "block/crafter_east_crafting.png",
+ "depicts": "crafter east face while crafting (wood panel, steel frame, lit redstone indicator)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    151,
+    131,
+    94
+   ],
+   "share": 0.395,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    87,
+    78,
+    64
+   ],
+   "share": 0.293,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    153,
+    146
+   ],
+   "share": 0.25,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    41,
+    31,
+    14
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    21,
+    21
+   ],
+   "share": 0.012,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    35,
+    35
+   ],
+   "share": 0.004,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/dark_oak_trapdoor.png",
+ "depicts": "dark oak trapdoor: dark oak wood panel with grain, 3/16 block = 18.75 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    78,
+    51,
+    24
+   ],
+   "share": 0.609,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 1,
+   "rgb": [
+    114,
+    74,
+    36
+   ],
+   "share": 0.094,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    26,
+    12
+   ],
+   "share": 0.094,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    40,
+    18
+   ],
+   "share": 0.094,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 4,
+   "rgb": [
+    50,
+    33,
+    15
+   ],
+   "share": 0.062,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 5,
+   "rgb": [
+    98,
+    66,
+    36
+   ],
+   "share": 0.047,
+   "material": "wood_dark",
+   "thickness_cm": 18.75
+  }
+ ]
+}

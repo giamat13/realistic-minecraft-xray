@@ -1,0 +1,51 @@
+{
+ "path": "block/blue_bed_foot_up.png",
+ "depicts": "blue bed foot top: blue dyed wool blanket on mattress",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    90,
+    190
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    63,
+    83,
+    179
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    111,
+    194
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    58,
+    77,
+    165
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 15.0
+  }
+ ]
+}

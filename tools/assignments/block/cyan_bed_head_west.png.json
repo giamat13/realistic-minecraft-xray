@@ -1,0 +1,73 @@
+{
+ "path": "block/cyan_bed_head_west.png",
+ "depicts": "cyan bed head end, west side: oak wood headboard frame with white pillow wool and cyan mattress wool",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    166,
+    130,
+    75
+   ],
+   "share": 0.301,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    10,
+    82,
+    82
+   ],
+   "share": 0.179,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    85,
+    52
+   ],
+   "share": 0.179,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    222,
+    222
+   ],
+   "share": 0.171,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.089,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    16,
+    138,
+    137
+   ],
+   "share": 0.081,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

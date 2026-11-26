@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_copper_bulb_lit.png",
+ "depicts": "exposed copper bulb (lit): copper shell around a glowing incandescent lamp core",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    127,
+    108,
+    86
+   ],
+   "share": 0.199,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    197,
+    136,
+    126
+   ],
+   "share": 0.191,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    140,
+    41
+   ],
+   "share": 0.188,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    124,
+    100
+   ],
+   "share": 0.188,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    253,
+    220,
+    162
+   ],
+   "share": 0.141,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    251,
+    183,
+    106
+   ],
+   "share": 0.094,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

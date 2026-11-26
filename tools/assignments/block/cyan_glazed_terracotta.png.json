@@ -1,0 +1,73 @@
+{
+ "path": "block/cyan_glazed_terracotta.png",
+ "depicts": "cyan glazed terracotta block: fired terracotta clay body with cyan glaze and white/grey pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    117,
+    134
+   ],
+   "share": 0.305,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    55,
+    58,
+    62
+   ],
+   "share": 0.238,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    22,
+    159,
+    159
+   ],
+   "share": 0.195,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    79,
+    82
+   ],
+   "share": 0.113,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    209,
+    211
+   ],
+   "share": 0.094,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    25,
+    178,
+    178
+   ],
+   "share": 0.055,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

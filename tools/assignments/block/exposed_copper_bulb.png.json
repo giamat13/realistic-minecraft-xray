@@ -1,0 +1,73 @@
+{
+ "path": "block/exposed_copper_bulb.png",
+ "depicts": "exposed copper bulb (unlit) block: oxidised copper shell with thin patina",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    106,
+    85
+   ],
+   "share": 0.289,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    197,
+    136,
+    126
+   ],
+   "share": 0.191,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    161,
+    124,
+    99
+   ],
+   "share": 0.184,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    84,
+    77,
+    61
+   ],
+   "share": 0.176,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    108,
+    89,
+    76
+   ],
+   "share": 0.156,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    152,
+    105
+   ],
+   "share": 0.004,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

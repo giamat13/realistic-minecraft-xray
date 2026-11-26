@@ -1,0 +1,73 @@
+{
+ "path": "block/blue_bed_head_west.png",
+ "depicts": "blue bed head end (west side): oak frame, white pillow, blue wool mattress",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    166,
+    130,
+    75
+   ],
+   "share": 0.301,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    107,
+    85,
+    52
+   ],
+   "share": 0.179,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    222,
+    222
+   ],
+   "share": 0.171,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    36,
+    48,
+    108
+   ],
+   "share": 0.138,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    76,
+    163
+   ],
+   "share": 0.122,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.089,
+   "material": "textile",
+   "thickness_cm": 10.0
+  }
+ ]
+}

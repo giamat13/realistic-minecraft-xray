@@ -1,0 +1,62 @@
+{
+ "path": "block/gray_candle.png",
+ "depicts": "gray dyed wax candle sprite with dark wick, mostly transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    89,
+    90
+   ],
+   "share": 0.429,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    97,
+    98
+   ],
+   "share": 0.286,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    98,
+    113,
+    115
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    106,
+    117,
+    123
+   ],
+   "share": 0.048,
+   "material": "wax",
+   "thickness_cm": 12.5
+  }
+ ]
+}

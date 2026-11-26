@@ -1,0 +1,51 @@
+{
+ "path": "block/red_stained_glass_pane_top.png",
+ "depicts": "red stained glass pane seen from above (thin glass sheet in centre column, rest transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    50,
+    50
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    48,
+    48
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    142,
+    47,
+    47
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    148,
+    49,
+    49
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 0.5
+  }
+ ]
+}

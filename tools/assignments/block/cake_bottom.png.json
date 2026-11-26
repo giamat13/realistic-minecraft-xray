@@ -1,0 +1,51 @@
+{
+ "path": "block/cake_bottom.png",
+ "depicts": "Cake block bottom face: baked sponge cake crust (baked flour and sugar, bread-like analogue), 8/16 block tall so vertical path 50 cm",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    127,
+    58,
+    29
+   ],
+   "share": 0.459,
+   "material": "bread",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    67,
+    36
+   ],
+   "share": 0.449,
+   "material": "bread",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    52,
+    32
+   ],
+   "share": 0.051,
+   "material": "bread",
+   "thickness_cm": 50.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    167,
+    75,
+    36
+   ],
+   "share": 0.041,
+   "material": "bread",
+   "thickness_cm": 50.0
+  }
+ ]
+}

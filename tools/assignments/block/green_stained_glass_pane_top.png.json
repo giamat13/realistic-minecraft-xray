@@ -1,0 +1,51 @@
+{
+ "path": "block/green_stained_glass_pane_top.png",
+ "depicts": "green stained glass pane top: 2/16 block thick dyed glass pane (cap view)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    127,
+    50
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    122,
+    48
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    94,
+    118,
+    47
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    99,
+    124,
+    49
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 12.5
+  }
+ ]
+}

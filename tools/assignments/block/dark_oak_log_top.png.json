@@ -1,0 +1,73 @@
+{
+ "path": "block/dark_oak_log_top.png",
+ "depicts": "dark oak log end grain: dark oak wood rings with bark edge",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    47,
+    23
+   ],
+   "share": 0.273,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    59,
+    38,
+    18
+   ],
+   "share": 0.273,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    51,
+    24
+   ],
+   "share": 0.227,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    49,
+    29
+   ],
+   "share": 0.09,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    45,
+    33,
+    17
+   ],
+   "share": 0.074,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    74,
+    56,
+    30
+   ],
+   "share": 0.062,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

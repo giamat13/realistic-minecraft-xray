@@ -1,0 +1,73 @@
+{
+ "path": "block/gray_bed_foot_south.png",
+ "depicts": "gray bed foot end, south side: gray wool mattress over wooden bed frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    85,
+    86
+   ],
+   "share": 0.364,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    156,
+    121,
+    68
+   ],
+   "share": 0.189,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    84,
+    51
+   ],
+   "share": 0.144,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    143,
+    85
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    68,
+    65
+   ],
+   "share": 0.121,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    98,
+    62
+   ],
+   "share": 0.053,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

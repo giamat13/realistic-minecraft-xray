@@ -1,0 +1,73 @@
+{
+ "path": "block/crafter_top_triggered.png",
+ "depicts": "crafter top face when triggered (steel plate with redstone grid)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    148,
+    148,
+    148
+   ],
+   "share": 0.383,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    109,
+    109,
+    109
+   ],
+   "share": 0.336,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    16,
+    20
+   ],
+   "share": 0.156,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    84,
+    22,
+    27
+   ],
+   "share": 0.094,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    21,
+    21
+   ],
+   "share": 0.023,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    35,
+    35
+   ],
+   "share": 0.008,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

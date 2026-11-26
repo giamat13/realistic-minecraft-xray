@@ -1,0 +1,73 @@
+{
+ "path": "block/copper_lantern.png",
+ "depicts": "copper lantern (copper frame with green copper-salt flame core, animated strip first frame)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    75,
+    51
+   ],
+   "share": 0.434,
+   "material": "copper",
+   "thickness_cm": 6.25
+  },
+  {
+   "id": 1,
+   "rgb": [
+    182,
+    99,
+    71
+   ],
+   "share": 0.377,
+   "material": "copper",
+   "thickness_cm": 6.25
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    235,
+    153
+   ],
+   "share": 0.075,
+   "material": "fire",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    178,
+    110
+   ],
+   "share": 0.057,
+   "material": "fire",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    238,
+    252,
+    238
+   ],
+   "share": 0.038,
+   "material": "fire",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    70,
+    130,
+    77
+   ],
+   "share": 0.019,
+   "material": "fire",
+   "thickness_cm": 6.0
+  }
+ ]
+}

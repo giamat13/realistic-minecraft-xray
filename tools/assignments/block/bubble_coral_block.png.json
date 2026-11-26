@@ -1,0 +1,73 @@
+{
+ "path": "block/bubble_coral_block.png",
+ "depicts": "Solid bubble coral block (living polyp tissue over calcium-carbonate skeleton)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    165,
+    29,
+    165
+   ],
+   "share": 0.324,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    145,
+    22,
+    145
+   ],
+   "share": 0.266,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    200,
+    25,
+    186
+   ],
+   "share": 0.234,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    126,
+    9,
+    135
+   ],
+   "share": 0.086,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    69,
+    191
+   ],
+   "share": 0.062,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    5,
+    112
+   ],
+   "share": 0.027,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

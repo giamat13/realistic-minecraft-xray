@@ -1,0 +1,73 @@
+{
+ "path": "block/cyan_wool.png",
+ "depicts": "cyan wool block: sheep wool dyed cyan",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    21,
+    141,
+    147
+   ],
+   "share": 0.207,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    21,
+    128,
+    140
+   ],
+   "share": 0.199,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    21,
+    134,
+    143
+   ],
+   "share": 0.184,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    22,
+    149,
+    151
+   ],
+   "share": 0.184,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    21,
+    122,
+    137
+   ],
+   "share": 0.117,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    22,
+    155,
+    156
+   ],
+   "share": 0.109,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

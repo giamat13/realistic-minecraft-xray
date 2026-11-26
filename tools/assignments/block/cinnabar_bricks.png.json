@@ -1,0 +1,73 @@
+{
+ "path": "block/cinnabar_bricks.png",
+ "depicts": "cinnabar bricks: red cinnabar mineral bricks with mortar lines",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    157,
+    59,
+    55
+   ],
+   "share": 0.352,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    47,
+    44
+   ],
+   "share": 0.238,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    32,
+    36
+   ],
+   "share": 0.164,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    169,
+    68,
+    66
+   ],
+   "share": 0.148,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    183,
+    81,
+    81
+   ],
+   "share": 0.078,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    197,
+    92,
+    93
+   ],
+   "share": 0.02,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  }
+ ]
+}

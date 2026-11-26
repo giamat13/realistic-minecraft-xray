@@ -1,0 +1,73 @@
+{
+ "path": "block/creaking_heart.png",
+ "depicts": "creaking heart block (dark organic wood heart with grey-brown resin patches)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    52,
+    39,
+    35
+   ],
+   "share": 0.266,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    56,
+    48
+   ],
+   "share": 0.219,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    100,
+    98
+   ],
+   "share": 0.148,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    70,
+    61
+   ],
+   "share": 0.145,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    82,
+    77
+   ],
+   "share": 0.141,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    125,
+    114,
+    112
+   ],
+   "share": 0.082,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

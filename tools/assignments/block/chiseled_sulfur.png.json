@@ -1,0 +1,73 @@
+{
+ "path": "block/chiseled_sulfur.png",
+ "depicts": "chiseled sulfur block: yellow native sulfur with carved grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    166,
+    137,
+    80
+   ],
+   "share": 0.242,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    197,
+    187,
+    93
+   ],
+   "share": 0.238,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    164,
+    90
+   ],
+   "share": 0.223,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    221,
+    222,
+    114
+   ],
+   "share": 0.109,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    206,
+    104
+   ],
+   "share": 0.109,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    147,
+    111,
+    76
+   ],
+   "share": 0.078,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/turtle_egg.png",
+ "depicts": "turtle egg: pale speckled eggshell with teal spots",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    243,
+    233,
+    197
+   ],
+   "share": 0.414,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    247,
+    241,
+    216
+   ],
+   "share": 0.293,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    227,
+    174
+   ],
+   "share": 0.203,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    72,
+    167,
+    142
+   ],
+   "share": 0.06,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    52,
+    121,
+    103
+   ],
+   "share": 0.023,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    58,
+    135,
+    114
+   ],
+   "share": 0.008,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/copper_torch.png",
+ "depicts": "copper torch (wooden stick with green copper-salt flame)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    111,
+    69
+   ],
+   "share": 0.45,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    71,
+    57,
+    36
+   ],
+   "share": 0.35,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.05,
+   "material": "fire",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    235,
+    153
+   ],
+   "share": 0.05,
+   "material": "fire",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    105,
+    178,
+    110
+   ],
+   "share": 0.05,
+   "material": "fire",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    70,
+    130,
+    77
+   ],
+   "share": 0.05,
+   "material": "fire",
+   "thickness_cm": 3.0
+  }
+ ]
+}

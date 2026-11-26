@@ -1,0 +1,73 @@
+{
+ "path": "block/piston_top_sticky.png",
+ "depicts": "sticky piston head top: green slime block face with planks frame and iron bits",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    178,
+    93
+   ],
+   "share": 0.352,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    114,
+    89,
+    50
+   ],
+   "share": 0.188,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    107,
+    45
+   ],
+   "share": 0.184,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    207,
+    203,
+    203
+   ],
+   "share": 0.125,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    174,
+    142,
+    85
+   ],
+   "share": 0.113,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    171,
+    235,
+    156
+   ],
+   "share": 0.039,
+   "material": "slime",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/observer_back_on.png",
+ "depicts": "observer block back, powered: grey stone housing with glowing red redstone component",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    65,
+    62,
+    61
+   ],
+   "share": 0.457,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    47,
+    44,
+    44
+   ],
+   "share": 0.27,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    99,
+    99
+   ],
+   "share": 0.168,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    133,
+    132,
+    132
+   ],
+   "share": 0.09,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    200,
+    2,
+    1
+   ],
+   "share": 0.012,
+   "material": "redstone_dust",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    0,
+    3
+   ],
+   "share": 0.004,
+   "material": "redstone_dust",
+   "thickness_cm": 1.0
+  }
+ ]
+}
