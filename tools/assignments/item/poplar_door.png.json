@@ -1,0 +1,62 @@
+{
+ "path": "item/poplar_door.png",
+ "depicts": "poplar door item, pale softwood door panels with dark recessed borders",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    145,
+    133,
+    123
+   ],
+   "share": 0.346,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    170,
+    161,
+    145
+   ],
+   "share": 0.244,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    127,
+    112,
+    109
+   ],
+   "share": 0.213,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    102,
+    101
+   ],
+   "share": 0.157,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    75,
+    59,
+    46
+   ],
+   "share": 0.039,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

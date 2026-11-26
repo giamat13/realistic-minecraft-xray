@@ -1,0 +1,62 @@
+{
+ "path": "map/decorations/ocean_monument.png",
+ "depicts": "map icon: ocean monument prismarine",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.48,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    114,
+    101
+   ],
+   "share": 0.2,
+   "material": "prismarine",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    115,
+    181,
+    170
+   ],
+   "share": 0.2,
+   "material": "prismarine",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    152,
+    201,
+    188
+   ],
+   "share": 0.08,
+   "material": "prismarine",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    23,
+    53,
+    46
+   ],
+   "share": 0.04,
+   "material": "prismarine",
+   "thickness_cm": 0.02
+  }
+ ]
+}

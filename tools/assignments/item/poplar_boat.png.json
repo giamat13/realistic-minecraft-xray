@@ -1,0 +1,73 @@
+{
+ "path": "item/poplar_boat.png",
+ "depicts": "poplar boat item, pale softwood hull with dark interior",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    69,
+    69
+   ],
+   "share": 0.382,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    117,
+    113
+   ],
+   "share": 0.218,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    144,
+    134
+   ],
+   "share": 0.164,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    102,
+    101
+   ],
+   "share": 0.109,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    189,
+    179,
+    162
+   ],
+   "share": 0.067,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    51,
+    43,
+    43
+   ],
+   "share": 0.061,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/poplar_hanging_sign.png",
+ "depicts": "poplar hanging sign item, pale softwood board with dark text and steel chains",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    155,
+    143,
+    133
+   ],
+   "share": 0.331,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    111,
+    108
+   ],
+   "share": 0.324,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    77,
+    75
+   ],
+   "share": 0.135,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    169,
+    158,
+    143
+   ],
+   "share": 0.128,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    50,
+    50,
+    50
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    95,
+    95,
+    95
+   ],
+   "share": 0.027,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

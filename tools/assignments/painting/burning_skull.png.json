@@ -1,0 +1,73 @@
+{
+ "path": "painting/burning_skull.png",
+ "depicts": "painting Burning Skull: skull on fire against blue-green night sky",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    40,
+    60
+   ],
+   "share": 0.517,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    104,
+    140,
+    66
+   ],
+   "share": 0.177,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    229,
+    207
+   ],
+   "share": 0.111,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    172,
+    149
+   ],
+   "share": 0.092,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    240,
+    231,
+    20
+   ],
+   "share": 0.055,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    241,
+    76,
+    8
+   ],
+   "share": 0.048,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

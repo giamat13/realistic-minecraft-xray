@@ -1,0 +1,73 @@
+{
+ "path": "item/pillager_spawn_egg.png",
+ "depicts": "spawn egg item, grey egg shell with dark markings and pale highlights",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    82,
+    81
+   ],
+   "share": 0.291,
+   "material": "egg",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 1,
+   "rgb": [
+    59,
+    50,
+    51
+   ],
+   "share": 0.254,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    164,
+    164
+   ],
+   "share": 0.194,
+   "material": "egg",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 3,
+   "rgb": [
+    111,
+    123,
+    123
+   ],
+   "share": 0.142,
+   "material": "egg",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 4,
+   "rgb": [
+    22,
+    18,
+    18
+   ],
+   "share": 0.104,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    199,
+    206,
+    206
+   ],
+   "share": 0.015,
+   "material": "egg",
+   "thickness_cm": 0.15
+  }
+ ]
+}

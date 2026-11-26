@@ -1,0 +1,62 @@
+{
+ "path": "particle/sculk_charge_pop_0.png",
+ "depicts": "sculk charge burst particle (teal sculk with bright cyan highlight)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    5,
+    98,
+    93
+   ],
+   "share": 0.577,
+   "material": "sculk",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.212,
+   "material": "sculk",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    25,
+    70,
+    72
+   ],
+   "share": 0.154,
+   "material": "sculk",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    5,
+    42,
+    50
+   ],
+   "share": 0.038,
+   "material": "sculk",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.019,
+   "material": "fire",
+   "thickness_cm": 0.2
+  }
+ ]
+}

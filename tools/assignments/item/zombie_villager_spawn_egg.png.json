@@ -1,0 +1,73 @@
+{
+ "path": "item/zombie_villager_spawn_egg.png",
+ "depicts": "spawn egg item, egg shape with olive-green and brown mottling",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    70,
+    89,
+    44
+   ],
+   "share": 0.463,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    41,
+    48,
+    29
+   ],
+   "share": 0.187,
+   "material": "calcite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    48,
+    38
+   ],
+   "share": 0.119,
+   "material": "wood_soft",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    146,
+    67
+   ],
+   "share": 0.119,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    108,
+    89,
+    76
+   ],
+   "share": 0.067,
+   "material": "wood_soft",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    136,
+    170,
+    91
+   ],
+   "share": 0.045,
+   "material": "egg",
+   "thickness_cm": 4.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/mangrove_propagule.png",
+ "depicts": "mangrove propagule item icon, green seedling with stem and leaves",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    174,
+    83
+   ],
+   "share": 0.286,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    199,
+    87
+   ],
+   "share": 0.262,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    139,
+    70
+   ],
+   "share": 0.167,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    127,
+    191,
+    86
+   ],
+   "share": 0.119,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    198,
+    118
+   ],
+   "share": 0.095,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    72,
+    130,
+    56
+   ],
+   "share": 0.071,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

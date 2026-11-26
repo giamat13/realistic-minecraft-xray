@@ -1,0 +1,18 @@
+{
+ "path": "particle/sculk_charge_0.png",
+ "depicts": "dark teal sculk charge blob particle",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    5,
+    42,
+    50
+   ],
+   "share": 1.0,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  }
+ ]
+}

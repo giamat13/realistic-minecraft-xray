@@ -1,0 +1,40 @@
+{
+ "path": "particle/vibration.png",
+ "depicts": "teal sculk vibration wave particle strip",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    13,
+    81,
+    78
+   ],
+   "share": 0.385,
+   "material": "sculk",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    8,
+    126,
+    129
+   ],
+   "share": 0.308,
+   "material": "sculk",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    214,
+    224
+   ],
+   "share": 0.308,
+   "material": "sculk",
+   "thickness_cm": 0.05
+  }
+ ]
+}

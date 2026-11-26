@@ -1,0 +1,18 @@
+{
+ "path": "misc/shadow.png",
+ "depicts": "entity ground shadow: soft dark ellipse cast on ground",
+ "kind": "misc",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 1.0,
+   "material": "soil",
+   "thickness_cm": 0.1
+  }
+ ]
+}

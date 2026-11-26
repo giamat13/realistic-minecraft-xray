@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/slowness.png",
+ "depicts": "slowness status-effect icon: dark grey snail with shell",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    36,
+    36,
+    46
+   ],
+   "share": 0.278,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    18,
+    18,
+    26
+   ],
+   "share": 0.252,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    63,
+    63,
+    77
+   ],
+   "share": 0.232,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    87,
+    105
+   ],
+   "share": 0.199,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    137,
+    147
+   ],
+   "share": 0.04,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    52,
+    52,
+    64
+   ],
+   "share": 0.0,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

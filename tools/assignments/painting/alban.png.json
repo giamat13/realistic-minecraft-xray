@@ -1,0 +1,73 @@
+{
+ "path": "painting/alban.png",
+ "depicts": "painting Alban: sunlit green field, dark tree and orange accents, wood-framed canvas",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    50,
+    13
+   ],
+   "share": 0.359,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    14,
+    29,
+    3
+   ],
+   "share": 0.207,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    189,
+    60
+   ],
+   "share": 0.176,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    194,
+    165,
+    52
+   ],
+   "share": 0.109,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    128,
+    125,
+    22
+   ],
+   "share": 0.098,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    191,
+    72,
+    5
+   ],
+   "share": 0.051,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

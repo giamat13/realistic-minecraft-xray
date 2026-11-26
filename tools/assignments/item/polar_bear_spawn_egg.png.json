@@ -1,0 +1,73 @@
+{
+ "path": "item/polar_bear_spawn_egg.png",
+ "depicts": "spawn egg item, white egg shell with dark nose and eye marks",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    247,
+    247,
+    242
+   ],
+   "share": 0.353,
+   "material": "egg",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 1,
+   "rgb": [
+    206,
+    201,
+    195
+   ],
+   "share": 0.332,
+   "material": "egg",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    120,
+    118
+   ],
+   "share": 0.263,
+   "material": "egg",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 3,
+   "rgb": [
+    47,
+    47,
+    59
+   ],
+   "share": 0.026,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    16,
+    16,
+    20
+   ],
+   "share": 0.016,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    77,
+    75,
+    81
+   ],
+   "share": 0.011,
+   "material": "egg",
+   "thickness_cm": 0.15
+  }
+ ]
+}

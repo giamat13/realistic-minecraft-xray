@@ -1,0 +1,73 @@
+{
+ "path": "painting/back.png",
+ "depicts": "painting Back: brown figure seen from behind, wood-toned canvas",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    149,
+    107,
+    44
+   ],
+   "share": 0.215,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    111,
+    79,
+    33
+   ],
+   "share": 0.207,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    101,
+    40
+   ],
+   "share": 0.188,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    93,
+    38
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    156,
+    115,
+    50
+   ],
+   "share": 0.145,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    87,
+    34
+   ],
+   "share": 0.07,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  }
+ ]
+}

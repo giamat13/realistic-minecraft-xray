@@ -1,0 +1,73 @@
+{
+ "path": "item/mace.png",
+ "depicts": "mace weapon item icon, steel mace head on dark wood handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    81,
+    96
+   ],
+   "share": 0.424,
+   "material": "steel",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    34,
+    38,
+    46
+   ],
+   "share": 0.273,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    161,
+    162,
+    182
+   ],
+   "share": 0.111,
+   "material": "steel",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    131,
+    162
+   ],
+   "share": 0.091,
+   "material": "steel",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    206,
+    231
+   ],
+   "share": 0.051,
+   "material": "steel",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    35,
+    66,
+    105
+   ],
+   "share": 0.051,
+   "material": "wood_dark",
+   "thickness_cm": 1.5
+  }
+ ]
+}

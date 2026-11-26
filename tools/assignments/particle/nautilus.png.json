@@ -1,0 +1,73 @@
+{
+ "path": "particle/nautilus.png",
+ "depicts": "nautilus shell particle (nautilus spiral shell with chitin rim)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    15,
+    88,
+    117
+   ],
+   "share": 0.281,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    31,
+    150,
+    177
+   ],
+   "share": 0.25,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    8,
+    32,
+    84
+   ],
+   "share": 0.188,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    29,
+    194,
+    209
+   ],
+   "share": 0.156,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    125,
+    101,
+    40
+   ],
+   "share": 0.062,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    15,
+    13
+   ],
+   "share": 0.062,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

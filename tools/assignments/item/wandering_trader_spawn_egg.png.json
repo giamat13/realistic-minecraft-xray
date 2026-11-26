@@ -1,0 +1,73 @@
+{
+ "path": "item/wandering_trader_spawn_egg.png",
+ "depicts": "Wandering trader spawn egg: brown-red egg with dark and blue spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    123,
+    71,
+    46
+   ],
+   "share": 0.276,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    28,
+    35,
+    34
+   ],
+   "share": 0.276,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    116,
+    28,
+    4
+   ],
+   "share": 0.209,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    46,
+    68,
+    105
+   ],
+   "share": 0.104,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    116,
+    88
+   ],
+   "share": 0.075,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    218,
+    161,
+    47
+   ],
+   "share": 0.06,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  }
+ ]
+}

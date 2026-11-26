@@ -1,0 +1,73 @@
+{
+ "path": "item/villager_spawn_egg.png",
+ "depicts": "Villager spawn egg: brown egg shell with darker brown patches",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    59,
+    49
+   ],
+   "share": 0.246,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    48,
+    44
+   ],
+   "share": 0.231,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    73,
+    58
+   ],
+   "share": 0.172,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    148,
+    98,
+    71
+   ],
+   "share": 0.157,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    190,
+    136,
+    108
+   ],
+   "share": 0.142,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    214,
+    157,
+    122
+   ],
+   "share": 0.052,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

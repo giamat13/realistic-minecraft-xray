@@ -1,0 +1,40 @@
+{
+ "path": "trims/entity/humanoid_leggings/rib.png",
+ "depicts": "Rib armor trim pattern overlay on leggings (embossed grey metal template)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    96,
+    96
+   ],
+   "share": 0.606,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.273,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.121,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

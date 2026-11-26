@@ -1,0 +1,62 @@
+{
+ "path": "trims/entity/humanoid/coast.png",
+ "depicts": "Coast armor trim overlay pattern (light grey metal trim)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.265,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.265,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.194,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.163,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    96,
+    96
+   ],
+   "share": 0.112,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

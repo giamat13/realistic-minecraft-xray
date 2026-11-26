@@ -1,0 +1,40 @@
+{
+ "path": "trims/entity/humanoid/rib.png",
+ "depicts": "Rib armor trim overlay pattern (dark grey metal trim)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.418,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.327,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    96,
+    96,
+    96
+   ],
+   "share": 0.255,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

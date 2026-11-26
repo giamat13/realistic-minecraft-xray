@@ -1,0 +1,73 @@
+{
+ "path": "map/decorations/savanna_village.png",
+ "depicts": "map icon: savanna village terracotta houses with dark wood",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.476,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    153,
+    80,
+    43
+   ],
+   "share": 0.19,
+   "material": "terracotta",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    98,
+    89
+   ],
+   "share": 0.143,
+   "material": "stone",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    182,
+    97,
+    53
+   ],
+   "share": 0.143,
+   "material": "terracotta",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    136,
+    71,
+    40
+   ],
+   "share": 0.048,
+   "material": "terracotta",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    77,
+    46,
+    30
+   ],
+   "share": 0.0,
+   "material": "wood_dark",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "map/decorations/jungle_temple.png",
+ "depicts": "map icon: jungle temple mossy stone",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.455,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    135,
+    136
+   ],
+   "share": 0.182,
+   "material": "stone",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    84,
+    78
+   ],
+   "share": 0.136,
+   "material": "stone",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    125,
+    71
+   ],
+   "share": 0.136,
+   "material": "moss",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    166,
+    166,
+    166
+   ],
+   "share": 0.091,
+   "material": "stone",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    65,
+    68,
+    60
+   ],
+   "share": 0.0,
+   "material": "stone",
+   "thickness_cm": 0.02
+  }
+ ]
+}

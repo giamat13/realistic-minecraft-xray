@@ -1,0 +1,73 @@
+{
+ "path": "item/poisonous_potato.png",
+ "depicts": "poisonous potato item, tuber with green poisoned skin and brown spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    202,
+    155,
+    70
+   ],
+   "share": 0.278,
+   "material": "vegetable",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    93,
+    59
+   ],
+   "share": 0.222,
+   "material": "vegetable",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    129,
+    68,
+    1
+   ],
+   "share": 0.185,
+   "material": "vegetable",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    109,
+    132,
+    62
+   ],
+   "share": 0.157,
+   "material": "vegetable",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    176,
+    200,
+    58
+   ],
+   "share": 0.083,
+   "material": "vegetable",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    205,
+    227,
+    92
+   ],
+   "share": 0.074,
+   "material": "vegetable",
+   "thickness_cm": 0.5
+  }
+ ]
+}

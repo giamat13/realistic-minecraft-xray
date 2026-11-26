@@ -1,0 +1,73 @@
+{
+ "path": "painting/bust.png",
+ "depicts": "painting Bust: classical bust sculpture in ochre and gold tones on dark ground",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    35,
+    29,
+    20
+   ],
+   "share": 0.472,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    170,
+    141,
+    63
+   ],
+   "share": 0.171,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    99,
+    42
+   ],
+   "share": 0.162,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    226,
+    192,
+    148
+   ],
+   "share": 0.126,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    221,
+    66,
+    30
+   ],
+   "share": 0.038,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    221,
+    180,
+    19
+   ],
+   "share": 0.031,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

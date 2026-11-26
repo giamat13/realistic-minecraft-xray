@@ -1,0 +1,73 @@
+{
+ "path": "painting/void.png",
+ "depicts": "dark painting of a void with pale and orange glints",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    24,
+    19,
+    16
+   ],
+   "share": 0.485,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    109,
+    77,
+    66
+   ],
+   "share": 0.191,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    127,
+    118
+   ],
+   "share": 0.162,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    188,
+    118
+   ],
+   "share": 0.085,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    218,
+    205,
+    188
+   ],
+   "share": 0.07,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    92,
+    14
+   ],
+   "share": 0.006,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

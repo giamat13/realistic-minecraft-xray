@@ -1,0 +1,51 @@
+{
+ "path": "particle/soul_fire_flame.png",
+ "depicts": "cyan soul fire flame particle with white hot core (flame, air-like)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    245,
+    250
+   ],
+   "share": 0.455,
+   "material": "fire",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    1,
+    161,
+    166
+   ],
+   "share": 0.409,
+   "material": "fire",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.136,
+   "material": "plasma_particle",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    79,
+    212,
+    216
+   ],
+   "share": 0.0,
+   "material": "fire",
+   "thickness_cm": 0.05
+  }
+ ]
+}

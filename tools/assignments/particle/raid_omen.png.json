@@ -1,0 +1,29 @@
+{
+ "path": "particle/raid_omen.png",
+ "depicts": "red raid omen banner-skull particle (red dyed fabric)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    184,
+    45,
+    67
+   ],
+   "share": 0.5,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    222,
+    64,
+    88
+   ],
+   "share": 0.5,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

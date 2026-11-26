@@ -1,0 +1,73 @@
+{
+ "path": "item/vindicator_spawn_egg.png",
+ "depicts": "Vindicator spawn egg: dark gray egg with teal spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    55,
+    53
+   ],
+   "share": 0.261,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    76,
+    81,
+    80
+   ],
+   "share": 0.239,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    164,
+    163
+   ],
+   "share": 0.179,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    20,
+    38,
+    38
+   ],
+   "share": 0.149,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    114,
+    120,
+    120
+   ],
+   "share": 0.142,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    39,
+    94,
+    97
+   ],
+   "share": 0.03,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  }
+ ]
+}

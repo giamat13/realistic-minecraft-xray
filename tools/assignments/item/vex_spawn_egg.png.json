@@ -1,0 +1,73 @@
+{
+ "path": "item/vex_spawn_egg.png",
+ "depicts": "Vex spawn egg: pale blue-gray egg shell with lighter highlights",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    113,
+    132
+   ],
+   "share": 0.277,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    120,
+    144,
+    167
+   ],
+   "share": 0.216,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    61,
+    78,
+    95
+   ],
+   "share": 0.209,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    174,
+    197
+   ],
+   "share": 0.142,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    240,
+    246
+   ],
+   "share": 0.081,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    207,
+    230
+   ],
+   "share": 0.074,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  }
+ ]
+}

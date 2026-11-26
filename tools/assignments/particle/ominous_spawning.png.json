@@ -1,0 +1,18 @@
+{
+ "path": "particle/ominous_spawning.png",
+ "depicts": "single white spark dot of ominous spawning",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

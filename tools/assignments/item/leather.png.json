@@ -1,0 +1,73 @@
+{
+ "path": "item/leather.png",
+ "depicts": "leather armour piece item icon, dyed leather strip (leather chest/legs)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    92,
+    53
+   ],
+   "share": 0.242,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    158,
+    73,
+    42
+   ],
+   "share": 0.195,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    84,
+    39,
+    22
+   ],
+   "share": 0.188,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    61,
+    28,
+    16
+   ],
+   "share": 0.172,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    215,
+    107,
+    67
+   ],
+   "share": 0.117,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    137,
+    59,
+    37
+   ],
+   "share": 0.086,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

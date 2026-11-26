@@ -1,0 +1,62 @@
+{
+ "path": "trims/models/armor/wild_leggings.png",
+ "depicts": "armor trim pattern \"wild\" UV sheet for leggings, grey embossed metal",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.318,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.273,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.182,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.136,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    96,
+    96
+   ],
+   "share": 0.091,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/magma_cube_spawn_egg.png",
+ "depicts": "magma cube spawn egg item icon, egg shell with magma-coloured spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    0,
+    0
+   ],
+   "share": 0.443,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    16,
+    10
+   ],
+   "share": 0.345,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    182,
+    54,
+    6
+   ],
+   "share": 0.092,
+   "material": "magma_rock",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    105,
+    24
+   ],
+   "share": 0.052,
+   "material": "magma_rock",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    169,
+    66
+   ],
+   "share": 0.052,
+   "material": "magma_rock",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    250,
+    235,
+    114
+   ],
+   "share": 0.017,
+   "material": "magma_rock",
+   "thickness_cm": 3.0
+  }
+ ]
+}

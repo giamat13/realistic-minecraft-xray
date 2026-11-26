@@ -1,0 +1,18 @@
+{
+ "path": "item/light.png",
+ "depicts": "light block item icon, yellow emitted light rays (light-emitting sprite)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    251,
+    30
+   ],
+   "share": 1.0,
+   "material": "glowstone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

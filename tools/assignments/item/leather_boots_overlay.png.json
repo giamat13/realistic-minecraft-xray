@@ -1,0 +1,62 @@
+{
+ "path": "item/leather_boots_overlay.png",
+ "depicts": "dye/tint overlay of leather boots (dyed leather layer)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    21,
+    13
+   ],
+   "share": 0.421,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    114,
+    72,
+    46
+   ],
+   "share": 0.237,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    33,
+    21
+   ],
+   "share": 0.158,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    53,
+    33
+   ],
+   "share": 0.105,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    149,
+    94,
+    59
+   ],
+   "share": 0.079,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

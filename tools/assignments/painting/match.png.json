@@ -1,0 +1,73 @@
+{
+ "path": "painting/match.png",
+ "depicts": "painted match-flame still life on a dark wall with a wooden frame",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    63,
+    57
+   ],
+   "share": 0.457,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    167,
+    163
+   ],
+   "share": 0.155,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    170,
+    94,
+    44
+   ],
+   "share": 0.152,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    37,
+    28,
+    25
+   ],
+   "share": 0.107,
+   "material": "charcoal",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    215,
+    207,
+    205
+   ],
+   "share": 0.093,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    234,
+    168,
+    37
+   ],
+   "share": 0.035,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

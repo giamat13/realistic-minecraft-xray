@@ -1,0 +1,73 @@
+{
+ "path": "painting/pigscene.png",
+ "depicts": "painting of a pig scene in orange and pink tones",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    6,
+    4,
+    3
+   ],
+   "share": 0.353,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    43,
+    11
+   ],
+   "share": 0.28,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    100,
+    24
+   ],
+   "share": 0.114,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    232,
+    163,
+    101
+   ],
+   "share": 0.113,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    208,
+    196
+   ],
+   "share": 0.099,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    151,
+    85,
+    91
+   ],
+   "share": 0.042,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

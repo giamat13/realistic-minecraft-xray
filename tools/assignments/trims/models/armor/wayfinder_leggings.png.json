@@ -1,0 +1,51 @@
+{
+ "path": "trims/models/armor/wayfinder_leggings.png",
+ "depicts": "armor trim pattern \"wayfinder\" UV sheet for leggings, grey embossed metal",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.378,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.311,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.111,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

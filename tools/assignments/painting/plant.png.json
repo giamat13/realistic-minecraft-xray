@@ -1,0 +1,73 @@
+{
+ "path": "painting/plant.png",
+ "depicts": "small potted-plant painting with a wooden frame",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    203,
+    219,
+    202
+   ],
+   "share": 0.34,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    40,
+    15
+   ],
+   "share": 0.336,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    210,
+    189,
+    127
+   ],
+   "share": 0.164,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    65,
+    97,
+    44
+   ],
+   "share": 0.082,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    58,
+    7
+   ],
+   "share": 0.039,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    139,
+    134,
+    81
+   ],
+   "share": 0.039,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

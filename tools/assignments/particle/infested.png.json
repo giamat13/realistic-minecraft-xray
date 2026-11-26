@@ -1,0 +1,18 @@
+{
+ "path": "particle/infested.png",
+ "depicts": "silverfish-infested stone bug-like particle (grey stone)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 1.0,
+   "material": "stone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

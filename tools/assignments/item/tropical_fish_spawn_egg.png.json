@@ -1,0 +1,73 @@
+{
+ "path": "item/tropical_fish_spawn_egg.png",
+ "depicts": "Tropical fish spawn egg: egg shell with orange and blue patterns",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    84,
+    107
+   ],
+   "share": 0.382,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    144,
+    54,
+    0
+   ],
+   "share": 0.169,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    169,
+    163
+   ],
+   "share": 0.154,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    207,
+    92,
+    20
+   ],
+   "share": 0.14,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    241,
+    230,
+    230
+   ],
+   "share": 0.103,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    173,
+    221
+   ],
+   "share": 0.051,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  }
+ ]
+}

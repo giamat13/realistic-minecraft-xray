@@ -1,0 +1,73 @@
+{
+ "path": "painting/pool.png",
+ "depicts": "wide painting of a pool with blue water on a wooden frame",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    37,
+    19
+   ],
+   "share": 0.395,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    204,
+    214,
+    225
+   ],
+   "share": 0.164,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    196,
+    168,
+    134
+   ],
+   "share": 0.141,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    103,
+    86,
+    55
+   ],
+   "share": 0.125,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    134,
+    174,
+    217
+   ],
+   "share": 0.092,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    93,
+    115,
+    135
+   ],
+   "share": 0.084,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

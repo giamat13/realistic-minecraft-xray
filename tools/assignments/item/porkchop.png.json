@@ -1,0 +1,73 @@
+{
+ "path": "item/porkchop.png",
+ "depicts": "raw porkchop meat item, pink muscle with fat edge",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    126,
+    126
+   ],
+   "share": 0.239,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    181,
+    181
+   ],
+   "share": 0.214,
+   "material": "fat",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    239,
+    112,
+    112
+   ],
+   "share": 0.197,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    167,
+    83,
+    83
+   ],
+   "share": 0.145,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    133,
+    62,
+    62
+   ],
+   "share": 0.111,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    81,
+    38,
+    38
+   ],
+   "share": 0.094,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/abandoned_camp.png",
+ "depicts": "map icon: abandoned camp tent with wooden pole",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.625,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.188,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.125,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    90,
+    52
+   ],
+   "share": 0.062,
+   "material": "wood_oak",
+   "thickness_cm": 0.1
+  }
+ ]
+}

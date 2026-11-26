@@ -1,0 +1,73 @@
+{
+ "path": "particle/glow.png",
+ "depicts": "soft white light glow dot (emitted light)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    228,
+    228,
+    228
+   ],
+   "share": 0.235,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    239,
+    239,
+    239
+   ],
+   "share": 0.235,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    209,
+    209
+   ],
+   "share": 0.176,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    254,
+    254,
+    254
+   ],
+   "share": 0.176,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    191,
+    191
+   ],
+   "share": 0.118,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    175,
+    175,
+    175
+   ],
+   "share": 0.059,
+   "material": "fire",
+   "thickness_cm": 0.5
+  }
+ ]
+}

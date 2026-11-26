@@ -1,0 +1,73 @@
+{
+ "path": "item/tropical_fish.png",
+ "depicts": "Tropical fish item sprite: orange-and-white clownfish body with fins",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    241,
+    115,
+    40
+   ],
+   "share": 0.33,
+   "material": "muscle",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    184,
+    78,
+    43
+   ],
+   "share": 0.319,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    237,
+    182,
+    151
+   ],
+   "share": 0.138,
+   "material": "fat",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    46,
+    9
+   ],
+   "share": 0.138,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    251,
+    216,
+    194
+   ],
+   "share": 0.064,
+   "material": "fat",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.011,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

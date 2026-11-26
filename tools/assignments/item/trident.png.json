@@ -1,0 +1,73 @@
+{
+ "path": "item/trident.png",
+ "depicts": "Trident, a prismarine-shafted weapon with iron prongs",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    34,
+    82,
+    68
+   ],
+   "share": 0.333,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    126,
+    153,
+    147
+   ],
+   "share": 0.197,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.152,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.152,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    107,
+    107
+   ],
+   "share": 0.091,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    121,
+    105
+   ],
+   "share": 0.076,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  }
+ ]
+}

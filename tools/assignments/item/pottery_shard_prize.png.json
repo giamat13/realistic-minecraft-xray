@@ -1,0 +1,73 @@
+{
+ "path": "item/pottery_shard_prize.png",
+ "depicts": "fired clay pottery sherd with dark brown glaze pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    60,
+    50
+   ],
+   "share": 0.408,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    45,
+    37
+   ],
+   "share": 0.185,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.153,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    37,
+    29
+   ],
+   "share": 0.127,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.083,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.045,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  }
+ ]
+}

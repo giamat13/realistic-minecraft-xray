@@ -1,0 +1,73 @@
+{
+ "path": "item/tropical_fish_bucket.png",
+ "depicts": "Water bucket holding a tropical fish: iron bucket, water and orange fish",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    58,
+    51,
+    47
+   ],
+   "share": 0.289,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    205,
+    195,
+    189
+   ],
+   "share": 0.276,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    133,
+    133
+   ],
+   "share": 0.178,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    217,
+    97,
+    37
+   ],
+   "share": 0.151,
+   "material": "muscle",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    50,
+    94,
+    217
+   ],
+   "share": 0.086,
+   "material": "water",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.02,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

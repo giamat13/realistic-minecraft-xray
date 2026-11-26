@@ -1,0 +1,51 @@
+{
+ "path": "trims/entity/humanoid/tide.png",
+ "depicts": "Tide armor trim overlay pattern (grey metal trim)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.409,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.258,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.247,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.086,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

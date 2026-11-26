@@ -1,0 +1,73 @@
+{
+ "path": "item/piglin_banner_pattern.png",
+ "depicts": "banner pattern paper scroll item with piglin face motif, ink strokes on paper",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.335,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    137,
+    124,
+    88
+   ],
+   "share": 0.226,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    176,
+    165,
+    137
+   ],
+   "share": 0.152,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    210,
+    188
+   ],
+   "share": 0.14,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    102,
+    76,
+    63
+   ],
+   "share": 0.122,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    53,
+    35
+   ],
+   "share": 0.024,
+   "material": "ink",
+   "thickness_cm": 0.02
+  }
+ ]
+}

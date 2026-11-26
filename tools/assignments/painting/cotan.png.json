@@ -1,0 +1,73 @@
+{
+ "path": "painting/cotan.png",
+ "depicts": "painting Cotan: dark figure with grey tones and red and gold accents",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    31,
+    21,
+    12
+   ],
+   "share": 0.524,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    84,
+    70
+   ],
+   "share": 0.182,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    116,
+    104
+   ],
+   "share": 0.142,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    167,
+    155,
+    147
+   ],
+   "share": 0.09,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    125,
+    39,
+    7
+   ],
+   "share": 0.039,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    188,
+    153,
+    22
+   ],
+   "share": 0.022,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

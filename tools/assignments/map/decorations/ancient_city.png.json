@@ -1,0 +1,62 @@
+{
+ "path": "map/decorations/ancient_city.png",
+ "depicts": "map icon: ancient city deepslate structure, dark grey blocks",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.433,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    55,
+    55
+   ],
+   "share": 0.233,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    29,
+    29,
+    33
+   ],
+   "share": 0.167,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    88,
+    88
+   ],
+   "share": 0.133,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    71,
+    217,
+    248
+   ],
+   "share": 0.033,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

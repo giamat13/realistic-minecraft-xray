@@ -1,0 +1,62 @@
+{
+ "path": "item/turtle_helmet.png",
+ "depicts": "Turtle shell helmet: green scute shell with a rim",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    10,
+    49,
+    24
+   ],
+   "share": 0.309,
+   "material": "shell_chitin",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    27,
+    91,
+    49
+   ],
+   "share": 0.25,
+   "material": "shell_chitin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    191,
+    74
+   ],
+   "share": 0.206,
+   "material": "shell_chitin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    164,
+    66
+   ],
+   "share": 0.147,
+   "material": "shell_chitin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    48,
+    114,
+    63
+   ],
+   "share": 0.088,
+   "material": "shell_chitin",
+   "thickness_cm": 0.8
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "painting/unpacked.png",
+ "depicts": "painting of a blue sky and dark landscape, canvas with paint",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    126,
+    207,
+    254
+   ],
+   "share": 0.385,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    83,
+    43
+   ],
+   "share": 0.218,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    40,
+    53,
+    170
+   ],
+   "share": 0.17,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    23,
+    34,
+    10
+   ],
+   "share": 0.139,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    100,
+    112,
+    110
+   ],
+   "share": 0.053,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    170,
+    158,
+    122
+   ],
+   "share": 0.035,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

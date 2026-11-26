@@ -1,0 +1,73 @@
+{
+ "path": "painting/water.png",
+ "depicts": "painting of rippling blue water",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    161,
+    212,
+    247
+   ],
+   "share": 0.419,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    151,
+    183
+   ],
+   "share": 0.23,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    192,
+    226
+   ],
+   "share": 0.146,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    133,
+    167
+   ],
+   "share": 0.117,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    194,
+    234,
+    255
+   ],
+   "share": 0.061,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    219,
+    243,
+    255
+   ],
+   "share": 0.027,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

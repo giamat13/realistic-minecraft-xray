@@ -1,0 +1,73 @@
+{
+ "path": "item/turtle_spawn_egg.png",
+ "depicts": "Turtle spawn egg: green egg shell with darker mottled spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    25,
+    80,
+    43
+   ],
+   "share": 0.292,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    66,
+    173,
+    69
+   ],
+   "share": 0.273,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    127,
+    67
+   ],
+   "share": 0.26,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    191,
+    186,
+    131
+   ],
+   "share": 0.065,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    79,
+    81,
+    48
+   ],
+   "share": 0.065,
+   "material": "dye_pigment",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    159,
+    147,
+    108
+   ],
+   "share": 0.045,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

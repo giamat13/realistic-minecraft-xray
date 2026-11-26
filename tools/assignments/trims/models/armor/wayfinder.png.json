@@ -1,0 +1,51 @@
+{
+ "path": "trims/models/armor/wayfinder.png",
+ "depicts": "armor trim pattern \"wayfinder\" UV sheet for helmet/chest, grey embossed metal",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.392,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.265,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.176,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.167,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

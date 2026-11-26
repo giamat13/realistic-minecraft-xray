@@ -1,0 +1,73 @@
+{
+ "path": "trims/color_palettes/trim_palette.png",
+ "depicts": "grey trim base palette swatches (metal-like greys)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    112,
+    112,
+    112
+   ],
+   "share": 0.25,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    16,
+    16
+   ],
+   "share": 0.25,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.125,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.125,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.125,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.125,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

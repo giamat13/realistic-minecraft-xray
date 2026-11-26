@@ -1,0 +1,40 @@
+{
+ "path": "trims/entity/humanoid_leggings/dune.png",
+ "depicts": "Dune leggings armor trim overlay pattern (light grey metal trim)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.46,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.28,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.26,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

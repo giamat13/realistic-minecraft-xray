@@ -1,0 +1,40 @@
+{
+ "path": "map/decorations/player_off_limits.png",
+ "depicts": "map icon: white player marker with off-limits outline",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.667,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    240,
+    240,
+    240
+   ],
+   "share": 0.333,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    80,
+    80
+   ],
+   "share": 0.0,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

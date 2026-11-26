@@ -1,0 +1,73 @@
+{
+ "path": "item/plenty_pottery_sherd.png",
+ "depicts": "fired clay pottery sherd with brown glaze pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    56,
+    47
+   ],
+   "share": 0.312,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 1,
+   "rgb": [
+    77,
+    41,
+    33
+   ],
+   "share": 0.312,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 2,
+   "rgb": [
+    117,
+    66,
+    54
+   ],
+   "share": 0.153,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.146,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.057,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.019,
+   "material": "terracotta",
+   "thickness_cm": 0.6
+  }
+ ]
+}

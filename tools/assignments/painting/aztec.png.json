@@ -1,0 +1,73 @@
+{
+ "path": "painting/aztec.png",
+ "depicts": "painting Aztec: grey stone-block pattern with near-black outlines, wood frame",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    43,
+    21
+   ],
+   "share": 0.27,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    7,
+    10,
+    16
+   ],
+   "share": 0.227,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    129,
+    138,
+    146
+   ],
+   "share": 0.176,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    84,
+    93,
+    103
+   ],
+   "share": 0.141,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    173,
+    179,
+    185
+   ],
+   "share": 0.105,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    208,
+    212,
+    206
+   ],
+   "share": 0.082,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

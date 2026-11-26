@@ -1,0 +1,18 @@
+{
+ "path": "misc/pumpkinblur.png",
+ "depicts": "carved pumpkin screen overlay: blurred pumpkin flesh at edges",
+ "kind": "misc",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 1.0,
+   "material": "vegetable",
+   "thickness_cm": 0.5
+  }
+ ]
+}

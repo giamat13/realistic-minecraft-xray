@@ -1,0 +1,73 @@
+{
+ "path": "misc/powder_snow_outline.png",
+ "depicts": "powder snow frost overlay, ice crystals on screen edge",
+ "kind": "misc",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    106,
+    204,
+    230
+   ],
+   "share": 0.524,
+   "material": "ice",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    128,
+    229,
+    239
+   ],
+   "share": 0.254,
+   "material": "ice",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    247,
+    255
+   ],
+   "share": 0.164,
+   "material": "snow_powder",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    225,
+    252,
+    255
+   ],
+   "share": 0.05,
+   "material": "snow_powder",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    141,
+    228,
+    244
+   ],
+   "share": 0.005,
+   "material": "ice",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    119,
+    218,
+    236
+   ],
+   "share": 0.003,
+   "material": "ice",
+   "thickness_cm": 0.05
+  }
+ ]
+}

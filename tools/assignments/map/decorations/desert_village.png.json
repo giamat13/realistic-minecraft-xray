@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/desert_village.png",
+ "depicts": "map icon: desert village houses, sandstone-coloured",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.481,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    174,
+    149,
+    86
+   ],
+   "share": 0.296,
+   "material": "sandstone",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    186,
+    138
+   ],
+   "share": 0.222,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    85,
+    56
+   ],
+   "share": 0.0,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

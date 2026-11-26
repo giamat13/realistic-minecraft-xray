@@ -1,0 +1,73 @@
+{
+ "path": "trims/entity/humanoid/ward.png",
+ "depicts": "Ward armor trim overlay pattern (grey metal trim)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.28,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    96,
+    96
+   ],
+   "share": 0.178,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.178,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.159,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.112,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.093,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "painting/orb.png",
+ "depicts": "dark night painting of a glowing orb over a landscape, canvas with paint and wooden frame",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    15,
+    14,
+    17
+   ],
+   "share": 0.615,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    39,
+    45,
+    49
+   ],
+   "share": 0.214,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    84,
+    69
+   ],
+   "share": 0.094,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    144,
+    131,
+    95
+   ],
+   "share": 0.044,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    185,
+    139
+   ],
+   "share": 0.026,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    244,
+    232,
+    199
+   ],
+   "share": 0.007,
+   "material": "paper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

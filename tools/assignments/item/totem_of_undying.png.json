@@ -1,0 +1,73 @@
+{
+ "path": "item/totem_of_undying.png",
+ "depicts": "Totem of Undying, a gold totem with emerald gem inserts",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    77,
+    24
+   ],
+   "share": 0.444,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    204,
+    154,
+    82
+   ],
+   "share": 0.27,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    238,
+    225,
+    142
+   ],
+   "share": 0.19,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    251,
+    238
+   ],
+   "share": 0.048,
+   "material": "silver",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    65,
+    230,
+    127
+   ],
+   "share": 0.032,
+   "material": "emerald",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    187,
+    70
+   ],
+   "share": 0.016,
+   "material": "emerald",
+   "thickness_cm": 0.2
+  }
+ ]
+}

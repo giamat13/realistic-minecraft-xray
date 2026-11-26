@@ -1,0 +1,73 @@
+{
+ "path": "trims/entity/humanoid/silence.png",
+ "depicts": "Silence armor trim overlay pattern (dark-to-light grey metal trim)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    114,
+    114,
+    114
+   ],
+   "share": 0.357,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    64,
+    64
+   ],
+   "share": 0.276,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.175,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.099,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    17,
+    17,
+    17
+   ],
+   "share": 0.084,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.01,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

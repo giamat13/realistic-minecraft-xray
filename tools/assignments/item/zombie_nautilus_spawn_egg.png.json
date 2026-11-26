@@ -1,0 +1,73 @@
+{
+ "path": "item/zombie_nautilus_spawn_egg.png",
+ "depicts": "spawn egg item (fictional zombie nautilus variant), egg-shaped shell with mottled spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    87,
+    92,
+    89
+   ],
+   "share": 0.459,
+   "material": "calcite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    200,
+    201,
+    172
+   ],
+   "share": 0.222,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    39,
+    53,
+    42
+   ],
+   "share": 0.175,
+   "material": "calcite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    129,
+    162,
+    17
+   ],
+   "share": 0.057,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    46,
+    137,
+    22
+   ],
+   "share": 0.046,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    87,
+    176,
+    226
+   ],
+   "share": 0.041,
+   "material": "water",
+   "thickness_cm": 0.5
+  }
+ ]
+}

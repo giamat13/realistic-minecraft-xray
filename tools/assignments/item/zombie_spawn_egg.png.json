@@ -1,0 +1,73 @@
+{
+ "path": "item/zombie_spawn_egg.png",
+ "depicts": "spawn egg item, egg shape with zombie-green mottling and teal spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    111,
+    144,
+    92
+   ],
+   "share": 0.299,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    33,
+    46,
+    40
+   ],
+   "share": 0.239,
+   "material": "calcite",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    68,
+    98,
+    43
+   ],
+   "share": 0.164,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    120,
+    120
+   ],
+   "share": 0.112,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    55,
+    59,
+    142
+   ],
+   "share": 0.104,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    175,
+    175
+   ],
+   "share": 0.082,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/trial_key.png",
+ "depicts": "Trial key, a copper key with dark steel bit",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    46,
+    36
+   ],
+   "share": 0.402,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    87,
+    93,
+    85
+   ],
+   "share": 0.289,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    162,
+    80,
+    53
+   ],
+   "share": 0.124,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    123,
+    91
+   ],
+   "share": 0.072,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    253,
+    153,
+    114
+   ],
+   "share": 0.062,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    147,
+    138
+   ],
+   "share": 0.052,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

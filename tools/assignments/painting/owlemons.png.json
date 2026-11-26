@@ -1,0 +1,73 @@
+{
+ "path": "painting/owlemons.png",
+ "depicts": "painting of an owl among lemons, paint on canvas",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    27,
+    21,
+    23
+   ],
+   "share": 0.47,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    44,
+    45
+   ],
+   "share": 0.306,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    184,
+    179,
+    179
+   ],
+   "share": 0.079,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    94,
+    82
+   ],
+   "share": 0.072,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    142,
+    140,
+    142
+   ],
+   "share": 0.049,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    212,
+    194,
+    103
+   ],
+   "share": 0.024,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

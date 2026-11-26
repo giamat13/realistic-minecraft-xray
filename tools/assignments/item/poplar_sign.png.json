@@ -1,0 +1,73 @@
+{
+ "path": "item/poplar_sign.png",
+ "depicts": "poplar sign item, pale softwood board with dark text and wooden stick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    156,
+    144,
+    134
+   ],
+   "share": 0.364,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    109,
+    107
+   ],
+   "share": 0.318,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    92,
+    79,
+    76
+   ],
+   "share": 0.106,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    168,
+    157,
+    142
+   ],
+   "share": 0.098,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    84,
+    65,
+    43
+   ],
+   "share": 0.068,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    56,
+    44,
+    31
+   ],
+   "share": 0.045,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/red_x.png",
+ "depicts": "map icon: red X target marker",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.583,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    179,
+    25,
+    20
+   ],
+   "share": 0.271,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    17,
+    9
+   ],
+   "share": 0.146,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    86,
+    9,
+    7
+   ],
+   "share": 0.0,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

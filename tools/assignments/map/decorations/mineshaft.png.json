@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/mineshaft.png",
+ "depicts": "map icon: mineshaft wooden supports",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.625,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    82,
+    46
+   ],
+   "share": 0.167,
+   "material": "wood_oak",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    136,
+    135,
+    136
+   ],
+   "share": 0.125,
+   "material": "stone",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.083,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

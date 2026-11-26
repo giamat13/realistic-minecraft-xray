@@ -1,0 +1,62 @@
+{
+ "path": "item/prismarine_crystals.png",
+ "depicts": "prismarine crystal shards item, green-teal crystalline mineral",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    100,
+    92
+   ],
+   "share": 0.266,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    114,
+    164,
+    152
+   ],
+   "share": 0.223,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    223,
+    233,
+    220
+   ],
+   "share": 0.202,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    216,
+    202
+   ],
+   "share": 0.181,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    145,
+    197,
+    183
+   ],
+   "share": 0.128,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  }
+ ]
+}

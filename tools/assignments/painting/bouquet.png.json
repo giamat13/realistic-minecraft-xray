@@ -1,0 +1,73 @@
+{
+ "path": "painting/bouquet.png",
+ "depicts": "painting Bouquet: flower arrangement against dark background",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    24,
+    19
+   ],
+   "share": 0.53,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    65,
+    51
+   ],
+   "share": 0.207,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    135,
+    120,
+    102
+   ],
+   "share": 0.172,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    185,
+    175,
+    161
+   ],
+   "share": 0.046,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    45,
+    94,
+    98
+   ],
+   "share": 0.039,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    99,
+    32
+   ],
+   "share": 0.005,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

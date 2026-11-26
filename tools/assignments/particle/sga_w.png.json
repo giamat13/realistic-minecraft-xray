@@ -1,0 +1,18 @@
+{
+ "path": "particle/sga_w.png",
+ "depicts": "white 8x8 pixel-font glyph particle (sga symbol)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

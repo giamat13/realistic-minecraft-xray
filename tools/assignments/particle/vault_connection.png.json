@@ -1,0 +1,18 @@
+{
+ "path": "particle/vault_connection.png",
+ "depicts": "glowing orange spark particle from a vault connection (energy glow, air-like)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    106,
+    0
+   ],
+   "share": 1.0,
+   "material": "fire",
+   "thickness_cm": 0.05
+  }
+ ]
+}

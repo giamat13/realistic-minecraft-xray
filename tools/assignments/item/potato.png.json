@@ -1,0 +1,73 @@
+{
+ "path": "item/potato.png",
+ "depicts": "potato tuber item, yellow starch flesh with brown skin spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    181,
+    136,
+    57
+   ],
+   "share": 0.326,
+   "material": "vegetable",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    221,
+    174,
+    86
+   ],
+   "share": 0.292,
+   "material": "starch",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    109,
+    55,
+    1
+   ],
+   "share": 0.169,
+   "material": "vegetable",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    154,
+    85,
+    0
+   ],
+   "share": 0.146,
+   "material": "vegetable",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    248,
+    208,
+    134
+   ],
+   "share": 0.045,
+   "material": "starch",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    105,
+    62
+   ],
+   "share": 0.022,
+   "material": "vegetable",
+   "thickness_cm": 0.2
+  }
+ ]
+}

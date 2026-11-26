@@ -1,0 +1,73 @@
+{
+ "path": "item/pink_petals.png",
+ "depicts": "pink flower petal stack item with green stem and leaf",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    248,
+    180,
+    219
+   ],
+   "share": 0.342,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    248,
+    211,
+    235
+   ],
+   "share": 0.278,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    165,
+    34
+   ],
+   "share": 0.165,
+   "material": "foliage",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    245,
+    157,
+    209
+   ],
+   "share": 0.127,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    235,
+    103,
+    168
+   ],
+   "share": 0.089,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    228,
+    177,
+    187
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  }
+ ]
+}

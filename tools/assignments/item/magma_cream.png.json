@@ -1,0 +1,73 @@
+{
+ "path": "item/magma_cream.png",
+ "depicts": "magma cream item icon, slimy yellow-orange magma cream ball",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    220,
+    78
+   ],
+   "share": 0.33,
+   "material": "slime",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    24,
+    26
+   ],
+   "share": 0.17,
+   "material": "magma_rock",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    61,
+    35
+   ],
+   "share": 0.17,
+   "material": "magma_rock",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    117,
+    41
+   ],
+   "share": 0.152,
+   "material": "slime",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    153,
+    41
+   ],
+   "share": 0.143,
+   "material": "slime",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    254,
+    254
+   ],
+   "share": 0.036,
+   "material": "slime",
+   "thickness_cm": 3.0
+  }
+ ]
+}

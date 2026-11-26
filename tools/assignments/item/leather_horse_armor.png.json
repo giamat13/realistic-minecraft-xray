@@ -1,0 +1,62 @@
+{
+ "path": "item/leather_horse_armor.png",
+ "depicts": "leather horse armour item icon (caparison of leather)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    154,
+    154,
+    154
+   ],
+   "share": 0.364,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    206,
+    206,
+    206
+   ],
+   "share": 0.273,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    197,
+    197
+   ],
+   "share": 0.205,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    233,
+    233,
+    233
+   ],
+   "share": 0.091,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.068,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}

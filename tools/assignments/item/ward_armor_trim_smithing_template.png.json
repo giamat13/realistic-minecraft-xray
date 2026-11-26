@@ -1,0 +1,73 @@
+{
+ "path": "item/ward_armor_trim_smithing_template.png",
+ "depicts": "Ward armour trim smithing template: gray iron plate with cyan ward emblem",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    79,
+    80
+   ],
+   "share": 0.588,
+   "material": "iron",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    44,
+    44
+   ],
+   "share": 0.23,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    32,
+    154,
+    184
+   ],
+   "share": 0.067,
+   "material": "diamond",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    75,
+    201,
+    201
+   ],
+   "share": 0.067,
+   "material": "diamond",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    7,
+    121,
+    149
+   ],
+   "share": 0.042,
+   "material": "diamond",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    131,
+    248,
+    248
+   ],
+   "share": 0.006,
+   "material": "diamond",
+   "thickness_cm": 0.1
+  }
+ ]
+}

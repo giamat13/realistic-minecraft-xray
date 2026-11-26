@@ -1,0 +1,73 @@
+{
+ "path": "item/lingering_potion.png",
+ "depicts": "lingering potion bottle (glass with blue potion liquid, cork)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    93,
+    143,
+    194
+   ],
+   "share": 0.4,
+   "material": "potion_liquid",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    179,
+    207,
+    236
+   ],
+   "share": 0.233,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    212,
+    229,
+    247
+   ],
+   "share": 0.133,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    173,
+    208
+   ],
+   "share": 0.1,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    212,
+    109,
+    73
+   ],
+   "share": 0.067,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    151,
+    55,
+    22
+   ],
+   "share": 0.067,
+   "material": "wood_soft",
+   "thickness_cm": 0.5
+  }
+ ]
+}

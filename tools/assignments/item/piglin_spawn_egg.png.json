@@ -1,0 +1,73 @@
+{
+ "path": "item/piglin_spawn_egg.png",
+ "depicts": "spawn egg item, egg shell with dark spots and pale tusks",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    150,
+    92,
+    63
+   ],
+   "share": 0.442,
+   "material": "egg",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 1,
+   "rgb": [
+    218,
+    152,
+    117
+   ],
+   "share": 0.314,
+   "material": "egg",
+   "thickness_cm": 0.15
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    41,
+    22
+   ],
+   "share": 0.192,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    238,
+    230,
+    157
+   ],
+   "share": 0.038,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    245,
+    218,
+    42
+   ],
+   "share": 0.006,
+   "material": "gold",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    222,
+    138,
+    28
+   ],
+   "share": 0.006,
+   "material": "gold",
+   "thickness_cm": 0.02
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "map/decorations/snowy_village.png",
+ "depicts": "map icon: snowy village white snow roofs, ice and wood",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.455,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    247,
+    239
+   ],
+   "share": 0.227,
+   "material": "snow_packed",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    196,
+    237,
+    238
+   ],
+   "share": 0.227,
+   "material": "ice",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    110,
+    82,
+    49
+   ],
+   "share": 0.091,
+   "material": "wood_oak",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    118,
+    113
+   ],
+   "share": 0.0,
+   "material": "stone",
+   "thickness_cm": 0.02
+  }
+ ]
+}

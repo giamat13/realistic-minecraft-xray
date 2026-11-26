@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/frame.png",
+ "depicts": "map icon: green map frame marker",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.519,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    232,
+    69
+   ],
+   "share": 0.296,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    188,
+    56
+   ],
+   "share": 0.185,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    103,
+    31
+   ],
+   "share": 0.0,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

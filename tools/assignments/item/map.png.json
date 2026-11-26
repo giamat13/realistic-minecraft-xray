@@ -1,0 +1,73 @@
+{
+ "path": "item/map.png",
+ "depicts": "map item icon, paper map with parchment and drawn lines",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    240,
+    209
+   ],
+   "share": 0.373,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    239,
+    222,
+    188
+   ],
+   "share": 0.32,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    143,
+    122,
+    89
+   ],
+   "share": 0.158,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    115,
+    96,
+    65
+   ],
+   "share": 0.088,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    212,
+    192,
+    157
+   ],
+   "share": 0.057,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    186,
+    165,
+    127
+   ],
+   "share": 0.004,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

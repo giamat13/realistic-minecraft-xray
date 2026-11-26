@@ -1,0 +1,73 @@
+{
+ "path": "models/armor/turtle_layer_1.png",
+ "depicts": "turtle-shell armour layer: green keratin scute plates with brown trim",
+ "kind": "models",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    126,
+    66
+   ],
+   "share": 0.528,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    63,
+    164,
+    66
+   ],
+   "share": 0.167,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    34,
+    97,
+    50
+   ],
+   "share": 0.148,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    191,
+    74
+   ],
+   "share": 0.12,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    94,
+    48,
+    18
+   ],
+   "share": 0.019,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    109,
+    63,
+    33
+   ],
+   "share": 0.019,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

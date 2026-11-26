@@ -1,0 +1,73 @@
+{
+ "path": "painting/cavebird.png",
+ "depicts": "painting Cavebird: bird and cave-wall scene in grey-brown earth tones",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    60,
+    46
+   ],
+   "share": 0.262,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    36,
+    23,
+    9
+   ],
+   "share": 0.258,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    113,
+    95,
+    64
+   ],
+   "share": 0.204,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    148,
+    137,
+    119
+   ],
+   "share": 0.144,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    202,
+    178,
+    157
+   ],
+   "share": 0.123,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    200,
+    200,
+    49
+   ],
+   "share": 0.01,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

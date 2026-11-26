@@ -1,0 +1,73 @@
+{
+ "path": "item/poplar_chest_boat.png",
+ "depicts": "poplar chest boat item, pale softwood hull with brown wooden chest",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    63,
+    53,
+    48
+   ],
+   "share": 0.27,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    143,
+    129,
+    122
+   ],
+   "share": 0.264,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    155,
+    109,
+    34
+   ],
+   "share": 0.161,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    77,
+    65
+   ],
+   "share": 0.138,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    47,
+    34,
+    11
+   ],
+   "share": 0.109,
+   "material": "wood_dark",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    189,
+    179,
+    162
+   ],
+   "share": 0.057,
+   "material": "wood_soft",
+   "thickness_cm": 1.0
+  }
+ ]
+}

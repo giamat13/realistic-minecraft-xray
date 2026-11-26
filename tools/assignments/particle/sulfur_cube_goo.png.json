@@ -1,0 +1,73 @@
+{
+ "path": "particle/sulfur_cube_goo.png",
+ "depicts": "yellow sulfur cube goo blob with pale highlight (sulfur-coated gel cube)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    182,
+    145,
+    114
+   ],
+   "share": 0.286,
+   "material": "sulfur",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    212,
+    212,
+    144
+   ],
+   "share": 0.25,
+   "material": "sulfur",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    236,
+    243,
+    144
+   ],
+   "share": 0.196,
+   "material": "sulfur",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    247,
+    250,
+    205
+   ],
+   "share": 0.134,
+   "material": "sulfur",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    210,
+    192,
+    140
+   ],
+   "share": 0.098,
+   "material": "sulfur",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    251
+   ],
+   "share": 0.036,
+   "material": "sulfur",
+   "thickness_cm": 0.1
+  }
+ ]
+}

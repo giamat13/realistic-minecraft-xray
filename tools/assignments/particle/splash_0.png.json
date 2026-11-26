@@ -1,0 +1,40 @@
+{
+ "path": "particle/splash_0.png",
+ "depicts": "blue water splash droplet particle",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    24,
+    72,
+    204
+   ],
+   "share": 0.333,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    71,
+    106,
+    204
+   ],
+   "share": 0.333,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    54,
+    204
+   ],
+   "share": 0.333,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

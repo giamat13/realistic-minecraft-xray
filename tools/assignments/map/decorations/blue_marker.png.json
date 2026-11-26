@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/blue_marker.png",
+ "depicts": "map icon: blue map marker pin",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.519,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    121,
+    232
+   ],
+   "share": 0.296,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    98,
+    188
+   ],
+   "share": 0.185,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    54,
+    103
+   ],
+   "share": 0.0,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "painting/passage.png",
+ "depicts": "wide painting of a rocky passage with pale stone walls and a yellow glow",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    35,
+    28,
+    22
+   ],
+   "share": 0.293,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    167,
+    181,
+    182
+   ],
+   "share": 0.197,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    137,
+    140
+   ],
+   "share": 0.179,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    208,
+    213,
+    210
+   ],
+   "share": 0.174,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    83,
+    91,
+    92
+   ],
+   "share": 0.15,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    187,
+    144,
+    71
+   ],
+   "share": 0.005,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

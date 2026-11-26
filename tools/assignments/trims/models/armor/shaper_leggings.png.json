@@ -1,0 +1,51 @@
+{
+ "path": "trims/models/armor/shaper_leggings.png",
+ "depicts": "armor trim pattern \"shaper\" UV sheet for leggings, grey embossed metal",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.35,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.325,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.275,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.05,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

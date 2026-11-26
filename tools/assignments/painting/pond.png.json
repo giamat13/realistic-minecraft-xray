@@ -1,0 +1,73 @@
+{
+ "path": "painting/pond.png",
+ "depicts": "tall painting of a pond with trees and pale sky, wooden frame",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    208,
+    178
+   ],
+   "share": 0.403,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    117,
+    128
+   ],
+   "share": 0.139,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    91,
+    77,
+    75
+   ],
+   "share": 0.135,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    165,
+    143
+   ],
+   "share": 0.129,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    44,
+    26
+   ],
+   "share": 0.118,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    145,
+    116,
+    89
+   ],
+   "share": 0.075,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

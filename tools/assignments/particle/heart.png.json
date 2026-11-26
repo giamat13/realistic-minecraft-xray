@@ -1,0 +1,62 @@
+{
+ "path": "particle/heart.png",
+ "depicts": "red HUD heart icon (blood-filled heart tissue)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    158,
+    26,
+    26
+   ],
+   "share": 0.325,
+   "material": "blood",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    137,
+    20,
+    20
+   ],
+   "share": 0.3,
+   "material": "blood",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    211,
+    42,
+    42
+   ],
+   "share": 0.3,
+   "material": "blood",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    240,
+    108,
+    108
+   ],
+   "share": 0.05,
+   "material": "blood",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    132,
+    132
+   ],
+   "share": 0.025,
+   "material": "blood",
+   "thickness_cm": 0.2
+  }
+ ]
+}

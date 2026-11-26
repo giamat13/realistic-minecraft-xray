@@ -1,0 +1,40 @@
+{
+ "path": "trims/entity/humanoid_leggings/flow.png",
+ "depicts": "Flow leggings armor trim overlay pattern (light grey metal trim)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.463,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.333,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.204,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

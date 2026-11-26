@@ -1,0 +1,73 @@
+{
+ "path": "item/potion_overlay.png",
+ "depicts": "potion bottle overlay, grey glass sheen highlights on glass",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    153,
+    153
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    197,
+    197,
+    197
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.219,
+   "material": "glass",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.094,
+   "material": "glass",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    166,
+    166,
+    166
+   ],
+   "share": 0.062,
+   "material": "glass",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 0.05
+  }
+ ]
+}

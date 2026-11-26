@@ -1,0 +1,73 @@
+{
+ "path": "item/powder_snow_bucket.png",
+ "depicts": "iron bucket filled with powder snow, metal rim and white snow",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    208,
+    231,
+    231
+   ],
+   "share": 0.28,
+   "material": "snow_powder",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.26,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    161,
+    161,
+    161
+   ],
+   "share": 0.2,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    113,
+    195,
+    210
+   ],
+   "share": 0.093,
+   "material": "ice",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    255,
+    255
+   ],
+   "share": 0.087,
+   "material": "snow_powder",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    114,
+    114,
+    114
+   ],
+   "share": 0.08,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

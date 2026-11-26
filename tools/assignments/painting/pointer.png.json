@@ -1,0 +1,73 @@
+{
+ "path": "painting/pointer.png",
+ "depicts": "painting of a pointer scene with pale background and dark wood-tone shapes",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    212,
+    206
+   ],
+   "share": 0.311,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    58,
+    51
+   ],
+   "share": 0.262,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    149,
+    142,
+    140
+   ],
+   "share": 0.176,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    30,
+    22,
+    13
+   ],
+   "share": 0.112,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    186,
+    72,
+    13
+   ],
+   "share": 0.077,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    147,
+    92
+   ],
+   "share": 0.062,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

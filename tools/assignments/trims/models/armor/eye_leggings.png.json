@@ -1,0 +1,51 @@
+{
+ "path": "trims/models/armor/eye_leggings.png",
+ "depicts": "Eye armour trim pattern overlay on leggings model (embossed grey metal template)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.458,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.271,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.188,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.083,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

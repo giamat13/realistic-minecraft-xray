@@ -1,0 +1,51 @@
+{
+ "path": "map/decorations/player_off_map.png",
+ "depicts": "map icon: white player marker clipped off map edge",
+ "kind": "map",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.588,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    232,
+    232,
+    232
+   ],
+   "share": 0.235,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.176,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    88,
+    88
+   ],
+   "share": 0.0,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}
