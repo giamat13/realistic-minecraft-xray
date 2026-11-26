@@ -1,0 +1,73 @@
+{
+ "path": "painting/finding.png",
+ "depicts": "painting Finding: dark brown interior scene with grey-brown figures and pale highlights",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    30,
+    19
+   ],
+   "share": 0.395,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    84,
+    60,
+    44
+   ],
+   "share": 0.282,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    169,
+    154
+   ],
+   "share": 0.097,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    143,
+    137
+   ],
+   "share": 0.091,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    119,
+    100,
+    87
+   ],
+   "share": 0.086,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    210,
+    202,
+    191
+   ],
+   "share": 0.049,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

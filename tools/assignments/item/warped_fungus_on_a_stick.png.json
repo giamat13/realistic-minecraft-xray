@@ -1,0 +1,73 @@
+{
+ "path": "item/warped_fungus_on_a_stick.png",
+ "depicts": "Warped fungus on a stick: teal warped fungus cap on a wooden stick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    44,
+    22
+   ],
+   "share": 0.381,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    82,
+    65
+   ],
+   "share": 0.345,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    19,
+    134,
+    114
+   ],
+   "share": 0.143,
+   "material": "fungus",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    154,
+    153,
+    153
+   ],
+   "share": 0.071,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    101,
+    0
+   ],
+   "share": 0.048,
+   "material": "fungus",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    164,
+    104
+   ],
+   "share": 0.012,
+   "material": "fungus",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "trims/color_palettes/gold_darker.png",
+ "depicts": "darker copper trim colour palette swatches (same structure as trims/color_palettes/copper_darker.png; variant)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    120,
+    49,
+    2
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    31,
+    2
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    194,
+    156,
+    42
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    71,
+    12
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    163,
+    95,
+    20
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    186,
+    131,
+    39
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  }
+ ]
+}

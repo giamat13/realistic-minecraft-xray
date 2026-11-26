@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/haste.png",
+ "depicts": "golden pickaxe: gold head with wooden handle",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    40,
+    23,
+    14
+   ],
+   "share": 0.358,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    114,
+    47,
+    11
+   ],
+   "share": 0.228,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    228,
+    166,
+    20
+   ],
+   "share": 0.146,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    100,
+    17
+   ],
+   "share": 0.146,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    248,
+    245,
+    105
+   ],
+   "share": 0.098,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    63,
+    63,
+    77
+   ],
+   "share": 0.024,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

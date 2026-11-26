@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/poison.png",
+ "depicts": "spider eye: green toxic eye with dark outline and red-green liquid",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    118,
+    219,
+    76
+   ],
+   "share": 0.25,
+   "material": "potion_liquid",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    54,
+    75,
+    21
+   ],
+   "share": 0.23,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    111,
+    26
+   ],
+   "share": 0.21,
+   "material": "potion_liquid",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    100,
+    166,
+    58
+   ],
+   "share": 0.16,
+   "material": "potion_liquid",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    79,
+    140,
+    41
+   ],
+   "share": 0.13,
+   "material": "potion_liquid",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    191,
+    233,
+    112
+   ],
+   "share": 0.02,
+   "material": "potion_liquid",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/tipped_arrow_head.png",
+ "depicts": "tipped arrow head: iron tip with glass potion-coated edge",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    68,
+    68
+   ],
+   "share": 0.28,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    246,
+    246,
+    246
+   ],
+   "share": 0.28,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.16,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "share": 0.16,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.08,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    171,
+    171,
+    171
+   ],
+   "share": 0.04,
+   "material": "glass",
+   "thickness_cm": 0.3
+  }
+ ]
+}

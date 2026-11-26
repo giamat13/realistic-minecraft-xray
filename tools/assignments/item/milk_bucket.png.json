@@ -1,0 +1,73 @@
+{
+ "path": "item/milk_bucket.png",
+ "depicts": "milk bucket item icon, iron bucket filled with white milk (milk approximated as water-based emulsion)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.329,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    205,
+    213,
+    215
+   ],
+   "share": 0.164,
+   "material": "water",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    247,
+    252,
+    253
+   ],
+   "share": 0.144,
+   "material": "water",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.123,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    168,
+    168
+   ],
+   "share": 0.123,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    115,
+    115
+   ],
+   "share": 0.116,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

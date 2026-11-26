@@ -1,0 +1,40 @@
+{
+ "path": "particle/bubble.png",
+ "depicts": "underwater bubble particle, blue-white film",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    181,
+    255
+   ],
+   "share": 0.474,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    119,
+    217,
+    255
+   ],
+   "share": 0.368,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    255,
+    255
+   ],
+   "share": 0.158,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "palettes/trim/resin.png",
+ "depicts": "armor trim palette swatch in amethyst purple, a faceted gem colour (same structure as palettes/trim/amethyst.png; variant)",
+ "kind": "palettes",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    228,
+    104,
+    18
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    146,
+    50
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    128,
+    42,
+    26
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    195,
+    84
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    73,
+    10
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    165,
+    59,
+    17
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  }
+ ]
+}

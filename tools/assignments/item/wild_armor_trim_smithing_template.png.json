@@ -1,0 +1,73 @@
+{
+ "path": "item/wild_armor_trim_smithing_template.png",
+ "depicts": "Wild armour trim smithing template: olive-green bronze plate with cyan emblem",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    78,
+    59
+   ],
+   "share": 0.359,
+   "material": "bronze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    109,
+    118,
+    93
+   ],
+   "share": 0.282,
+   "material": "bronze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    139,
+    140
+   ],
+   "share": 0.235,
+   "material": "iron",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    154,
+    184
+   ],
+   "share": 0.047,
+   "material": "diamond",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    75,
+    201,
+    201
+   ],
+   "share": 0.047,
+   "material": "diamond",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    131,
+    248,
+    248
+   ],
+   "share": 0.029,
+   "material": "diamond",
+   "thickness_cm": 0.1
+  }
+ ]
+}

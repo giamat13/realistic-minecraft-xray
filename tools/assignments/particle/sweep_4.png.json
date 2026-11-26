@@ -1,0 +1,29 @@
+{
+ "path": "particle/sweep_4.png",
+ "depicts": "white/grey attack-sweep arc swoosh particle (bright glint) (same structure as particle/sweep_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.785,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    232,
+    232,
+    232
+   ],
+   "share": 0.215,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

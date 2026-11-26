@@ -1,0 +1,73 @@
+{
+ "path": "item/warm_ocean_ruins_map.png",
+ "depicts": "Warm ocean ruins map: parchment map with ink outlines",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    124,
+    86
+   ],
+   "share": 0.281,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    221,
+    201,
+    162
+   ],
+   "share": 0.272,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    249,
+    234,
+    202
+   ],
+   "share": 0.25,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.105,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    96,
+    65
+   ],
+   "share": 0.088,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    186,
+    165,
+    127
+   ],
+   "share": 0.004,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/levitation.png",
+ "depicts": "shulker shell dome: chitinous shell with pale highlight and grey base",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    200,
+    232,
+    243
+   ],
+   "share": 0.331,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    249,
+    245
+   ],
+   "share": 0.234,
+   "material": "calcite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    86,
+    86
+   ],
+   "share": 0.2,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    112,
+    158,
+    183
+   ],
+   "share": 0.117,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    185,
+    222
+   ],
+   "share": 0.117,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    170,
+    193,
+    203
+   ],
+   "share": 0.0,
+   "material": "calcite",
+   "thickness_cm": 0.2
+  }
+ ]
+}

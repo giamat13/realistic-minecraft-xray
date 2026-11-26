@@ -1,0 +1,73 @@
+{
+ "path": "particle/angry.png",
+ "depicts": "angry villager particle puff: grey cloud with yellow and orange spark marks",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.268,
+   "material": "smoke",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    174,
+    174,
+    174
+   ],
+   "share": 0.244,
+   "material": "smoke",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    118,
+    118
+   ],
+   "share": 0.195,
+   "material": "smoke",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    245,
+    198
+   ],
+   "share": 0.098,
+   "material": "fire",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    216,
+    0
+   ],
+   "share": 0.098,
+   "material": "fire",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    106,
+    0
+   ],
+   "share": 0.098,
+   "material": "fire",
+   "thickness_cm": 0.05
+  }
+ ]
+}

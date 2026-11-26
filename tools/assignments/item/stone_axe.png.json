@@ -1,0 +1,73 @@
+{
+ "path": "item/stone_axe.png",
+ "depicts": "stone axe: cobblestone head on wooden handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    28,
+    16
+   ],
+   "share": 0.283,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    86,
+    75,
+    55
+   ],
+   "share": 0.2,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    124,
+    124
+   ],
+   "share": 0.2,
+   "material": "stone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    54,
+    21
+   ],
+   "share": 0.15,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    149,
+    149,
+    149
+   ],
+   "share": 0.117,
+   "material": "stone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.05,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

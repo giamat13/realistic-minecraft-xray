@@ -1,0 +1,73 @@
+{
+ "path": "item/resin_brick.png",
+ "depicts": "resin brick: orange resin block fragment",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    61,
+    5
+   ],
+   "share": 0.348,
+   "material": "resin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    85,
+    4
+   ],
+   "share": 0.185,
+   "material": "resin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    243,
+    121,
+    27
+   ],
+   "share": 0.163,
+   "material": "resin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    112,
+    34,
+    20
+   ],
+   "share": 0.148,
+   "material": "resin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    250,
+    179,
+    38
+   ],
+   "share": 0.104,
+   "material": "resin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    219,
+    177
+   ],
+   "share": 0.052,
+   "material": "resin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

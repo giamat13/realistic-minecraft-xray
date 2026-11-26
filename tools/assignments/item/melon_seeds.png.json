@@ -1,0 +1,40 @@
+{
+ "path": "item/melon_seeds.png",
+ "depicts": "melon seeds item icon, small dry oval seeds",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    36,
+    29,
+    8
+   ],
+   "share": 0.657,
+   "material": "seed_grain",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    85,
+    53
+   ],
+   "share": 0.343,
+   "material": "seed_grain",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    48,
+    24
+   ],
+   "share": 0.0,
+   "material": "seed_grain",
+   "thickness_cm": 0.8
+  }
+ ]
+}

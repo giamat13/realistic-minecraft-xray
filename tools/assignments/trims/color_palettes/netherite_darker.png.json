@@ -1,0 +1,73 @@
+{
+ "path": "trims/color_palettes/netherite_darker.png",
+ "depicts": "darker copper trim colour palette swatches (same structure as trims/color_palettes/copper_darker.png; variant)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    34,
+    24,
+    24
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    38,
+    39
+   ],
+   "share": 0.25,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    11,
+    9,
+    9
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    20,
+    15,
+    15
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    40,
+    29,
+    29
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    29,
+    19,
+    19
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  }
+ ]
+}

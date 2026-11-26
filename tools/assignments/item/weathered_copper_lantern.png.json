@@ -1,0 +1,73 @@
+{
+ "path": "item/weathered_copper_lantern.png",
+ "depicts": "Weathered copper lantern: oxidised copper frame with glowing glass panes",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    103,
+    89
+   ],
+   "share": 0.5,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    107,
+    149,
+    93
+   ],
+   "share": 0.268,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    235,
+    153
+   ],
+   "share": 0.143,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.036,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    220,
+    248,
+    220
+   ],
+   "share": 0.036,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    141,
+    135,
+    112
+   ],
+   "share": 0.018,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/glowing.png",
+ "depicts": "glowing effect: pale glowing eye/ghost outline",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.289,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    210,
+    210,
+    210
+   ],
+   "share": 0.211,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    249,
+    251,
+    203
+   ],
+   "share": 0.211,
+   "material": "glowstone",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    183,
+    183,
+    183
+   ],
+   "share": 0.18,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.078,
+   "material": "graphite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    136,
+    136,
+    136
+   ],
+   "share": 0.031,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

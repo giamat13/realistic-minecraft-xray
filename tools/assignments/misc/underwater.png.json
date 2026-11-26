@@ -1,0 +1,40 @@
+{
+ "path": "misc/underwater.png",
+ "depicts": "underwater screen overlay: blue water tint",
+ "kind": "misc",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    31,
+    85,
+    255
+   ],
+   "share": 0.422,
+   "material": "water",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    92,
+    255
+   ],
+   "share": 0.293,
+   "material": "water",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    61,
+    109,
+    255
+   ],
+   "share": 0.285,
+   "material": "water",
+   "thickness_cm": 0.5
+  }
+ ]
+}

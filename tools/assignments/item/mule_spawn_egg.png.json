@@ -1,0 +1,73 @@
+{
+ "path": "item/mule_spawn_egg.png",
+ "depicts": "mule spawn egg item icon, egg shell with dark brown spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    38,
+    24
+   ],
+   "share": 0.387,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    32,
+    19,
+    17
+   ],
+   "share": 0.358,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    96,
+    53,
+    33
+   ],
+   "share": 0.137,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    102,
+    77,
+    60
+   ],
+   "share": 0.049,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    128,
+    106,
+    88
+   ],
+   "share": 0.039,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    165,
+    144,
+    115
+   ],
+   "share": 0.029,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

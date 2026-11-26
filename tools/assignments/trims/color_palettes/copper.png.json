@@ -1,0 +1,73 @@
+{
+ "path": "trims/color_palettes/copper.png",
+ "depicts": "amethyst trim colour palette swatches (amethyst gem tones) (same structure as trims/color_palettes/amethyst.png; variant)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    28,
+    14
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    102,
+    48,
+    28
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    130,
+    108
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    121,
+    60,
+    40
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    180,
+    104,
+    77
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    154,
+    71,
+    44
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  }
+ ]
+}

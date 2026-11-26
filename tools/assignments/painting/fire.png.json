@@ -1,0 +1,73 @@
+{
+ "path": "painting/fire.png",
+ "depicts": "painting Fire: orange and yellow flames against orange band",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    223,
+    125,
+    37
+   ],
+   "share": 0.56,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    250,
+    228,
+    117
+   ],
+   "share": 0.273,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    235,
+    198,
+    86
+   ],
+   "share": 0.096,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    173,
+    95,
+    20
+   ],
+   "share": 0.027,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    240,
+    182,
+    127
+   ],
+   "share": 0.027,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    233,
+    170,
+    68
+   ],
+   "share": 0.017,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

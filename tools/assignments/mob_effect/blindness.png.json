@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/blindness.png",
+ "depicts": "closed/blinded eye icon: white sclera, red iris, dark lid",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    25,
+    34,
+    45
+   ],
+   "share": 0.279,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    254,
+    254
+   ],
+   "share": 0.213,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    233,
+    21,
+    12
+   ],
+   "share": 0.199,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    155,
+    184,
+    180
+   ],
+   "share": 0.184,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    83,
+    114,
+    110
+   ],
+   "share": 0.074,
+   "material": "muscle",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    18,
+    18
+   ],
+   "share": 0.051,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

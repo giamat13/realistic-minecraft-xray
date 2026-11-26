@@ -1,0 +1,73 @@
+{
+ "path": "item/stone_shovel.png",
+ "depicts": "stone shovel: stone blade on wooden handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    27,
+    17
+   ],
+   "share": 0.302,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    54,
+    21
+   ],
+   "share": 0.17,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    132,
+    132,
+    132
+   ],
+   "share": 0.151,
+   "material": "stone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    154,
+    154,
+    154
+   ],
+   "share": 0.151,
+   "material": "stone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    82,
+    74,
+    61
+   ],
+   "share": 0.132,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.094,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

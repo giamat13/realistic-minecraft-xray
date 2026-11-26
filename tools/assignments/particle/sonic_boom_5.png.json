@@ -1,0 +1,29 @@
+{
+ "path": "particle/sonic_boom_5.png",
+ "depicts": "cyan sonic boom shockwave chevron particle (energy wave) (same structure as particle/sonic_boom_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    11,
+    180,
+    170
+   ],
+   "share": 0.667,
+   "material": "plasma_particle",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    44,
+    227,
+    235
+   ],
+   "share": 0.333,
+   "material": "plasma_particle",
+   "thickness_cm": 0.1
+  }
+ ]
+}

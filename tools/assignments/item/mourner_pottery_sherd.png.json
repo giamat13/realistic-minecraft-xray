@@ -1,0 +1,73 @@
+{
+ "path": "item/mourner_pottery_sherd.png",
+ "depicts": "mourner pottery sherd item icon, unglazed fired clay (terracotta) sherd with pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    41,
+    33
+   ],
+   "share": 0.369,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    56,
+    47
+   ],
+   "share": 0.204,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.172,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    117,
+    66,
+    54
+   ],
+   "share": 0.146,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.076,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.032,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  }
+ ]
+}

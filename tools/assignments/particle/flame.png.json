@@ -1,0 +1,51 @@
+{
+ "path": "particle/flame.png",
+ "depicts": "small flame particle, yellow to red fire",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    216,
+    0
+   ],
+   "share": 0.455,
+   "material": "fire",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    106,
+    0
+   ],
+   "share": 0.318,
+   "material": "fire",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    245,
+    198
+   ],
+   "share": 0.136,
+   "material": "fire",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    0,
+    0
+   ],
+   "share": 0.091,
+   "material": "fire",
+   "thickness_cm": 0.05
+  }
+ ]
+}

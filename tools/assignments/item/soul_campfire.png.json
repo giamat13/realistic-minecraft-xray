@@ -1,0 +1,73 @@
+{
+ "path": "item/soul_campfire.png",
+ "depicts": "soul campfire: wood logs with blue soul fire",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    55,
+    34
+   ],
+   "share": 0.317,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    172,
+    177
+   ],
+   "share": 0.23,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    101,
+    60
+   ],
+   "share": 0.159,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    185,
+    149,
+    94
+   ],
+   "share": 0.127,
+   "material": "wood_oak",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    105,
+    233,
+    238
+   ],
+   "share": 0.111,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    255,
+    255
+   ],
+   "share": 0.056,
+   "material": "fire",
+   "thickness_cm": 10.0
+  }
+ ]
+}

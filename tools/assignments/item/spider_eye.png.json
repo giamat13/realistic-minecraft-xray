@@ -1,0 +1,73 @@
+{
+ "path": "item/spider_eye.png",
+ "depicts": "spider eye: dark red eyeball tissue with pale highlights",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    7,
+    38
+   ],
+   "share": 0.489,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    0,
+    16
+   ],
+   "share": 0.311,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    157,
+    30,
+    45
+   ],
+   "share": 0.133,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    224,
+    201,
+    204
+   ],
+   "share": 0.022,
+   "material": "fat",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    196,
+    95,
+    107
+   ],
+   "share": 0.022,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    174,
+    180
+   ],
+   "share": 0.022,
+   "material": "fat",
+   "thickness_cm": 0.5
+  }
+ ]
+}

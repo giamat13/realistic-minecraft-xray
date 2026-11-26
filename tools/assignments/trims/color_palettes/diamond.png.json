@@ -1,0 +1,73 @@
+{
+ "path": "trims/color_palettes/diamond.png",
+ "depicts": "amethyst trim colour palette swatches (amethyst gem tones) (same structure as trims/color_palettes/amethyst.png; variant)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    2,
+    70,
+    83
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    10,
+    110,
+    130
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    203,
+    255,
+    245
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    29,
+    150,
+    154
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    236,
+    210
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    44,
+    186,
+    168
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/miner_pottery_sherd.png",
+ "depicts": "miner pottery sherd item icon, unglazed fired clay (terracotta) sherd with pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    41,
+    33
+   ],
+   "share": 0.274,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    114,
+    64,
+    53
+   ],
+   "share": 0.197,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    94,
+    55,
+    47
+   ],
+   "share": 0.197,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.172,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.108,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.051,
+   "material": "terracotta",
+   "thickness_cm": 0.5
+  }
+ ]
+}

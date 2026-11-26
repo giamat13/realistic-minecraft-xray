@@ -1,0 +1,73 @@
+{
+ "path": "item/wind_charge.png",
+ "depicts": "Wind charge item: pale aluminium canister with compressed air",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    176,
+    190
+   ],
+   "share": 0.329,
+   "material": "aluminum",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    219,
+    242
+   ],
+   "share": 0.235,
+   "material": "aluminum",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    234,
+    255
+   ],
+   "share": 0.165,
+   "material": "aluminum",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    199,
+    203,
+    212
+   ],
+   "share": 0.129,
+   "material": "aluminum",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    132,
+    148,
+    175
+   ],
+   "share": 0.082,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    189,
+    201,
+    255
+   ],
+   "share": 0.059,
+   "material": "air",
+   "thickness_cm": 1.0
+  }
+ ]
+}

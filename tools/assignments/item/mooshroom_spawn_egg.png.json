@@ -1,0 +1,73 @@
+{
+ "path": "item/mooshroom_spawn_egg.png",
+ "depicts": "mooshroom spawn egg item icon, egg shell with red dyed spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    20,
+    24
+   ],
+   "share": 0.333,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    168,
+    18,
+    19
+   ],
+   "share": 0.227,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    179,
+    179
+   ],
+   "share": 0.167,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    134,
+    123,
+    124
+   ],
+   "share": 0.136,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    80,
+    80,
+    80
+   ],
+   "share": 0.096,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.04,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

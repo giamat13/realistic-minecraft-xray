@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/infested.png",
+ "depicts": "stone block with silverfish: grey stone, dark chitinous bug",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    100,
+    103
+   ],
+   "share": 0.396,
+   "material": "stone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.281,
+   "material": "basalt",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    151,
+    156,
+    151
+   ],
+   "share": 0.094,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.094,
+   "material": "shell_chitin",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    133,
+    137
+   ],
+   "share": 0.083,
+   "material": "stone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    186,
+    186,
+    186
+   ],
+   "share": 0.052,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  }
+ ]
+}

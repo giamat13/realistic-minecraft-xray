@@ -1,0 +1,73 @@
+{
+ "path": "trims/color_palettes/redstone.png",
+ "depicts": "amethyst trim colour palette swatches (amethyst gem tones) (same structure as trims/color_palettes/amethyst.png; variant)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    6,
+    2
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    12,
+    4
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    32,
+    8
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    120,
+    17,
+    1
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    189,
+    32,
+    8
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    151,
+    22,
+    7
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  }
+ ]
+}

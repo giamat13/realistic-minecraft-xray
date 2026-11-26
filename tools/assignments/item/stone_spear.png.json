@@ -1,0 +1,73 @@
+{
+ "path": "item/stone_spear.png",
+ "depicts": "stone spear: stone head with wooden shaft and binding",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    70,
+    70,
+    70
+   ],
+   "share": 0.23,
+   "material": "stone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    30,
+    26,
+    19
+   ],
+   "share": 0.216,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    130,
+    128
+   ],
+   "share": 0.189,
+   "material": "stone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    46,
+    16
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    95,
+    39
+   ],
+   "share": 0.108,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    179,
+    177,
+    175
+   ],
+   "share": 0.081,
+   "material": "stone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

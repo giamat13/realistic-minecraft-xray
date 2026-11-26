@@ -1,0 +1,40 @@
+{
+ "path": "particle/geyser_plume_08.png",
+ "depicts": "geyser plume puff: water-vapour cloud rising from a geyser (same structure as particle/geyser_plume_01.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    210,
+    210,
+    210
+   ],
+   "share": 0.495,
+   "material": "steam",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.305,
+   "material": "steam",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.2,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

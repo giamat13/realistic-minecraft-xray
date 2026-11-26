@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/conduit_power.png",
+ "depicts": "conduit: prismarine ring with glowing water core and brass rim",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    17,
+    74,
+    106
+   ],
+   "share": 0.581,
+   "material": "water",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    32,
+    150,
+    178
+   ],
+   "share": 0.25,
+   "material": "prismarine",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    178,
+    137,
+    32
+   ],
+   "share": 0.101,
+   "material": "brass",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    99,
+    45,
+    30
+   ],
+   "share": 0.047,
+   "material": "wood_dark",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    199,
+    114
+   ],
+   "share": 0.014,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    252,
+    250,
+    248
+   ],
+   "share": 0.007,
+   "material": "glass",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/fire_resistance.png",
+ "depicts": "magma cream: cream-coloured blob with orange magma core and yellow glow",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    142,
+    118,
+    124
+   ],
+   "share": 0.337,
+   "material": "fat",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    54,
+    69
+   ],
+   "share": 0.337,
+   "material": "slime",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    191,
+    46
+   ],
+   "share": 0.174,
+   "material": "sulfur",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    166,
+    158
+   ],
+   "share": 0.065,
+   "material": "fat",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    222,
+    116,
+    20
+   ],
+   "share": 0.054,
+   "material": "magma_rock",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    250,
+    217
+   ],
+   "share": 0.033,
+   "material": "sulfur",
+   "thickness_cm": 0.1
+  }
+ ]
+}

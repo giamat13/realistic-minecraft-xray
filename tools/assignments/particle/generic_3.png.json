@@ -1,0 +1,18 @@
+{
+ "path": "particle/generic_3.png",
+ "depicts": "generic white sparkle dot particle (same structure as particle/generic_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

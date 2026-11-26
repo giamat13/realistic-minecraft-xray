@@ -1,0 +1,18 @@
+{
+ "path": "particle/gust_1.png",
+ "depicts": "wind gust burst swirl of moving air (same structure as particle/gust_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    240,
+    240,
+    240
+   ],
+   "share": 1.0,
+   "material": "air",
+   "thickness_cm": 50.0
+  }
+ ]
+}

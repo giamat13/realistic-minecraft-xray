@@ -1,0 +1,73 @@
+{
+ "path": "item/warden_spawn_egg.png",
+ "depicts": "Warden spawn egg: dark teal egg shell with glowing cyan sculk-like spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    58,
+    68
+   ],
+   "share": 0.452,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    12,
+    18,
+    24
+   ],
+   "share": 0.288,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    144,
+    130
+   ],
+   "share": 0.135,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.048,
+   "material": "sculk",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.043,
+   "material": "sculk",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    209,
+    214,
+    182
+   ],
+   "share": 0.034,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

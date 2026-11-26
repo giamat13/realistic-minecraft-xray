@@ -1,0 +1,73 @@
+{
+ "path": "painting/endboss.png",
+ "depicts": "painting Endboss: dark grey-brown textured figure with pale highlights",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    109,
+    93,
+    78
+   ],
+   "share": 0.211,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    168,
+    160,
+    151
+   ],
+   "share": 0.183,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    15,
+    14,
+    13
+   ],
+   "share": 0.175,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    72,
+    62,
+    56
+   ],
+   "share": 0.174,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    138,
+    127,
+    114
+   ],
+   "share": 0.164,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    196,
+    193,
+    191
+   ],
+   "share": 0.092,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

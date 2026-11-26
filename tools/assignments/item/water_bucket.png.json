@@ -1,0 +1,73 @@
+{
+ "path": "item/water_bucket.png",
+ "depicts": "Water bucket: iron bucket holding water",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.329,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.247,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.144,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    115,
+    115,
+    115
+   ],
+   "share": 0.116,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    44,
+    87,
+    211
+   ],
+   "share": 0.103,
+   "material": "water",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    117,
+    236
+   ],
+   "share": 0.062,
+   "material": "water",
+   "thickness_cm": 10.0
+  }
+ ]
+}

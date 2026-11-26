@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/absorption.png",
+ "depicts": "absorption status effect icon: glassy cyan shield/heart bubble with bright rim",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    146,
+    161
+   ],
+   "share": 0.439,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    59,
+    113,
+    126
+   ],
+   "share": 0.276,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    170,
+    196
+   ],
+   "share": 0.126,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    102,
+    208,
+    233
+   ],
+   "share": 0.061,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    158,
+    177,
+    178
+   ],
+   "share": 0.056,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    164,
+    237,
+    254
+   ],
+   "share": 0.042,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

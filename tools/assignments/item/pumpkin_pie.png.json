@@ -1,0 +1,73 @@
+{
+ "path": "item/pumpkin_pie.png",
+ "depicts": "pumpkin pie slice item, pastry crust with orange pumpkin filling",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    195,
+    133,
+    85
+   ],
+   "share": 0.317,
+   "material": "bread",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    235,
+    171,
+    100
+   ],
+   "share": 0.308,
+   "material": "bread",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    119,
+    86,
+    31
+   ],
+   "share": 0.158,
+   "material": "bread",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    252,
+    201,
+    126
+   ],
+   "share": 0.1,
+   "material": "bread",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    177,
+    89,
+    18
+   ],
+   "share": 0.075,
+   "material": "vegetable",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    219,
+    116,
+    34
+   ],
+   "share": 0.042,
+   "material": "vegetable",
+   "thickness_cm": 1.0
+  }
+ ]
+}

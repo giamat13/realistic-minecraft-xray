@@ -1,0 +1,73 @@
+{
+ "path": "item/snow_golem_spawn_egg.png",
+ "depicts": "snow golem spawn egg: egg with pumpkin-orange and snow-white pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    171,
+    99,
+    15
+   ],
+   "share": 0.267,
+   "material": "fruit",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    56,
+    21
+   ],
+   "share": 0.247,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    186,
+    198,
+    197
+   ],
+   "share": 0.233,
+   "material": "snow_packed",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    231,
+    151,
+    41
+   ],
+   "share": 0.103,
+   "material": "fruit",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    134,
+    136
+   ],
+   "share": 0.096,
+   "material": "snow_packed",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    235,
+    247,
+    247
+   ],
+   "share": 0.055,
+   "material": "snow_packed",
+   "thickness_cm": 4.0
+  }
+ ]
+}

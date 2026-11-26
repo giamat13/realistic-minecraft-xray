@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/hunger.png",
+ "depicts": "cooked drumstick: cooked meat, charred crust, bone tip",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    137,
+    77,
+    48
+   ],
+   "share": 0.425,
+   "material": "muscle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    30,
+    17
+   ],
+   "share": 0.362,
+   "material": "charcoal",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    174,
+    140
+   ],
+   "share": 0.075,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    51,
+    43
+   ],
+   "share": 0.05,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    225,
+    187
+   ],
+   "share": 0.05,
+   "material": "bone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    253
+   ],
+   "share": 0.037,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

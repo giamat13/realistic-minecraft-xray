@@ -1,0 +1,40 @@
+{
+ "path": "particle/pale_oak_1.png",
+ "depicts": "pale grey-green oak leaf fragment (same structure as particle/pale_oak_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    120,
+    113
+   ],
+   "share": 0.4,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    136,
+    128
+   ],
+   "share": 0.333,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    98,
+    102,
+    96
+   ],
+   "share": 0.267,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  }
+ ]
+}

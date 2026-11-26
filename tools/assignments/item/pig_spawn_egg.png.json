@@ -1,0 +1,73 @@
+{
+ "path": "item/pig_spawn_egg.png",
+ "depicts": "pig spawn egg item icon, egg shell with pink spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    157,
+    70,
+    70
+   ],
+   "share": 0.299,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    230,
+    113,
+    111
+   ],
+   "share": 0.261,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    158,
+    152
+   ],
+   "share": 0.187,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    137,
+    133
+   ],
+   "share": 0.119,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    198,
+    97,
+    90
+   ],
+   "share": 0.075,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    185,
+    181
+   ],
+   "share": 0.06,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

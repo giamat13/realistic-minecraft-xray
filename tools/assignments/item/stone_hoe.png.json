@@ -1,0 +1,73 @@
+{
+ "path": "item/stone_hoe.png",
+ "depicts": "stone hoe: stone blade on wooden handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    61,
+    40
+   ],
+   "share": 0.314,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    24,
+    24,
+    24
+   ],
+   "share": 0.314,
+   "material": "stone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    132,
+    132,
+    132
+   ],
+   "share": 0.157,
+   "material": "stone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.098,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    104,
+    78,
+    30
+   ],
+   "share": 0.098,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    154,
+    154,
+    154
+   ],
+   "share": 0.02,
+   "material": "stone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

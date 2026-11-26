@@ -1,0 +1,40 @@
+{
+ "path": "particle/leaf_10.png",
+ "depicts": "grey-scale leaf fragment particle (tinted at runtime) (same structure as particle/leaf_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.4,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.333,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.267,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  }
+ ]
+}

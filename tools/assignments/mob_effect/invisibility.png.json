@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/invisibility.png",
+ "depicts": "invisibility potion flask: pale liquid in glass bottle with yellow-amber tint",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    135,
+    204,
+    241
+   ],
+   "share": 0.37,
+   "material": "potion_liquid",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    100,
+    17
+   ],
+   "share": 0.178,
+   "material": "glass",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    164,
+    20
+   ],
+   "share": 0.178,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    241,
+    100
+   ],
+   "share": 0.178,
+   "material": "sulfur",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    229,
+    251,
+    255
+   ],
+   "share": 0.096,
+   "material": "glass",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    188,
+    189,
+    138
+   ],
+   "share": 0.0,
+   "material": "glass",
+   "thickness_cm": 0.1
+  }
+ ]
+}

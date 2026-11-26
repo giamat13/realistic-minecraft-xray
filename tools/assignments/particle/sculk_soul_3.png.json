@@ -1,0 +1,51 @@
+{
+ "path": "particle/sculk_soul_3.png",
+ "depicts": "dark sculk soul wisp particle (same structure as particle/sculk_soul_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    17,
+    27,
+    33
+   ],
+   "share": 0.304,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    5,
+    42,
+    50
+   ],
+   "share": 0.283,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    13,
+    18,
+    23
+   ],
+   "share": 0.283,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    6,
+    14,
+    16
+   ],
+   "share": 0.13,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  }
+ ]
+}

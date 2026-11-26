@@ -1,0 +1,51 @@
+{
+ "path": "mob_effect/slow_falling.png",
+ "depicts": "feather (slow falling): pale vanes with quill",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    237,
+    226,
+    201
+   ],
+   "share": 0.416,
+   "material": "feather",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    252,
+    235
+   ],
+   "share": 0.281,
+   "material": "feather",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    109,
+    114
+   ],
+   "share": 0.236,
+   "material": "feather",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    166,
+    142
+   ],
+   "share": 0.067,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

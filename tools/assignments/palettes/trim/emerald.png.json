@@ -1,0 +1,73 @@
+{
+ "path": "palettes/trim/emerald.png",
+ "depicts": "armor trim palette swatch in amethyst purple, a faceted gem colour (same structure as palettes/trim/amethyst.png; variant)",
+ "kind": "palettes",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    2,
+    70,
+    16
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    12,
+    106,
+    30
+   ],
+   "share": 0.25,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    246,
+    173
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    16,
+    123,
+    36
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    14,
+    199,
+    84
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    17,
+    160,
+    54
+   ],
+   "share": 0.125,
+   "material": "amethyst",
+   "thickness_cm": 0.1
+  }
+ ]
+}

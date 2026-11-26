@@ -1,0 +1,73 @@
+{
+ "path": "painting/lowmist.png",
+ "depicts": "painting Lowmist: night-blue mist and grey sky with pale white highlights",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    33,
+    51
+   ],
+   "share": 0.264,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    10,
+    10,
+    44
+   ],
+   "share": 0.223,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    76,
+    91
+   ],
+   "share": 0.165,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    242,
+    237,
+    220
+   ],
+   "share": 0.158,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    124,
+    120,
+    131
+   ],
+   "share": 0.131,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    176,
+    170,
+    173
+   ],
+   "share": 0.06,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

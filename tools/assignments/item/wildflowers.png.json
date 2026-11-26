@@ -1,0 +1,73 @@
+{
+ "path": "item/wildflowers.png",
+ "depicts": "Wildflowers item: yellow, white and orange flower heads on green stems",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    226,
+    69
+   ],
+   "share": 0.295,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    196,
+    220,
+    220
+   ],
+   "share": 0.262,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    149,
+    71
+   ],
+   "share": 0.213,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    176,
+    38
+   ],
+   "share": 0.148,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    255,
+    255
+   ],
+   "share": 0.082,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    208,
+    203,
+    120
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

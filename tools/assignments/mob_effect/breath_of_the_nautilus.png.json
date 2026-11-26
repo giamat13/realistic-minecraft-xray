@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/breath_of_the_nautilus.png",
+ "depicts": "nautilus shell with pale tentacle/body and ink-dark edge",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    63,
+    49
+   ],
+   "share": 0.417,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    245,
+    110,
+    87
+   ],
+   "share": 0.223,
+   "material": "calcite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    194,
+    88,
+    60
+   ],
+   "share": 0.143,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    226,
+    216
+   ],
+   "share": 0.114,
+   "material": "calcite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    209,
+    173,
+    151
+   ],
+   "share": 0.097,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    7,
+    7,
+    28
+   ],
+   "share": 0.006,
+   "material": "ink",
+   "thickness_cm": 0.1
+  }
+ ]
+}

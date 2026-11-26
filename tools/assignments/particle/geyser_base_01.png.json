@@ -1,0 +1,40 @@
+{
+ "path": "particle/geyser_base_01.png",
+ "depicts": "geyser base steam puff particle, grey",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    223,
+    223,
+    223
+   ],
+   "share": 0.481,
+   "material": "steam",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    208,
+    208,
+    208
+   ],
+   "share": 0.407,
+   "material": "steam",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    184,
+    184,
+    184
+   ],
+   "share": 0.111,
+   "material": "steam",
+   "thickness_cm": 0.05
+  }
+ ]
+}

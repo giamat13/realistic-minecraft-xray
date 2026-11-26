@@ -1,0 +1,40 @@
+{
+ "path": "particle/red_poplar_1.png",
+ "depicts": "orange autumn poplar leaf fragment (same structure as particle/orange_poplar_1.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    48,
+    33
+   ],
+   "share": 0.357,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    212,
+    60,
+    47
+   ],
+   "share": 0.357,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    41,
+    41
+   ],
+   "share": 0.286,
+   "material": "plant_tissue",
+   "thickness_cm": 0.1
+  }
+ ]
+}

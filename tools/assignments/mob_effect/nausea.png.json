@@ -1,0 +1,62 @@
+{
+ "path": "mob_effect/nausea.png",
+ "depicts": "rotten-flesh-like green slime blob with dark outline (nausea)",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    75,
+    21
+   ],
+   "share": 0.253,
+   "material": "slime",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    118,
+    219,
+    76
+   ],
+   "share": 0.218,
+   "material": "slime",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    111,
+    26
+   ],
+   "share": 0.218,
+   "material": "slime",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    100,
+    166,
+    58
+   ],
+   "share": 0.195,
+   "material": "slime",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    79,
+    140,
+    41
+   ],
+   "share": 0.115,
+   "material": "slime",
+   "thickness_cm": 0.5
+  }
+ ]
+}

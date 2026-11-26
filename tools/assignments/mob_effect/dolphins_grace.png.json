@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/dolphins_grace.png",
+ "depicts": "dolphin silhouette (blue wave-like sprite): skin, blubber, dark eye",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    80,
+    108
+   ],
+   "share": 0.358,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    87,
+    115,
+    145
+   ],
+   "share": 0.211,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    136,
+    163,
+    190
+   ],
+   "share": 0.203,
+   "material": "fat",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    171,
+    190,
+    211
+   ],
+   "share": 0.187,
+   "material": "fat",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    220,
+    237
+   ],
+   "share": 0.033,
+   "material": "fat",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    7,
+    7,
+    28
+   ],
+   "share": 0.008,
+   "material": "ink",
+   "thickness_cm": 0.1
+  }
+ ]
+}

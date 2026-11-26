@@ -1,0 +1,73 @@
+{
+ "path": "item/splash_potion.png",
+ "depicts": "splash potion: glass bottle with coloured potion liquid",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    213,
+    239
+   ],
+   "share": 0.35,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    93,
+    143,
+    194
+   ],
+   "share": 0.3,
+   "material": "potion_liquid",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    62,
+    28
+   ],
+   "share": 0.175,
+   "material": "potion_liquid",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    109,
+    73
+   ],
+   "share": 0.1,
+   "material": "potion_liquid",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    139,
+    173,
+    208
+   ],
+   "share": 0.075,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    153,
+    152,
+    170
+   ],
+   "share": 0.0,
+   "material": "glass",
+   "thickness_cm": 0.1
+  }
+ ]
+}

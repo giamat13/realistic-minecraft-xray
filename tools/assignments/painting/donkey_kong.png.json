@@ -1,0 +1,73 @@
+{
+ "path": "painting/donkey_kong.png",
+ "depicts": "painting Donkey Kong: black background with brown barrel-ladder girders and red and pink accents",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    5,
+    5,
+    5
+   ],
+   "share": 0.596,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    135,
+    80,
+    50
+   ],
+   "share": 0.155,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    191,
+    46,
+    81
+   ],
+   "share": 0.089,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    174,
+    114,
+    112
+   ],
+   "share": 0.079,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    203,
+    164,
+    146
+   ],
+   "share": 0.051,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    227,
+    222
+   ],
+   "share": 0.029,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

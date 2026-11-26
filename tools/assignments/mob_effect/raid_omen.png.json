@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/raid_omen.png",
+ "depicts": "grey skull-like omen emblem with red eyes",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    39,
+    42,
+    39
+   ],
+   "share": 0.382,
+   "material": "graphite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    90,
+    92
+   ],
+   "share": 0.363,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    151,
+    156,
+    156
+   ],
+   "share": 0.189,
+   "material": "stone",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    240,
+    240,
+    240
+   ],
+   "share": 0.047,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    0,
+    72
+   ],
+   "share": 0.009,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    0,
+    47
+   ],
+   "share": 0.009,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

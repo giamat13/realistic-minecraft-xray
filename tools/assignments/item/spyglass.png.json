@@ -1,0 +1,73 @@
+{
+ "path": "item/spyglass.png",
+ "depicts": "spyglass: copper tube with brass ring and glass lenses",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    179,
+    104,
+    50
+   ],
+   "share": 0.465,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    34,
+    20
+   ],
+   "share": 0.244,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    244,
+    224,
+    99
+   ],
+   "share": 0.116,
+   "material": "brass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    122,
+    123
+   ],
+   "share": 0.093,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    104,
+    189,
+    189
+   ],
+   "share": 0.058,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.023,
+   "material": "glass",
+   "thickness_cm": 0.1
+  }
+ ]
+}

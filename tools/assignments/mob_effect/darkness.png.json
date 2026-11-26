@@ -1,0 +1,40 @@
+{
+ "path": "mob_effect/darkness.png",
+ "depicts": "darkness effect: dark shaded eye/void sphere",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    9,
+    5,
+    5
+   ],
+   "share": 0.551,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    26,
+    26,
+    26
+   ],
+   "share": 0.234,
+   "material": "charcoal",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    19,
+    19,
+    21
+   ],
+   "share": 0.216,
+   "material": "graphite",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/squid_spawn_egg.png",
+ "depicts": "squid spawn egg: egg with dark blue and red squid pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    93,
+    121
+   ],
+   "share": 0.633,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    26,
+    50,
+    67
+   ],
+   "share": 0.187,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    147,
+    159
+   ],
+   "share": 0.087,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    176,
+    226
+   ],
+   "share": 0.04,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    144,
+    21,
+    21
+   ],
+   "share": 0.04,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    81,
+    3,
+    3
+   ],
+   "share": 0.013,
+   "material": "egg",
+   "thickness_cm": 4.0
+  }
+ ]
+}

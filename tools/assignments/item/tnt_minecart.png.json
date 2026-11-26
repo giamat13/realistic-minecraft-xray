@@ -1,0 +1,73 @@
+{
+ "path": "item/tnt_minecart.png",
+ "depicts": "TNT minecart: iron minecart carrying a TNT block",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    37,
+    35
+   ],
+   "share": 0.34,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    137,
+    140
+   ],
+   "share": 0.258,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    38,
+    14
+   ],
+   "share": 0.138,
+   "material": "tnt",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    220,
+    136,
+    124
+   ],
+   "share": 0.094,
+   "material": "tnt",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    219,
+    68,
+    26
+   ],
+   "share": 0.094,
+   "material": "tnt",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    63,
+    66,
+    67
+   ],
+   "share": 0.075,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

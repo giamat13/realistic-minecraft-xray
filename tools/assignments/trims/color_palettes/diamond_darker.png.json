@@ -1,0 +1,73 @@
+{
+ "path": "trims/color_palettes/diamond_darker.png",
+ "depicts": "darker copper trim colour palette swatches (same structure as trims/color_palettes/copper_darker.png; variant)",
+ "kind": "trims",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    5,
+    72,
+    67
+   ],
+   "share": 0.375,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    2,
+    116,
+    114
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    21,
+    179,
+    161
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    4,
+    129,
+    133
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    10,
+    156,
+    161
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    6,
+    93,
+    91
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  }
+ ]
+}

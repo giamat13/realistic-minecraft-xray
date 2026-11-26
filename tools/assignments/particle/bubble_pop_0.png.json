@@ -1,0 +1,51 @@
+{
+ "path": "particle/bubble_pop_0.png",
+ "depicts": "bubble popping splash particle",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    130,
+    204,
+    232
+   ],
+   "share": 0.364,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    86,
+    161,
+    189
+   ],
+   "share": 0.273,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    157,
+    228,
+    255
+   ],
+   "share": 0.182,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    182,
+    211
+   ],
+   "share": 0.182,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

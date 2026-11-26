@@ -1,0 +1,73 @@
+{
+ "path": "painting/creebet.png",
+ "depicts": "painting Creebet: blue sky, grey-white clouds and brown figure with green tones",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    181,
+    205,
+    213
+   ],
+   "share": 0.252,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    30,
+    126,
+    203
+   ],
+   "share": 0.205,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    175,
+    134
+   ],
+   "share": 0.191,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    44,
+    17
+   ],
+   "share": 0.186,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    98,
+    138,
+    74
+   ],
+   "share": 0.121,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    11,
+    38,
+    24
+   ],
+   "share": 0.045,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "misc/spyglass_scope.png",
+ "depicts": "spyglass scope HUD overlay: glass lens with brass/copper tube rim and steel edge",
+ "kind": "misc",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    142,
+    176
+   ],
+   "share": 0.395,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    35,
+    27
+   ],
+   "share": 0.265,
+   "material": "brass",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    205,
+    234,
+    255
+   ],
+   "share": 0.177,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.066,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    81,
+    21
+   ],
+   "share": 0.056,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    48,
+    80,
+    119
+   ],
+   "share": 0.04,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

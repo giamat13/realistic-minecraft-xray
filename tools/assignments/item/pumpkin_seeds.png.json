@@ -1,0 +1,40 @@
+{
+ "path": "item/pumpkin_seeds.png",
+ "depicts": "pumpkin seed item, pale green seeds with orange tips",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    203,
+    198,
+    141
+   ],
+   "share": 0.424,
+   "material": "seed_grain",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    200,
+    212,
+    170
+   ],
+   "share": 0.394,
+   "material": "seed_grain",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    202,
+    177,
+    110
+   ],
+   "share": 0.182,
+   "material": "seed_grain",
+   "thickness_cm": 0.5
+  }
+ ]
+}

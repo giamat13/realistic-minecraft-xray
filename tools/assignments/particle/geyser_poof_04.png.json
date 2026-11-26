@@ -1,0 +1,40 @@
+{
+ "path": "particle/geyser_poof_04.png",
+ "depicts": "small geyser puff of condensing water vapour (same structure as particle/geyser_poof_01.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    223,
+    223,
+    223
+   ],
+   "share": 0.433,
+   "material": "steam",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    208,
+    208,
+    208
+   ],
+   "share": 0.361,
+   "material": "steam",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    184,
+    184,
+    184
+   ],
+   "share": 0.206,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

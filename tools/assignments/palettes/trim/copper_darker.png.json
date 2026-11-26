@@ -1,0 +1,73 @@
+{
+ "path": "palettes/trim/copper_darker.png",
+ "depicts": "armor trim palette swatch in dark copper tones",
+ "kind": "palettes",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    25,
+    15
+   ],
+   "share": 0.375,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    76,
+    36,
+    22
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    27,
+    14,
+    8
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    65,
+    53
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    54,
+    40
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    89,
+    42,
+    25
+   ],
+   "share": 0.125,
+   "material": "copper",
+   "thickness_cm": 0.1
+  }
+ ]
+}

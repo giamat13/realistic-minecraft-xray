@@ -1,0 +1,73 @@
+{
+ "path": "painting/kebab.png",
+ "depicts": "painting Kebab: dark ground with meat-skewer scene, pale cream and green accent",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    24,
+    27
+   ],
+   "share": 0.324,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    128,
+    95
+   ],
+   "share": 0.191,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    200,
+    178,
+    128
+   ],
+   "share": 0.172,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    75,
+    53
+   ],
+   "share": 0.16,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    238,
+    235,
+    211
+   ],
+   "share": 0.094,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    123,
+    155,
+    42
+   ],
+   "share": 0.059,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

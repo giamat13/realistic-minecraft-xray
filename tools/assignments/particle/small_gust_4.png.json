@@ -1,0 +1,29 @@
+{
+ "path": "particle/small_gust_4.png",
+ "depicts": "small grey-blue wind gust puff (air movement) (same structure as particle/small_gust_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    192,
+    197,
+    222
+   ],
+   "share": 0.737,
+   "material": "air",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    168,
+    177,
+    212
+   ],
+   "share": 0.263,
+   "material": "air",
+   "thickness_cm": 0.1
+  }
+ ]
+}

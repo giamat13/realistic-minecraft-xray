@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/mining_fatigue.png",
+ "depicts": "dimmed iron/steel pickaxe with dark outline",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    106,
+    111,
+    147
+   ],
+   "share": 0.189,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    21,
+    52
+   ],
+   "share": 0.189,
+   "material": "ink",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    203,
+    208,
+    245
+   ],
+   "share": 0.171,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    49,
+    54,
+    86
+   ],
+   "share": 0.171,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    133,
+    139,
+    176
+   ],
+   "share": 0.144,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    173,
+    180,
+    228
+   ],
+   "share": 0.135,
+   "material": "steel",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/bad_omen.png",
+ "depicts": "ominous omen emblem: dark skull-like icon with red war-banner accents",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    46,
+    60
+   ],
+   "share": 0.83,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    98,
+    120
+   ],
+   "share": 0.094,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    0,
+    1
+   ],
+   "share": 0.044,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    0,
+    72
+   ],
+   "share": 0.013,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    0,
+    47
+   ],
+   "share": 0.013,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    93,
+    0,
+    14
+   ],
+   "share": 0.006,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

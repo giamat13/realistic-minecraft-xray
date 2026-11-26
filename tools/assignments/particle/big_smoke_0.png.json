@@ -1,0 +1,29 @@
+{
+ "path": "particle/big_smoke_0.png",
+ "depicts": "large smoke puff particle, grey",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    118,
+    112
+   ],
+   "share": 0.515,
+   "material": "smoke",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    107,
+    102,
+    97
+   ],
+   "share": 0.485,
+   "material": "smoke",
+   "thickness_cm": 0.05
+  }
+ ]
+}

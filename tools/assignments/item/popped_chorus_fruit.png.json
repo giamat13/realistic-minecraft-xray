@@ -1,0 +1,73 @@
+{
+ "path": "item/popped_chorus_fruit.png",
+ "depicts": "popped chorus fruit item, purple fleshy fruit with dark spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    60,
+    100
+   ],
+   "share": 0.26,
+   "material": "chorus_flesh",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    143,
+    100,
+    143
+   ],
+   "share": 0.24,
+   "material": "chorus_flesh",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    119,
+    77,
+    119
+   ],
+   "share": 0.233,
+   "material": "chorus_flesh",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    124,
+    164
+   ],
+   "share": 0.144,
+   "material": "chorus_flesh",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    80,
+    42,
+    80
+   ],
+   "share": 0.116,
+   "material": "chorus_flesh",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    141,
+    183
+   ],
+   "share": 0.007,
+   "material": "chorus_flesh",
+   "thickness_cm": 5.0
+  }
+ ]
+}

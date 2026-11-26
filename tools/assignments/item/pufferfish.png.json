@@ -1,0 +1,73 @@
+{
+ "path": "item/pufferfish.png",
+ "depicts": "pufferfish mob sprite, orange spiny skin with pale belly and blue fin",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    203,
+    145,
+    44
+   ],
+   "share": 0.359,
+   "material": "muscle",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    245,
+    219,
+    175
+   ],
+   "share": 0.234,
+   "material": "fat",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    84,
+    17
+   ],
+   "share": 0.172,
+   "material": "muscle",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    102,
+    161,
+    186
+   ],
+   "share": 0.11,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    177,
+    11
+   ],
+   "share": 0.097,
+   "material": "muscle",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    29,
+    44,
+    38
+   ],
+   "share": 0.028,
+   "material": "ink",
+   "thickness_cm": 0.3
+  }
+ ]
+}

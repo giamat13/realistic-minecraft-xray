@@ -1,0 +1,73 @@
+{
+ "path": "item/spyglass_model.png",
+ "depicts": "spyglass 3D model texture: copper tube with brass and glass lens",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    222,
+    146,
+    58
+   ],
+   "share": 0.2,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    221,
+    241
+   ],
+   "share": 0.2,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    149,
+    77,
+    41
+   ],
+   "share": 0.2,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    34,
+    29
+   ],
+   "share": 0.167,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    244,
+    224,
+    99
+   ],
+   "share": 0.167,
+   "material": "brass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    181,
+    214
+   ],
+   "share": 0.067,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

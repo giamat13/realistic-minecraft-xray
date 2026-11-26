@@ -1,0 +1,73 @@
+{
+ "path": "misc/unknown_server.png",
+ "depicts": "unknown server GUI icon: grey server rack panel with question marks",
+ "kind": "misc",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    176,
+    176,
+    176
+   ],
+   "share": 0.319,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    52,
+    52,
+    52
+   ],
+   "share": 0.261,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    76,
+    76
+   ],
+   "share": 0.255,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    123,
+    123
+   ],
+   "share": 0.069,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    184,
+    184
+   ],
+   "share": 0.062,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    201,
+    201,
+    201
+   ],
+   "share": 0.035,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

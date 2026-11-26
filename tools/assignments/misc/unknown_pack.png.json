@@ -1,0 +1,73 @@
+{
+ "path": "misc/unknown_pack.png",
+ "depicts": "unknown pack GUI icon: grey mystery pack/box panel with question marks",
+ "kind": "misc",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    78,
+    79,
+    79
+   ],
+   "share": 0.334,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    140,
+    139
+   ],
+   "share": 0.216,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    180,
+    180,
+    180
+   ],
+   "share": 0.164,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    49,
+    51,
+    52
+   ],
+   "share": 0.135,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    112,
+    111
+   ],
+   "share": 0.123,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    218,
+    218,
+    218
+   ],
+   "share": 0.028,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/melon_slice.png",
+ "depicts": "melon slice item icon, red-fleshed melon wedge with green rind and white pith",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    42,
+    28
+   ],
+   "share": 0.396,
+   "material": "fruit",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    87,
+    18
+   ],
+   "share": 0.226,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    146,
+    32
+   ],
+   "share": 0.17,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    182,
+    155
+   ],
+   "share": 0.113,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    135,
+    111
+   ],
+   "share": 0.057,
+   "material": "fruit",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    106,
+    24,
+    14
+   ],
+   "share": 0.038,
+   "material": "seed_grain",
+   "thickness_cm": 0.5
+  }
+ ]
+}

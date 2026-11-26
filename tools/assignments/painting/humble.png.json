@@ -1,0 +1,73 @@
+{
+ "path": "painting/humble.png",
+ "depicts": "painting Humble: sand-coloured ground with brown figure and green accent",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    176,
+    158,
+    132
+   ],
+   "share": 0.235,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    71,
+    59
+   ],
+   "share": 0.228,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    111,
+    89
+   ],
+   "share": 0.226,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    42,
+    21
+   ],
+   "share": 0.19,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    206,
+    195,
+    169
+   ],
+   "share": 0.107,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    23,
+    113,
+    58
+   ],
+   "share": 0.014,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "painting/graham.png",
+ "depicts": "painting Graham (first animation frame): near-black background with red-brown figure and pale skin highlights",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    10,
+    10,
+    8
+   ],
+   "share": 0.598,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    117,
+    57,
+    56
+   ],
+   "share": 0.18,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    208,
+    153
+   ],
+   "share": 0.078,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    252,
+    103,
+    104
+   ],
+   "share": 0.066,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    170,
+    104,
+    105
+   ],
+   "share": 0.047,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    201,
+    200
+   ],
+   "share": 0.031,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

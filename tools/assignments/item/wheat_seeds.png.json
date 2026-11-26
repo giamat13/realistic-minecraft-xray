@@ -1,0 +1,73 @@
+{
+ "path": "item/wheat_seeds.png",
+ "depicts": "Wheat seeds item: small green seeds with sprouting stems",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    67,
+    12
+   ],
+   "share": 0.4,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    226,
+    16
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    176,
+    56
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    114,
+    36
+   ],
+   "share": 0.1,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    172,
+    176,
+    56
+   ],
+   "share": 0.067,
+   "material": "seed_grain",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    111,
+    114,
+    36
+   ],
+   "share": 0.033,
+   "material": "seed_grain",
+   "thickness_cm": 0.3
+  }
+ ]
+}

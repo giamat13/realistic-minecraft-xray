@@ -1,0 +1,51 @@
+{
+ "path": "mob_effect/luck.png",
+ "depicts": "four-leaf clover: green leaves with dark veins",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    67,
+    202,
+    70
+   ],
+   "share": 0.381,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    144,
+    48
+   ],
+   "share": 0.347,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    24,
+    76,
+    28
+   ],
+   "share": 0.205,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    27,
+    100,
+    31
+   ],
+   "share": 0.068,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

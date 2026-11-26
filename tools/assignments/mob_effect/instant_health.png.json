@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/instant_health.png",
+ "depicts": "red heart (instant health): muscle and blood with white glint",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    4,
+    2
+   ],
+   "share": 0.37,
+   "material": "blood",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    15,
+    11
+   ],
+   "share": 0.205,
+   "material": "blood",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    34,
+    59
+   ],
+   "share": 0.205,
+   "material": "muscle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    6,
+    6
+   ],
+   "share": 0.137,
+   "material": "muscle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.068,
+   "material": "water",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    129,
+    129
+   ],
+   "share": 0.014,
+   "material": "fat",
+   "thickness_cm": 0.1
+  }
+ ]
+}

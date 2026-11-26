@@ -1,0 +1,73 @@
+{
+ "path": "item/soul_lantern.png",
+ "depicts": "soul lantern: iron frame, glass housing, soul flame",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    75,
+    93
+   ],
+   "share": 0.643,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    116,
+    241,
+    245
+   ],
+   "share": 0.143,
+   "material": "fire",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    201,
+    207
+   ],
+   "share": 0.107,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    231,
+    254,
+    255
+   ],
+   "share": 0.071,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    3,
+    150,
+    154
+   ],
+   "share": 0.036,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    81,
+    127,
+    141
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

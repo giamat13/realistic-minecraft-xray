@@ -1,0 +1,73 @@
+{
+ "path": "item/phantom_spawn_egg.png",
+ "depicts": "phantom spawn egg item icon, egg shell with blue-grey spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    62,
+    67,
+    76
+   ],
+   "share": 0.276,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    84,
+    143
+   ],
+   "share": 0.231,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    141,
+    132,
+    114
+   ],
+   "share": 0.187,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    30,
+    36,
+    60
+   ],
+   "share": 0.149,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    195,
+    185,
+    161
+   ],
+   "share": 0.104,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    234,
+    209
+   ],
+   "share": 0.052,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

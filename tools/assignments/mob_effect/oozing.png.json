@@ -1,0 +1,73 @@
+{
+ "path": "mob_effect/oozing.png",
+ "depicts": "slime drip: green slime with bright highlights",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    55,
+    91,
+    46
+   ],
+   "share": 0.478,
+   "material": "slime",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    194,
+    98
+   ],
+   "share": 0.209,
+   "material": "slime",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    154,
+    62
+   ],
+   "share": 0.119,
+   "material": "slime",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    255,
+    148
+   ],
+   "share": 0.104,
+   "material": "slime",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    148,
+    214,
+    124
+   ],
+   "share": 0.075,
+   "material": "slime",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    100,
+    176,
+    82
+   ],
+   "share": 0.015,
+   "material": "slime",
+   "thickness_cm": 0.3
+  }
+ ]
+}

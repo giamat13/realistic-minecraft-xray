@@ -1,0 +1,73 @@
+{
+ "path": "painting/earth.png",
+ "depicts": "painting Earth: globe-like scene with brown earth tones and dark ground",
+ "kind": "painting",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    72,
+    39,
+    20
+   ],
+   "share": 0.396,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    97,
+    56,
+    33
+   ],
+   "share": 0.229,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    162,
+    120,
+    68
+   ],
+   "share": 0.225,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    135,
+    79
+   ],
+   "share": 0.082,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    24,
+    13,
+    7
+   ],
+   "share": 0.038,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    153,
+    89,
+    51
+   ],
+   "share": 0.029,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}
