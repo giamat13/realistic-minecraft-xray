@@ -1,0 +1,18 @@
+{
+ "path": "particle/trial_spawner_detection_3.png",
+ "depicts": "orange trial spawner detection exclamation mark particle (copper-toned glint) (same structure as particle/trial_spawner_detection_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    193,
+    149
+   ],
+   "share": 1.0,
+   "material": "copper",
+   "thickness_cm": 0.05
+  }
+ ]
+}

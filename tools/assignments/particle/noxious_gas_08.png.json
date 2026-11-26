@@ -1,0 +1,29 @@
+{
+ "path": "particle/noxious_gas_08.png",
+ "depicts": "noxious green-yellow gas cloud puff (same structure as particle/noxious_gas_01.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    203,
+    195,
+    88
+   ],
+   "share": 0.571,
+   "material": "smoke",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    210,
+    210,
+    100
+   ],
+   "share": 0.429,
+   "material": "smoke",
+   "thickness_cm": 5.0
+  }
+ ]
+}

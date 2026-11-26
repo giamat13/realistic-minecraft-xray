@@ -1,0 +1,29 @@
+{
+ "path": "particle/bubble_pop_1.png",
+ "depicts": "bubble popping splash particle (same structure as particle/bubble_pop_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    161,
+    189
+   ],
+   "share": 0.562,
+   "material": "water",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    104,
+    182,
+    211
+   ],
+   "share": 0.438,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

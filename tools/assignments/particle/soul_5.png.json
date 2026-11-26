@@ -1,0 +1,73 @@
+{
+ "path": "particle/soul_5.png",
+ "depicts": "brown-dark soul sand/soul soil fragment particle (granular dust clump) (same structure as particle/soul_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    98,
+    75,
+    62
+   ],
+   "share": 0.562,
+   "material": "sand",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    55,
+    44
+   ],
+   "share": 0.167,
+   "material": "sand",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    1,
+    167,
+    172
+   ],
+   "share": 0.104,
+   "material": "sand",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    121,
+    97,
+    82
+   ],
+   "share": 0.083,
+   "material": "sand",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    53,
+    41,
+    34
+   ],
+   "share": 0.062,
+   "material": "sand",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    96,
+    245,
+    250
+   ],
+   "share": 0.021,
+   "material": "sand",
+   "thickness_cm": 0.2
+  }
+ ]
+}

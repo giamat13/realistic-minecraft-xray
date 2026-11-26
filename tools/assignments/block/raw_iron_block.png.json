@@ -11,7 +11,7 @@
     61
    ],
    "share": 0.254,
-   "material": "iron_ore_rock",
+   "material": "magnetite",
    "thickness_cm": 100.0
   },
   {
@@ -33,7 +33,7 @@
     84
    ],
    "share": 0.227,
-   "material": "iron_ore_rock",
+   "material": "magnetite",
    "thickness_cm": 100.0
   },
   {

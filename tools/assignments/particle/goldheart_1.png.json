@@ -1,0 +1,51 @@
+{
+ "path": "particle/goldheart_1.png",
+ "depicts": "golden absorption heart icon (gold-coated heart) (same structure as particle/goldheart_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    184,
+    42
+   ],
+   "share": 0.312,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    250,
+    201,
+    55
+   ],
+   "share": 0.312,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    143,
+    39
+   ],
+   "share": 0.188,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    252,
+    221,
+    81
+   ],
+   "share": 0.188,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

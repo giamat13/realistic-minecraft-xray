@@ -1,0 +1,73 @@
+{
+ "path": "item/recovery_compass_15.png",
+ "depicts": "recovery compass item: steel case, iron needle plate, cyan glass lens (same structure as item/recovery_compass_00.png; variant)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    29,
+    26
+   ],
+   "share": 0.461,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    81,
+    82
+   ],
+   "share": 0.267,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    146,
+    146,
+    146
+   ],
+   "share": 0.144,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    14,
+    128,
+    147
+   ],
+   "share": 0.061,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.056,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.011,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

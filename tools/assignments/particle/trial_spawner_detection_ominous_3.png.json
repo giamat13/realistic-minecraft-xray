@@ -1,0 +1,18 @@
+{
+ "path": "particle/trial_spawner_detection_ominous_3.png",
+ "depicts": "cyan ominous trial spawner detection exclamation mark particle (same structure as particle/trial_spawner_detection_ominous_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    45,
+    224,
+    224
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

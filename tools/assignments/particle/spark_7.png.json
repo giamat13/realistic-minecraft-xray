@@ -1,0 +1,29 @@
+{
+ "path": "particle/spark_7.png",
+ "depicts": "white sparkle spark particle (same structure as particle/spark_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    179,
+    179,
+    179
+   ],
+   "share": 0.52,
+   "material": "steel",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.48,
+   "material": "steel",
+   "thickness_cm": 0.05
+  }
+ ]
+}

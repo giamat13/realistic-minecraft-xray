@@ -1,0 +1,62 @@
+{
+ "path": "mob_effect/jump_boost.png",
+ "depicts": "rabbit's foot (jump boost): white fur tuft, dark leg with bone tip",
+ "kind": "mob_effect",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    154,
+    216,
+    250
+   ],
+   "share": 0.298,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    143,
+    171
+   ],
+   "share": 0.281,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    248,
+    248
+   ],
+   "share": 0.246,
+   "material": "bone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    90,
+    175,
+    207
+   ],
+   "share": 0.175,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    141,
+    196,
+    220
+   ],
+   "share": 0.0,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

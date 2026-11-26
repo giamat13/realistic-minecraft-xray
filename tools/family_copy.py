@@ -29,6 +29,10 @@ for k, g in fam.items():
         arr = clusters.first_frame(np.asarray(texsrc.load(r)))
         labels, cen, sh = clusters.kmeans(arr)
         d = ref.get(len(cen))
+        if d is None and ref:   # frames of one animation can have a different colour count: map each cluster to the nearest sibling cluster
+            d0 = next(iter(ref.values())); rc = np.array([c["rgb"] for c in d0["clusters"]], float)
+            near = [int(((rc - cen[i].astype(float)) ** 2).sum(1).argmin()) for i in range(len(cen))]
+            d = {**d0, "clusters": [d0["clusters"][near[i]] for i in range(len(cen))]}
         if d is None: continue
         d2 = {"path": r, "depicts": d["depicts"] + f" (same structure as {d['path']}; variant)", "kind": d["kind"], "clusters": [
             {"id": i, "rgb": [int(v) for v in cen[i]], "share": round(sh[i], 3), "material": d["clusters"][i]["material"], "thickness_cm": d["clusters"][i]["thickness_cm"]} for i in range(len(cen))]}

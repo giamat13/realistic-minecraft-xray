@@ -1,0 +1,40 @@
+{
+ "path": "particle/big_smoke_8.png",
+ "depicts": "large smoke puff particle, grey (same structure as particle/big_smoke_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    126,
+    120,
+    115
+   ],
+   "share": 0.528,
+   "material": "smoke",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    134,
+    128
+   ],
+   "share": 0.472,
+   "material": "smoke",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    127,
+    121
+   ],
+   "share": 0.0,
+   "material": "smoke",
+   "thickness_cm": 0.05
+  }
+ ]
+}

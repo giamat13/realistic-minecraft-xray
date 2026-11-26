@@ -1,0 +1,18 @@
+{
+ "path": "particle/sculk_charge_pop_3.png",
+ "depicts": "sculk charge burst particle (teal sculk with bright cyan highlight) (same structure as particle/sculk_charge_pop_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 1.0,
+   "material": "sculk",
+   "thickness_cm": 0.3
+  }
+ ]
+}

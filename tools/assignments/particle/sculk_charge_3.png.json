@@ -1,0 +1,62 @@
+{
+ "path": "particle/sculk_charge_3.png",
+ "depicts": "dark teal sculk charge blob particle (same structure as particle/sculk_charge_0.png; variant)",
+ "kind": "particle",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    5,
+    98,
+    93
+   ],
+   "share": 0.577,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    146,
+    149
+   ],
+   "share": 0.212,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    25,
+    70,
+    72
+   ],
+   "share": 0.154,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    5,
+    42,
+    50
+   ],
+   "share": 0.038,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    223,
+    235
+   ],
+   "share": 0.019,
+   "material": "sculk",
+   "thickness_cm": 0.5
+  }
+ ]
+}
