@@ -34,5 +34,7 @@ void vanillaMain() {
 
 void main() {
     vanillaMain();
+#ifndef OIT_ALPHA_ONLY
     fragColor.rgb = vec3(dot(fragColor.rgb, vec3(0.2126, 0.7152, 0.0722)));
+#endif
 }

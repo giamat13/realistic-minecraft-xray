@@ -25,7 +25,7 @@ Real X-ray: density decides how a block looks.
 - Heavy-metal ores (gold, copper, iron, redstone) stand out from the rock; diamond, coal and emerald barely differ from it, just like in a real radiograph.
 - Mixed textures are split by region.
 - Covers every block, item, GUI element, mob, particle, sky texture and effect in each supported version.
-- Mobs are radiographs: skeletons with faint soft tissue, shells for arthropods, faint outlines for boneless creatures. Default player skins are skeletons.
+- Mobs are radiographs: skeletons with faint soft tissue, shells for arthropods, faint outlines for boneless creatures. Player skins are skeletons: the default ones in every version, your own account skin on 26.2+ (no mod needed; a skin that is entirely gray stays as it is).
 - 26.2 and 26.3: no lighting, black sky, gray particles and item tints.
 
 **Optional shader pack** (`RealisticXRay-Shader.zip`, Iris + Sodium, 26.2+, OpenGL): sums everything along each view ray, like a real exposure. Turn Sodium's "Block Face Culling" off. Areas completely hidden behind solid rock are not drawn by the game, so they cannot show.
