@@ -1,0 +1,73 @@
+{
+ "path": "item/orange_dye.png",
+ "depicts": "orange dye pile (powdered dye item)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    185,
+    94,
+    9
+   ],
+   "share": 0.39,
+   "material": "dye_pigment",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    155,
+    25
+   ],
+   "share": 0.164,
+   "material": "dye_pigment",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    59,
+    31,
+    28
+   ],
+   "share": 0.151,
+   "material": "dye_pigment",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    252,
+    201,
+    117
+   ],
+   "share": 0.137,
+   "material": "dye_pigment",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    91,
+    72
+   ],
+   "share": 0.103,
+   "material": "dye_pigment",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    167,
+    154,
+    112
+   ],
+   "share": 0.055,
+   "material": "dye_pigment",
+   "thickness_cm": 1.0
+  }
+ ]
+}

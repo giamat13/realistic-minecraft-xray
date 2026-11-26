@@ -1,0 +1,73 @@
+{
+ "path": "item/end_crystal.png",
+ "depicts": "end crystal item: pale purple-white glass-like crystal orb with red core",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    197,
+    216
+   ],
+   "share": 0.299,
+   "material": "glass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    190,
+    149,
+    212
+   ],
+   "share": 0.188,
+   "material": "glass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    149,
+    77,
+    187
+   ],
+   "share": 0.174,
+   "material": "glass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    249,
+    253,
+    254
+   ],
+   "share": 0.16,
+   "material": "glass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    95,
+    39,
+    125
+   ],
+   "share": 0.118,
+   "material": "glass",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    6,
+    38
+   ],
+   "share": 0.062,
+   "material": "glass",
+   "thickness_cm": 1.0
+  }
+ ]
+}

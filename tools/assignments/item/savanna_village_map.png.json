@@ -1,0 +1,73 @@
+{
+ "path": "item/savanna_village_map.png",
+ "depicts": "a flat map item of a savanna village printed on paper with ink and dye colours",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    249,
+    233,
+    202
+   ],
+   "share": 0.281,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    225,
+    205,
+    169
+   ],
+   "share": 0.215,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    103,
+    74
+   ],
+   "share": 0.18,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    128,
+    94
+   ],
+   "share": 0.167,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.088,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    85,
+    46
+   ],
+   "share": 0.07,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/salmon.png",
+ "depicts": "a raw salmon fish (flesh, skin, scales, fins)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    66,
+    56
+   ],
+   "share": 0.356,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    167,
+    53,
+    51
+   ],
+   "share": 0.244,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    37,
+    41,
+    38
+   ],
+   "share": 0.144,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    116,
+    96
+   ],
+   "share": 0.133,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    115,
+    109
+   ],
+   "share": 0.078,
+   "material": "fat",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    189,
+    146,
+    139
+   ],
+   "share": 0.044,
+   "material": "fat",
+   "thickness_cm": 0.5
+  }
+ ]
+}

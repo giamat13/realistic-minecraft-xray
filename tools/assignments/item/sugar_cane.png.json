@@ -1,0 +1,73 @@
+{
+ "path": "item/sugar_cane.png",
+ "depicts": "Sugar cane: green reed stalks with leaves (cellulose-rich plant stems and leaf blades)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    76,
+    13
+   ],
+   "share": 0.261,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    160,
+    40
+   ],
+   "share": 0.216,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    204,
+    53
+   ],
+   "share": 0.182,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    130,
+    30
+   ],
+   "share": 0.182,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    151,
+    245,
+    68
+   ],
+   "share": 0.102,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    59,
+    99,
+    24
+   ],
+   "share": 0.057,
+   "material": "bamboo",
+   "thickness_cm": 2.0
+  }
+ ]
+}

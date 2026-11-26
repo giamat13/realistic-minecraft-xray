@@ -1,0 +1,73 @@
+{
+ "path": "item/command_block_minecart.png",
+ "depicts": "iron minecart carrying a copper-orange command block, gold trim",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    35,
+    35,
+    28
+   ],
+   "share": 0.352,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    103,
+    93,
+    81
+   ],
+   "share": 0.283,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    149,
+    145
+   ],
+   "share": 0.214,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    200,
+    117,
+    77
+   ],
+   "share": 0.082,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    208,
+    196,
+    188
+   ],
+   "share": 0.063,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    249,
+    189,
+    21
+   ],
+   "share": 0.006,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

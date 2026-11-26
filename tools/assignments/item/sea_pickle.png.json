@@ -1,0 +1,73 @@
+{
+ "path": "item/sea_pickle.png",
+ "depicts": "a sea pickle (marine calcareous coral-like body, green flesh with pale glowing tips)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    80,
+    26
+   ],
+   "share": 0.558,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    104,
+    110,
+    40
+   ],
+   "share": 0.233,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    244,
+    194
+   ],
+   "share": 0.07,
+   "material": "calcite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    255,
+    214
+   ],
+   "share": 0.047,
+   "material": "calcite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    180,
+    227,
+    177
+   ],
+   "share": 0.047,
+   "material": "calcite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    46,
+    48,
+    18
+   ],
+   "share": 0.047,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}

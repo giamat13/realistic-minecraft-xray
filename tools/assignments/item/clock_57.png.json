@@ -1,0 +1,73 @@
+{
+ "path": "item/clock_57.png",
+ "depicts": "gold clock icon frame 57 with blue enamel dial and steel hand",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    201,
+    131,
+    18
+   ],
+   "share": 0.324,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    249,
+    224,
+    51
+   ],
+   "share": 0.216,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    35,
+    9
+   ],
+   "share": 0.188,
+   "material": "brass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    90,
+    186
+   ],
+   "share": 0.142,
+   "material": "ceramic_glaze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    253,
+    245,
+    107
+   ],
+   "share": 0.125,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    86,
+    86,
+    109
+   ],
+   "share": 0.006,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

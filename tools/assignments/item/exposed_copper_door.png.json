@@ -1,0 +1,73 @@
+{
+ "path": "item/exposed_copper_door.png",
+ "depicts": "exposed copper door item: oxidised copper door panel with brown-green patina",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    186,
+    130,
+    119
+   ],
+   "share": 0.368,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    123,
+    105,
+    85
+   ],
+   "share": 0.281,
+   "material": "cuprite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    157,
+    119,
+    100
+   ],
+   "share": 0.167,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    76,
+    79,
+    70
+   ],
+   "share": 0.079,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    152,
+    140,
+    105
+   ],
+   "share": 0.079,
+   "material": "cuprite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    152,
+    105
+   ],
+   "share": 0.026,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  }
+ ]
+}

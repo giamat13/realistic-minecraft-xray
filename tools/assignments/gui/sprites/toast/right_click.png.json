@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/toast/right_click.png",
+ "depicts": "tutorial toast right-click icon, grey plastic computer mouse with red right button and pvc lead",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.421,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    219,
+    219
+   ],
+   "share": 0.24,
+   "material": "pvc",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.157,
+   "material": "plastic",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.116,
+   "material": "plastic",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    0,
+    0
+   ],
+   "share": 0.041,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    96,
+    96
+   ],
+   "share": 0.025,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/fermented_spider_eye.png",
+ "depicts": "fermented spider eye item: dried dark red eyeball with stalk",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    119,
+    12,
+    40
+   ],
+   "share": 0.338,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    4,
+    33
+   ],
+   "share": 0.257,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    2,
+    20
+   ],
+   "share": 0.189,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    157,
+    30,
+    45
+   ],
+   "share": 0.162,
+   "material": "soft_tissue",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    196,
+    95,
+    107
+   ],
+   "share": 0.041,
+   "material": "blood",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    211,
+    154,
+    136
+   ],
+   "share": 0.014,
+   "material": "blood",
+   "thickness_cm": 0.3
+  }
+ ]
+}

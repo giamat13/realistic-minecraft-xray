@@ -1,0 +1,40 @@
+{
+ "path": "item/oxidized_copper_chain.png",
+ "depicts": "oxidized copper chain links (green patina)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    102,
+    85
+   ],
+   "share": 0.552,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    129,
+    107
+   ],
+   "share": 0.31,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    148,
+    132
+   ],
+   "share": 0.138,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  }
+ ]
+}

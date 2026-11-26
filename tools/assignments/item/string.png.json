@@ -1,0 +1,40 @@
+{
+ "path": "item/string.png",
+ "depicts": "String: loose strands of spider silk (fine silk strands with shaded edges)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    233,
+    233,
+    233
+   ],
+   "share": 0.52,
+   "material": "silk",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    47,
+    69,
+    71
+   ],
+   "share": 0.48,
+   "material": "silk",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    144,
+    154,
+    155
+   ],
+   "share": 0.0,
+   "material": "silk",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/recipe_book/filter_enabled.png",
+ "depicts": "recipe-book filter toggle icon, enabled (26x16): green plate with wood-tone glyph (tool-like icon) and small green leaf pixels (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    135,
+    86
+   ],
+   "share": 0.519,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    9,
+    25,
+    24
+   ],
+   "share": 0.144,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    55,
+    33
+   ],
+   "share": 0.113,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    116,
+    69
+   ],
+   "share": 0.096,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    174,
+    197,
+    122
+   ],
+   "share": 0.094,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    128,
+    184,
+    71
+   ],
+   "share": 0.034,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

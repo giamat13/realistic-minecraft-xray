@@ -1,0 +1,73 @@
+{
+ "path": "item/buried_treasure_map.png",
+ "depicts": "Buried treasure map: paper with ink lines and red dye X mark",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    145,
+    124,
+    90
+   ],
+   "share": 0.278,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    238,
+    219,
+    184
+   ],
+   "share": 0.274,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    240,
+    209
+   ],
+   "share": 0.188,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    189,
+    154
+   ],
+   "share": 0.094,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    96,
+    65
+   ],
+   "share": 0.09,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    142,
+    59,
+    44
+   ],
+   "share": 0.076,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

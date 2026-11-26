@@ -1,0 +1,73 @@
+{
+ "path": "item/ender_dragon_spawn_egg.png",
+ "depicts": "spawn egg item with ender dragon black and purple pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    6,
+    6,
+    6
+   ],
+   "share": 0.387,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    29,
+    28,
+    29
+   ],
+   "share": 0.376,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    61,
+    66
+   ],
+   "share": 0.196,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    124,
+    124,
+    124
+   ],
+   "share": 0.021,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    145,
+    14,
+    175
+   ],
+   "share": 0.01,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    204,
+    0,
+    250
+   ],
+   "share": 0.01,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

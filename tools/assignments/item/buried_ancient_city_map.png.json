@@ -1,0 +1,73 @@
+{
+ "path": "item/buried_ancient_city_map.png",
+ "depicts": "Ancient City treasure map: paper with ink lines and a cyan marker",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    145,
+    124,
+    90
+   ],
+   "share": 0.232,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    204,
+    168
+   ],
+   "share": 0.228,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    249,
+    233,
+    202
+   ],
+   "share": 0.189,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    90,
+    81,
+    66
+   ],
+   "share": 0.184,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    8,
+    8,
+    9
+   ],
+   "share": 0.158,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    71,
+    217,
+    248
+   ],
+   "share": 0.009,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

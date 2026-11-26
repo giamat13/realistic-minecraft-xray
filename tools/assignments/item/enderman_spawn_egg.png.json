@@ -1,0 +1,73 @@
+{
+ "path": "item/enderman_spawn_egg.png",
+ "depicts": "spawn egg item with enderman black and purple pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    14,
+    14,
+    14
+   ],
+   "share": 0.414,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    50,
+    41,
+    52
+   ],
+   "share": 0.356,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    121,
+    250
+   ],
+   "share": 0.075,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    205,
+    11,
+    250
+   ],
+   "share": 0.069,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    0,
+    204
+   ],
+   "share": 0.046,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    107,
+    0,
+    144
+   ],
+   "share": 0.04,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

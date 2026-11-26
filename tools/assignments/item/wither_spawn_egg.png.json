@@ -1,0 +1,73 @@
+{
+ "path": "item/wither_spawn_egg.png",
+ "depicts": "spawn egg item: egg-shaped egg in black and grey with light spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    43,
+    43
+   ],
+   "share": 0.466,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    10,
+    10,
+    10
+   ],
+   "share": 0.253,
+   "material": "egg",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    69,
+    72,
+    72
+   ],
+   "share": 0.247,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    165,
+    165,
+    165
+   ],
+   "share": 0.017,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    120,
+    120,
+    120
+   ],
+   "share": 0.011,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    142,
+    142,
+    142
+   ],
+   "share": 0.006,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

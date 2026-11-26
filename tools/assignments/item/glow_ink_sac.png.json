@@ -1,0 +1,73 @@
+{
+ "path": "item/glow_ink_sac.png",
+ "depicts": "glow ink sac item: teal membrane sac filled with glowing ink",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    24,
+    67,
+    67
+   ],
+   "share": 0.54,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    59,
+    182,
+    174
+   ],
+   "share": 0.254,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    113,
+    114
+   ],
+   "share": 0.111,
+   "material": "ink",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    145,
+    104,
+    95
+   ],
+   "share": 0.048,
+   "material": "soft_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    128,
+    255,
+    192
+   ],
+   "share": 0.032,
+   "material": "phosphor",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    189,
+    140,
+    129
+   ],
+   "share": 0.016,
+   "material": "soft_tissue",
+   "thickness_cm": 0.2
+  }
+ ]
+}

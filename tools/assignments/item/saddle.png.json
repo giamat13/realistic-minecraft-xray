@@ -1,0 +1,73 @@
+{
+ "path": "item/saddle.png",
+ "depicts": "a horse saddle of tanned brown leather with iron stirrup/buckle hardware",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    144,
+    66,
+    28
+   ],
+   "share": 0.413,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    30,
+    11
+   ],
+   "share": 0.293,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    111,
+    56
+   ],
+   "share": 0.261,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    153,
+    136
+   ],
+   "share": 0.011,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    127,
+    111,
+    99
+   ],
+   "share": 0.011,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    72,
+    67
+   ],
+   "share": 0.011,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

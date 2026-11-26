@@ -1,0 +1,73 @@
+{
+ "path": "item/purple_dye.png",
+ "depicts": "purple dye item, pigment blob",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    184,
+    105,
+    218
+   ],
+   "share": 0.366,
+   "material": "dye_pigment",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    36,
+    133
+   ],
+   "share": 0.228,
+   "material": "dye_pigment",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    56,
+    30,
+    27
+   ],
+   "share": 0.138,
+   "material": "dye_pigment",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    59,
+    179
+   ],
+   "share": 0.131,
+   "material": "dye_pigment",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    125,
+    94,
+    74
+   ],
+   "share": 0.076,
+   "material": "dye_pigment",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    166,
+    152,
+    110
+   ],
+   "share": 0.062,
+   "material": "dye_pigment",
+   "thickness_cm": 0.3
+  }
+ ]
+}

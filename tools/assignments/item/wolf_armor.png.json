@@ -1,0 +1,73 @@
+{
+ "path": "item/wolf_armor.png",
+ "depicts": "wolf armour item (plated armour from armadillo scute keratin plates with leather straps)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    110,
+    105
+   ],
+   "share": 0.351,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    137,
+    85,
+    77
+   ],
+   "share": 0.297,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    92,
+    45,
+    48
+   ],
+   "share": 0.243,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    113,
+    62,
+    62
+   ],
+   "share": 0.054,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    123,
+    96
+   ],
+   "share": 0.027,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    198,
+    136,
+    132
+   ],
+   "share": 0.027,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

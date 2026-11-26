@@ -1,0 +1,73 @@
+{
+ "path": "item/sulfur_cube_spawn_egg.png",
+ "depicts": "Sulfur cube spawn egg: egg-shaped spawn item with cream shell and yellow sulfur patches",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    112,
+    87
+   ],
+   "share": 0.254,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    210,
+    192,
+    141
+   ],
+   "share": 0.246,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    235,
+    238,
+    145
+   ],
+   "share": 0.246,
+   "material": "sulfur",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    255,
+    242
+   ],
+   "share": 0.134,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    237,
+    250,
+    191
+   ],
+   "share": 0.06,
+   "material": "sulfur",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    182,
+    145,
+    114
+   ],
+   "share": 0.06,
+   "material": "egg",
+   "thickness_cm": 4.0
+  }
+ ]
+}

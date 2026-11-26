@@ -1,0 +1,73 @@
+{
+ "path": "item/buried_mineshaft_map.png",
+ "depicts": "Buried mineshaft treasure map: paper with ink markings and graphite lines",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    243,
+    226,
+    192
+   ],
+   "share": 0.395,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    144,
+    123,
+    90
+   ],
+   "share": 0.228,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    114,
+    92,
+    60
+   ],
+   "share": 0.123,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.123,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    190,
+    161
+   ],
+   "share": 0.105,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    136,
+    135,
+    136
+   ],
+   "share": 0.026,
+   "material": "graphite",
+   "thickness_cm": 0.02
+  }
+ ]
+}

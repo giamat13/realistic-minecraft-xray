@@ -1,0 +1,73 @@
+{
+ "path": "item/experience_bottle.png",
+ "depicts": "experience bottle item: glass bottle filled with glowing green liquid",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    203,
+    228,
+    90
+   ],
+   "share": 0.336,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    67,
+    50,
+    3
+   ],
+   "share": 0.319,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    255,
+    144
+   ],
+   "share": 0.159,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    114,
+    176,
+    54
+   ],
+   "share": 0.071,
+   "material": "potion_liquid",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    52,
+    137,
+    72
+   ],
+   "share": 0.071,
+   "material": "potion_liquid",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    89,
+    176,
+    87
+   ],
+   "share": 0.044,
+   "material": "potion_liquid",
+   "thickness_cm": 2.0
+  }
+ ]
+}

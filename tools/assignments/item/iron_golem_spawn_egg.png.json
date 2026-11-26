@@ -1,0 +1,73 @@
+{
+ "path": "item/iron_golem_spawn_egg.png",
+ "depicts": "spawn egg (iron golem variant) egg-shaped shell with green speckles",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    76,
+    59
+   ],
+   "share": 0.299,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    155,
+    136,
+    123
+   ],
+   "share": 0.293,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    191,
+    186
+   ],
+   "share": 0.207,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    133,
+    45
+   ],
+   "share": 0.121,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    227,
+    218
+   ],
+   "share": 0.052,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    244,
+    188,
+    0
+   ],
+   "share": 0.029,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/carrot.png",
+ "depicts": "carrot: orange root vegetable with green leaves",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    235,
+    132,
+    24
+   ],
+   "share": 0.292,
+   "material": "vegetable",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    142,
+    48,
+    1
+   ],
+   "share": 0.25,
+   "material": "vegetable",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    2,
+    98,
+    2
+   ],
+   "share": 0.219,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    170,
+    37
+   ],
+   "share": 0.208,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    193,
+    119
+   ],
+   "share": 0.031,
+   "material": "vegetable",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    121,
+    113,
+    19
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

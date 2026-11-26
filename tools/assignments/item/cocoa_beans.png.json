@@ -1,0 +1,51 @@
+{
+ "path": "item/cocoa_beans.png",
+ "depicts": "cluster of cocoa beans, about 1.2 cm chocolate-like seeds",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    48,
+    26,
+    10
+   ],
+   "share": 0.382,
+   "material": "chocolate",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    68,
+    37
+   ],
+   "share": 0.273,
+   "material": "chocolate",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    43,
+    19
+   ],
+   "share": 0.2,
+   "material": "chocolate",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    151,
+    103,
+    70
+   ],
+   "share": 0.145,
+   "material": "chocolate",
+   "thickness_cm": 1.0
+  }
+ ]
+}

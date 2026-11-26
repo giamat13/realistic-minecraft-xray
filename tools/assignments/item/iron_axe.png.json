@@ -1,0 +1,73 @@
+{
+ "path": "item/iron_axe.png",
+ "depicts": "iron axe: iron head and wooden handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    64,
+    39
+   ],
+   "share": 0.35,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    33,
+    28,
+    16
+   ],
+   "share": 0.283,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    197,
+    197
+   ],
+   "share": 0.2,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.083,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    103,
+    39
+   ],
+   "share": 0.05,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.033,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

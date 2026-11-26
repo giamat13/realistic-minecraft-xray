@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/advancements/tab_below_right_selected.png",
+ "depicts": "advancement tab (below, right corner), selected: light grey panel with dark grey shade, black outline and white highlight (abstract UI tab)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.723,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.123,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.092,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.062,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

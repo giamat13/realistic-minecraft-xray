@@ -1,0 +1,73 @@
+{
+ "path": "item/pale_oak_boat.png",
+ "depicts": "pale oak boat (light wood hull)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    236,
+    230,
+    229
+   ],
+   "share": 0.23,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    147,
+    131,
+    131
+   ],
+   "share": 0.2,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    109,
+    99,
+    99
+   ],
+   "share": 0.2,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    79,
+    70,
+    70
+   ],
+   "share": 0.182,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    210,
+    198,
+    199
+   ],
+   "share": 0.127,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    48,
+    42,
+    42
+   ],
+   "share": 0.061,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

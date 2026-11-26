@@ -1,0 +1,73 @@
+{
+ "path": "item/coal.png",
+ "depicts": "lump of coal, about 1.5 cm across",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    37,
+    34,
+    37
+   ],
+   "share": 0.363,
+   "material": "coal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    29,
+    26,
+    31
+   ],
+   "share": 0.25,
+   "material": "coal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    16,
+    16,
+    21
+   ],
+   "share": 0.129,
+   "material": "coal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    46,
+    46,
+    46
+   ],
+   "share": 0.121,
+   "material": "coal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    52,
+    52,
+    52
+   ],
+   "share": 0.113,
+   "material": "coal",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    57,
+    62,
+    70
+   ],
+   "share": 0.024,
+   "material": "coal",
+   "thickness_cm": 1.5
+  }
+ ]
+}

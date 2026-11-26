@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/recipe_book/furnace_filter_enabled.png",
+ "depicts": "recipe-book furnace filter toggle icon, enabled (26x16): green plate with a stone-grey furnace glyph, light olive bevel and a green leaf pixel group (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    135,
+    86
+   ],
+   "share": 0.519,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    9,
+    25,
+    24
+   ],
+   "share": 0.144,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    173,
+    189,
+    138
+   ],
+   "share": 0.137,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    78,
+    78,
+    78
+   ],
+   "share": 0.094,
+   "material": "stone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    135,
+    135,
+    135
+   ],
+   "share": 0.072,
+   "material": "stone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    128,
+    184,
+    71
+   ],
+   "share": 0.034,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

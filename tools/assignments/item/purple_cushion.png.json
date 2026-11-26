@@ -1,0 +1,62 @@
+{
+ "path": "item/purple_cushion.png",
+ "depicts": "purple fabric cushion with wool stuffing",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    179,
+    80,
+    212
+   ],
+   "share": 0.25,
+   "material": "textile",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    148,
+    56,
+    203
+   ],
+   "share": 0.231,
+   "material": "wool",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    44,
+    165
+   ],
+   "share": 0.212,
+   "material": "wool",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    29,
+    99
+   ],
+   "share": 0.173,
+   "material": "wool",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    82,
+    37,
+    128
+   ],
+   "share": 0.135,
+   "material": "textile",
+   "thickness_cm": 1.0
+  }
+ ]
+}

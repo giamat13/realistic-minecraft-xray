@@ -1,0 +1,73 @@
+{
+ "path": "item/ghast_tear.png",
+ "depicts": "ghast tear item: small translucent tear-drop of ghast gel with white highlights",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    55,
+    79,
+    79
+   ],
+   "share": 0.471,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    181,
+    219,
+    219
+   ],
+   "share": 0.176,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    195,
+    195
+   ],
+   "share": 0.147,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    207,
+    241,
+    241
+   ],
+   "share": 0.147,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.059,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    127,
+    155,
+    155
+   ],
+   "share": 0.0,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 0.3
+  }
+ ]
+}

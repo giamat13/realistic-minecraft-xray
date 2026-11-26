@@ -1,0 +1,73 @@
+{
+ "path": "item/salmon_bucket.png",
+ "depicts": "a metal water bucket holding a salmon: iron bucket walls, water, and fish flesh",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    58,
+    55
+   ],
+   "share": 0.353,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    115,
+    107
+   ],
+   "share": 0.193,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.193,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.14,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    50,
+    94,
+    217
+   ],
+   "share": 0.087,
+   "material": "water",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    152,
+    51,
+    44
+   ],
+   "share": 0.033,
+   "material": "muscle",
+   "thickness_cm": 3.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/bucket.png",
+ "depicts": "empty iron bucket with rim and handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.329,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.26,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    114,
+    114,
+    114
+   ],
+   "share": 0.178,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.123,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    91,
+    91,
+    91
+   ],
+   "share": 0.089,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.021,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

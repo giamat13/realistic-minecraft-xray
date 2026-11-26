@@ -1,0 +1,73 @@
+{
+ "path": "item/bundle_open_front.png",
+ "depicts": "bundle open front view: leather flap/pocket with cord and inner lining",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    64,
+    35
+   ],
+   "share": 0.353,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    90,
+    53
+   ],
+   "share": 0.218,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    49,
+    26
+   ],
+   "share": 0.151,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    172,
+    110,
+    66
+   ],
+   "share": 0.126,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    209,
+    130,
+    73
+   ],
+   "share": 0.101,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.05,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

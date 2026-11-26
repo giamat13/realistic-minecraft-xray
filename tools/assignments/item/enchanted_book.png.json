@@ -1,0 +1,73 @@
+{
+ "path": "item/enchanted_book.png",
+ "depicts": "enchanted book item: red leather cover with gold trim and paper page block",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    62,
+    21
+   ],
+   "share": 0.401,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    46,
+    29,
+    6
+   ],
+   "share": 0.316,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    30,
+    47
+   ],
+   "share": 0.118,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    171,
+    171,
+    171
+   ],
+   "share": 0.112,
+   "material": "paper",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    159,
+    23
+   ],
+   "share": 0.026,
+   "material": "gold",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.026,
+   "material": "paper",
+   "thickness_cm": 2.0
+  }
+ ]
+}

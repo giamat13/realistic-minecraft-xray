@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/recipe_book/furnace_filter_disabled.png",
+ "depicts": "recipe-book furnace filter toggle icon, disabled (26x16): grey plate with a brick-red flame/fire glyph and stone-grey furnace body, black outline (abstract UI sprite)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    138,
+    138,
+    138
+   ],
+   "share": 0.562,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.144,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    78,
+    78,
+    78
+   ],
+   "share": 0.094,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    183,
+    183,
+    183
+   ],
+   "share": 0.077,
+   "material": "stone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    180,
+    61,
+    44
+   ],
+   "share": 0.062,
+   "material": "brick",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.06,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

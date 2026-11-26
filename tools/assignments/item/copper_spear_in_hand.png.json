@@ -1,0 +1,73 @@
+{
+ "path": "item/copper_spear_in_hand.png",
+ "depicts": "copper spear held in the hand sprite: wooden shaft with copper spearhead",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    60,
+    36,
+    15
+   ],
+   "share": 0.426,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    103,
+    54,
+    25
+   ],
+   "share": 0.254,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    147,
+    91,
+    42
+   ],
+   "share": 0.139,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    243,
+    144,
+    118
+   ],
+   "share": 0.066,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    197,
+    96,
+    61
+   ],
+   "share": 0.066,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    253,
+    212,
+    203
+   ],
+   "share": 0.049,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

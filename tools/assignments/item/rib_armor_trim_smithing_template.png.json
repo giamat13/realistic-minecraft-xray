@@ -1,0 +1,73 @@
+{
+ "path": "item/rib_armor_trim_smithing_template.png",
+ "depicts": "smithing template card with a rib-shaped trim outline (dark card with teal metal trim)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    71,
+    38,
+    44
+   ],
+   "share": 0.467,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    37,
+    19,
+    22
+   ],
+   "share": 0.345,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    1,
+    40,
+    49
+   ],
+   "share": 0.055,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    7,
+    121,
+    149
+   ],
+   "share": 0.055,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    32,
+    154,
+    184
+   ],
+   "share": 0.048,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    72,
+    89
+   ],
+   "share": 0.03,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

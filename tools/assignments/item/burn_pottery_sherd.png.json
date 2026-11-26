@@ -1,0 +1,73 @@
+{
+ "path": "item/burn_pottery_sherd.png",
+ "depicts": "burn pottery sherd: fired terracotta shard with darker burn pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    41,
+    33
+   ],
+   "share": 0.28,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    114,
+    65,
+    53
+   ],
+   "share": 0.21,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.172,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    55,
+    47
+   ],
+   "share": 0.172,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.115,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.051,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

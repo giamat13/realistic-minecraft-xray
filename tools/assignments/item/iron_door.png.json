@@ -1,0 +1,73 @@
+{
+ "path": "item/iron_door.png",
+ "depicts": "iron door item: iron panel with recessed frame and rivets (door thickness ~3/16 block)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    205,
+    205,
+    205
+   ],
+   "share": 0.578,
+   "material": "iron",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 1,
+   "rgb": [
+    149,
+    149,
+    149
+   ],
+   "share": 0.172,
+   "material": "iron",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 2,
+   "rgb": [
+    177,
+    177,
+    177
+   ],
+   "share": 0.138,
+   "material": "iron",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 3,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.069,
+   "material": "iron",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 4,
+   "rgb": [
+    76,
+    76,
+    76
+   ],
+   "share": 0.026,
+   "material": "iron",
+   "thickness_cm": 18.75
+  },
+  {
+   "id": 5,
+   "rgb": [
+    67,
+    67,
+    67
+   ],
+   "share": 0.017,
+   "material": "iron",
+   "thickness_cm": 18.75
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/cod.png",
+ "depicts": "raw cod fish: dark dorsal skin, pale belly, flesh, eye",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    109,
+    78
+   ],
+   "share": 0.281,
+   "material": "muscle",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    198,
+    162,
+    113
+   ],
+   "share": 0.24,
+   "material": "fat",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    177,
+    137,
+    83
+   ],
+   "share": 0.198,
+   "material": "muscle",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    107,
+    68,
+    43
+   ],
+   "share": 0.156,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    197,
+    173
+   ],
+   "share": 0.115,
+   "material": "fat",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.01,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  }
+ ]
+}

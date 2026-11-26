@@ -1,0 +1,73 @@
+{
+ "path": "item/shaper_armor_trim_smithing_template.png",
+ "depicts": "smithing template card with a shaper trim outline (brown card with cyan metal trim)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    62,
+    50
+   ],
+   "share": 0.388,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    125,
+    96,
+    79
+   ],
+   "share": 0.303,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    29,
+    29
+   ],
+   "share": 0.248,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    75,
+    201,
+    201
+   ],
+   "share": 0.03,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    232,
+    232
+   ],
+   "share": 0.018,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    32,
+    154,
+    184
+   ],
+   "share": 0.012,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

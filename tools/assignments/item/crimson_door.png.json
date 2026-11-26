@@ -1,0 +1,73 @@
+{
+ "path": "item/crimson_door.png",
+ "depicts": "crimson door item icon: crimson nether-wood panel with iron hinges and knob",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    62,
+    90
+   ],
+   "share": 0.464,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    48,
+    66
+   ],
+   "share": 0.214,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    75,
+    113
+   ],
+   "share": 0.143,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    33,
+    49
+   ],
+   "share": 0.136,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    81,
+    63,
+    71
+   ],
+   "share": 0.021,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    107,
+    89,
+    97
+   ],
+   "share": 0.021,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/shears.png",
+ "depicts": "a pair of metal shears (iron blades and grip; reddish clusters read as the same iron grip)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    103,
+    49,
+    38
+   ],
+   "share": 0.351,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    168,
+    168,
+    168
+   ],
+   "share": 0.247,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    213,
+    213
+   ],
+   "share": 0.156,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    72,
+    58
+   ],
+   "share": 0.13,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    112,
+    112,
+    112
+   ],
+   "share": 0.078,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    66,
+    66,
+    66
+   ],
+   "share": 0.039,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/purple_candle.png",
+ "depicts": "purple dyed paraffin wax candle with cotton wick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    102,
+    32,
+    160
+   ],
+   "share": 0.396,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    151,
+    46,
+    205
+   ],
+   "share": 0.198,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    44,
+    180
+   ],
+   "share": 0.187,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    22,
+    125
+   ],
+   "share": 0.187,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    48,
+    101
+   ],
+   "share": 0.022,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.011,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

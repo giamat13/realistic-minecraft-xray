@@ -1,0 +1,73 @@
+{
+ "path": "item/ender_pearl.png",
+ "depicts": "ender pearl item: teal glass-like sphere",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    6,
+    46,
+    39
+   ],
+   "share": 0.438,
+   "material": "glass",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    13,
+    85,
+    73
+   ],
+   "share": 0.289,
+   "material": "glass",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    36,
+    131,
+    115
+   ],
+   "share": 0.107,
+   "material": "glass",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    52,
+    153,
+    136
+   ],
+   "share": 0.099,
+   "material": "glass",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    44,
+    205,
+    177
+   ],
+   "share": 0.041,
+   "material": "glass",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    140,
+    244,
+    226
+   ],
+   "share": 0.025,
+   "material": "glass",
+   "thickness_cm": 1.5
+  }
+ ]
+}

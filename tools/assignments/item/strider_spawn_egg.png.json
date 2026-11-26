@@ -1,0 +1,73 @@
+{
+ "path": "item/strider_spawn_egg.png",
+ "depicts": "Strider spawn egg: egg-shaped spawn item with a red-brown shell and cream speckles",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    50,
+    29,
+    29
+   ],
+   "share": 0.316,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    56,
+    57
+   ],
+   "share": 0.283,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    91,
+    50,
+    52
+   ],
+   "share": 0.198,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    91,
+    98
+   ],
+   "share": 0.075,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    168,
+    134
+   ],
+   "share": 0.064,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    246,
+    224,
+    191
+   ],
+   "share": 0.064,
+   "material": "egg",
+   "thickness_cm": 4.0
+  }
+ ]
+}

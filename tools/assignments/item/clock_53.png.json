@@ -1,0 +1,73 @@
+{
+ "path": "item/clock_53.png",
+ "depicts": "pocket-watch style clock icon: gold case, blue/black dial, steel hand, frame 53",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    241,
+    207,
+    43
+   ],
+   "share": 0.295,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    190,
+    114,
+    18
+   ],
+   "share": 0.239,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    34,
+    12
+   ],
+   "share": 0.222,
+   "material": "brass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    245,
+    107
+   ],
+   "share": 0.125,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    91,
+    190
+   ],
+   "share": 0.114,
+   "material": "ceramic_glaze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    86,
+    86,
+    109
+   ],
+   "share": 0.006,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

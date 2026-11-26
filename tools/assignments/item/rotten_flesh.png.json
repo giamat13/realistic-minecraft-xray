@@ -1,0 +1,73 @@
+{
+ "path": "item/rotten_flesh.png",
+ "depicts": "a piece of rotten flesh (decayed brown meat)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    129,
+    64,
+    24
+   ],
+   "share": 0.303,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    44,
+    16
+   ],
+   "share": 0.227,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    40,
+    20,
+    10
+   ],
+   "share": 0.168,
+   "material": "muscle",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    68,
+    32
+   ],
+   "share": 0.151,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    197,
+    101,
+    65
+   ],
+   "share": 0.084,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    197,
+    132,
+    92
+   ],
+   "share": 0.067,
+   "material": "muscle",
+   "thickness_cm": 1.5
+  }
+ ]
+}

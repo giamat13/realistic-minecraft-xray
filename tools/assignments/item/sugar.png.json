@@ -1,0 +1,62 @@
+{
+ "path": "item/sugar.png",
+ "depicts": "Sugar: pile of white sucrose crystals",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.295,
+   "material": "sugar",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    213,
+    223
+   ],
+   "share": 0.216,
+   "material": "sugar",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    84,
+    84,
+    104
+   ],
+   "share": 0.193,
+   "material": "sugar",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    185,
+    185,
+    203
+   ],
+   "share": 0.193,
+   "material": "sugar",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.102,
+   "material": "sugar",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/witch_spawn_egg.png",
+ "depicts": "spawn egg item: egg-shaped egg (chicken egg analogue) with purple/brown witch-colour spots; whole egg ~5 cm across",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    101,
+    69,
+    52
+   ],
+   "share": 0.261,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    36,
+    19,
+    55
+   ],
+   "share": 0.254,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    132,
+    111,
+    93
+   ],
+   "share": 0.169,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    7,
+    12,
+    5
+   ],
+   "share": 0.169,
+   "material": "egg",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    175,
+    163,
+    145
+   ],
+   "share": 0.134,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    24,
+    160,
+    40
+   ],
+   "share": 0.014,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

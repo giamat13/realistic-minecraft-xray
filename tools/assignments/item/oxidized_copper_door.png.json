@@ -1,0 +1,73 @@
+{
+ "path": "item/oxidized_copper_door.png",
+ "depicts": "oxidized copper door panel (patina-covered copper)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    89,
+    178,
+    146
+   ],
+   "share": 0.368,
+   "material": "malachite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    110,
+    89
+   ],
+   "share": 0.175,
+   "material": "malachite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    81,
+    156,
+    118
+   ],
+   "share": 0.167,
+   "material": "malachite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    133,
+    108
+   ],
+   "share": 0.105,
+   "material": "malachite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    83,
+    164,
+    129
+   ],
+   "share": 0.105,
+   "material": "malachite",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    76,
+    79,
+    70
+   ],
+   "share": 0.079,
+   "material": "malachite",
+   "thickness_cm": 0.4
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/coast_armor_trim_smithing_template.png",
+ "depicts": "smithing template card (paper-like plate) with teal prismarine-style coast trim emblem",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    104,
+    111
+   ],
+   "share": 0.375,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    49,
+    59
+   ],
+   "share": 0.348,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    165,
+    166
+   ],
+   "share": 0.217,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    75,
+    201,
+    201
+   ],
+   "share": 0.027,
+   "material": "prismarine",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    131,
+    248,
+    248
+   ],
+   "share": 0.016,
+   "material": "prismarine",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    32,
+    154,
+    184
+   ],
+   "share": 0.016,
+   "material": "prismarine",
+   "thickness_cm": 0.1
+  }
+ ]
+}

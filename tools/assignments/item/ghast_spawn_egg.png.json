@@ -1,0 +1,73 @@
+{
+ "path": "item/ghast_spawn_egg.png",
+ "depicts": "ghast spawn egg item: white egg-shaped shell with grey tentacle/outline markings",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.385,
+   "material": "calcite",
+   "thickness_cm": 0.03
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    204,
+    204
+   ],
+   "share": 0.259,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    170,
+    170
+   ],
+   "share": 0.126,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    115,
+    109,
+    109
+   ],
+   "share": 0.121,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    94,
+    90,
+    90
+   ],
+   "share": 0.109,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    196,
+    190,
+    190
+   ],
+   "share": 0.0,
+   "material": "calcite",
+   "thickness_cm": 0.03
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/crimson_hanging_sign.png",
+ "depicts": "crimson hanging sign: crimson wood plaque hung on iron chains",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    130,
+    60,
+    88
+   ],
+   "share": 0.426,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    32,
+    44
+   ],
+   "share": 0.243,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    51,
+    73
+   ],
+   "share": 0.128,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    31,
+    58
+   ],
+   "share": 0.095,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.054,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

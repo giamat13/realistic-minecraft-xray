@@ -1,0 +1,73 @@
+{
+ "path": "item/buried_trial_chambers_map.png",
+ "depicts": "Trial Chambers treasure map: paper with ink lines and a teal marker",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    220,
+    186
+   ],
+   "share": 0.482,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    149,
+    120,
+    85
+   ],
+   "share": 0.263,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    111,
+    100,
+    83
+   ],
+   "share": 0.158,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.088,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    186,
+    165,
+    127
+   ],
+   "share": 0.004,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    181,
+    170
+   ],
+   "share": 0.004,
+   "material": "dye_pigment",
+   "thickness_cm": 0.02
+  }
+ ]
+}

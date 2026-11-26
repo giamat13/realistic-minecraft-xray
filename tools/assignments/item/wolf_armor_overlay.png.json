@@ -1,0 +1,73 @@
+{
+ "path": "item/wolf_armor_overlay.png",
+ "depicts": "greyscale dye/colour-tint mask for wolf armour, a cloth layer that takes dye colour",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    201,
+    201,
+    201
+   ],
+   "share": 0.25,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    205,
+    205,
+    205
+   ],
+   "share": 0.25,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    194,
+    194,
+    194
+   ],
+   "share": 0.214,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.143,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    184,
+    184
+   ],
+   "share": 0.107,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    210,
+    210,
+    210
+   ],
+   "share": 0.036,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

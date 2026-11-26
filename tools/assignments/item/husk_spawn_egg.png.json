@@ -1,0 +1,73 @@
+{
+ "path": "item/husk_spawn_egg.png",
+ "depicts": "spawn egg (husk variant) sand-coloured egg shell with dark speckles",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    106,
+    93,
+    72
+   ],
+   "share": 0.239,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    77,
+    66,
+    45
+   ],
+   "share": 0.231,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    142,
+    126,
+    93
+   ],
+   "share": 0.194,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    195,
+    168,
+    110
+   ],
+   "share": 0.172,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    24,
+    19,
+    11
+   ],
+   "share": 0.127,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    232,
+    205,
+    151
+   ],
+   "share": 0.037,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/cow_spawn_egg.png",
+ "depicts": "cow spawn egg: egg-shaped shell with dark and white spots",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    60,
+    50,
+    38
+   ],
+   "share": 0.318,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    27,
+    24,
+    21
+   ],
+   "share": 0.207,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    179,
+    179
+   ],
+   "share": 0.162,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    83,
+    79,
+    73
+   ],
+   "share": 0.157,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    129,
+    129,
+    129
+   ],
+   "share": 0.116,
+   "material": "egg",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.04,
+   "material": "egg",
+   "thickness_cm": 5.0
+  }
+ ]
+}

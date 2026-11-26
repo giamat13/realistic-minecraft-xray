@@ -1,0 +1,73 @@
+{
+ "path": "item/exposed_copper_lantern.png",
+ "depicts": "exposed copper lantern item: oxidised copper frame with glass panes and glowing core",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    110,
+    89
+   ],
+   "share": 0.375,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    177,
+    126,
+    110
+   ],
+   "share": 0.268,
+   "material": "cuprite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    235,
+    153
+   ],
+   "share": 0.143,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    178,
+    110
+   ],
+   "share": 0.107,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    238,
+    252,
+    238
+   ],
+   "share": 0.071,
+   "material": "fire",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    70,
+    130,
+    77
+   ],
+   "share": 0.036,
+   "material": "malachite",
+   "thickness_cm": 0.1
+  }
+ ]
+}

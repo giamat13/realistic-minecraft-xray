@@ -1,0 +1,73 @@
+{
+ "path": "item/clock_60.png",
+ "depicts": "gold clock icon frame 60 with blue enamel dial, black night dial segment, brass shading",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    201,
+    131,
+    18
+   ],
+   "share": 0.324,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    251,
+    225,
+    53
+   ],
+   "share": 0.205,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    91,
+    188
+   ],
+   "share": 0.17,
+   "material": "ceramic_glaze",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    117,
+    40,
+    2
+   ],
+   "share": 0.131,
+   "material": "brass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    253,
+    245,
+    107
+   ],
+   "share": 0.125,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    26,
+    24,
+    24
+   ],
+   "share": 0.045,
+   "material": "ceramic_glaze",
+   "thickness_cm": 0.1
+  }
+ ]
+}

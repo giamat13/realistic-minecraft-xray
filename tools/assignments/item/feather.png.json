@@ -1,0 +1,51 @@
+{
+ "path": "item/feather.png",
+ "depicts": "feather item: white bird feather with shaft and vane",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    211,
+    211,
+    211
+   ],
+   "share": 0.431,
+   "material": "feather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.246,
+   "material": "feather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    150,
+    150,
+    150
+   ],
+   "share": 0.2,
+   "material": "feather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    190,
+    190,
+    190
+   ],
+   "share": 0.123,
+   "material": "feather",
+   "thickness_cm": 0.3
+  }
+ ]
+}

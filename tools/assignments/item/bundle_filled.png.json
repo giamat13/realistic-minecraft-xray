@@ -1,0 +1,73 @@
+{
+ "path": "item/bundle_filled.png",
+ "depicts": "brown leather bundle (filled, closed) with cord straps",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    112,
+    60,
+    42
+   ],
+   "share": 0.389,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    36,
+    8
+   ],
+   "share": 0.252,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    166,
+    87,
+    44
+   ],
+   "share": 0.16,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    205,
+    123,
+    70
+   ],
+   "share": 0.153,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    183,
+    153,
+    99
+   ],
+   "share": 0.038,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    195,
+    141
+   ],
+   "share": 0.008,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

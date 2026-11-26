@@ -1,0 +1,73 @@
+{
+ "path": "item/sulfur_cube_bucket.png",
+ "depicts": "Sulfur cube bucket: an iron bucket holding a yellow sulfur cube",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    126,
+    104,
+    90
+   ],
+   "share": 0.232,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.22,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    162,
+    156
+   ],
+   "share": 0.213,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    220,
+    222,
+    211
+   ],
+   "share": 0.134,
+   "material": "sulfur",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    229,
+    233,
+    144
+   ],
+   "share": 0.128,
+   "material": "sulfur",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    252,
+    255,
+    249
+   ],
+   "share": 0.073,
+   "material": "sulfur",
+   "thickness_cm": 3.0
+  }
+ ]
+}

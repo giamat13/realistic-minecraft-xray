@@ -1,0 +1,73 @@
+{
+ "path": "item/pale_oak_chest_boat.png",
+ "depicts": "pale oak chest boat: wooden hull with plank chest",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    50,
+    41,
+    27
+   ],
+   "share": 0.236,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    237,
+    231,
+    229
+   ],
+   "share": 0.19,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    69,
+    56
+   ],
+   "share": 0.178,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    111,
+    111
+   ],
+   "share": 0.161,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    155,
+    109,
+    34
+   ],
+   "share": 0.161,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    210,
+    198,
+    199
+   ],
+   "share": 0.075,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

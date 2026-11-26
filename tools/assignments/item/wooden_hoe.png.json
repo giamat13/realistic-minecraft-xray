@@ -1,0 +1,73 @@
+{
+ "path": "item/wooden_hoe.png",
+ "depicts": "wooden hoe: oak planks head on an oak wood handle",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    24,
+    10
+   ],
+   "share": 0.314,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    54,
+    21
+   ],
+   "share": 0.196,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    105,
+    79,
+    30
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    103,
+    38
+   ],
+   "share": 0.118,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    55,
+    41,
+    16
+   ],
+   "share": 0.118,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    117,
+    88,
+    33
+   ],
+   "share": 0.078,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  }
+ ]
+}

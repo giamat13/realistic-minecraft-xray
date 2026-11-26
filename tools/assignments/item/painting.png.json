@@ -1,0 +1,73 @@
+{
+ "path": "item/painting.png",
+ "depicts": "framed painting: canvas art in wooden frame with iron hanger",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    155,
+    140,
+    119
+   ],
+   "share": 0.358,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 1,
+   "rgb": [
+    197,
+    193,
+    184
+   ],
+   "share": 0.331,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    114,
+    66,
+    17
+   ],
+   "share": 0.172,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    28,
+    9
+   ],
+   "share": 0.086,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    50,
+    50,
+    50
+   ],
+   "share": 0.04,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.013,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/glow_berries.png",
+ "depicts": "glow berries item: cluster of orange glowing berries on green cave-vine stalk",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    177,
+    91,
+    24
+   ],
+   "share": 0.372,
+   "material": "fruit",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    84,
+    31
+   ],
+   "share": 0.265,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    150,
+    69
+   ],
+   "share": 0.15,
+   "material": "fruit",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    209,
+    100
+   ],
+   "share": 0.088,
+   "material": "fruit",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    137,
+    40
+   ],
+   "share": 0.071,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    195,
+    198,
+    47
+   ],
+   "share": 0.053,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

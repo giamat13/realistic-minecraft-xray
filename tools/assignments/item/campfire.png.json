@@ -1,0 +1,73 @@
+{
+ "path": "item/campfire.png",
+ "depicts": "campfire: crossed wood logs with flame",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    55,
+    34
+   ],
+   "share": 0.317,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    150,
+    85,
+    34
+   ],
+   "share": 0.278,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    199,
+    165,
+    92
+   ],
+   "share": 0.175,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    209,
+    128,
+    12
+   ],
+   "share": 0.175,
+   "material": "fire",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    254,
+    251
+   ],
+   "share": 0.032,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    249,
+    235,
+    171
+   ],
+   "share": 0.024,
+   "material": "fire",
+   "thickness_cm": 2.0
+  }
+ ]
+}

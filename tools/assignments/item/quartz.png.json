@@ -1,0 +1,73 @@
+{
+ "path": "item/quartz.png",
+ "depicts": "nether quartz crystal shard (item icon)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    180,
+    162,
+    144
+   ],
+   "share": 0.327,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    215,
+    205,
+    190
+   ],
+   "share": 0.192,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    232,
+    226,
+    218
+   ],
+   "share": 0.16,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    111,
+    93,
+    90
+   ],
+   "share": 0.128,
+   "material": "quartz",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    123,
+    115
+   ],
+   "share": 0.122,
+   "material": "quartz",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    247,
+    245,
+    242
+   ],
+   "share": 0.071,
+   "material": "quartz",
+   "thickness_cm": 1.0
+  }
+ ]
+}

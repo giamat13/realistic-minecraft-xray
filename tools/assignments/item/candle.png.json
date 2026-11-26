@@ -1,0 +1,73 @@
+{
+ "path": "item/candle.png",
+ "depicts": "white/yellow wax candle with cotton wick",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    218,
+    188,
+    114
+   ],
+   "share": 0.407,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    253,
+    232,
+    184
+   ],
+   "share": 0.319,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    122,
+    56
+   ],
+   "share": 0.187,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    247,
+    230
+   ],
+   "share": 0.055,
+   "material": "wax",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    48,
+    101
+   ],
+   "share": 0.022,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.011,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}
