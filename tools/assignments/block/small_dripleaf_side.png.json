@@ -1,0 +1,18 @@
+{
+ "path": "block/small_dripleaf_side.png",
+ "depicts": "small dripleaf: edge of a broad leaf, green leaf tissue",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 1.0,
+   "material": "foliage",
+   "thickness_cm": 5.0
+  }
+ ]
+}

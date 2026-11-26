@@ -1,0 +1,73 @@
+{
+ "path": "block/vault_side_on.png",
+ "depicts": "trial vault side, active: dark metal side with glowing orange light",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    47,
+    55
+   ],
+   "share": 0.683,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    102,
+    102
+   ],
+   "share": 0.24,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    153,
+    81
+   ],
+   "share": 0.034,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    106,
+    0
+   ],
+   "share": 0.019,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    77,
+    0
+   ],
+   "share": 0.014,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    193,
+    149
+   ],
+   "share": 0.01,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  }
+ ]
+}

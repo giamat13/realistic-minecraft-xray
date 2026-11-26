@@ -1,0 +1,73 @@
+{
+ "path": "block/magenta_glazed_terracotta.png",
+ "depicts": "magenta glazed terracotta block: terracotta ceramic body (1 m cube) with a very thin glaze skin and a painted pattern; glaze is negligible along the path",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    200,
+    81,
+    191
+   ],
+   "share": 0.387,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    174,
+    198
+   ],
+   "share": 0.227,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    221,
+    104,
+    218
+   ],
+   "share": 0.18,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    173,
+    49,
+    163
+   ],
+   "share": 0.156,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    157,
+    45,
+    149
+   ],
+   "share": 0.031,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    212,
+    96,
+    207
+   ],
+   "share": 0.02,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

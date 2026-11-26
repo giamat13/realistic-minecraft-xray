@@ -1,0 +1,73 @@
+{
+ "path": "block/spruce_planks.png",
+ "depicts": "spruce wooden planks: conifer boards with grain and plank seams",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    133,
+    99,
+    58
+   ],
+   "share": 0.352,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    90,
+    52
+   ],
+   "share": 0.188,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    82,
+    46
+   ],
+   "share": 0.184,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    58,
+    31
+   ],
+   "share": 0.113,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    68,
+    36
+   ],
+   "share": 0.094,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    97,
+    75,
+    46
+   ],
+   "share": 0.07,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_copper_bulb_powered.png",
+ "depicts": "powered unlit oxidized copper bulb, patina shell with red redstone indicator",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    58,
+    107,
+    88
+   ],
+   "share": 0.379,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    167,
+    139
+   ],
+   "share": 0.312,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    49,
+    84,
+    70
+   ],
+   "share": 0.176,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    109,
+    196,
+    159
+   ],
+   "share": 0.117,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    163,
+    23,
+    23
+   ],
+   "share": 0.012,
+   "material": "redstone_dust",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    35,
+    35
+   ],
+   "share": 0.004,
+   "material": "redstone_dust",
+   "thickness_cm": 1.0
+  }
+ ]
+}

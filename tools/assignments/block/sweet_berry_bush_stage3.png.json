@@ -1,0 +1,73 @@
+{
+ "path": "block/sweet_berry_bush_stage3.png",
+ "depicts": "sweet berry bush with fully ripe red berries and pink flowers",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    88,
+    55
+   ],
+   "share": 0.407,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    64,
+    116,
+    71
+   ],
+   "share": 0.265,
+   "material": "foliage",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    28,
+    30
+   ],
+   "share": 0.105,
+   "material": "fruit",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    165,
+    7,
+    0
+   ],
+   "share": 0.099,
+   "material": "fruit",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    29,
+    56,
+    34
+   ],
+   "share": 0.099,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    70,
+    126
+   ],
+   "share": 0.025,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  }
+ ]
+}

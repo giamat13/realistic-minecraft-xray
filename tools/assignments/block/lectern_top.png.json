@@ -1,0 +1,73 @@
+{
+ "path": "block/lectern_top.png",
+ "depicts": "lectern top face: oak wood with a dark wood rim and book stand recess",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    181,
+    141,
+    80
+   ],
+   "share": 0.254,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    166,
+    130,
+    77
+   ],
+   "share": 0.23,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    193,
+    159,
+    106
+   ],
+   "share": 0.18,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    148,
+    95
+   ],
+   "share": 0.156,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    116,
+    65
+   ],
+   "share": 0.148,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.031,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

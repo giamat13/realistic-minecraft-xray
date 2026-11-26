@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_chiseled_copper.png",
+ "depicts": "chiseled oxidized copper block, copper with green patina (malachite-type oxide crust used as visible-surface stand-in)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    91,
+    179,
+    147
+   ],
+   "share": 0.387,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    197,
+    159
+   ],
+   "share": 0.152,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    115,
+    93
+   ],
+   "share": 0.141,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    129,
+    107
+   ],
+   "share": 0.121,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    76,
+    148,
+    132
+   ],
+   "share": 0.105,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    83,
+    161,
+    120
+   ],
+   "share": 0.094,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

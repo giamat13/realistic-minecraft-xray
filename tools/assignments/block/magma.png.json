@@ -1,0 +1,73 @@
+{
+ "path": "block/magma.png",
+ "depicts": "magma block (animated, first frame): dark cooled basaltic crust with glowing orange molten cracks, solid 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    42,
+    42
+   ],
+   "share": 0.352,
+   "material": "magma_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    25,
+    25
+   ],
+   "share": 0.273,
+   "material": "magma_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    216,
+    89,
+    11
+   ],
+   "share": 0.234,
+   "material": "magma_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    133,
+    34
+   ],
+   "share": 0.09,
+   "material": "magma_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    248,
+    160,
+    71
+   ],
+   "share": 0.051,
+   "material": "magma_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    142,
+    63,
+    31
+   ],
+   "share": 0.0,
+   "material": "magma_rock",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/wheat_stage5.png",
+ "depicts": "nearly ripe wheat crop, golden grain heads on straw stalks with green leaves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    113,
+    17
+   ],
+   "share": 0.317,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    7,
+    117,
+    8
+   ],
+   "share": 0.317,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    153,
+    8
+   ],
+   "share": 0.135,
+   "material": "seed_grain",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    174,
+    25
+   ],
+   "share": 0.115,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    141,
+    119,
+    61
+   ],
+   "share": 0.096,
+   "material": "straw",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    21,
+    205,
+    47
+   ],
+   "share": 0.019,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

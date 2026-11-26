@@ -1,0 +1,73 @@
+{
+ "path": "block/campfire_log_lit.png",
+ "depicts": "Campfire log burning (animated strip, 4 frames, first frame shown): charred log with glowing embers and flame, embers as charcoal, flame as fire",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    42,
+    45
+   ],
+   "share": 0.387,
+   "material": "charcoal",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    135,
+    97,
+    58
+   ],
+   "share": 0.238,
+   "material": "wood_oak",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    210,
+    129,
+    12
+   ],
+   "share": 0.188,
+   "material": "charcoal",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    78,
+    101
+   ],
+   "share": 0.137,
+   "material": "charcoal",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    205,
+    86
+   ],
+   "share": 0.043,
+   "material": "fire",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    249,
+    235,
+    171
+   ],
+   "share": 0.008,
+   "material": "fire",
+   "thickness_cm": 30.0
+  }
+ ]
+}

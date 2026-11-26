@@ -1,0 +1,62 @@
+{
+ "path": "block/slime_block.png",
+ "depicts": "slime block: translucent green slime gel cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    194,
+    98
+   ],
+   "share": 0.5,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    182,
+    74
+   ],
+   "share": 0.199,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    123,
+    202,
+    98
+   ],
+   "share": 0.137,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    206,
+    106
+   ],
+   "share": 0.09,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    170,
+    67
+   ],
+   "share": 0.074,
+   "material": "slime",
+   "thickness_cm": 100.0
+  }
+ ]
+}

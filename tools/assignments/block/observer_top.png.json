@@ -1,0 +1,73 @@
+{
+ "path": "block/observer_top.png",
+ "depicts": "observer block top face: grey stone housing with raised edges",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    94,
+    94,
+    94
+   ],
+   "share": 0.289,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    120,
+    120,
+    120
+   ],
+   "share": 0.223,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    59,
+    59,
+    59
+   ],
+   "share": 0.176,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    145,
+    145,
+    145
+   ],
+   "share": 0.133,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    44,
+    44,
+    44
+   ],
+   "share": 0.125,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    175,
+    175,
+    175
+   ],
+   "share": 0.055,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

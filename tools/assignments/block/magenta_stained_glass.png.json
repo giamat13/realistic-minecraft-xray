@@ -1,0 +1,18 @@
+{
+ "path": "block/magenta_stained_glass.png",
+ "depicts": "magenta stained glass block, fully opaque face of dyed glass (1 m cube)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    178,
+    76,
+    216
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

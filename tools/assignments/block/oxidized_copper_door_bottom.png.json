@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_copper_door_bottom.png",
+ "depicts": "lower half of an oxidized copper door, thin patinated copper plate with iron hinge and latch detail",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    161,
+    134
+   ],
+   "share": 0.5,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    95,
+    184,
+    150
+   ],
+   "share": 0.27,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    114,
+    93
+   ],
+   "share": 0.156,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    77,
+    80,
+    70
+   ],
+   "share": 0.039,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    51,
+    51,
+    51
+   ],
+   "share": 0.023,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.012,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

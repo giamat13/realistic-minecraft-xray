@@ -1,0 +1,73 @@
+{
+ "path": "block/mangrove_door_bottom.png",
+ "depicts": "mangrove wood door lower half: red-brown mangrove hardwood panels and iron hinge/handle; door 3px (18cm) thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    47,
+    52
+   ],
+   "share": 0.363,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    32,
+    32
+   ],
+   "share": 0.332,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    60,
+    52
+   ],
+   "share": 0.211,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    79,
+    59
+   ],
+   "share": 0.082,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.008,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.004,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/mangrove_log_top.png",
+ "depicts": "mangrove log end grain: red bark ring, dark sapwood and wood rings on a 1 m log",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    111,
+    42,
+    45
+   ],
+   "share": 0.273,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    31,
+    32
+   ],
+   "share": 0.266,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    120,
+    58,
+    52
+   ],
+   "share": 0.227,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    68,
+    42
+   ],
+   "share": 0.148,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    82,
+    48
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    50,
+    34
+   ],
+   "share": 0.039,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/orange_bed_foot_up.png",
+ "depicts": "orange bed foot top: orange wool blanket mattress surface with shading",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    129,
+    24
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    246,
+    117,
+    16
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    153,
+    41
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    230,
+    101,
+    0
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 20.0
+  }
+ ]
+}

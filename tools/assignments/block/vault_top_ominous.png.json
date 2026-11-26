@@ -1,0 +1,73 @@
+{
+ "path": "block/vault_top_ominous.png",
+ "depicts": "ominous trial vault top: dark sealed metal lid with a raised central ornament",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    54,
+    56
+   ],
+   "share": 0.289,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    70,
+    67
+   ],
+   "share": 0.211,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    108,
+    113,
+    107
+   ],
+   "share": 0.191,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    96,
+    88
+   ],
+   "share": 0.152,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    40,
+    39,
+    41
+   ],
+   "share": 0.148,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    15,
+    27
+   ],
+   "share": 0.008,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  }
+ ]
+}

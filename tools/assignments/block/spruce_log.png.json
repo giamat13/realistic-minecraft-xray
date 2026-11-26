@@ -1,0 +1,73 @@
+{
+ "path": "block/spruce_log.png",
+ "depicts": "spruce log side, dark rough bark with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    39,
+    19
+   ],
+   "share": 0.422,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    77,
+    51,
+    23
+   ],
+   "share": 0.164,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    46,
+    28,
+    10
+   ],
+   "share": 0.148,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    49,
+    30,
+    11
+   ],
+   "share": 0.145,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    46,
+    22,
+    8
+   ],
+   "share": 0.074,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    58,
+    31
+   ],
+   "share": 0.047,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

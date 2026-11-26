@@ -1,0 +1,73 @@
+{
+ "path": "block/smoker_front.png",
+ "depicts": "smoker front face: oak wood frame, stone panel, iron hatch and dark central opening",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    87,
+    70,
+    48
+   ],
+   "share": 0.379,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    37,
+    30
+   ],
+   "share": 0.309,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    134,
+    104,
+    58
+   ],
+   "share": 0.148,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.078,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    184,
+    184
+   ],
+   "share": 0.047,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    135,
+    134,
+    135
+   ],
+   "share": 0.039,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/mangrove_planks.png",
+ "depicts": "mangrove wood planks block, red-brown planks with dark grain lines, 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    118,
+    53,
+    53
+   ],
+   "share": 0.371,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    66,
+    52
+   ],
+   "share": 0.203,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    77,
+    58
+   ],
+   "share": 0.148,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    93,
+    28,
+    30
+   ],
+   "share": 0.113,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    100,
+    36,
+    35
+   ],
+   "share": 0.094,
+   "material": "planks",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    111,
+    42,
+    45
+   ],
+   "share": 0.07,
+   "material": "planks",
+   "thickness_cm": 100.0
+  }
+ ]
+}

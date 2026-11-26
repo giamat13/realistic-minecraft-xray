@@ -1,0 +1,73 @@
+{
+ "path": "block/redstone_lamp.png",
+ "depicts": "unlit redstone lamp block (cube with copper wiring and dark redstone lamp core)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    49,
+    26,
+    17
+   ],
+   "share": 0.391,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    134,
+    78,
+    41
+   ],
+   "share": 0.18,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    150,
+    90,
+    49
+   ],
+   "share": 0.164,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    95,
+    51,
+    21
+   ],
+   "share": 0.137,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    70,
+    44,
+    27
+   ],
+   "share": 0.078,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    175,
+    105,
+    59
+   ],
+   "share": 0.051,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

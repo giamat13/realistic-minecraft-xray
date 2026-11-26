@@ -1,0 +1,73 @@
+{
+ "path": "block/packed_ice.png",
+ "depicts": "packed ice block, dense compacted ice crystal",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    185,
+    254
+   ],
+   "share": 0.324,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    133,
+    173,
+    248
+   ],
+   "share": 0.297,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    165,
+    244
+   ],
+   "share": 0.191,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    195,
+    255
+   ],
+   "share": 0.16,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    188,
+    212,
+    255
+   ],
+   "share": 0.02,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    200,
+    220,
+    255
+   ],
+   "share": 0.008,
+   "material": "ice",
+   "thickness_cm": 100.0
+  }
+ ]
+}

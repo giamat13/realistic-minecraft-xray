@@ -1,0 +1,51 @@
+{
+ "path": "block/pointed_dripstone_down_tip_merge.png",
+ "depicts": "pointed dripstone downward tip merged with block above: calcite tip",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    121,
+    101
+   ],
+   "share": 0.349,
+   "material": "calcite",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    84,
+    80
+   ],
+   "share": 0.233,
+   "material": "calcite",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    141,
+    113
+   ],
+   "share": 0.209,
+   "material": "calcite",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    99,
+    86
+   ],
+   "share": 0.209,
+   "material": "calcite",
+   "thickness_cm": 15.0
+  }
+ ]
+}

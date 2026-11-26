@@ -1,3 +1,4 @@
 {
- "amber": {"density": 1.08, "mass_fractions": {"C": 0.79, "H": 0.10, "O": 0.11}}
+ "amber": {"density": 1.08, "mass_fractions": {"C": 0.79, "H": 0.10, "O": 0.11}},
+ "silicon": {"density": 2.33, "formula": "Si"}
 }

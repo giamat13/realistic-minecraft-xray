@@ -1,0 +1,73 @@
+{
+ "path": "block/suspicious_gravel_1.png",
+ "depicts": "gravel block with brushing-crack overlay (suspicious gravel stage 1), loose mineral pebbles",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    109,
+    101,
+    100
+   ],
+   "share": 0.379,
+   "material": "gravel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    128,
+    127
+   ],
+   "share": 0.328,
+   "material": "gravel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    151,
+    150,
+    150
+   ],
+   "share": 0.25,
+   "material": "gravel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    174,
+    174
+   ],
+   "share": 0.02,
+   "material": "gravel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    87,
+    79,
+    79
+   ],
+   "share": 0.016,
+   "material": "gravel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    162,
+    162
+   ],
+   "share": 0.008,
+   "material": "gravel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

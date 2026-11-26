@@ -1,0 +1,73 @@
+{
+ "path": "block/campfire_log.png",
+ "depicts": "Campfire log (sprite, unlit): dark charred bark (charcoal analogue) on oak log with exposed light wood end rings, log about 30 cm thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    70,
+    78
+   ],
+   "share": 0.269,
+   "material": "charcoal",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    137,
+    108,
+    64
+   ],
+   "share": 0.264,
+   "material": "wood_oak",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    44,
+    53,
+    67
+   ],
+   "share": 0.207,
+   "material": "charcoal",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    30,
+    33,
+    39
+   ],
+   "share": 0.178,
+   "material": "charcoal",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    86,
+    99,
+    120
+   ],
+   "share": 0.043,
+   "material": "charcoal",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    154,
+    97
+   ],
+   "share": 0.038,
+   "material": "wood_oak",
+   "thickness_cm": 30.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/shroomlight.png",
+ "depicts": "shroomlight: glowing orange fungal block with pale luminous core",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    181,
+    116
+   ],
+   "share": 0.355,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    228,
+    114,
+    5
+   ],
+   "share": 0.195,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    254,
+    135,
+    56
+   ],
+   "share": 0.16,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    81,
+    11
+   ],
+   "share": 0.145,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    227,
+    164
+   ],
+   "share": 0.109,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    182,
+    47,
+    9
+   ],
+   "share": 0.035,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

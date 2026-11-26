@@ -1,0 +1,73 @@
+{
+ "path": "block/ochre_froglight_side.png",
+ "depicts": "ochre froglight side: glowing pale yellow bioluminescent organic cube (closest analogue phosphor gel with soft tissue edges)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    252,
+    250,
+    205
+   ],
+   "share": 0.254,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    255,
+    236
+   ],
+   "share": 0.242,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    216,
+    141
+   ],
+   "share": 0.215,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    250,
+    239,
+    178
+   ],
+   "share": 0.176,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    217,
+    184,
+    110
+   ],
+   "share": 0.059,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    211,
+    164,
+    86
+   ],
+   "share": 0.055,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

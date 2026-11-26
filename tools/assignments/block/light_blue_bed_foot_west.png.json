@@ -1,0 +1,73 @@
+{
+ "path": "block/light_blue_bed_foot_west.png",
+ "depicts": "light blue bed foot end, west face: dyed blue wool mattress over oak wood frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    23,
+    117,
+    172
+   ],
+   "share": 0.325,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    32,
+    135,
+    199
+   ],
+   "share": 0.195,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    122,
+    68
+   ],
+   "share": 0.187,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    86,
+    52
+   ],
+   "share": 0.179,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    144,
+    87
+   ],
+   "share": 0.114,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    83,
+    119,
+    127
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

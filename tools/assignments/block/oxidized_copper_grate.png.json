@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_copper_grate.png",
+ "depicts": "oxidized copper grate, thin perforated patinated copper grid",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    84,
+    174,
+    145
+   ],
+   "share": 0.436,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    161,
+    120
+   ],
+   "share": 0.196,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    106,
+    87
+   ],
+   "share": 0.162,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    110,
+    197,
+    159
+   ],
+   "share": 0.123,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    76,
+    148,
+    132
+   ],
+   "share": 0.078,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    62,
+    129,
+    107
+   ],
+   "share": 0.006,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/short_dry_grass.png",
+ "depicts": "dried short grass tuft, straw-coloured dead blades",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    163,
+    125,
+    72
+   ],
+   "share": 0.354,
+   "material": "straw",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    186,
+    156,
+    104
+   ],
+   "share": 0.312,
+   "material": "straw",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    218,
+    207,
+    163
+   ],
+   "share": 0.167,
+   "material": "straw",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    209,
+    186,
+    138
+   ],
+   "share": 0.167,
+   "material": "straw",
+   "thickness_cm": 5.0
+  }
+ ]
+}

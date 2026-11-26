@@ -1,0 +1,73 @@
+{
+ "path": "block/hopper_top.png",
+ "depicts": "iron hopper top rim: thin iron sheet rim with inner opening (mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    72,
+    72
+   ],
+   "share": 0.359,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    63,
+    62,
+    66
+   ],
+   "share": 0.256,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    79,
+    79
+   ],
+   "share": 0.128,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    88,
+    88
+   ],
+   "share": 0.128,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    97,
+    97
+   ],
+   "share": 0.103,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    52,
+    52,
+    56
+   ],
+   "share": 0.026,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

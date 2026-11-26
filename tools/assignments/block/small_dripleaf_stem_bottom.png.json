@@ -1,0 +1,51 @@
+{
+ "path": "block/small_dripleaf_stem_bottom.png",
+ "depicts": "small dripleaf stem base: thin green stalk",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.419,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.326,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    66,
+    85,
+    45
+   ],
+   "share": 0.14,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.116,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

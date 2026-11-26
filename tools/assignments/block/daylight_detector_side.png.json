@@ -1,0 +1,73 @@
+{
+ "path": "block/daylight_detector_side.png",
+ "depicts": "daylight detector side: oak wood box side with wood grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    60,
+    51,
+    34
+   ],
+   "share": 0.27,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    61,
+    40
+   ],
+   "share": 0.211,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    51,
+    43,
+    27
+   ],
+   "share": 0.188,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    86,
+    69,
+    43
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    66,
+    55,
+    36
+   ],
+   "share": 0.141,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    46,
+    39,
+    23
+   ],
+   "share": 0.016,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

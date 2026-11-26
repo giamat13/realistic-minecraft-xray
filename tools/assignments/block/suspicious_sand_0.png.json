@@ -1,0 +1,73 @@
+{
+ "path": "block/suspicious_sand_0.png",
+ "depicts": "sand block with brushing-crack overlay (suspicious sand stage 0), quartz-rich sand grains",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    202,
+    157
+   ],
+   "share": 0.523,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    227,
+    219,
+    176
+   ],
+   "share": 0.184,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    186,
+    138
+   ],
+   "share": 0.148,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    231,
+    228,
+    187
+   ],
+   "share": 0.07,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    198,
+    174,
+    113
+   ],
+   "share": 0.047,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    235,
+    203
+   ],
+   "share": 0.027,
+   "material": "sand",
+   "thickness_cm": 100.0
+  }
+ ]
+}

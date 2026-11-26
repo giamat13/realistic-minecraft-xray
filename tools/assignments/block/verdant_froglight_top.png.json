@@ -1,0 +1,73 @@
+{
+ "path": "block/verdant_froglight_top.png",
+ "depicts": "verdant froglight top: pale translucent organic lamp block, a slime-like gel",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    248,
+    253,
+    248
+   ],
+   "share": 0.516,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    235,
+    249,
+    236
+   ],
+   "share": 0.188,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    238,
+    213
+   ],
+   "share": 0.133,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    189,
+    225,
+    183
+   ],
+   "share": 0.094,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    160,
+    211,
+    155
+   ],
+   "share": 0.055,
+   "material": "slime",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    147,
+    197,
+    132
+   ],
+   "share": 0.016,
+   "material": "slime",
+   "thickness_cm": 100.0
+  }
+ ]
+}

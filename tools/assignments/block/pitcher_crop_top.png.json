@@ -1,0 +1,73 @@
+{
+ "path": "block/pitcher_crop_top.png",
+ "depicts": "pitcher plant crop pod top: pale tan bract with green edge tips",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    163,
+    103
+   ],
+   "share": 0.44,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    175,
+    108
+   ],
+   "share": 0.44,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    155,
+    147,
+    92
+   ],
+   "share": 0.06,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    128,
+    79
+   ],
+   "share": 0.02,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    177,
+    157,
+    98
+   ],
+   "share": 0.02,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    123,
+    140,
+    79
+   ],
+   "share": 0.02,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  }
+ ]
+}

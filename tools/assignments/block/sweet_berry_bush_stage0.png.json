@@ -1,0 +1,51 @@
+{
+ "path": "block/sweet_berry_bush_stage0.png",
+ "depicts": "sweet berry bush, young leafy bush (no berries yet)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    40,
+    98,
+    64
+   ],
+   "share": 0.396,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    29,
+    56,
+    34
+   ],
+   "share": 0.245,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    82,
+    48
+   ],
+   "share": 0.189,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    72,
+    127,
+    79
+   ],
+   "share": 0.17,
+   "material": "foliage",
+   "thickness_cm": 12.0
+  }
+ ]
+}

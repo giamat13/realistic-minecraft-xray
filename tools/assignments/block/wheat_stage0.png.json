@@ -1,0 +1,51 @@
+{
+ "path": "block/wheat_stage0.png",
+ "depicts": "young wheat crop sprout, green leafy shoots (plant cross sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    8,
+    136,
+    6
+   ],
+   "share": 0.286,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    5,
+    106,
+    5
+   ],
+   "share": 0.286,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    17,
+    118,
+    31
+   ],
+   "share": 0.286,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    174,
+    25
+   ],
+   "share": 0.143,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

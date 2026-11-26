@@ -1,0 +1,73 @@
+{
+ "path": "block/pitcher_crop_top_stage_3.png",
+ "depicts": "pitcher plant top stage 3: cyan-green bud petals with purple-tinted tips",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    131,
+    228,
+    201
+   ],
+   "share": 0.318,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    174,
+    179,
+    99
+   ],
+   "share": 0.288,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    155,
+    210,
+    151
+   ],
+   "share": 0.167,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    142,
+    78
+   ],
+   "share": 0.136,
+   "material": "foliage",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    87,
+    64,
+    94
+   ],
+   "share": 0.061,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    115,
+    84,
+    125
+   ],
+   "share": 0.03,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

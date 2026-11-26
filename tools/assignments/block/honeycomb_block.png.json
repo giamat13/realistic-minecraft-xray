@@ -1,0 +1,73 @@
+{
+ "path": "block/honeycomb_block.png",
+ "depicts": "honeycomb block: beeswax honeycomb cells filled with honey, full block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    206,
+    111,
+    6
+   ],
+   "share": 0.383,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    232,
+    140,
+    8
+   ],
+   "share": 0.266,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    171,
+    28
+   ],
+   "share": 0.16,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    206,
+    93
+   ],
+   "share": 0.109,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    228,
+    127
+   ],
+   "share": 0.082,
+   "material": "wax",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    229,
+    148,
+    30
+   ],
+   "share": 0.0,
+   "material": "wax",
+   "thickness_cm": 100.0
+  }
+ ]
+}

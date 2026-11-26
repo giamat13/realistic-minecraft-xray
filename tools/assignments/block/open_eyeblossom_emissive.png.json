@@ -1,0 +1,29 @@
+{
+ "path": "block/open_eyeblossom_emissive.png",
+ "depicts": "open eyeblossom emissive overlay: small glowing orange light spots (bioluminescent glow)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    239,
+    163,
+    55
+   ],
+   "share": 0.5,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    236,
+    114,
+    20
+   ],
+   "share": 0.5,
+   "material": "phosphor",
+   "thickness_cm": 0.5
+  }
+ ]
+}

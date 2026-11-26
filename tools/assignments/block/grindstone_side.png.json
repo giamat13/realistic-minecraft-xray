@@ -1,0 +1,73 @@
+{
+ "path": "block/grindstone_side.png",
+ "depicts": "grindstone rim side: grey grinding stone band with shaded edges",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    121,
+    121
+   ],
+   "share": 0.444,
+   "material": "stone",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.222,
+   "material": "stone",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    167,
+    167
+   ],
+   "share": 0.132,
+   "material": "stone",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    180,
+    180
+   ],
+   "share": 0.09,
+   "material": "stone",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    154,
+    154,
+    154
+   ],
+   "share": 0.083,
+   "material": "stone",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.028,
+   "material": "stone",
+   "thickness_cm": 20.0
+  }
+ ]
+}

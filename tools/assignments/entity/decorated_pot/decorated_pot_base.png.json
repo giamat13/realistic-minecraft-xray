@@ -1,0 +1,73 @@
+{
+ "path": "entity/decorated_pot/decorated_pot_base.png",
+ "depicts": "decorated pot base texture (fired terracotta sherd walls and rim, the 32x32 unwrapped pot)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    75,
+    61
+   ],
+   "share": 0.502,
+   "material": "terracotta",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.27,
+   "material": "terracotta",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    83,
+    68
+   ],
+   "share": 0.141,
+   "material": "terracotta",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    69,
+    38,
+    32
+   ],
+   "share": 0.037,
+   "material": "terracotta",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    121,
+    68,
+    56
+   ],
+   "share": 0.037,
+   "material": "terracotta",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    86,
+    48,
+    40
+   ],
+   "share": 0.013,
+   "material": "terracotta",
+   "thickness_cm": 1.0
+  }
+ ]
+}

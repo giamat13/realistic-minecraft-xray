@@ -1,0 +1,62 @@
+{
+ "path": "block/tall_grass_top.png",
+ "depicts": "tall grass upper half, grey-scale tintable grass blades",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    170,
+    172
+   ],
+   "share": 0.422,
+   "material": "grass",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    148,
+    145,
+    148
+   ],
+   "share": 0.311,
+   "material": "grass",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    129,
+    131
+   ],
+   "share": 0.133,
+   "material": "grass",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    115,
+    117,
+    115
+   ],
+   "share": 0.111,
+   "material": "grass",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    105,
+    103
+   ],
+   "share": 0.022,
+   "material": "grass",
+   "thickness_cm": 8.0
+  }
+ ]
+}

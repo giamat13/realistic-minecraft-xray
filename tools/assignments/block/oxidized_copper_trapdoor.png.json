@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_copper_trapdoor.png",
+ "depicts": "oxidized copper trapdoor, thin patinated copper plate with perforated pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    176,
+    145
+   ],
+   "share": 0.304,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    197,
+    159
+   ],
+   "share": 0.186,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    148,
+    132
+   ],
+   "share": 0.181,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    83,
+    161,
+    120
+   ],
+   "share": 0.162,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    58,
+    106,
+    87
+   ],
+   "share": 0.142,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    62,
+    129,
+    107
+   ],
+   "share": 0.025,
+   "material": "malachite",
+   "thickness_cm": 0.3
+  }
+ ]
+}

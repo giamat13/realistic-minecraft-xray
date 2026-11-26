@@ -1,0 +1,73 @@
+{
+ "path": "block/spruce_door_bottom.png",
+ "depicts": "spruce wood door lower half: conifer planks with iron hinge/handle pieces (door 3px ~18.75cm)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    114,
+    86,
+    49
+   ],
+   "share": 0.582,
+   "material": "wood_soft",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    60,
+    31
+   ],
+   "share": 0.309,
+   "material": "wood_soft",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    109,
+    109,
+    109
+   ],
+   "share": 0.035,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    113,
+    64
+   ],
+   "share": 0.027,
+   "material": "wood_soft",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    61,
+    61,
+    61
+   ],
+   "share": 0.023,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    149,
+    149,
+    149
+   ],
+   "share": 0.023,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/vault_front_off.png",
+ "depicts": "trial vault front, inactive: dark sealed metal panel with copper accent and steel bezels",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    23,
+    36,
+    47
+   ],
+   "share": 0.427,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    50,
+    63,
+    70
+   ],
+   "share": 0.314,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    97,
+    110
+   ],
+   "share": 0.141,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    114,
+    127,
+    124
+   ],
+   "share": 0.068,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    161,
+    186,
+    186
+   ],
+   "share": 0.041,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    68,
+    14
+   ],
+   "share": 0.009,
+   "material": "copper",
+   "thickness_cm": 100.0
+  }
+ ]
+}

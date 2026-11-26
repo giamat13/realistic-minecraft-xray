@@ -1,0 +1,73 @@
+{
+ "path": "block/vault_front_ejecting_ominous.png",
+ "depicts": "ominous trial vault front while ejecting: dark metal front with glowing cyan and red light",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    47,
+    53
+   ],
+   "share": 0.711,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    87,
+    102,
+    103
+   ],
+   "share": 0.198,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    215,
+    215
+   ],
+   "share": 0.037,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    1,
+    140,
+    141
+   ],
+   "share": 0.029,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    127,
+    30,
+    51
+   ],
+   "share": 0.017,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    222,
+    64,
+    88
+   ],
+   "share": 0.008,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  }
+ ]
+}

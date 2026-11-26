@@ -1,0 +1,73 @@
+{
+ "path": "block/sweet_berry_bush_stage1.png",
+ "depicts": "sweet berry bush, growing leafy bush with white flowers/buds",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    82,
+    48
+   ],
+   "share": 0.273,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    60,
+    110,
+    66
+   ],
+   "share": 0.223,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    40,
+    98,
+    64
+   ],
+   "share": 0.216,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    29,
+    56,
+    34
+   ],
+   "share": 0.144,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    72,
+    127,
+    79
+   ],
+   "share": 0.137,
+   "material": "foliage",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    75,
+    56
+   ],
+   "share": 0.007,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  }
+ ]
+}

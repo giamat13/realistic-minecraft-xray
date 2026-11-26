@@ -1,0 +1,73 @@
+{
+ "path": "block/lectern_base.png",
+ "depicts": "lectern base block face: oak wood with red painted accents and dark wood trim",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    132,
+    76
+   ],
+   "share": 0.406,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    188,
+    153,
+    100
+   ],
+   "share": 0.309,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.102,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.09,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    154,
+    35,
+    35
+   ],
+   "share": 0.07,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    126,
+    26,
+    26
+   ],
+   "share": 0.023,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

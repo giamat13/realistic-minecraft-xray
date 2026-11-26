@@ -1,0 +1,73 @@
+{
+ "path": "block/lava_still.png",
+ "depicts": "still lava block face (animated strip, first frame): molten basaltic silicate",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    208,
+    74,
+    11
+   ],
+   "share": 0.367,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    99,
+    21
+   ],
+   "share": 0.316,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    132,
+    41
+   ],
+   "share": 0.219,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    235,
+    173,
+    69
+   ],
+   "share": 0.09,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    250,
+    235,
+    114
+   ],
+   "share": 0.004,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    242,
+    205,
+    91
+   ],
+   "share": 0.004,
+   "material": "lava",
+   "thickness_cm": 100.0
+  }
+ ]
+}

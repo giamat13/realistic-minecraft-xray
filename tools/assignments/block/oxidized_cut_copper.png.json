@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_cut_copper.png",
+ "depicts": "cut oxidized copper block, solid cube of weathered copper with patina and carved seams",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    158,
+    132
+   ],
+   "share": 0.516,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    197,
+    159
+   ],
+   "share": 0.125,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    54,
+    100,
+    81
+   ],
+   "share": 0.117,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    61,
+    120,
+    100
+   ],
+   "share": 0.117,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    89,
+    178,
+    146
+   ],
+   "share": 0.078,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    94,
+    171,
+    129
+   ],
+   "share": 0.047,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

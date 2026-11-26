@@ -1,0 +1,51 @@
+{
+ "path": "block/spore_blossom_base.png",
+ "depicts": "spore blossom base: green leafy plant stalk/bract block, sparse foliage",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.302,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.296,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    132,
+    168,
+    60
+   ],
+   "share": 0.289,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.113,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  }
+ ]
+}

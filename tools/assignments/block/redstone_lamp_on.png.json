@@ -1,0 +1,73 @@
+{
+ "path": "block/redstone_lamp_on.png",
+ "depicts": "lit redstone lamp block (glowing glowstone core in copper and redstone housing)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    32,
+    21
+   ],
+   "share": 0.391,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    230,
+    153,
+    74
+   ],
+   "share": 0.211,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    105,
+    49
+   ],
+   "share": 0.129,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    218,
+    180
+   ],
+   "share": 0.105,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    242,
+    189,
+    116
+   ],
+   "share": 0.086,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    70,
+    55,
+    20
+   ],
+   "share": 0.078,
+   "material": "redstone_dust",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/vault_front_on.png",
+ "depicts": "trial vault front, active: dark metal panel with glowing orange light",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    54,
+    64
+   ],
+   "share": 0.514,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    25,
+    34
+   ],
+   "share": 0.209,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    78,
+    100,
+    110
+   ],
+   "share": 0.195,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    153,
+    81
+   ],
+   "share": 0.041,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    228,
+    94,
+    0
+   ],
+   "share": 0.032,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    193,
+    149
+   ],
+   "share": 0.009,
+   "material": "glowstone",
+   "thickness_cm": 2.0
+  }
+ ]
+}

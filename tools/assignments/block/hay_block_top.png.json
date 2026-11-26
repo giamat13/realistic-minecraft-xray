@@ -1,0 +1,62 @@
+{
+ "path": "block/hay_block_top.png",
+ "depicts": "hay bale top: dried straw stalks, bright yellow to brown shading",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    141,
+    8
+   ],
+   "share": 0.371,
+   "material": "straw",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    148,
+    125,
+    16
+   ],
+   "share": 0.266,
+   "material": "straw",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    189,
+    165,
+    16
+   ],
+   "share": 0.148,
+   "material": "straw",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    113,
+    16
+   ],
+   "share": 0.141,
+   "material": "straw",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    178,
+    8
+   ],
+   "share": 0.074,
+   "material": "straw",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_copper.png",
+ "depicts": "solid oxidized copper block, full cube of weathered copper with verdigris patina",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    175,
+    145
+   ],
+   "share": 0.457,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    161,
+    120
+   ],
+   "share": 0.191,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    148,
+    132
+   ],
+   "share": 0.117,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    58,
+    106,
+    87
+   ],
+   "share": 0.113,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    197,
+    159
+   ],
+   "share": 0.102,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    62,
+    129,
+    107
+   ],
+   "share": 0.02,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

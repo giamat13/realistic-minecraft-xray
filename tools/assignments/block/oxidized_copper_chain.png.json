@@ -1,0 +1,40 @@
+{
+ "path": "block/oxidized_copper_chain.png",
+ "depicts": "oxidized copper chain, interlinked thin patinated wire links",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    59,
+    102,
+    85
+   ],
+   "share": 0.464,
+   "material": "malachite",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    129,
+    107
+   ],
+   "share": 0.446,
+   "material": "malachite",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    148,
+    132
+   ],
+   "share": 0.089,
+   "material": "malachite",
+   "thickness_cm": 3.0
+  }
+ ]
+}

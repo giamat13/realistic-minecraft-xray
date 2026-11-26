@@ -1,0 +1,51 @@
+{
+ "path": "block/pointed_dripstone_down_tip.png",
+ "depicts": "pointed dripstone downward tip: narrow brown calcite point",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    121,
+    101
+   ],
+   "share": 0.34,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    99,
+    86
+   ],
+   "share": 0.283,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    115,
+    84,
+    80
+   ],
+   "share": 0.226,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    141,
+    113
+   ],
+   "share": 0.151,
+   "material": "calcite",
+   "thickness_cm": 10.0
+  }
+ ]
+}

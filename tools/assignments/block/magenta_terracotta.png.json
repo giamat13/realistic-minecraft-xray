@@ -1,0 +1,73 @@
+{
+ "path": "block/magenta_terracotta.png",
+ "depicts": "magenta stained terracotta block, fired clay ceramic 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    149,
+    88,
+    109
+   ],
+   "share": 0.371,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    148,
+    86,
+    107
+   ],
+   "share": 0.266,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    151,
+    90,
+    110
+   ],
+   "share": 0.168,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    154,
+    92,
+    111
+   ],
+   "share": 0.129,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    145,
+    85,
+    105
+   ],
+   "share": 0.051,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    84,
+    104
+   ],
+   "share": 0.016,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

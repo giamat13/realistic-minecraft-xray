@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_copper_bulb_lit.png",
+ "depicts": "lit oxidized copper bulb, copper shell with glowing amber lamp core",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    220,
+    166,
+    73
+   ],
+   "share": 0.234,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    187,
+    153
+   ],
+   "share": 0.234,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    78,
+    161,
+    135
+   ],
+   "share": 0.195,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    194,
+    126,
+    60
+   ],
+   "share": 0.188,
+   "material": "glowstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    55,
+    113,
+    91
+   ],
+   "share": 0.148,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    135,
+    154,
+    104
+   ],
+   "share": 0.0,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

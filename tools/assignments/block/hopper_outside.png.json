@@ -1,0 +1,73 @@
+{
+ "path": "block/hopper_outside.png",
+ "depicts": "iron hopper outer face: thin iron sheet walls with rivets",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    67,
+    69
+   ],
+   "share": 0.383,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    52,
+    52,
+    56
+   ],
+   "share": 0.18,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    45,
+    50
+   ],
+   "share": 0.16,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    88,
+    88
+   ],
+   "share": 0.125,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    79,
+    79,
+    79
+   ],
+   "share": 0.109,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    97,
+    97
+   ],
+   "share": 0.043,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

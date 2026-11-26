@@ -1,0 +1,73 @@
+{
+ "path": "block/ochre_froglight_top.png",
+ "depicts": "ochre froglight top: glowing pale yellow bioluminescent organic cube, lighter centre with darker edge",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    255,
+    236
+   ],
+   "share": 0.516,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    252,
+    250,
+    205
+   ],
+   "share": 0.188,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    239,
+    178
+   ],
+   "share": 0.133,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    247,
+    223,
+    146
+   ],
+   "share": 0.094,
+   "material": "phosphor",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    206,
+    134
+   ],
+   "share": 0.055,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    184,
+    110
+   ],
+   "share": 0.016,
+   "material": "organic_gel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

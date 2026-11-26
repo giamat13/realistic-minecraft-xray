@@ -1,0 +1,62 @@
+{
+ "path": "block/tall_seagrass_bottom.png",
+ "depicts": "tall seagrass plant, lower section (marine green blades, animated strip first frame)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    130,
+    0
+   ],
+   "share": 0.373,
+   "material": "plant_tissue",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    33,
+    88,
+    0
+   ],
+   "share": 0.296,
+   "material": "plant_tissue",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    113,
+    0
+   ],
+   "share": 0.155,
+   "material": "plant_tissue",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    149,
+    41
+   ],
+   "share": 0.092,
+   "material": "plant_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    56,
+    147,
+    6
+   ],
+   "share": 0.085,
+   "material": "plant_tissue",
+   "thickness_cm": 12.0
+  }
+ ]
+}

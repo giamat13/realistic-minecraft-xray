@@ -1,0 +1,73 @@
+{
+ "path": "block/short_grass.png",
+ "depicts": "short grass tuft, greyscale biome-tinted blades",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    160,
+    160
+   ],
+   "share": 0.286,
+   "material": "grass",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    129,
+    131
+   ],
+   "share": 0.2,
+   "material": "grass",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    145,
+    145,
+    145
+   ],
+   "share": 0.179,
+   "material": "grass",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    119,
+    118
+   ],
+   "share": 0.143,
+   "material": "grass",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    183,
+    184
+   ],
+   "share": 0.136,
+   "material": "grass",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    108,
+    108,
+    108
+   ],
+   "share": 0.057,
+   "material": "grass",
+   "thickness_cm": 8.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/magenta_concrete_powder.png",
+ "depicts": "magenta dyed loose concrete powder, grainy dry cement and aggregate (1 m cube)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    90,
+    190
+   ],
+   "share": 0.289,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    192,
+    81,
+    183
+   ],
+   "share": 0.277,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    74,
+    176
+   ],
+   "share": 0.238,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    209,
+    101,
+    202
+   ],
+   "share": 0.086,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    176,
+    70,
+    168
+   ],
+   "share": 0.082,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    117,
+    212
+   ],
+   "share": 0.027,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  }
+ ]
+}

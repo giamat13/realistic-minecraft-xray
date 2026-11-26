@@ -1,0 +1,73 @@
+{
+ "path": "block/orange_bed_foot_south.png",
+ "depicts": "orange bed foot end (south side): orange wool mattress edge over oak wooden frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    191,
+    80,
+    0
+   ],
+   "share": 0.341,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    128,
+    72
+   ],
+   "share": 0.288,
+   "material": "wood_oak",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    88,
+    54
+   ],
+   "share": 0.197,
+   "material": "wood_oak",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    93,
+    0
+   ],
+   "share": 0.144,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    188,
+    152,
+    98
+   ],
+   "share": 0.03,
+   "material": "wood_oak",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    171,
+    99,
+    34
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 20.0
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{
+ "path": "block/redstone_dust_overlay.png",
+ "depicts": "redstone dust overlay layer (fully transparent sprite, no visible material)",
+ "kind": "block",
+ "clusters": []
+}

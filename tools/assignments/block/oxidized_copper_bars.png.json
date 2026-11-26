@@ -1,0 +1,62 @@
+{
+ "path": "block/oxidized_copper_bars.png",
+ "depicts": "oxidized copper iron-bars style grate, thin 2px copper bars",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    110,
+    89
+   ],
+   "share": 0.319,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    59,
+    102,
+    85
+   ],
+   "share": 0.25,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    62,
+    129,
+    107
+   ],
+   "share": 0.172,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    83,
+    161,
+    120
+   ],
+   "share": 0.129,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    76,
+    148,
+    132
+   ],
+   "share": 0.129,
+   "material": "malachite",
+   "thickness_cm": 12.5
+  }
+ ]
+}

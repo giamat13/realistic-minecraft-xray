@@ -1,0 +1,51 @@
+{
+ "path": "block/small_dripleaf_stem_top.png",
+ "depicts": "small dripleaf stem top with leaf stalks, green plant",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.429,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.286,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    66,
+    85,
+    45
+   ],
+   "share": 0.086,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

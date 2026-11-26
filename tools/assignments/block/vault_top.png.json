@@ -1,0 +1,73 @@
+{
+ "path": "block/vault_top.png",
+ "depicts": "trial vault top: dark sealed metal lid with a raised central ornament",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    48,
+    64,
+    76
+   ],
+   "share": 0.27,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    31,
+    44,
+    57
+   ],
+   "share": 0.227,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    99,
+    105,
+    99
+   ],
+   "share": 0.203,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    16,
+    28,
+    36
+   ],
+   "share": 0.145,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    64,
+    98,
+    120
+   ],
+   "share": 0.109,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    107,
+    135,
+    153
+   ],
+   "share": 0.047,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

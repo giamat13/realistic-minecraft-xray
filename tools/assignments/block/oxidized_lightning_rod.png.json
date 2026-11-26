@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_lightning_rod.png",
+ "depicts": "oxidized lightning rod, thin copper rod with patina",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    145,
+    122
+   ],
+   "share": 0.25,
+   "material": "malachite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    181,
+    147
+   ],
+   "share": 0.2,
+   "material": "malachite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    168,
+    142
+   ],
+   "share": 0.175,
+   "material": "malachite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    117,
+    97
+   ],
+   "share": 0.15,
+   "material": "malachite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    197,
+    159
+   ],
+   "share": 0.125,
+   "material": "malachite",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    54,
+    102,
+    85
+   ],
+   "share": 0.1,
+   "material": "malachite",
+   "thickness_cm": 1.5
+  }
+ ]
+}

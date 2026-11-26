@@ -1,0 +1,51 @@
+{
+ "path": "block/large_fern_top.png",
+ "depicts": "large fern upper half: grey-scale tint mask of fern fronds, mostly transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    117,
+    115
+   ],
+   "share": 0.423,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    93,
+    90
+   ],
+   "share": 0.221,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    145,
+    148
+   ],
+   "share": 0.192,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    172,
+    170,
+    172
+   ],
+   "share": 0.163,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  }
+ ]
+}

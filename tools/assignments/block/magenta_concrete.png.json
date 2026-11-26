@@ -1,0 +1,73 @@
+{
+ "path": "block/magenta_concrete.png",
+ "depicts": "magenta dyed solid concrete block, 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    48,
+    159
+   ],
+   "share": 0.332,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    170,
+    49,
+    160
+   ],
+   "share": 0.273,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    170,
+    50,
+    160
+   ],
+   "share": 0.199,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    168,
+    47,
+    158
+   ],
+   "share": 0.125,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    167,
+    47,
+    157
+   ],
+   "share": 0.066,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    167,
+    47,
+    158
+   ],
+   "share": 0.004,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

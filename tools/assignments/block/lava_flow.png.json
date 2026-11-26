@@ -1,0 +1,73 @@
+{
+ "path": "block/lava_flow.png",
+ "depicts": "flowing lava block face (animated strip, first frame): molten basaltic silicate at about 1200 C",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    200,
+    71,
+    10
+   ],
+   "share": 0.5,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    208,
+    92,
+    18
+   ],
+   "share": 0.27,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    216,
+    118,
+    34
+   ],
+   "share": 0.125,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    225,
+    150,
+    54
+   ],
+   "share": 0.07,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    177,
+    74
+   ],
+   "share": 0.031,
+   "material": "lava",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    241,
+    203,
+    92
+   ],
+   "share": 0.004,
+   "material": "lava",
+   "thickness_cm": 100.0
+  }
+ ]
+}

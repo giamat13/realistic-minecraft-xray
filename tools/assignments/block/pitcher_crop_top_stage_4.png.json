@@ -1,0 +1,73 @@
+{
+ "path": "block/pitcher_crop_top_stage_4.png",
+ "depicts": "pitcher plant top stage 4: blue-violet flowering bloom with petal tips",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    120,
+    141,
+    200
+   ],
+   "share": 0.563,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    221,
+    200
+   ],
+   "share": 0.193,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    190,
+    156,
+    255
+   ],
+   "share": 0.076,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    87,
+    46,
+    74
+   ],
+   "share": 0.067,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    77,
+    84,
+    153
+   ],
+   "share": 0.059,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    127,
+    67,
+    108
+   ],
+   "share": 0.042,
+   "material": "plant_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

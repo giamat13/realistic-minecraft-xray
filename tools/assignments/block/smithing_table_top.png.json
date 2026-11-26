@@ -1,0 +1,73 @@
+{
+ "path": "block/smithing_table_top.png",
+ "depicts": "smithing table top: steel-grey tool surface on dark wood frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    55,
+    56,
+    66
+   ],
+   "share": 0.398,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    47,
+    48,
+    55
+   ],
+   "share": 0.23,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    66,
+    83
+   ],
+   "share": 0.16,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    75,
+    95
+   ],
+   "share": 0.125,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    83,
+    85,
+    108
+   ],
+   "share": 0.047,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    38,
+    39,
+    45
+   ],
+   "share": 0.039,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

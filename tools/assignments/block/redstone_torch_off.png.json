@@ -1,0 +1,73 @@
+{
+ "path": "block/redstone_torch_off.png",
+ "depicts": "unlit redstone torch (wooden stick with dark burnt-out redstone head)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    156,
+    124,
+    77
+   ],
+   "share": 0.3,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    60,
+    47,
+    28
+   ],
+   "share": 0.2,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    69,
+    46
+   ],
+   "share": 0.15,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    77,
+    0,
+    0
+   ],
+   "share": 0.15,
+   "material": "redstone_dust",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    109,
+    87,
+    54
+   ],
+   "share": 0.15,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    41,
+    0,
+    0
+   ],
+   "share": 0.05,
+   "material": "redstone_dust",
+   "thickness_cm": 0.5
+  }
+ ]
+}

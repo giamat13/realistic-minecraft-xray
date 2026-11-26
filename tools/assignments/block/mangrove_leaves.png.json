@@ -1,0 +1,62 @@
+{
+ "path": "block/mangrove_leaves.png",
+ "depicts": "mangrove leaves block: dense canopy foliage with gaps (colormapped grey texture), low-density plant matter over 1 m",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    109,
+    106,
+    106
+   ],
+   "share": 0.274,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    158,
+    158,
+    158
+   ],
+   "share": 0.203,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    136,
+    135,
+    135
+   ],
+   "share": 0.193,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    73,
+    73
+   ],
+   "share": 0.17,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    181,
+    181,
+    181
+   ],
+   "share": 0.16,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

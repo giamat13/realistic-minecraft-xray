@@ -1,0 +1,73 @@
+{
+ "path": "block/heavy_core.png",
+ "depicts": "heavy core (mace core, fictional heavy metal orb): dark dense metal shell with lighter blue-grey inset panels; closest analogue tungsten-heavy metal for dense core and stainless steel for panels",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    59,
+    62
+   ],
+   "share": 0.297,
+   "material": "tungsten",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    38,
+    38
+   ],
+   "share": 0.161,
+   "material": "tungsten",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    94,
+    101,
+    111
+   ],
+   "share": 0.146,
+   "material": "tungsten",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    78,
+    82,
+    89
+   ],
+   "share": 0.141,
+   "material": "tungsten",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    146,
+    153,
+    171
+   ],
+   "share": 0.135,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    130,
+    147
+   ],
+   "share": 0.12,
+   "material": "stainless",
+   "thickness_cm": 100.0
+  }
+ ]
+}

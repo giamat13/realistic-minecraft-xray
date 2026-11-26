@@ -1,0 +1,73 @@
+{
+ "path": "block/redstone_ore.png",
+ "depicts": "redstone ore block (stone host rock with cinnabar redstone mineral specks)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    122,
+    122
+   ],
+   "share": 0.805,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    173,
+    6,
+    6
+   ],
+   "share": 0.078,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    249,
+    20,
+    20
+   ],
+   "share": 0.043,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    191,
+    147,
+    147
+   ],
+   "share": 0.043,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    253,
+    94,
+    94
+   ],
+   "share": 0.02,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    137,
+    137
+   ],
+   "share": 0.012,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  }
+ ]
+}

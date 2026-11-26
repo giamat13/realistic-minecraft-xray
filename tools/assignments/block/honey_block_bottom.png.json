@@ -1,0 +1,62 @@
+{
+ "path": "block/honey_block_bottom.png",
+ "depicts": "honey block bottom: translucent honey (amber, sugar-syrup), full block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    235,
+    127,
+    17
+   ],
+   "share": 0.312,
+   "material": "honey",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    247,
+    153,
+    9
+   ],
+   "share": 0.258,
+   "material": "honey",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    171,
+    28
+   ],
+   "share": 0.176,
+   "material": "honey",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    228,
+    117,
+    3
+   ],
+   "share": 0.16,
+   "material": "honey",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    253,
+    193,
+    52
+   ],
+   "share": 0.094,
+   "material": "honey",
+   "thickness_cm": 100.0
+  }
+ ]
+}

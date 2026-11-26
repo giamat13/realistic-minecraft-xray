@@ -1,0 +1,73 @@
+{
+ "path": "block/smithing_table_side.png",
+ "depicts": "smithing table side: dark wood cabinet with steel tool edges and leather trim",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    32,
+    32
+   ],
+   "share": 0.598,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    22,
+    23,
+    25
+   ],
+   "share": 0.184,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    93,
+    38,
+    32
+   ],
+   "share": 0.109,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    64,
+    79
+   ],
+   "share": 0.086,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    145,
+    90,
+    63
+   ],
+   "share": 0.02,
+   "material": "leather",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    101,
+    103,
+    120
+   ],
+   "share": 0.004,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/hanging_roots.png",
+ "depicts": "hanging roots: fibrous plant roots (pinkish-brown rootlets) hanging from a ceiling, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    175,
+    126,
+    100
+   ],
+   "share": 0.333,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    144,
+    87,
+    64
+   ],
+   "share": 0.253,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    151,
+    137
+   ],
+   "share": 0.213,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    121,
+    85,
+    58
+   ],
+   "share": 0.12,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    108,
+    74
+   ],
+   "share": 0.08,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    161,
+    115,
+    92
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

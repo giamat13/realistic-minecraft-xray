@@ -1,0 +1,73 @@
+{
+ "path": "block/reinforced_deepslate_bottom.png",
+ "depicts": "reinforced deepslate block bottom face (dark deepslate with metal reinforcement lattice/rim)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    76,
+    77
+   ],
+   "share": 0.535,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    51,
+    50,
+    50
+   ],
+   "share": 0.262,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    162,
+    175,
+    134
+   ],
+   "share": 0.094,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    87,
+    108
+   ],
+   "share": 0.047,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    117,
+    123
+   ],
+   "share": 0.031,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    129,
+    153,
+    136
+   ],
+   "share": 0.031,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

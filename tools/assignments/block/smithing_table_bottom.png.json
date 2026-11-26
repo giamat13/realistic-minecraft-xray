@@ -1,0 +1,62 @@
+{
+ "path": "block/smithing_table_bottom.png",
+ "depicts": "smithing table bottom face: dark wooden base with iron corner brackets",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    28,
+    23
+   ],
+   "share": 0.531,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    31,
+    26
+   ],
+   "share": 0.18,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    47,
+    20,
+    17
+   ],
+   "share": 0.125,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    34,
+    29
+   ],
+   "share": 0.102,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    26,
+    27,
+    30
+   ],
+   "share": 0.062,
+   "material": "iron",
+   "thickness_cm": 100.0
+  }
+ ]
+}

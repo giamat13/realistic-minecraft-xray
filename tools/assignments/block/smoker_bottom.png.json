@@ -1,0 +1,73 @@
+{
+ "path": "block/smoker_bottom.png",
+ "depicts": "smoker bottom face: cobblestone-grey stone base with oak wood edges",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    133,
+    133,
+    133
+   ],
+   "share": 0.359,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    112,
+    112
+   ],
+   "share": 0.254,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    83,
+    83
+   ],
+   "share": 0.246,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    60,
+    59,
+    59
+   ],
+   "share": 0.078,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    58,
+    47,
+    30
+   ],
+   "share": 0.016,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

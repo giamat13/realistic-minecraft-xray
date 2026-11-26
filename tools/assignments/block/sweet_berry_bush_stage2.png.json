@@ -1,0 +1,73 @@
+{
+ "path": "block/sweet_berry_bush_stage2.png",
+ "depicts": "sweet berry bush with ripening red berries",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    96,
+    59
+   ],
+   "share": 0.662,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    72,
+    127,
+    79
+   ],
+   "share": 0.124,
+   "material": "foliage",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    29,
+    56,
+    34
+   ],
+   "share": 0.117,
+   "material": "foliage",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    165,
+    7,
+    0
+   ],
+   "share": 0.062,
+   "material": "fruit",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    223,
+    70,
+    126
+   ],
+   "share": 0.021,
+   "material": "plant_tissue",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    105,
+    31,
+    33
+   ],
+   "share": 0.014,
+   "material": "fruit",
+   "thickness_cm": 1.0
+  }
+ ]
+}

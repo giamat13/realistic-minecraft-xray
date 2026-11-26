@@ -1,0 +1,62 @@
+{
+ "path": "block/grindstone_pivot.png",
+ "depicts": "grindstone wooden pivot/axle support (oak wood frame)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    50,
+    24
+   ],
+   "share": 0.333,
+   "material": "wood_oak",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    88,
+    54,
+    24
+   ],
+   "share": 0.283,
+   "material": "wood_oak",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    61,
+    39,
+    18
+   ],
+   "share": 0.267,
+   "material": "wood_oak",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    48,
+    30,
+    14
+   ],
+   "share": 0.117,
+   "material": "wood_oak",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    46,
+    21
+   ],
+   "share": 0.0,
+   "material": "wood_oak",
+   "thickness_cm": 30.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "block/mangrove_log.png",
+ "depicts": "mangrove log bark side: red-brown bark on a solid 1 m wood log",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    78,
+    63,
+    39
+   ],
+   "share": 0.316,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    72,
+    44
+   ],
+   "share": 0.305,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    82,
+    48
+   ],
+   "share": 0.176,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    53,
+    34
+   ],
+   "share": 0.152,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    60,
+    47,
+    35
+   ],
+   "share": 0.051,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

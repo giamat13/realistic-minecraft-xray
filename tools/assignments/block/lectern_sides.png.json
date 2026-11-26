@@ -1,0 +1,73 @@
+{
+ "path": "block/lectern_sides.png",
+ "depicts": "lectern side faces: oak wood planks with grain and dark wood trim",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    182,
+    143,
+    84
+   ],
+   "share": 0.262,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    150,
+    116,
+    65
+   ],
+   "share": 0.219,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    166,
+    130,
+    77
+   ],
+   "share": 0.172,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.168,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.164,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    193,
+    159,
+    106
+   ],
+   "share": 0.016,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

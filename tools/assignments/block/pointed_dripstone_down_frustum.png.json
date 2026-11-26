@@ -1,0 +1,62 @@
+{
+ "path": "block/pointed_dripstone_down_frustum.png",
+ "depicts": "pointed dripstone downward frustum: tapering brown calcite stalactite",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    99,
+    74,
+    71
+   ],
+   "share": 0.241,
+   "material": "calcite",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    121,
+    101
+   ],
+   "share": 0.211,
+   "material": "calcite",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    99,
+    86
+   ],
+   "share": 0.193,
+   "material": "calcite",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    141,
+    113
+   ],
+   "share": 0.181,
+   "material": "calcite",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    84,
+    80
+   ],
+   "share": 0.175,
+   "material": "calcite",
+   "thickness_cm": 30.0
+  }
+ ]
+}

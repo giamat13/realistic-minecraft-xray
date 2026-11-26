@@ -1,0 +1,73 @@
+{
+ "path": "block/podzol_side.png",
+ "depicts": "podzol dirt block side: brown soil with dark humus layer and grey stone flecks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    133,
+    94,
+    64
+   ],
+   "share": 0.539,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    86,
+    61,
+    32
+   ],
+   "share": 0.336,
+   "material": "humus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    185,
+    133,
+    92
+   ],
+   "share": 0.102,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    135,
+    135,
+    135
+   ],
+   "share": 0.012,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    108,
+    108,
+    108
+   ],
+   "share": 0.008,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    173,
+    102,
+    36
+   ],
+   "share": 0.004,
+   "material": "soil",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "path": "block/redstone_dust_line1.png",
+ "depicts": "redstone dust wire line segment, variant 1 (thin powder layer, grayscale tint sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    254,
+    254
+   ],
+   "share": 0.455,
+   "material": "redstone_dust",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.364,
+   "material": "redstone_dust",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    217,
+    217
+   ],
+   "share": 0.182,
+   "material": "redstone_dust",
+   "thickness_cm": 0.2
+  }
+ ]
+}

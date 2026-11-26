@@ -1,0 +1,51 @@
+{
+ "path": "block/hopper_inside.png",
+ "depicts": "iron hopper inner face: thin iron sheet walls (hopper is a hollow container)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    52,
+    52,
+    56
+   ],
+   "share": 0.316,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    45,
+    45,
+    50
+   ],
+   "share": 0.25,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    39,
+    39,
+    43
+   ],
+   "share": 0.242,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    63,
+    62,
+    66
+   ],
+   "share": 0.191,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

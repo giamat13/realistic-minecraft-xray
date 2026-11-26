@@ -1,0 +1,73 @@
+{
+ "path": "block/dead_brain_coral.png",
+ "depicts": "dead brain coral sprite: grey calcium carbonate coral skeleton branches, mostly transparent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    106,
+    102
+   ],
+   "share": 0.295,
+   "material": "calcite",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    134,
+    123,
+    119
+   ],
+   "share": 0.25,
+   "material": "calcite",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    160,
+    156
+   ],
+   "share": 0.196,
+   "material": "calcite",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    114,
+    110
+   ],
+   "share": 0.17,
+   "material": "calcite",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    153,
+    147,
+    141
+   ],
+   "share": 0.045,
+   "material": "calcite",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    138,
+    128,
+    123
+   ],
+   "share": 0.045,
+   "material": "calcite",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/pitcher_crop_side.png",
+ "depicts": "pitcher plant crop pod side: tan-brown pod husk with bract edges",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    161,
+    102
+   ],
+   "share": 0.333,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    183,
+    120,
+    78
+   ],
+   "share": 0.267,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    159,
+    96,
+    63
+   ],
+   "share": 0.217,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    192,
+    145,
+    93
+   ],
+   "share": 0.083,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    80,
+    51
+   ],
+   "share": 0.067,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    119,
+    69,
+    45
+   ],
+   "share": 0.033,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  }
+ ]
+}

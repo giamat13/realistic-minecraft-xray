@@ -1,0 +1,62 @@
+{
+ "path": "block/sunflower_bottom.png",
+ "depicts": "sunflower stem and leaves viewed from below (green stalk)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    147,
+    42
+   ],
+   "share": 0.526,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    124,
+    4
+   ],
+   "share": 0.281,
+   "material": "plant_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    38,
+    99,
+    37
+   ],
+   "share": 0.14,
+   "material": "plant_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.053,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    135,
+    31
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  }
+ ]
+}

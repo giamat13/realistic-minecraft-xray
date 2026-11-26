@@ -1,0 +1,73 @@
+{
+ "path": "block/horn_coral.png",
+ "depicts": "horn coral: small branching coral skeleton (calcium carbonate, calcite-like aragonite), sparse fan",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    179,
+    65
+   ],
+   "share": 0.25,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    182,
+    137,
+    48
+   ],
+   "share": 0.24,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    213,
+    203,
+    62
+   ],
+   "share": 0.21,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    228,
+    218,
+    74
+   ],
+   "share": 0.19,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    237,
+    236,
+    76
+   ],
+   "share": 0.09,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    160,
+    53
+   ],
+   "share": 0.02,
+   "material": "calcite",
+   "thickness_cm": 4.0
+  }
+ ]
+}

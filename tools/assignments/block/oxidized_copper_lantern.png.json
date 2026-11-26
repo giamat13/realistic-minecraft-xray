@@ -1,0 +1,73 @@
+{
+ "path": "block/oxidized_copper_lantern.png",
+ "depicts": "oxidized copper lantern, thin patinated copper frame with glowing lamp core (animated flame strip)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    139,
+    118
+   ],
+   "share": 0.443,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    59,
+    107,
+    87
+   ],
+   "share": 0.387,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    235,
+    153
+   ],
+   "share": 0.075,
+   "material": "glowstone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    178,
+    110
+   ],
+   "share": 0.057,
+   "material": "malachite",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.019,
+   "material": "glowstone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    220,
+    248,
+    220
+   ],
+   "share": 0.019,
+   "material": "glowstone",
+   "thickness_cm": 1.0
+  }
+ ]
+}
