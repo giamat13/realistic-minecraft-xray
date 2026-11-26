@@ -1,0 +1,73 @@
+{
+ "path": "item/guster_banner_pattern.png",
+ "depicts": "guster banner pattern item: banner cloth sheet with a dyed pattern",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    235,
+    235,
+    235
+   ],
+   "share": 0.37,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    123,
+    88
+   ],
+   "share": 0.228,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    177,
+    165,
+    136
+   ],
+   "share": 0.142,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    210,
+    188
+   ],
+   "share": 0.136,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    102,
+    76,
+    62
+   ],
+   "share": 0.099,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    91,
+    53,
+    35
+   ],
+   "share": 0.025,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/heart_pottery_sherd.png",
+ "depicts": "heart pottery sherd: fired clay shard with heart glyph",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    41,
+    33
+   ],
+   "share": 0.376,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    56,
+    47
+   ],
+   "share": 0.255,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    117,
+    66,
+    54
+   ],
+   "share": 0.153,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.089,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.089,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.038,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

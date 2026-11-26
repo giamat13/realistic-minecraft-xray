@@ -1,0 +1,73 @@
+{
+ "path": "item/heart_of_the_sea.png",
+ "depicts": "heart of the sea item: blue prismarine-like crystal heart",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    24,
+    101,
+    132
+   ],
+   "share": 0.264,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    12,
+    63,
+    84
+   ],
+   "share": 0.23,
+   "material": "prismarine",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    31,
+    150,
+    177
+   ],
+   "share": 0.196,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    128,
+    161
+   ],
+   "share": 0.169,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    8,
+    32,
+    84
+   ],
+   "share": 0.115,
+   "material": "prismarine",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    29,
+    194,
+    209
+   ],
+   "share": 0.027,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

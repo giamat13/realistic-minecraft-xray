@@ -1,0 +1,73 @@
+{
+ "path": "item/leaf_litter.png",
+ "depicts": "leaf litter item: dried fallen leaves and twigs",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    128,
+    86,
+    59
+   ],
+   "share": 0.291,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    64,
+    48
+   ],
+   "share": 0.291,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    149,
+    106,
+    72
+   ],
+   "share": 0.154,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    169,
+    123,
+    74
+   ],
+   "share": 0.128,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    75,
+    47,
+    38
+   ],
+   "share": 0.077,
+   "material": "humus",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    185,
+    148,
+    91
+   ],
+   "share": 0.06,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

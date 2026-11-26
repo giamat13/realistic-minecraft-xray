@@ -1,0 +1,62 @@
+{
+ "path": "item/kelp.png",
+ "depicts": "kelp item: dried green kelp fronds",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    131,
+    50
+   ],
+   "share": 0.283,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    89,
+    171,
+    48
+   ],
+   "share": 0.283,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    103,
+    30
+   ],
+   "share": 0.151,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    65,
+    80,
+    17
+   ],
+   "share": 0.142,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    94,
+    112,
+    37
+   ],
+   "share": 0.142,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  }
+ ]
+}

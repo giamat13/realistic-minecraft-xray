@@ -1,0 +1,73 @@
+{
+ "path": "item/lava_bucket.png",
+ "depicts": "lava bucket item: iron bucket filled with lava",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    148,
+    146
+   ],
+   "share": 0.342,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    54,
+    52
+   ],
+   "share": 0.295,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.144,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    204,
+    70,
+    40
+   ],
+   "share": 0.082,
+   "material": "lava",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    228,
+    210,
+    92
+   ],
+   "share": 0.068,
+   "material": "lava",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    227,
+    140,
+    63
+   ],
+   "share": 0.068,
+   "material": "lava",
+   "thickness_cm": 0.5
+  }
+ ]
+}

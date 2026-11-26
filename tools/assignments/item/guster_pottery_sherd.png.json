@@ -1,0 +1,73 @@
+{
+ "path": "item/guster_pottery_sherd.png",
+ "depicts": "guster pottery sherd: fired clay shard with a glyph",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    60,
+    50
+   ],
+   "share": 0.376,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.178,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    37,
+    29
+   ],
+   "share": 0.172,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    45,
+    37
+   ],
+   "share": 0.127,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.102,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.045,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

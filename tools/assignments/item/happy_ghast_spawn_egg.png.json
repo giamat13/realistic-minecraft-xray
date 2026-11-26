@@ -1,0 +1,73 @@
+{
+ "path": "item/happy_ghast_spawn_egg.png",
+ "depicts": "happy ghast spawn egg: egg shell around a pale gel ghost (fictional, gel analogue)",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.374,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    204,
+    204
+   ],
+   "share": 0.27,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    115,
+    109,
+    109
+   ],
+   "share": 0.121,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    179,
+    170,
+    170
+   ],
+   "share": 0.115,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    94,
+    90,
+    90
+   ],
+   "share": 0.109,
+   "material": "egg",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    151,
+    143,
+    143
+   ],
+   "share": 0.011,
+   "material": "dried_ghast_gel",
+   "thickness_cm": 3.0
+  }
+ ]
+}

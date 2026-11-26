@@ -1,0 +1,73 @@
+{
+ "path": "item/jungle_pyramid_map.png",
+ "depicts": "jungle pyramid map item: paper map with ink marks",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    249,
+    233,
+    202
+   ],
+   "share": 0.254,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    143,
+    124,
+    89
+   ],
+   "share": 0.237,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    205,
+    169
+   ],
+   "share": 0.232,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    106,
+    97,
+    68
+   ],
+   "share": 0.132,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.088,
+   "material": "ink",
+   "thickness_cm": 0.01
+  },
+  {
+   "id": 5,
+   "rgb": [
+    149,
+    147,
+    145
+   ],
+   "share": 0.057,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

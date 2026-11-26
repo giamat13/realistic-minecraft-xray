@@ -1,0 +1,73 @@
+{
+ "path": "item/heartbreak_pottery_sherd.png",
+ "depicts": "heartbreak pottery sherd: fired clay shard with cracked-heart glyph",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    60,
+    50
+   ],
+   "share": 0.389,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    71,
+    37,
+    29
+   ],
+   "share": 0.178,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    45,
+    37
+   ],
+   "share": 0.159,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    131,
+    73,
+    59
+   ],
+   "share": 0.14,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.096,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    65
+   ],
+   "share": 0.038,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "item/lead.png",
+ "depicts": "lead item: braided leather lead with iron clasp",
+ "kind": "item",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    109,
+    68
+   ],
+   "share": 0.359,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    94,
+    47,
+    16
+   ],
+   "share": 0.346,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    70,
+    27
+   ],
+   "share": 0.231,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    171,
+    159,
+    151
+   ],
+   "share": 0.038,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    114,
+    96,
+    84
+   ],
+   "share": 0.013,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    139,
+    112,
+    95
+   ],
+   "share": 0.013,
+   "material": "leather",
+   "thickness_cm": 0.4
+  }
+ ]
+}
