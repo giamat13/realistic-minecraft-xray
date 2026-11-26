@@ -1,0 +1,73 @@
+{
+ "path": "entity/decorated_pot/explorer_pottery_pattern.png",
+ "depicts": "decorated pot sherd face with an explorer pattern in fired clay",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    127,
+    71,
+    58
+   ],
+   "share": 0.429,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    76,
+    41,
+    33
+   ],
+   "share": 0.201,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    92,
+    71
+   ],
+   "share": 0.147,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    99,
+    57,
+    48
+   ],
+   "share": 0.147,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    171,
+    113,
+    75
+   ],
+   "share": 0.045,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    185,
+    128,
+    83
+   ],
+   "share": 0.031,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

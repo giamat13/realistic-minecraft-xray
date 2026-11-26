@@ -1,0 +1,73 @@
+{
+ "path": "block/smooth_basalt.png",
+ "depicts": "smooth basalt block, dark grey volcanic rock",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    79,
+    75,
+    79
+   ],
+   "share": 0.293,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    92,
+    92
+   ],
+   "share": 0.285,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    59,
+    72
+   ],
+   "share": 0.227,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    50,
+    51,
+    61
+   ],
+   "share": 0.133,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    27,
+    38,
+    50
+   ],
+   "share": 0.039,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    105,
+    105,
+    105
+   ],
+   "share": 0.023,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

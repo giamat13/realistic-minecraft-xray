@@ -1,0 +1,73 @@
+{
+ "path": "block/repeating_command_block_conditional.png",
+ "depicts": "conditional command block face (purple-painted steel housing, animated strip, frame 1)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    108,
+    85,
+    181
+   ],
+   "share": 0.516,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    174,
+    166,
+    199
+   ],
+   "share": 0.34,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    59,
+    74
+   ],
+   "share": 0.129,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    183,
+    120,
+    82
+   ],
+   "share": 0.008,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    58,
+    54
+   ],
+   "share": 0.004,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    37,
+    35
+   ],
+   "share": 0.004,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

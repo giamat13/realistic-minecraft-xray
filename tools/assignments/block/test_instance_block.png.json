@@ -1,0 +1,73 @@
+{
+ "path": "block/test_instance_block.png",
+ "depicts": "game-test instance block, grey painted plastic cube with white marking",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    84,
+    83
+   ],
+   "share": 0.422,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    76,
+    68,
+    67
+   ],
+   "share": 0.141,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    251,
+    251,
+    251
+   ],
+   "share": 0.133,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    119,
+    116
+   ],
+   "share": 0.129,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    113,
+    104,
+    102
+   ],
+   "share": 0.105,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    226,
+    226
+   ],
+   "share": 0.07,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  }
+ ]
+}

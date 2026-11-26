@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/nautilus_body/iron.png",
+ "depicts": "nautilus body armour plate in iron sheet",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    178,
+    178,
+    178
+   ],
+   "share": 0.263,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    129,
+    131,
+    133
+   ],
+   "share": 0.263,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    221,
+    221,
+    221
+   ],
+   "share": 0.251,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    251,
+    251,
+    251
+   ],
+   "share": 0.086,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    101,
+    105,
+    108
+   ],
+   "share": 0.083,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    76,
+    79,
+    82
+   ],
+   "share": 0.053,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

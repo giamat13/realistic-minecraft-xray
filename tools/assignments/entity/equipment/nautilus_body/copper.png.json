@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/nautilus_body/copper.png",
+ "depicts": "nautilus body armour plate in copper (fictional creature armour, closest analogue: copper sheet)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    136,
+    63,
+    38
+   ],
+   "share": 0.263,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    100,
+    47,
+    31
+   ],
+   "share": 0.263,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    184,
+    87,
+    53
+   ],
+   "share": 0.251,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    75,
+    32,
+    20
+   ],
+   "share": 0.136,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    227,
+    130,
+    108
+   ],
+   "share": 0.054,
+   "material": "copper",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    209,
+    109,
+    79
+   ],
+   "share": 0.032,
+   "material": "copper",
+   "thickness_cm": 0.2
+  }
+ ]
+}

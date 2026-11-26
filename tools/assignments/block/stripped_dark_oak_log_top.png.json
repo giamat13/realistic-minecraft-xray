@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_dark_oak_log_top.png",
+ "depicts": "stripped dark oak log end grain: dark brown rings, pale rim",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    76,
+    48,
+    23
+   ],
+   "share": 0.477,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    60,
+    38,
+    17
+   ],
+   "share": 0.246,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    53,
+    43,
+    27
+   ],
+   "share": 0.234,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    83,
+    56,
+    26
+   ],
+   "share": 0.023,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    48,
+    30,
+    14
+   ],
+   "share": 0.02,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    66,
+    44,
+    23
+   ],
+   "share": 0.0,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

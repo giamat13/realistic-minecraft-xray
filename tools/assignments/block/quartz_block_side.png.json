@@ -1,0 +1,73 @@
+{
+ "path": "block/quartz_block_side.png",
+ "depicts": "quartz block side (white-cream quartz with speckle and edge line)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    234,
+    230
+   ],
+   "share": 0.281,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    238,
+    230,
+    222
+   ],
+   "share": 0.266,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    234,
+    226,
+    218
+   ],
+   "share": 0.23,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    242,
+    239,
+    237
+   ],
+   "share": 0.105,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    221,
+    217,
+    203
+   ],
+   "share": 0.062,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    222,
+    208
+   ],
+   "share": 0.055,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  }
+ ]
+}

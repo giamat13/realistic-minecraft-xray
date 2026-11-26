@@ -1,0 +1,51 @@
+{
+ "path": "block/warped_roots_pot.png",
+ "depicts": "warped roots in a pot: thin teal fungal roots, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    22,
+    126,
+    134
+   ],
+   "share": 0.338,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    22,
+    97,
+    91
+   ],
+   "share": 0.239,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    20,
+    180,
+    133
+   ],
+   "share": 0.211,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    17,
+    155,
+    133
+   ],
+   "share": 0.211,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  }
+ ]
+}

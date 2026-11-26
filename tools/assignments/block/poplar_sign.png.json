@@ -1,0 +1,73 @@
+{
+ "path": "block/poplar_sign.png",
+ "depicts": "poplar standing sign: pale wood board with dark grain and post",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    163,
+    152,
+    139
+   ],
+   "share": 0.437,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    142,
+    129,
+    121
+   ],
+   "share": 0.321,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    106,
+    104
+   ],
+   "share": 0.109,
+   "material": "wood_soft",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    79,
+    60,
+    43
+   ],
+   "share": 0.079,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    72,
+    45
+   ],
+   "share": 0.033,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    62,
+    46,
+    38
+   ],
+   "share": 0.022,
+   "material": "wood_dark",
+   "thickness_cm": 12.5
+  }
+ ]
+}

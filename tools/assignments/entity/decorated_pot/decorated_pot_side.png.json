@@ -1,0 +1,73 @@
+{
+ "path": "entity/decorated_pot/decorated_pot_side.png",
+ "depicts": "decorated pot side wall sherd (fired terracotta with a 16x16 side face)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    128,
+    71,
+    58
+   ],
+   "share": 0.545,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    117,
+    66,
+    54
+   ],
+   "share": 0.129,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    78,
+    64
+   ],
+   "share": 0.129,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    89,
+    73
+   ],
+   "share": 0.071,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    105,
+    59,
+    49
+   ],
+   "share": 0.067,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    83,
+    68
+   ],
+   "share": 0.058,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

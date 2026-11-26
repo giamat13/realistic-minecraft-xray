@@ -1,0 +1,73 @@
+{
+ "path": "entity/bed/red.png",
+ "depicts": "red dyed wool bed entity skin: red wool blanket (two red dye tones) on oak frame, white pillow",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    138,
+    82
+   ],
+   "share": 0.351,
+   "material": "wood_oak",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    176,
+    46,
+    39
+   ],
+   "share": 0.197,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    87,
+    51
+   ],
+   "share": 0.155,
+   "material": "wood_oak",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    26,
+    26
+   ],
+   "share": 0.155,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    231,
+    234,
+    234
+   ],
+   "share": 0.079,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    191,
+    192
+   ],
+   "share": 0.062,
+   "material": "textile",
+   "thickness_cm": 10.0
+  }
+ ]
+}

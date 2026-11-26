@@ -1,0 +1,73 @@
+{
+ "path": "block/wither_rose.png",
+ "depicts": "wither rose flower sprite: dark near-black petals and dark green leaves and stem",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    51,
+    21
+   ],
+   "share": 0.243,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    69,
+    26
+   ],
+   "share": 0.216,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    25,
+    19,
+    16
+   ],
+   "share": 0.162,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    28,
+    24
+   ],
+   "share": 0.162,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    66,
+    53,
+    46
+   ],
+   "share": 0.108,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    38,
+    10
+   ],
+   "share": 0.108,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}

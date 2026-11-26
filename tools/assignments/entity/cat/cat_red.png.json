@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_red.png",
+ "depicts": "adult red/orange tabby cat UV map: ginger fur over skin, white chest, green eyes, pink nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    236,
+    170,
+    61
+   ],
+   "share": 0.671,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.137,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    141,
+    47
+   ],
+   "share": 0.128,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    213,
+    172
+   ],
+   "share": 0.061,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    77,
+    137,
+    13
+   ],
+   "share": 0.003,
+   "material": "water",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    115,
+    115
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  }
+ ]
+}

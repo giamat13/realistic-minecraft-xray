@@ -1,0 +1,73 @@
+{
+ "path": "block/pale_oak_log_top.png",
+ "depicts": "pale oak log end grain, pale annual rings and bark rim",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    227,
+    225
+   ],
+   "share": 0.273,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    200,
+    200
+   ],
+   "share": 0.266,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    251,
+    240,
+    239
+   ],
+   "share": 0.227,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    94,
+    83,
+    80
+   ],
+   "share": 0.105,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    114,
+    103,
+    101
+   ],
+   "share": 0.066,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    65,
+    62
+   ],
+   "share": 0.062,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

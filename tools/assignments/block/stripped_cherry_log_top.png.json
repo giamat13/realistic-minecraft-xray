@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_cherry_log_top.png",
+ "depicts": "stripped cherry log end grain: pink rings, pale heartwood",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    204,
+    130,
+    125
+   ],
+   "share": 0.266,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    230,
+    181,
+    173
+   ],
+   "share": 0.266,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    231,
+    190,
+    180
+   ],
+   "share": 0.195,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    223,
+    162,
+    156
+   ],
+   "share": 0.195,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    210,
+    137,
+    141
+   ],
+   "share": 0.039,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    231,
+    199,
+    187
+   ],
+   "share": 0.039,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

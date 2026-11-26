@@ -1,0 +1,73 @@
+{
+ "path": "block/melon_stem.png",
+ "depicts": "melon stem: thin grey-green plant stalk (colormapped stem, 2px wide)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    181,
+    181,
+    181
+   ],
+   "share": 0.314,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    146,
+    146
+   ],
+   "share": 0.171,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    118,
+    118
+   ],
+   "share": 0.171,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    204,
+    204,
+    204
+   ],
+   "share": 0.171,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    77,
+    77,
+    77
+   ],
+   "share": 0.114,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    136,
+    136,
+    136
+   ],
+   "share": 0.057,
+   "material": "plant_tissue",
+   "thickness_cm": 4.0
+  }
+ ]
+}

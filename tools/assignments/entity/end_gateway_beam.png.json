@@ -1,0 +1,73 @@
+{
+ "path": "entity/end_gateway_beam.png",
+ "depicts": "end gateway energy beam (16x16 teal-grey glowing beam strip)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    173,
+    197,
+    195
+   ],
+   "share": 0.438,
+   "material": "plasma_particle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    197,
+    210,
+    210
+   ],
+   "share": 0.242,
+   "material": "plasma_particle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    147,
+    185,
+    182
+   ],
+   "share": 0.125,
+   "material": "plasma_particle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    165,
+    181,
+    180
+   ],
+   "share": 0.074,
+   "material": "plasma_particle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    214,
+    224,
+    224
+   ],
+   "share": 0.062,
+   "material": "plasma_particle",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    131,
+    173,
+    169
+   ],
+   "share": 0.059,
+   "material": "plasma_particle",
+   "thickness_cm": 2.0
+  }
+ ]
+}

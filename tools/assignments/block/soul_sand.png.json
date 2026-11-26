@@ -1,0 +1,73 @@
+{
+ "path": "block/soul_sand.png",
+ "depicts": "soul sand: dark brown sand-like block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    70,
+    53,
+    42
+   ],
+   "share": 0.402,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    69,
+    56
+   ],
+   "share": 0.238,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    82,
+    68
+   ],
+   "share": 0.152,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    53,
+    41,
+    34
+   ],
+   "share": 0.145,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    121,
+    97,
+    82
+   ],
+   "share": 0.062,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    81,
+    62,
+    51
+   ],
+   "share": 0.0,
+   "material": "sand",
+   "thickness_cm": 100.0
+  }
+ ]
+}

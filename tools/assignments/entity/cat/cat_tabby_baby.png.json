@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_tabby_baby.png",
+ "depicts": "baby tabby cat UV map: brown striped fur over skin, yellow eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    125,
+    93,
+    68
+   ],
+   "share": 0.337,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    93,
+    66,
+    45
+   ],
+   "share": 0.221,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    237,
+    224,
+    205
+   ],
+   "share": 0.199,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    114,
+    87
+   ],
+   "share": 0.127,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    211,
+    182,
+    159
+   ],
+   "share": 0.11,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    241,
+    218,
+    60
+   ],
+   "share": 0.006,
+   "material": "water",
+   "thickness_cm": 1.5
+  }
+ ]
+}

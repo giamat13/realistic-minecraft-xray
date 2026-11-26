@@ -1,0 +1,51 @@
+{
+ "path": "block/pale_moss_carpet_side_small.png",
+ "depicts": "pale moss carpet side sprite, short fibrous moss tufts",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    109,
+    114,
+    107
+   ],
+   "share": 0.26,
+   "material": "moss",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    81,
+    85,
+    81
+   ],
+   "share": 0.26,
+   "material": "moss",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    146,
+    135
+   ],
+   "share": 0.26,
+   "material": "moss",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    122,
+    128,
+    119
+   ],
+   "share": 0.22,
+   "material": "moss",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/pale_oak_shelf.png",
+ "depicts": "pale oak shelf block, pale wooden shelf with plank divisions",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    251,
+    245,
+    244
+   ],
+   "share": 0.284,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    212,
+    211
+   ],
+   "share": 0.238,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    211,
+    196,
+    196
+   ],
+   "share": 0.187,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    228,
+    226
+   ],
+   "share": 0.18,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    184,
+    184
+   ],
+   "share": 0.065,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    176,
+    164,
+    164
+   ],
+   "share": 0.046,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

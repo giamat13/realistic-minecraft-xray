@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/nautilus_body/diamond.png",
+ "depicts": "nautilus body armour plate in diamond (gem-metal plate)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    55,
+    213,
+    198
+   ],
+   "share": 0.263,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    27,
+    154,
+    159
+   ],
+   "share": 0.263,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    161,
+    251,
+    232
+   ],
+   "share": 0.162,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    18,
+    106,
+    107
+   ],
+   "share": 0.136,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    243,
+    227
+   ],
+   "share": 0.089,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    255,
+    251
+   ],
+   "share": 0.086,
+   "material": "diamond",
+   "thickness_cm": 0.3
+  }
+ ]
+}

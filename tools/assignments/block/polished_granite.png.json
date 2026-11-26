@@ -1,0 +1,73 @@
+{
+ "path": "block/polished_granite.png",
+ "depicts": "polished granite block: pinkish-red igneous granite",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    157,
+    106,
+    88
+   ],
+   "share": 0.711,
+   "material": "granite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    61,
+    50
+   ],
+   "share": 0.078,
+   "material": "granite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    127,
+    86,
+    70
+   ],
+   "share": 0.066,
+   "material": "granite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    180,
+    136,
+    119
+   ],
+   "share": 0.062,
+   "material": "granite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    201,
+    151,
+    129
+   ],
+   "share": 0.055,
+   "material": "granite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    180,
+    155,
+    145
+   ],
+   "share": 0.027,
+   "material": "granite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

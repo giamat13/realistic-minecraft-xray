@@ -1,0 +1,73 @@
+{
+ "path": "block/raw_iron_block.png",
+ "depicts": "raw iron block (iron-bearing ore chunks: brown iron ore spots in a tan host rock)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    117,
+    93,
+    61
+   ],
+   "share": 0.254,
+   "material": "iron_ore_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    175,
+    142,
+    119
+   ],
+   "share": 0.242,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    142,
+    116,
+    84
+   ],
+   "share": 0.227,
+   "material": "iron_ore_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    175,
+    147
+   ],
+   "share": 0.176,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    233,
+    200,
+    177
+   ],
+   "share": 0.086,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    222,
+    200
+   ],
+   "share": 0.016,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

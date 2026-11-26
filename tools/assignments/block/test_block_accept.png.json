@@ -1,0 +1,73 @@
+{
+ "path": "block/test_block_accept.png",
+ "depicts": "game-test block in its green 'accept' state, painted plastic cube with white pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    103,
+    172,
+    87
+   ],
+   "share": 0.418,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    138,
+    222,
+    114
+   ],
+   "share": 0.199,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    145,
+    69
+   ],
+   "share": 0.176,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    226,
+    226,
+    226
+   ],
+   "share": 0.109,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.062,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    160,
+    251,
+    152
+   ],
+   "share": 0.035,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  }
+ ]
+}

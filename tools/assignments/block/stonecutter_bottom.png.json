@@ -1,0 +1,62 @@
+{
+ "path": "block/stonecutter_bottom.png",
+ "depicts": "stonecutter block base face: grey stone block with dark outline",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    136,
+    135,
+    136
+   ],
+   "share": 0.328,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    128,
+    128,
+    128
+   ],
+   "share": 0.289,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    82,
+    82
+   ],
+   "share": 0.234,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    118,
+    118
+   ],
+   "share": 0.117,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    109,
+    109
+   ],
+   "share": 0.031,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

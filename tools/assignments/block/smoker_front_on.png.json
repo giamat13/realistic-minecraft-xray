@@ -1,0 +1,73 @@
+{
+ "path": "block/smoker_front_on.png",
+ "depicts": "lit smoker front: oak wood, stone panel, glowing fire inside a hatch, animated 3 frames",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    114,
+    91,
+    56
+   ],
+   "share": 0.367,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    50,
+    36
+   ],
+   "share": 0.266,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    117,
+    116
+   ],
+   "share": 0.176,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    121,
+    24
+   ],
+   "share": 0.09,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    180,
+    173
+   ],
+   "share": 0.082,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    216,
+    0
+   ],
+   "share": 0.02,
+   "material": "fire",
+   "thickness_cm": 20.0
+  }
+ ]
+}

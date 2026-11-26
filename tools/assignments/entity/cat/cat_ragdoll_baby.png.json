@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_ragdoll_baby.png",
+ "depicts": "baby Ragdoll kitten fur-covered body UV map: grey-beige and white coat over skin, dark blue eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    171,
+    158,
+    148
+   ],
+   "share": 0.351,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.285,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    218,
+    214,
+    210
+   ],
+   "share": 0.246,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    116,
+    105
+   ],
+   "share": 0.113,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    54,
+    74,
+    115
+   ],
+   "share": 0.006,
+   "material": "water",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    198,
+    190,
+    185
+   ],
+   "share": 0.0,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  }
+ ]
+}

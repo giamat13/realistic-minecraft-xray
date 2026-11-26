@@ -1,0 +1,73 @@
+{
+ "path": "block/spruce_sapling.png",
+ "depicts": "spruce sapling plant: small conifer shoots on thin trunk",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    34,
+    53,
+    34
+   ],
+   "share": 0.325,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    46,
+    73,
+    46
+   ],
+   "share": 0.241,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    90,
+    57
+   ],
+   "share": 0.205,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    46,
+    29,
+    10
+   ],
+   "share": 0.108,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    80,
+    54,
+    26
+   ],
+   "share": 0.06,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    19,
+    8,
+    3
+   ],
+   "share": 0.06,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  }
+ ]
+}

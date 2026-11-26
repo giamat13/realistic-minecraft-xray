@@ -1,0 +1,40 @@
+{
+ "path": "block/snow.png",
+ "depicts": "snow block texture, white snow with grey-blue shading",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.461,
+   "material": "snow_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    247,
+    254,
+    254
+   ],
+   "share": 0.301,
+   "material": "snow_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    240,
+    253,
+    253
+   ],
+   "share": 0.238,
+   "material": "snow_powder",
+   "thickness_cm": 100.0
+  }
+ ]
+}

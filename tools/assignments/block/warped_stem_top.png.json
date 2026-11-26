@@ -1,0 +1,73 @@
+{
+ "path": "block/warped_stem_top.png",
+ "depicts": "warped stem top: cut end of warped (fungus-stem) log with rings",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    137,
+    135
+   ],
+   "share": 0.5,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    42,
+    94,
+    82
+   ],
+   "share": 0.184,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    36,
+    52
+   ],
+   "share": 0.109,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    40,
+    112,
+    103
+   ],
+   "share": 0.098,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    45,
+    92
+   ],
+   "share": 0.062,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    20,
+    136,
+    134
+   ],
+   "share": 0.047,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

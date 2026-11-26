@@ -1,0 +1,73 @@
+{
+ "path": "block/potent_sulfur.png",
+ "depicts": "potent sulfur block: bright yellow sulfur crystal mass (approximated by native sulfur)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    209,
+    99
+   ],
+   "share": 0.457,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    195,
+    88
+   ],
+   "share": 0.191,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    222,
+    106
+   ],
+   "share": 0.16,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    215,
+    215,
+    102
+   ],
+   "share": 0.105,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    234,
+    234,
+    97
+   ],
+   "share": 0.043,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    195,
+    179,
+    77
+   ],
+   "share": 0.043,
+   "material": "sulfur",
+   "thickness_cm": 100.0
+  }
+ ]
+}

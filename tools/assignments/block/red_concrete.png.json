@@ -1,0 +1,73 @@
+{
+ "path": "block/red_concrete.png",
+ "depicts": "red concrete block (solid hardened cement with aggregate, dyed)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    142,
+    32,
+    32
+   ],
+   "share": 0.34,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    143,
+    33,
+    33
+   ],
+   "share": 0.297,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    143,
+    34,
+    34
+   ],
+   "share": 0.188,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    32,
+    32
+   ],
+   "share": 0.109,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    35,
+    35
+   ],
+   "share": 0.047,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    140,
+    32,
+    32
+   ],
+   "share": 0.02,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

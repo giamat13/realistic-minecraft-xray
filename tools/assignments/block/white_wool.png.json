@@ -1,0 +1,73 @@
+{
+ "path": "block/white_wool.png",
+ "depicts": "white wool block, woven sheep wool fibres",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    251,
+    252,
+    252
+   ],
+   "share": 0.25,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    242,
+    244,
+    244
+   ],
+   "share": 0.191,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    227,
+    230,
+    231
+   ],
+   "share": 0.176,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    219,
+    224,
+    225
+   ],
+   "share": 0.156,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    212,
+    217,
+    218
+   ],
+   "share": 0.117,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    234,
+    237,
+    237
+   ],
+   "share": 0.109,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

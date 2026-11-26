@@ -1,0 +1,73 @@
+{
+ "path": "block/pale_oak_trapdoor.png",
+ "depicts": "pale oak trapdoor, thin pale wood panel with grooves and small handle",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    253,
+    245,
+    243
+   ],
+   "share": 0.504,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    223,
+    211,
+    210
+   ],
+   "share": 0.316,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    199,
+    184,
+    184
+   ],
+   "share": 0.102,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    164,
+    164
+   ],
+   "share": 0.055,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.012,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.012,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

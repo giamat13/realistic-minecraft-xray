@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/happy_ghast_body/orange_harness.png",
+ "depicts": "Happy Ghast body harness (orange dyed leather straps with iron buckles, brass rivets, steel clasp)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    119,
+    80,
+    50
+   ],
+   "share": 0.381,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    213,
+    95,
+    21
+   ],
+   "share": 0.261,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    46,
+    21
+   ],
+   "share": 0.227,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    166,
+    169
+   ],
+   "share": 0.057,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    250,
+    163,
+    40
+   ],
+   "share": 0.052,
+   "material": "brass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    207,
+    220,
+    222
+   ],
+   "share": 0.023,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

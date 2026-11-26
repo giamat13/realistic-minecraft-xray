@@ -1,0 +1,73 @@
+{
+ "path": "block/soul_lantern.png",
+ "depicts": "soul lantern: iron cage frame with cyan soul fire inside, animated 3 frames",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    71,
+    78,
+    99
+   ],
+   "share": 0.415,
+   "material": "iron",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    63,
+    79
+   ],
+   "share": 0.396,
+   "material": "iron",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    109,
+    237,
+    241
+   ],
+   "share": 0.075,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    37,
+    195,
+    201
+   ],
+   "share": 0.057,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    220,
+    252,
+    255
+   ],
+   "share": 0.038,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    3,
+    150,
+    154
+   ],
+   "share": 0.019,
+   "material": "fire",
+   "thickness_cm": 20.0
+  }
+ ]
+}

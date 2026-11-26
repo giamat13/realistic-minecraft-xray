@@ -1,0 +1,73 @@
+{
+ "path": "block/purpur_pillar_top.png",
+ "depicts": "purpur pillar top face (purpur with concentric ring pattern)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    112,
+    159
+   ],
+   "share": 0.309,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    186,
+    149,
+    186
+   ],
+   "share": 0.246,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    123,
+    172
+   ],
+   "share": 0.223,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    144,
+    101,
+    144
+   ],
+   "share": 0.086,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    168,
+    199
+   ],
+   "share": 0.078,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    178,
+    134,
+    178
+   ],
+   "share": 0.059,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  }
+ ]
+}

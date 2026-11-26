@@ -1,0 +1,73 @@
+{
+ "path": "entity/dolphin/dolphin_baby.png",
+ "depicts": "baby dolphin model skin (blue-grey dorsal, pale belly, shading), smaller body soft tissue with blubber",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    171,
+    190,
+    210
+   ],
+   "share": 0.644,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    191,
+    207,
+    220
+   ],
+   "share": 0.255,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    156,
+    179
+   ],
+   "share": 0.089,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    134,
+    162
+   ],
+   "share": 0.008,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    8,
+    9,
+    31
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    107,
+    113,
+    142
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  }
+ ]
+}

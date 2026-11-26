@@ -1,0 +1,73 @@
+{
+ "path": "block/light_blue_candle_lit.png",
+ "depicts": "light blue dyed wax candle (lit): wax body, dark cotton wick and bright flame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    135,
+    199
+   ],
+   "share": 0.476,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    168,
+    213
+   ],
+   "share": 0.238,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    226,
+    216
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    196,
+    254,
+    234
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    84,
+    209,
+    228
+   ],
+   "share": 0.048,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

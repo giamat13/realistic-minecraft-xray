@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_acacia_log.png",
+ "depicts": "stripped acacia log side: bark removed, pale orange-pink exposed wood with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    177,
+    93,
+    60
+   ],
+   "share": 0.301,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    184,
+    96,
+    62
+   ],
+   "share": 0.273,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    91,
+    58
+   ],
+   "share": 0.168,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    89,
+    56
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    196,
+    99,
+    64
+   ],
+   "share": 0.066,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    88,
+    55
+   ],
+   "share": 0.062,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

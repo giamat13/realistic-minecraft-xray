@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_persian_baby.png",
+ "depicts": "baby Persian kitten fur-covered body UV map: fluffy cream/tan coat over skin, blue eyes, pink nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    228,
+    188
+   ],
+   "share": 0.438,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    208,
+    164,
+    110
+   ],
+   "share": 0.315,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    243,
+    202,
+    141
+   ],
+   "share": 0.209,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    123,
+    100
+   ],
+   "share": 0.029,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    121,
+    173
+   ],
+   "share": 0.006,
+   "material": "water",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    236,
+    139,
+    122
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  }
+ ]
+}

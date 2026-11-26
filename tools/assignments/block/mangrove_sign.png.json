@@ -1,0 +1,73 @@
+{
+ "path": "block/mangrove_sign.png",
+ "depicts": "mangrove standing sign: mangrove wood board (2px, 12.5cm) with the post, grain and dark edges",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    117,
+    52,
+    52
+   ],
+   "share": 0.373,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    130,
+    69,
+    53
+   ],
+   "share": 0.281,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    98,
+    33,
+    33
+   ],
+   "share": 0.212,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    83,
+    67,
+    41
+   ],
+   "share": 0.084,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    66,
+    52,
+    34
+   ],
+   "share": 0.025,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    82,
+    48
+   ],
+   "share": 0.025,
+   "material": "wood_oak",
+   "thickness_cm": 12.5
+  }
+ ]
+}

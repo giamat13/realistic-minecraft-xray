@@ -1,0 +1,73 @@
+{
+ "path": "block/stone_bricks.png",
+ "depicts": "stone brick block: dressed grey stone bricks with mortar joints (mortar = cement concrete)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    123,
+    124
+   ],
+   "share": 0.387,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    137,
+    139
+   ],
+   "share": 0.164,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    109,
+    106
+   ],
+   "share": 0.148,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    156,
+    153,
+    156
+   ],
+   "share": 0.121,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    89,
+    90
+   ],
+   "share": 0.09,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    99,
+    99,
+    99
+   ],
+   "share": 0.09,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/warped_trapdoor.png",
+ "depicts": "warped trapdoor: thin slatted hatch of warped wood, 3/16 block thick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    95,
+    81
+   ],
+   "share": 0.214,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    54,
+    157,
+    145
+   ],
+   "share": 0.204,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    31,
+    87,
+    82
+   ],
+   "share": 0.189,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    57,
+    131,
+    130
+   ],
+   "share": 0.149,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    58,
+    142,
+    140
+   ],
+   "share": 0.129,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    40,
+    112,
+    103
+   ],
+   "share": 0.114,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/nautilus_body/netherite.png",
+ "depicts": "nautilus body armour plate in netherite (dark ancient-debris alloy)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    45,
+    40,
+    41
+   ],
+   "share": 0.407,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    104,
+    96,
+    104
+   ],
+   "share": 0.195,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    25,
+    16,
+    17
+   ],
+   "share": 0.136,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    71,
+    62,
+    63
+   ],
+   "share": 0.119,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    87,
+    78,
+    85
+   ],
+   "share": 0.089,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    134,
+    123,
+    134
+   ],
+   "share": 0.054,
+   "material": "netherite",
+   "thickness_cm": 0.3
+  }
+ ]
+}

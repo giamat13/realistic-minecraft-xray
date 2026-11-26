@@ -1,0 +1,73 @@
+{
+ "path": "block/orange_shulker_box.png",
+ "depicts": "orange shulker box: shulker shell chitin box with orange shell and panel edges",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    244,
+    115,
+    15
+   ],
+   "share": 0.543,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    235,
+    104,
+    4
+   ],
+   "share": 0.176,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    98,
+    0
+   ],
+   "share": 0.113,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    90,
+    0
+   ],
+   "share": 0.086,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    197,
+    84,
+    0
+   ],
+   "share": 0.051,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    206,
+    88,
+    0
+   ],
+   "share": 0.031,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

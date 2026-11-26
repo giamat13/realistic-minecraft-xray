@@ -1,0 +1,73 @@
+{
+ "path": "block/pale_oak_sapling.png",
+ "depicts": "pale oak sapling, thin stem with pale leaves (sprite)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    101,
+    95
+   ],
+   "share": 0.223,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    128,
+    119
+   ],
+   "share": 0.204,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    146,
+    135
+   ],
+   "share": 0.194,
+   "material": "foliage",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    67,
+    59,
+    57
+   ],
+   "share": 0.165,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    92,
+    83,
+    80
+   ],
+   "share": 0.165,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    110,
+    107
+   ],
+   "share": 0.049,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  }
+ ]
+}

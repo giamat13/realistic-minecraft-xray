@@ -1,0 +1,51 @@
+{
+ "path": "block/quartz_pillar.png",
+ "depicts": "quartz pillar end face (white quartz with ring-shaped grain)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    239,
+    237
+   ],
+   "share": 0.312,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    234,
+    226,
+    218
+   ],
+   "share": 0.281,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    222,
+    208
+   ],
+   "share": 0.219,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    238,
+    234,
+    230
+   ],
+   "share": 0.188,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  }
+ ]
+}

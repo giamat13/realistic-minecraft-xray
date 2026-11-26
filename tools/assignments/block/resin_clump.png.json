@@ -1,0 +1,51 @@
+{
+ "path": "block/resin_clump.png",
+ "depicts": "resin clump item sprite (small orange blob of tree resin, thin lump about 1 cm)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    98,
+    22
+   ],
+   "share": 0.429,
+   "material": "resin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    181,
+    64,
+    6
+   ],
+   "share": 0.214,
+   "material": "resin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    179,
+    38
+   ],
+   "share": 0.179,
+   "material": "resin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    135,
+    55
+   ],
+   "share": 0.179,
+   "material": "resin",
+   "thickness_cm": 1.0
+  }
+ ]
+}

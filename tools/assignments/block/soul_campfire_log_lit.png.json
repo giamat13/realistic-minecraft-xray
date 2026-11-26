@@ -1,0 +1,73 @@
+{
+ "path": "block/soul_campfire_log_lit.png",
+ "depicts": "soul campfire log with burning cyan flame, animated 4 frames: charred bark, oak log and soul fire",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    40,
+    43,
+    48
+   ],
+   "share": 0.355,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    102,
+    61
+   ],
+   "share": 0.191,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    83,
+    102
+   ],
+   "share": 0.168,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    32,
+    161,
+    165
+   ],
+   "share": 0.16,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    103,
+    232,
+    237
+   ],
+   "share": 0.117,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    212,
+    254,
+    255
+   ],
+   "share": 0.008,
+   "material": "fire",
+   "thickness_cm": 20.0
+  }
+ ]
+}

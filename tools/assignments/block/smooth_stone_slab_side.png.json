@@ -1,0 +1,73 @@
+{
+ "path": "block/smooth_stone_slab_side.png",
+ "depicts": "smooth stone slab side, polished grey stone",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    169,
+    169
+   ],
+   "share": 0.629,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    205,
+    205,
+    205
+   ],
+   "share": 0.117,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    122,
+    122
+   ],
+   "share": 0.094,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.07,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.051,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    157,
+    157,
+    157
+   ],
+   "share": 0.039,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

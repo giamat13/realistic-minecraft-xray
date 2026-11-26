@@ -1,0 +1,73 @@
+{
+ "path": "block/mangrove_shelf.png",
+ "depicts": "mangrove shelf block: red-brown mangrove wood shelves with dark grooves, solid 1 m block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    36,
+    35
+   ],
+   "share": 0.269,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    111,
+    43,
+    45
+   ],
+   "share": 0.259,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    125,
+    65,
+    49
+   ],
+   "share": 0.179,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    120,
+    52,
+    49
+   ],
+   "share": 0.175,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    27,
+    28
+   ],
+   "share": 0.111,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    144,
+    80,
+    61
+   ],
+   "share": 0.008,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

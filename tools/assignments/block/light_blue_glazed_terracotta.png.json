@@ -1,0 +1,73 @@
+{
+ "path": "block/light_blue_glazed_terracotta.png",
+ "depicts": "light blue glazed terracotta block face: fired terracotta body with painted glaze pattern (white glaze accents)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    34,
+    135,
+    196
+   ],
+   "share": 0.238,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    57,
+    179,
+    218
+   ],
+   "share": 0.188,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    186,
+    221
+   ],
+   "share": 0.172,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    47,
+    49,
+    145
+   ],
+   "share": 0.168,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    248,
+    255,
+    254
+   ],
+   "share": 0.137,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    206,
+    244,
+    249
+   ],
+   "share": 0.098,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  }
+ ]
+}

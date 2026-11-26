@@ -1,0 +1,73 @@
+{
+ "path": "block/white_concrete.png",
+ "depicts": "solid white concrete block (set cement with aggregate)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    207,
+    213,
+    214
+   ],
+   "share": 0.367,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    208,
+    214,
+    215
+   ],
+   "share": 0.336,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    206,
+    212,
+    213
+   ],
+   "share": 0.262,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    209,
+    214,
+    215
+   ],
+   "share": 0.023,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    206,
+    211,
+    212
+   ],
+   "share": 0.008,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    206,
+    212,
+    212
+   ],
+   "share": 0.004,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

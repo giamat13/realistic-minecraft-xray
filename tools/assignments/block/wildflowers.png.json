@@ -1,0 +1,73 @@
+{
+ "path": "block/wildflowers.png",
+ "depicts": "wildflower cluster sprite: small yellow and white flower heads",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    220,
+    62
+   ],
+   "share": 0.393,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    180,
+    39
+   ],
+   "share": 0.246,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    214,
+    232,
+    232
+   ],
+   "share": 0.164,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    252,
+    255,
+    255
+   ],
+   "share": 0.098,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    174,
+    205,
+    205
+   ],
+   "share": 0.098,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    237,
+    214,
+    117
+   ],
+   "share": 0.0,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

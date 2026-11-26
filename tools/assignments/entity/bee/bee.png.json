@@ -1,0 +1,73 @@
+{
+ "path": "entity/bee/bee.png",
+ "depicts": "honey bee mob skin: striped chitinous exoskeleton with fatty body interior, dark head, legs and translucent wings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    45,
+    37
+   ],
+   "share": 0.309,
+   "material": "shell_chitin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    241,
+    197,
+    78
+   ],
+   "share": 0.286,
+   "material": "fat",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    107,
+    44
+   ],
+   "share": 0.172,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    34,
+    21,
+    18
+   ],
+   "share": 0.163,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    244,
+    248,
+    238
+   ],
+   "share": 0.065,
+   "material": "shell_chitin",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    124,
+    201,
+    209
+   ],
+   "share": 0.005,
+   "material": "shell_chitin",
+   "thickness_cm": 0.01
+  }
+ ]
+}

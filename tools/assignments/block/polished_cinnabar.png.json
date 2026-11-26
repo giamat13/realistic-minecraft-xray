@@ -1,0 +1,73 @@
+{
+ "path": "block/polished_cinnabar.png",
+ "depicts": "polished cinnabar block: red mercury sulfide ore rock",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    58,
+    53
+   ],
+   "share": 0.32,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    167,
+    63,
+    60
+   ],
+   "share": 0.25,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    48,
+    45
+   ],
+   "share": 0.215,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    31,
+    35
+   ],
+   "share": 0.102,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    79,
+    80
+   ],
+   "share": 0.059,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    197,
+    92,
+    93
+   ],
+   "share": 0.055,
+   "material": "cinnabar",
+   "thickness_cm": 100.0
+  }
+ ]
+}

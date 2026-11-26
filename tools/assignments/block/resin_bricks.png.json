@@ -1,0 +1,73 @@
+{
+ "path": "block/resin_bricks.png",
+ "depicts": "resin bricks block (orange resin brick pattern, resin material)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    173,
+    58,
+    22
+   ],
+   "share": 0.293,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    73,
+    10
+   ],
+   "share": 0.285,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    229,
+    102,
+    22
+   ],
+   "share": 0.246,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    135,
+    55
+   ],
+   "share": 0.109,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    163,
+    55
+   ],
+   "share": 0.066,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    206,
+    88,
+    24
+   ],
+   "share": 0.0,
+   "material": "resin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

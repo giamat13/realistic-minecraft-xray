@@ -1,0 +1,73 @@
+{
+ "path": "block/light_blue_terracotta.png",
+ "depicts": "light blue (dyed) terracotta block face: fired clay with fine mottled surface",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    113,
+    108,
+    138
+   ],
+   "share": 0.477,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    110,
+    139
+   ],
+   "share": 0.203,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    111,
+    107,
+    137
+   ],
+   "share": 0.18,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    117,
+    111,
+    140
+   ],
+   "share": 0.098,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    109,
+    139
+   ],
+   "share": 0.027,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    112,
+    106,
+    136
+   ],
+   "share": 0.016,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

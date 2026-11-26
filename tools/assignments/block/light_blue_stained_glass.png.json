@@ -1,0 +1,18 @@
+{
+ "path": "block/light_blue_stained_glass.png",
+ "depicts": "light blue stained glass block: fully transparent coloured glass block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    102,
+    153,
+    216
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

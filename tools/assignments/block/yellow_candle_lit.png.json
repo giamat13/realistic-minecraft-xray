@@ -1,0 +1,73 @@
+{
+ "path": "block/yellow_candle_lit.png",
+ "depicts": "lit yellow candle: wax body, bright yellow flame, cotton wick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    197,
+    152,
+    37
+   ],
+   "share": 0.333,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    220,
+    173,
+    54
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    250,
+    204,
+    86
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    253,
+    248,
+    124
+   ],
+   "share": 0.143,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    255,
+    177
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    28,
+    23
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

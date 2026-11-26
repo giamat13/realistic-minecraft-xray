@@ -1,0 +1,73 @@
+{
+ "path": "block/target_side.png",
+ "depicts": "target block side face: wooden block with painted red bullseye rings on cream/white base",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    240,
+    227,
+    210
+   ],
+   "share": 0.402,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    251,
+    248,
+    245
+   ],
+   "share": 0.27,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    50,
+    50
+   ],
+   "share": 0.242,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    220,
+    74,
+    74
+   ],
+   "share": 0.055,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    52,
+    52
+   ],
+   "share": 0.031,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    229,
+    176,
+    168
+   ],
+   "share": 0.0,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/red_sand.png",
+ "depicts": "red sand (quartz sand stained with iron oxide)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    191,
+    103,
+    33
+   ],
+   "share": 0.422,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    96,
+    31
+   ],
+   "share": 0.262,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    203,
+    110,
+    36
+   ],
+   "share": 0.227,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    172,
+    87,
+    18
+   ],
+   "share": 0.039,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    210,
+    117,
+    43
+   ],
+   "share": 0.031,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    123,
+    48
+   ],
+   "share": 0.02,
+   "material": "sand",
+   "thickness_cm": 100.0
+  }
+ ]
+}

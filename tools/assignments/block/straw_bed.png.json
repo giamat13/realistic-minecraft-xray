@@ -1,0 +1,73 @@
+{
+ "path": "block/straw_bed.png",
+ "depicts": "straw bed: a mattress-like bed of dried straw stalks on a small wooden frame (sparse 64px sheet)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    143,
+    120,
+    23
+   ],
+   "share": 0.646,
+   "material": "straw",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    171,
+    144,
+    28
+   ],
+   "share": 0.236,
+   "material": "straw",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    195,
+    175,
+    49
+   ],
+   "share": 0.076,
+   "material": "straw",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    142,
+    61,
+    33
+   ],
+   "share": 0.023,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    202,
+    175,
+    10
+   ],
+   "share": 0.014,
+   "material": "straw",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    164,
+    78,
+    43
+   ],
+   "share": 0.007,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  }
+ ]
+}

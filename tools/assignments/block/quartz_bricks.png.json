@@ -1,0 +1,73 @@
+{
+ "path": "block/quartz_bricks.png",
+ "depicts": "quartz bricks (white quartz stone bricks with mortar lines)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    234,
+    230
+   ],
+   "share": 0.223,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    234,
+    226,
+    218
+   ],
+   "share": 0.219,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    238,
+    230,
+    222
+   ],
+   "share": 0.203,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    242,
+    239,
+    237
+   ],
+   "share": 0.152,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    221,
+    217,
+    203
+   ],
+   "share": 0.117,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    222,
+    208
+   ],
+   "share": 0.086,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  }
+ ]
+}

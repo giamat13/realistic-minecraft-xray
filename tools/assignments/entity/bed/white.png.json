@@ -1,0 +1,73 @@
+{
+ "path": "entity/bed/white.png",
+ "depicts": "white dyed wool bed entity skin: undyed white wool blanket (grey shading) on oak frame with dark wood edges",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    138,
+    82
+   ],
+   "share": 0.328,
+   "material": "wood_oak",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    207,
+    212,
+    212
+   ],
+   "share": 0.201,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    247,
+    247,
+    247
+   ],
+   "share": 0.185,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    110,
+    87,
+    51
+   ],
+   "share": 0.145,
+   "material": "wood_oak",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.075,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.065,
+   "material": "air",
+   "thickness_cm": 1.0
+  }
+ ]
+}

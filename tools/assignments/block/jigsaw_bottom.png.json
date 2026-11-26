@@ -1,0 +1,51 @@
+{
+ "path": "block/jigsaw_bottom.png",
+ "depicts": "jigsaw block bottom: dark purple-black structure block with black plating, modelled as steel-cased solid block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    29,
+    42
+   ],
+   "share": 0.75,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    16,
+    16
+   ],
+   "share": 0.203,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    52,
+    53,
+    52
+   ],
+   "share": 0.047,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    34,
+    27,
+    37
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

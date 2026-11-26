@@ -1,0 +1,73 @@
+{
+ "path": "block/white_terracotta.png",
+ "depicts": "white unglazed terracotta block, fired clay",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    177,
+    161
+   ],
+   "share": 0.332,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    210,
+    180,
+    162
+   ],
+   "share": 0.27,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    207,
+    175,
+    160
+   ],
+   "share": 0.168,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    182,
+    163
+   ],
+   "share": 0.102,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    210,
+    175,
+    160
+   ],
+   "share": 0.07,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    212,
+    183,
+    164
+   ],
+   "share": 0.059,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

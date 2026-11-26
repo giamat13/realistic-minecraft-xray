@@ -1,0 +1,73 @@
+{
+ "path": "block/orange_concrete_powder.png",
+ "depicts": "orange concrete powder: loose dry cement-sand powder dyed orange",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    223,
+    124,
+    23
+   ],
+   "share": 0.312,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    131,
+    30
+   ],
+   "share": 0.281,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    137,
+    39
+   ],
+   "share": 0.234,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    148,
+    47
+   ],
+   "share": 0.082,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    213,
+    115,
+    18
+   ],
+   "share": 0.059,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    234,
+    176,
+    76
+   ],
+   "share": 0.031,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

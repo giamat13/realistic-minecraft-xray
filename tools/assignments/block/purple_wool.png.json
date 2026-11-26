@@ -1,0 +1,73 @@
+{
+ "path": "block/purple_wool.png",
+ "depicts": "purple wool block (dyed sheep wool fibres)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    113,
+    37,
+    165
+   ],
+   "share": 0.273,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    46,
+    179
+   ],
+   "share": 0.227,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    42,
+    172
+   ],
+   "share": 0.215,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    33,
+    159
+   ],
+   "share": 0.176,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    151,
+    67,
+    205
+   ],
+   "share": 0.082,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    139,
+    52,
+    186
+   ],
+   "share": 0.027,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

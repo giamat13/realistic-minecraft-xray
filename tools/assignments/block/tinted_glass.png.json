@@ -1,0 +1,62 @@
+{
+ "path": "block/tinted_glass.png",
+ "depicts": "tinted (dark violet) glass block, semi-opaque glass",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    39,
+    37,
+    40
+   ],
+   "share": 0.688,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    40,
+    59
+   ],
+   "share": 0.102,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    43,
+    32,
+    48
+   ],
+   "share": 0.098,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    70,
+    74
+   ],
+   "share": 0.078,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    40,
+    24,
+    46
+   ],
+   "share": 0.035,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

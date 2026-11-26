@@ -1,0 +1,73 @@
+{
+ "path": "block/orange_terracotta.png",
+ "depicts": "orange terracotta block: fired clay ceramic dyed orange",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    161,
+    83,
+    37
+   ],
+   "share": 0.371,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    159,
+    82,
+    36
+   ],
+   "share": 0.258,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    163,
+    86,
+    39
+   ],
+   "share": 0.191,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    166,
+    88,
+    41
+   ],
+   "share": 0.113,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    157,
+    81,
+    35
+   ],
+   "share": 0.051,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    167,
+    84,
+    40
+   ],
+   "share": 0.016,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

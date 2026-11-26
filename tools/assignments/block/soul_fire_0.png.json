@@ -1,0 +1,73 @@
+{
+ "path": "block/soul_fire_0.png",
+ "depicts": "soul fire flame texture, animated 32 frames, cyan flame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    1,
+    184,
+    190
+   ],
+   "share": 0.261,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    21,
+    214,
+    220
+   ],
+   "share": 0.217,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    1,
+    144,
+    149
+   ],
+   "share": 0.191,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    251,
+    255,
+    255
+   ],
+   "share": 0.121,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    70,
+    238,
+    244
+   ],
+   "share": 0.121,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    137,
+    250,
+    254
+   ],
+   "share": 0.089,
+   "material": "fire",
+   "thickness_cm": 20.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/mossy_cobblestone.png",
+ "depicts": "mossy cobblestone: grey cobble stone blocks with a thin moss skin (about 2cm, negligible vs 1 m stone along the beam)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    82,
+    92,
+    58
+   ],
+   "share": 0.223,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    136,
+    135,
+    136
+   ],
+   "share": 0.199,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    95,
+    116,
+    65
+   ],
+   "share": 0.199,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    104,
+    104
+   ],
+   "share": 0.191,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    117,
+    136,
+    83
+   ],
+   "share": 0.113,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    169,
+    169,
+    169
+   ],
+   "share": 0.074,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

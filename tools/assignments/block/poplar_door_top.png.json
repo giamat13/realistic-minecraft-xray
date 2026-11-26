@@ -1,0 +1,73 @@
+{
+ "path": "block/poplar_door_top.png",
+ "depicts": "poplar wood door upper half: pale poplar planks with window cut-out (air)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    140,
+    130
+   ],
+   "share": 0.407,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    173,
+    163,
+    147
+   ],
+   "share": 0.333,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    125,
+    110,
+    107
+   ],
+   "share": 0.153,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    135,
+    121,
+    116
+   ],
+   "share": 0.079,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    89,
+    70,
+    45
+   ],
+   "share": 0.023,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    56,
+    44,
+    31
+   ],
+   "share": 0.005,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "block/white_stained_glass_pane_top.png",
+ "depicts": "white stained glass pane seen from top, thin dyed glass sheet",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    254,
+    254,
+    254
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    244,
+    244
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    237,
+    237,
+    237
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    248,
+    248,
+    248
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 0.5
+  }
+ ]
+}

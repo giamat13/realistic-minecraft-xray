@@ -1,0 +1,40 @@
+{
+ "path": "block/torchflower_crop_stage0.png",
+ "depicts": "torchflower sprout (young crop, green shoots only)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    39,
+    132,
+    93
+   ],
+   "share": 0.346,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    19,
+    69,
+    50
+   ],
+   "share": 0.346,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    28,
+    91,
+    58
+   ],
+   "share": 0.308,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  }
+ ]
+}

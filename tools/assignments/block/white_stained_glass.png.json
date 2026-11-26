@@ -1,0 +1,18 @@
+{
+ "path": "block/white_stained_glass.png",
+ "depicts": "white stained glass block, dyed glass",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

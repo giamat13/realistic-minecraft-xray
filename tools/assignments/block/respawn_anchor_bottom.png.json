@@ -1,0 +1,73 @@
+{
+ "path": "block/respawn_anchor_bottom.png",
+ "depicts": "respawn anchor bottom face (crying obsidian block with purple crystal veins)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    8,
+    5,
+    14
+   ],
+   "share": 0.562,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    39,
+    30,
+    61
+   ],
+   "share": 0.113,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    43,
+    1,
+    120
+   ],
+   "share": 0.113,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    96,
+    6,
+    171
+   ],
+   "share": 0.102,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    59,
+    39,
+    84
+   ],
+   "share": 0.07,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    131,
+    8,
+    228
+   ],
+   "share": 0.039,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  }
+ ]
+}

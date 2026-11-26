@@ -1,0 +1,73 @@
+{
+ "path": "block/purple_glazed_terracotta.png",
+ "depicts": "purple glazed terracotta (fired clay with purple glaze and dark pattern)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    51,
+    188
+   ],
+   "share": 0.367,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    31,
+    155
+   ],
+   "share": 0.23,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    46,
+    51
+   ],
+   "share": 0.215,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    162,
+    84,
+    224
+   ],
+   "share": 0.121,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    92,
+    29,
+    143
+   ],
+   "share": 0.066,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    110,
+    48,
+    152
+   ],
+   "share": 0.0,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  }
+ ]
+}

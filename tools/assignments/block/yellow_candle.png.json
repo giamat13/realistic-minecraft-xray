@@ -1,0 +1,62 @@
+{
+ "path": "block/yellow_candle.png",
+ "depicts": "unlit yellow candle: wax body with cotton wick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    197,
+    152,
+    37
+   ],
+   "share": 0.429,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    218,
+    171,
+    52
+   ],
+   "share": 0.286,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    204,
+    75
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    218,
+    57
+   ],
+   "share": 0.048,
+   "material": "wax",
+   "thickness_cm": 2.0
+  }
+ ]
+}

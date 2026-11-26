@@ -1,0 +1,73 @@
+{
+ "path": "block/pumpkin_top.png",
+ "depicts": "pumpkin top face (orange flesh with dark stem scar and yellow spots)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    195,
+    113,
+    19
+   ],
+   "share": 0.336,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    227,
+    138,
+    29
+   ],
+   "share": 0.305,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    94,
+    16
+   ],
+   "share": 0.246,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    227,
+    166,
+    75
+   ],
+   "share": 0.07,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    54,
+    7
+   ],
+   "share": 0.027,
+   "material": "plant_tissue",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    227,
+    170,
+    0
+   ],
+   "share": 0.016,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "block/red_candle.png",
+ "depicts": "unlit red candle (red-dyed wax with dark wick)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    144,
+    33,
+    32
+   ],
+   "share": 0.429,
+   "material": "wax",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    39,
+    34
+   ],
+   "share": 0.286,
+   "material": "wax",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    181,
+    49,
+    41
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    59,
+    51
+   ],
+   "share": 0.048,
+   "material": "wax",
+   "thickness_cm": 6.0
+  }
+ ]
+}

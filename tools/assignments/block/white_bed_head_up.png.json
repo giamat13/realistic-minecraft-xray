@@ -1,0 +1,73 @@
+{
+ "path": "block/white_bed_head_up.png",
+ "depicts": "white bed head end, top view: white wool pillow and blanket",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    251,
+    251,
+    251
+   ],
+   "share": 0.309,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    229,
+    229
+   ],
+   "share": 0.199,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    199,
+    211,
+    211
+   ],
+   "share": 0.16,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    194,
+    194,
+    194
+   ],
+   "share": 0.145,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.125,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    239,
+    239
+   ],
+   "share": 0.062,
+   "material": "wool",
+   "thickness_cm": 20.0
+  }
+ ]
+}

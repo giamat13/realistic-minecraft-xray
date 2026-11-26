@@ -1,0 +1,73 @@
+{
+ "path": "block/purple_candle_lit.png",
+ "depicts": "lit purple candle (wax body, dark wick, small flame)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    30,
+    158
+   ],
+   "share": 0.476,
+   "material": "wax",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    125,
+    35,
+    139
+   ],
+   "share": 0.143,
+   "material": "wax",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    133,
+    43,
+    175
+   ],
+   "share": 0.143,
+   "material": "wax",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    48,
+    133
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    19,
+    96
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

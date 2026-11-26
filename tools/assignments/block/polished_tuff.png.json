@@ -1,0 +1,73 @@
+{
+ "path": "block/polished_tuff.png",
+ "depicts": "polished tuff block: grey volcanic ash tuff",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    95,
+    103,
+    102
+   ],
+   "share": 0.555,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    113,
+    107
+   ],
+   "share": 0.16,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    90,
+    81
+   ],
+   "share": 0.113,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    78,
+    68
+   ],
+   "share": 0.066,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    133,
+    131,
+    122
+   ],
+   "share": 0.059,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    118,
+    119,
+    111
+   ],
+   "share": 0.047,
+   "material": "tuff",
+   "thickness_cm": 100.0
+  }
+ ]
+}

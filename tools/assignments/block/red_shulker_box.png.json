@@ -1,0 +1,73 @@
+{
+ "path": "block/red_shulker_box.png",
+ "depicts": "red shulker box (shulker shell, chitin-like composite with darker seams)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    155,
+    37,
+    34
+   ],
+   "share": 0.43,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    135,
+    29,
+    30
+   ],
+   "share": 0.172,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    114,
+    21,
+    21
+   ],
+   "share": 0.168,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    35,
+    33
+   ],
+   "share": 0.117,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    25,
+    25
+   ],
+   "share": 0.113,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    140,
+    31,
+    30
+   ],
+   "share": 0.0,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

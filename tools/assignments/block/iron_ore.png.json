@@ -1,0 +1,73 @@
+{
+ "path": "block/iron_ore.png",
+ "depicts": "iron ore block: grey stone host rock with iron ore (iron oxide/sulfide) inclusions",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    134,
+    134,
+    134
+   ],
+   "share": 0.496,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    112,
+    112
+   ],
+   "share": 0.258,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    131,
+    112,
+    83
+   ],
+   "share": 0.105,
+   "material": "iron_ore_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    175,
+    142,
+    119
+   ],
+   "share": 0.078,
+   "material": "iron_ore_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    216,
+    175,
+    147
+   ],
+   "share": 0.051,
+   "material": "iron_ore_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    192,
+    170
+   ],
+   "share": 0.012,
+   "material": "iron_ore_rock",
+   "thickness_cm": 100.0
+  }
+ ]
+}

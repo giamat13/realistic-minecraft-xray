@@ -1,0 +1,73 @@
+{
+ "path": "block/red_mushroom_block.png",
+ "depicts": "red mushroom block (huge red fungal cap with white pores)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    195,
+    40,
+    38
+   ],
+   "share": 0.355,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    201,
+    43,
+    41
+   ],
+   "share": 0.352,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    190,
+    35,
+    33
+   ],
+   "share": 0.152,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    206,
+    45,
+    43
+   ],
+   "share": 0.094,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    152,
+    152
+   ],
+   "share": 0.023,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    191,
+    191
+   ],
+   "share": 0.023,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

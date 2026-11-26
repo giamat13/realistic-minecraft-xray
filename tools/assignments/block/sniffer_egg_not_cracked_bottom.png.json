@@ -1,0 +1,73 @@
+{
+ "path": "block/sniffer_egg_not_cracked_bottom.png",
+ "depicts": "sniffer egg bottom: large dark-red and teal speckled egg (shell with contents)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    88,
+    8,
+    8
+   ],
+   "share": 0.405,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    34,
+    60,
+    61
+   ],
+   "share": 0.208,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    96,
+    10,
+    10
+   ],
+   "share": 0.143,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    41,
+    48,
+    53
+   ],
+   "share": 0.137,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    105,
+    14,
+    14
+   ],
+   "share": 0.107,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    25,
+    26
+   ],
+   "share": 0.0,
+   "material": "egg",
+   "thickness_cm": 30.0
+  }
+ ]
+}

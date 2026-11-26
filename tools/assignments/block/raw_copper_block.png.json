@@ -1,0 +1,73 @@
+{
+ "path": "block/raw_copper_block.png",
+ "depicts": "raw copper block (copper-bearing ore chunks: rust-brown copper ore rock with native copper grains and green malachite patches)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    149,
+    94,
+    68
+   ],
+   "share": 0.664,
+   "material": "copper_ore_rock",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    129,
+    102
+   ],
+   "share": 0.152,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    99,
+    74
+   ],
+   "share": 0.082,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    150,
+    111
+   ],
+   "share": 0.066,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    251,
+    168,
+    148
+   ],
+   "share": 0.027,
+   "material": "copper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    79,
+    186,
+    152
+   ],
+   "share": 0.008,
+   "material": "malachite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

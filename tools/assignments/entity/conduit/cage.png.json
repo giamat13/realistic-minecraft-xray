@@ -1,0 +1,73 @@
+{
+ "path": "entity/conduit/cage.png",
+ "depicts": "conduit cage bars: thin rusted metal bars and stone ornaments",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    180,
+    136,
+    107
+   ],
+   "share": 0.263,
+   "material": "iron_oxide",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    186,
+    173,
+    150
+   ],
+   "share": 0.247,
+   "material": "limestone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    83,
+    49
+   ],
+   "share": 0.151,
+   "material": "basalt",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    162,
+    128
+   ],
+   "share": 0.14,
+   "material": "limestone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    128,
+    114,
+    82
+   ],
+   "share": 0.102,
+   "material": "slate",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    196,
+    189,
+    181
+   ],
+   "share": 0.097,
+   "material": "limestone",
+   "thickness_cm": 0.3
+  }
+ ]
+}

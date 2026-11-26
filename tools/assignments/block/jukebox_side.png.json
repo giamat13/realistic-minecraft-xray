@@ -1,0 +1,73 @@
+{
+ "path": "block/jukebox_side.png",
+ "depicts": "jukebox side: oak wood block with dark wood border and recessed grain panels",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    40,
+    32
+   ],
+   "share": 0.234,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    65,
+    40,
+    24
+   ],
+   "share": 0.191,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    93,
+    65
+   ],
+   "share": 0.168,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    80,
+    57
+   ],
+   "share": 0.16,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    52,
+    32
+   ],
+   "share": 0.16,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    90,
+    60,
+    41
+   ],
+   "share": 0.086,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

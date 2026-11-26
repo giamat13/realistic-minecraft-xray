@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_red_baby.png",
+ "depicts": "baby red cat UV map: ginger fur over skin, green eyes, pink nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    232,
+    158,
+    54
+   ],
+   "share": 0.773,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    232,
+    211,
+    175
+   ],
+   "share": 0.113,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    237,
+    239,
+    242
+   ],
+   "share": 0.08,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    217,
+    180,
+    116
+   ],
+   "share": 0.025,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    77,
+    137,
+    13
+   ],
+   "share": 0.006,
+   "material": "water",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    115,
+    115
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  }
+ ]
+}

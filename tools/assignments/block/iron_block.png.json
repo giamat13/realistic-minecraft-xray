@@ -1,0 +1,73 @@
+{
+ "path": "block/iron_block.png",
+ "depicts": "iron block: solid iron metal (bright polished iron)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    230,
+    230
+   ],
+   "share": 0.383,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.219,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    190,
+    190,
+    190
+   ],
+   "share": 0.164,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    239,
+    239
+   ],
+   "share": 0.164,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    209,
+    207,
+    207
+   ],
+   "share": 0.039,
+   "material": "iron",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    176,
+    176
+   ],
+   "share": 0.031,
+   "material": "iron",
+   "thickness_cm": 100.0
+  }
+ ]
+}

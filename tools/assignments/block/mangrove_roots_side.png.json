@@ -1,0 +1,51 @@
+{
+ "path": "block/mangrove_roots_side.png",
+ "depicts": "mangrove roots block side: dense brown woody roots with gaps (about 55% of the 1 m side is root wood, rest air)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    72,
+    44
+   ],
+   "share": 0.286,
+   "material": "wood_oak",
+   "thickness_cm": 55.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    78,
+    63,
+    39
+   ],
+   "share": 0.271,
+   "material": "wood_oak",
+   "thickness_cm": 55.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    68,
+    53,
+    34
+   ],
+   "share": 0.236,
+   "material": "wood_oak",
+   "thickness_cm": 55.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    60,
+    47,
+    35
+   ],
+   "share": 0.207,
+   "material": "wood_oak",
+   "thickness_cm": 55.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "block/pale_oak_leaves.png",
+ "depicts": "pale oak leaves, dense pale foliage canopy",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    110,
+    103
+   ],
+   "share": 0.25,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    136,
+    128
+   ],
+   "share": 0.24,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    160,
+    166,
+    156
+   ],
+   "share": 0.231,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    88,
+    93,
+    87
+   ],
+   "share": 0.192,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    61,
+    64,
+    61
+   ],
+   "share": 0.087,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

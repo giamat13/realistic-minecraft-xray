@@ -1,0 +1,73 @@
+{
+ "path": "block/red_mushroom.png",
+ "depicts": "red mushroom sprite (red spotted fungal cap on pale fungal stalk, mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    212,
+    20,
+    23
+   ],
+   "share": 0.469,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    254,
+    42,
+    42
+   ],
+   "share": 0.25,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    229,
+    224,
+    192
+   ],
+   "share": 0.094,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    151,
+    183,
+    186
+   ],
+   "share": 0.094,
+   "material": "fungus",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    196,
+    127
+   ],
+   "share": 0.062,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    169,
+    160,
+    101
+   ],
+   "share": 0.031,
+   "material": "fungus",
+   "thickness_cm": 5.0
+  }
+ ]
+}

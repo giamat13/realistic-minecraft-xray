@@ -1,0 +1,73 @@
+{
+ "path": "entity/decorated_pot/sheaf_pottery_pattern.png",
+ "depicts": "decorated pot sherd face with a sheaf pattern in fired clay",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    128,
+    71,
+    58
+   ],
+   "share": 0.504,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    79,
+    43,
+    35
+   ],
+   "share": 0.147,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    92,
+    71
+   ],
+   "share": 0.147,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    100,
+    57,
+    48
+   ],
+   "share": 0.125,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    171,
+    113,
+    75
+   ],
+   "share": 0.045,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    185,
+    128,
+    83
+   ],
+   "share": 0.031,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/enchanting_table_book.png",
+ "depicts": "enchanting table open book model UV sheet: leather cover, paper pages, gold clasp, black unused UV padding",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.721,
+   "material": "air",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    138,
+    90,
+    38
+   ],
+   "share": 0.096,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    211,
+    200,
+    158
+   ],
+   "share": 0.077,
+   "material": "paper",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    244,
+    232,
+    194
+   ],
+   "share": 0.065,
+   "material": "paper",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    132,
+    68
+   ],
+   "share": 0.033,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    196,
+    0
+   ],
+   "share": 0.008,
+   "material": "gold",
+   "thickness_cm": 0.1
+  }
+ ]
+}

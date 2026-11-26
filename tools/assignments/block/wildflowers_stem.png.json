@@ -1,0 +1,29 @@
+{
+ "path": "block/wildflowers_stem.png",
+ "depicts": "thin green flower stem sprite (grey tinted by biome colour)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    178,
+    178,
+    178
+   ],
+   "share": 0.667,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    152,
+    152,
+    152
+   ],
+   "share": 0.333,
+   "material": "plant_tissue",
+   "thickness_cm": 0.5
+  }
+ ]
+}

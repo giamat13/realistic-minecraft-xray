@@ -1,0 +1,73 @@
+{
+ "path": "block/red_candle_lit.png",
+ "depicts": "lit red candle (wax body, dark wick, orange flame)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    149,
+    35,
+    33
+   ],
+   "share": 0.476,
+   "material": "wax",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    148,
+    86
+   ],
+   "share": 0.19,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    217,
+    66,
+    39
+   ],
+   "share": 0.143,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    49,
+    41
+   ],
+   "share": 0.095,
+   "material": "wax",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    232,
+    103,
+    64
+   ],
+   "share": 0.048,
+   "material": "fire",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

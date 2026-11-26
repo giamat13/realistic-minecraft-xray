@@ -1,0 +1,73 @@
+{
+ "path": "block/pale_oak_door_bottom.png",
+ "depicts": "lower half of a pale oak wooden door, pale wood planks with panel grooves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    225,
+    213,
+    212
+   ],
+   "share": 0.34,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    253,
+    246,
+    244
+   ],
+   "share": 0.219,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    199,
+    184,
+    184
+   ],
+   "share": 0.152,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    176,
+    164,
+    164
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    105,
+    105,
+    105
+   ],
+   "share": 0.09,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    74,
+    74,
+    74
+   ],
+   "share": 0.07,
+   "material": "wood_oak",
+   "thickness_cm": 3.0
+  }
+ ]
+}

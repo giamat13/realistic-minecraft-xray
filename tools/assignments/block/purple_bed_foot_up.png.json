@@ -1,0 +1,51 @@
+{
+ "path": "block/purple_bed_foot_up.png",
+ "depicts": "purple bed foot top face (purple wool mattress surface)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    131,
+    44,
+    180
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    123,
+    40,
+    172
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    48,
+    189
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    106,
+    36,
+    164
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 15.0
+  }
+ ]
+}

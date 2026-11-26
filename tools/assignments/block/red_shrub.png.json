@@ -1,0 +1,62 @@
+{
+ "path": "block/red_shrub.png",
+ "depicts": "red shrub sprite (low reddish bush foliage, mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    87,
+    25,
+    14
+   ],
+   "share": 0.3,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    107,
+    32,
+    17
+   ],
+   "share": 0.257,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    169,
+    47,
+    33
+   ],
+   "share": 0.243,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    136,
+    41,
+    26
+   ],
+   "share": 0.2,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    122,
+    35,
+    22
+   ],
+   "share": 0.0,
+   "material": "foliage",
+   "thickness_cm": 30.0
+  }
+ ]
+}

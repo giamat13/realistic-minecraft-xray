@@ -1,0 +1,18 @@
+{
+ "path": "block/purple_stained_glass.png",
+ "depicts": "purple stained glass block (dyed glass)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    127,
+    63,
+    178
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

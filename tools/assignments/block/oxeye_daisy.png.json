@@ -1,0 +1,73 @@
+{
+ "path": "block/oxeye_daisy.png",
+ "depicts": "oxeye daisy sprite: white daisy petals around yellow centre on thin green stem",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    240,
+    240
+   ],
+   "share": 0.471,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    23,
+    124,
+    4
+   ],
+   "share": 0.137,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    84,
+    164,
+    45
+   ],
+   "share": 0.137,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    254,
+    218,
+    61
+   ],
+   "share": 0.098,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    244,
+    179,
+    38
+   ],
+   "share": 0.078,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    155,
+    189,
+    189
+   ],
+   "share": 0.078,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

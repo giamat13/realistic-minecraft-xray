@@ -1,0 +1,73 @@
+{
+ "path": "block/orange_wool.png",
+ "depicts": "orange wool block: dyed sheep wool fibres",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    234,
+    107,
+    10
+   ],
+   "share": 0.215,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    246,
+    122,
+    24
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    240,
+    114,
+    16
+   ],
+   "share": 0.195,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    249,
+    131,
+    31
+   ],
+   "share": 0.145,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    228,
+    100,
+    3
+   ],
+   "share": 0.137,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    249,
+    146,
+    42
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

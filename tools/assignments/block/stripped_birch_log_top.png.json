@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_birch_log_top.png",
+ "depicts": "stripped birch log end grain: pale cream rings with heartwood spokes",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    200,
+    183,
+    122
+   ],
+   "share": 0.273,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    215,
+    194,
+    134
+   ],
+   "share": 0.227,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    176,
+    152,
+    97
+   ],
+   "share": 0.18,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    174,
+    159,
+    118
+   ],
+   "share": 0.148,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    168,
+    117
+   ],
+   "share": 0.098,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    167,
+    142,
+    86
+   ],
+   "share": 0.074,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

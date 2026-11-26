@@ -1,0 +1,73 @@
+{
+ "path": "block/smoker_top.png",
+ "depicts": "smoker top: grey stone rim with dark chimney opening and oak corners",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    125,
+    125,
+    125
+   ],
+   "share": 0.258,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    84,
+    82,
+    82
+   ],
+   "share": 0.23,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    35,
+    35,
+    35
+   ],
+   "share": 0.203,
+   "material": "charcoal",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.137,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    60,
+    59,
+    59
+   ],
+   "share": 0.109,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    98,
+    76,
+    40
+   ],
+   "share": 0.062,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

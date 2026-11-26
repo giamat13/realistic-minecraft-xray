@@ -1,0 +1,73 @@
+{
+ "path": "block/purple_shulker_box.png",
+ "depicts": "purple shulker box (shulker shell, chitin-like composite with darker seams)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    115,
+    38,
+    169
+   ],
+   "share": 0.43,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    98,
+    30,
+    154
+   ],
+   "share": 0.172,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    83,
+    24,
+    132
+   ],
+   "share": 0.168,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    27,
+    142
+   ],
+   "share": 0.113,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    109,
+    35,
+    164
+   ],
+   "share": 0.113,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    105,
+    33,
+    161
+   ],
+   "share": 0.004,
+   "material": "shell_chitin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

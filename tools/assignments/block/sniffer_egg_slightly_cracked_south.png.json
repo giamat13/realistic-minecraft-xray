@@ -1,0 +1,73 @@
+{
+ "path": "block/sniffer_egg_slightly_cracked_south.png",
+ "depicts": "sniffer egg face (slightly_cracked_south): large red and green speckled egg, egg contents",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    47,
+    106,
+    72
+   ],
+   "share": 0.299,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    144,
+    37,
+    27
+   ],
+   "share": 0.272,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    18,
+    18
+   ],
+   "share": 0.196,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    139,
+    82
+   ],
+   "share": 0.165,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    31,
+    55,
+    56
+   ],
+   "share": 0.045,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    102,
+    84,
+    53
+   ],
+   "share": 0.022,
+   "material": "egg",
+   "thickness_cm": 30.0
+  }
+ ]
+}

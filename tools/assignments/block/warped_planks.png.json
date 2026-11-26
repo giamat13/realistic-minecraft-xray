@@ -1,0 +1,73 @@
+{
+ "path": "block/warped_planks.png",
+ "depicts": "warped planks: teal fungus-stem wood planks with dark grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    136,
+    134
+   ],
+   "share": 0.352,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    40,
+    112,
+    103
+   ],
+   "share": 0.188,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    46,
+    95,
+    81
+   ],
+   "share": 0.184,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    17,
+    56,
+    53
+   ],
+   "share": 0.113,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    30,
+    67,
+    64
+   ],
+   "share": 0.094,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    31,
+    87,
+    82
+   ],
+   "share": 0.07,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

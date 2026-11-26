@@ -1,0 +1,73 @@
+{
+ "path": "block/iron_trapdoor.png",
+ "depicts": "iron trapdoor: iron plate slab with panel frame (real slab ~5 cm)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    207,
+    207
+   ],
+   "share": 0.364,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    193,
+    193
+   ],
+   "share": 0.236,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    215,
+    215
+   ],
+   "share": 0.209,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    185,
+    185,
+    185
+   ],
+   "share": 0.145,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    230,
+    230,
+    230
+   ],
+   "share": 0.027,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    176,
+    176
+   ],
+   "share": 0.018,
+   "material": "iron",
+   "thickness_cm": 5.0
+  }
+ ]
+}

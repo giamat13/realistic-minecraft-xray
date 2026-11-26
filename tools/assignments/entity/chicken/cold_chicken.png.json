@@ -1,0 +1,73 @@
+{
+ "path": "entity/chicken/cold_chicken.png",
+ "depicts": "cold-biome chicken body with grey-lilac feathers, keratin beak and legs, red wattle, black eye",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    136,
+    126,
+    146
+   ],
+   "share": 0.481,
+   "material": "feather",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    84,
+    77,
+    96
+   ],
+   "share": 0.398,
+   "material": "feather",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    130,
+    107
+   ],
+   "share": 0.056,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    236,
+    0,
+    0
+   ],
+   "share": 0.047,
+   "material": "soft_tissue",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    206,
+    169
+   ],
+   "share": 0.013,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.006,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

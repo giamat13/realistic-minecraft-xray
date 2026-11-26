@@ -1,0 +1,73 @@
+{
+ "path": "entity/copper_golem/copper_golem_exposed.png",
+ "depicts": "exposed-copper golem: copper plates with a thin cuprite (Cu2O) tarnish layer",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    137,
+    126
+   ],
+   "share": 0.314,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    90,
+    80,
+    65
+   ],
+   "share": 0.229,
+   "material": "cuprite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    120,
+    106,
+    86
+   ],
+   "share": 0.201,
+   "material": "cuprite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    156,
+    117,
+    96
+   ],
+   "share": 0.196,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    152,
+    140,
+    105
+   ],
+   "share": 0.047,
+   "material": "cuprite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    61,
+    56,
+    45
+   ],
+   "share": 0.014,
+   "material": "cuprite",
+   "thickness_cm": 0.1
+  }
+ ]
+}

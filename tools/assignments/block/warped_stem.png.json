@@ -1,0 +1,73 @@
+{
+ "path": "block/warped_stem.png",
+ "depicts": "warped stem: log of warped (fungus-stem) wood with purple-teal bark",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    71,
+    36,
+    52
+   ],
+   "share": 0.328,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    45,
+    92
+   ],
+   "share": 0.316,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    21,
+    101,
+    96
+   ],
+   "share": 0.195,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    86,
+    44,
+    62
+   ],
+   "share": 0.086,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    17,
+    128,
+    102
+   ],
+   "share": 0.055,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    20,
+    149,
+    111
+   ],
+   "share": 0.02,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

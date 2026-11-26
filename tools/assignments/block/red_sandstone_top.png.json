@@ -1,0 +1,62 @@
+{
+ "path": "block/red_sandstone_top.png",
+ "depicts": "red sandstone top face (iron-oxide stained sandstone)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    187,
+    102,
+    34
+   ],
+   "share": 0.438,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    96,
+    31
+   ],
+   "share": 0.328,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    91,
+    28
+   ],
+   "share": 0.16,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    83,
+    17
+   ],
+   "share": 0.039,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    203,
+    110,
+    36
+   ],
+   "share": 0.035,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

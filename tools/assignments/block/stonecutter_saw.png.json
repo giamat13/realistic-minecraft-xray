@@ -1,0 +1,73 @@
+{
+ "path": "block/stonecutter_saw.png",
+ "depicts": "stonecutter saw blade (animated sawing blade): polished steel plate",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    216,
+    216
+   ],
+   "share": 0.439,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.366,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    168,
+    168
+   ],
+   "share": 0.098,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    234,
+    234
+   ],
+   "share": 0.049,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    114,
+    114,
+    114
+   ],
+   "share": 0.024,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    130,
+    130
+   ],
+   "share": 0.024,
+   "material": "steel",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/purple_concrete_powder.png",
+ "depicts": "purple concrete powder (loose dry cement powder, dyed)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    130,
+    55,
+    177
+   ],
+   "share": 0.328,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    59,
+    183
+   ],
+   "share": 0.289,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    124,
+    51,
+    171
+   ],
+   "share": 0.238,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    149,
+    66,
+    191
+   ],
+   "share": 0.07,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    118,
+    48,
+    164
+   ],
+   "share": 0.066,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    72,
+    203
+   ],
+   "share": 0.008,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  }
+ ]
+}

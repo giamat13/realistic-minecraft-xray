@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_crimson_stem_top.png",
+ "depicts": "stripped crimson stem end grain: purple-magenta fungal stem cross-section",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    127,
+    57,
+    85
+   ],
+   "share": 0.426,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    135,
+    61,
+    90
+   ],
+   "share": 0.25,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    92,
+    48,
+    66
+   ],
+   "share": 0.148,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    106,
+    52,
+    75
+   ],
+   "share": 0.098,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    148,
+    63,
+    97
+   ],
+   "share": 0.059,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    39,
+    55
+   ],
+   "share": 0.02,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

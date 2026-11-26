@@ -1,0 +1,73 @@
+{
+ "path": "block/poplar_log.png",
+ "depicts": "poplar log side: pale brown bark on softwood trunk",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    62,
+    44
+   ],
+   "share": 0.508,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    70,
+    44
+   ],
+   "share": 0.203,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    54,
+    38
+   ],
+   "share": 0.105,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    66,
+    48,
+    42
+   ],
+   "share": 0.09,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    56,
+    44,
+    31
+   ],
+   "share": 0.062,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    100,
+    81,
+    50
+   ],
+   "share": 0.031,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/resin_block.png",
+ "depicts": "resin block (orange translucent-looking tree-resin solid block, resin material)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    227,
+    98,
+    22
+   ],
+   "share": 0.285,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    73,
+    10
+   ],
+   "share": 0.238,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    62,
+    19
+   ],
+   "share": 0.141,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    135,
+    55
+   ],
+   "share": 0.125,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    236,
+    114,
+    20
+   ],
+   "share": 0.125,
+   "material": "resin",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    239,
+    163,
+    55
+   ],
+   "share": 0.086,
+   "material": "resin",
+   "thickness_cm": 100.0
+  }
+ ]
+}

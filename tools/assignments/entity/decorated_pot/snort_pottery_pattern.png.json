@@ -1,0 +1,73 @@
+{
+ "path": "entity/decorated_pot/snort_pottery_pattern.png",
+ "depicts": "decorated pot sherd face with a snort pattern in fired clay",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    68,
+    56
+   ],
+   "share": 0.228,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    78,
+    42,
+    34
+   ],
+   "share": 0.223,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    134,
+    75,
+    61
+   ],
+   "share": 0.196,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    156,
+    92,
+    71
+   ],
+   "share": 0.147,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    57,
+    48
+   ],
+   "share": 0.129,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    119,
+    78
+   ],
+   "share": 0.076,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

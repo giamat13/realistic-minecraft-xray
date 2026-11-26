@@ -1,0 +1,51 @@
+{
+ "path": "block/white_bed_foot_up.png",
+ "depicts": "white bed foot end, top view: white wool blanket",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    248,
+    248,
+    248
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    239,
+    239,
+    239
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    224,
+    229,
+    229
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 20.0
+  }
+ ]
+}

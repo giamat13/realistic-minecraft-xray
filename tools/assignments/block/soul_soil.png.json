@@ -1,0 +1,62 @@
+{
+ "path": "block/soul_soil.png",
+ "depicts": "soul soil: dark brown soil with soul sand grains",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    55,
+    44
+   ],
+   "share": 0.301,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    91,
+    69,
+    56
+   ],
+   "share": 0.254,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    61,
+    46,
+    37
+   ],
+   "share": 0.242,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    53,
+    41,
+    34
+   ],
+   "share": 0.105,
+   "material": "soil",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    106,
+    82,
+    68
+   ],
+   "share": 0.098,
+   "material": "soil",
+   "thickness_cm": 100.0
+  }
+ ]
+}

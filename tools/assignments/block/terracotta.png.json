@@ -1,0 +1,62 @@
+{
+ "path": "block/terracotta.png",
+ "depicts": "plain terracotta block, fired clay with reddish-brown tint",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    150,
+    93,
+    67
+   ],
+   "share": 0.34,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    152,
+    95,
+    69
+   ],
+   "share": 0.254,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    155,
+    96,
+    69
+   ],
+   "share": 0.219,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    156,
+    93,
+    65
+   ],
+   "share": 0.113,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    148,
+    91,
+    67
+   ],
+   "share": 0.074,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/ice.png",
+ "depicts": "ice block (translucent, freshwater ice)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    185,
+    254
+   ],
+   "share": 0.426,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    140,
+    179,
+    254
+   ],
+   "share": 0.234,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    134,
+    174,
+    253
+   ],
+   "share": 0.184,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    195,
+    255
+   ],
+   "share": 0.125,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    188,
+    212,
+    255
+   ],
+   "share": 0.02,
+   "material": "ice",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    200,
+    220,
+    255
+   ],
+   "share": 0.012,
+   "material": "ice",
+   "thickness_cm": 100.0
+  }
+ ]
+}

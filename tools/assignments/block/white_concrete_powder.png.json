@@ -1,0 +1,73 @@
+{
+ "path": "block/white_concrete_powder.png",
+ "depicts": "white concrete powder, loose granular cement and sand mix (falling-block form)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    225,
+    227,
+    227
+   ],
+   "share": 0.363,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    218,
+    220,
+    221
+   ],
+   "share": 0.234,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    232,
+    233,
+    233
+   ],
+   "share": 0.207,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    239,
+    240,
+    240
+   ],
+   "share": 0.113,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    209,
+    212,
+    212
+   ],
+   "share": 0.062,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    248,
+    248,
+    249
+   ],
+   "share": 0.02,
+   "material": "concrete_powder",
+   "thickness_cm": 100.0
+  }
+ ]
+}

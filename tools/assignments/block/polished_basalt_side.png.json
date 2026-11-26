@@ -1,0 +1,73 @@
+{
+ "path": "block/polished_basalt_side.png",
+ "depicts": "polished basalt block side: dark grey basalt with pale columnar flecks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    116,
+    116
+   ],
+   "share": 0.328,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    92,
+    92
+   ],
+   "share": 0.262,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    75,
+    79
+   ],
+   "share": 0.199,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    58,
+    59,
+    72
+   ],
+   "share": 0.102,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    50,
+    51,
+    61
+   ],
+   "share": 0.078,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    27,
+    38,
+    50
+   ],
+   "share": 0.031,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

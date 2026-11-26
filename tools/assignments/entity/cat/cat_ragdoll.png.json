@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_ragdoll.png",
+ "depicts": "adult Ragdoll cat fur-covered body UV map: grey-beige and white coat over skin, dark blue eyes with highlight",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.328,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    218,
+    214,
+    210
+   ],
+   "share": 0.282,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    171,
+    158,
+    148
+   ],
+   "share": 0.239,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    116,
+    105
+   ],
+   "share": 0.146,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    54,
+    74,
+    115
+   ],
+   "share": 0.003,
+   "material": "water",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    203,
+    231,
+    255
+   ],
+   "share": 0.003,
+   "material": "water",
+   "thickness_cm": 1.5
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/rail.png",
+ "depicts": "iron/steel rail track sprite with wooden crossties (flat, mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    108,
+    111,
+    107
+   ],
+   "share": 0.222,
+   "material": "steel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    162,
+    162
+   ],
+   "share": 0.222,
+   "material": "steel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    80,
+    44
+   ],
+   "share": 0.16,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    158,
+    123,
+    71
+   ],
+   "share": 0.146,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.132,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    81,
+    61,
+    36
+   ],
+   "share": 0.118,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  }
+ ]
+}

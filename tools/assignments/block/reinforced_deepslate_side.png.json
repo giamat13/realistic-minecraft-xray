@@ -1,0 +1,73 @@
+{
+ "path": "block/reinforced_deepslate_side.png",
+ "depicts": "reinforced deepslate block side face (dark deepslate with pale metal reinforcement bands and corner rivets)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    64,
+    64,
+    66
+   ],
+   "share": 0.469,
+   "material": "slate",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    158,
+    173,
+    141
+   ],
+   "share": 0.266,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    106,
+    108,
+    110
+   ],
+   "share": 0.156,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    209,
+    214,
+    182
+   ],
+   "share": 0.062,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    3,
+    65,
+    80
+   ],
+   "share": 0.031,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    64,
+    87,
+    108
+   ],
+   "share": 0.016,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

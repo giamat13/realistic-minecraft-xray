@@ -1,0 +1,40 @@
+{
+ "path": "block/quartz_block_bottom.png",
+ "depicts": "quartz block bottom face (white-cream quartz, mineral speckle)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    234,
+    230
+   ],
+   "share": 0.383,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    238,
+    230,
+    222
+   ],
+   "share": 0.328,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    234,
+    226,
+    218
+   ],
+   "share": 0.289,
+   "material": "quartz",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/spruce_trapdoor.png",
+ "depicts": "spruce trapdoor (3px ~18.75cm wood panel) with iron hinge/handle bits",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    104,
+    80,
+    45
+   ],
+   "share": 0.363,
+   "material": "wood_soft",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    91,
+    54
+   ],
+   "share": 0.293,
+   "material": "wood_soft",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    88,
+    64,
+    34
+   ],
+   "share": 0.25,
+   "material": "wood_soft",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.039,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    63,
+    63,
+    63
+   ],
+   "share": 0.039,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    53,
+    53,
+    53
+   ],
+   "share": 0.016,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

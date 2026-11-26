@@ -1,0 +1,73 @@
+{
+ "path": "block/pearlescent_froglight_top.png",
+ "depicts": "pearlescent froglight top, translucent glossy glowing resin block with pearl sheen",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    254,
+    253
+   ],
+   "share": 0.516,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    249,
+    244,
+    243
+   ],
+   "share": 0.188,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    239,
+    230,
+    225
+   ],
+   "share": 0.133,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    226,
+    211,
+    211
+   ],
+   "share": 0.094,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    212,
+    191,
+    200
+   ],
+   "share": 0.055,
+   "material": "glass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    194,
+    164,
+    195
+   ],
+   "share": 0.016,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

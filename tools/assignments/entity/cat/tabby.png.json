@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/tabby.png",
+ "depicts": "adult tabby cat UV map (duplicate layout of cat_tabby): brown striped fur over skin, yellow-amber eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    72,
+    51
+   ],
+   "share": 0.484,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    106,
+    79
+   ],
+   "share": 0.278,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    238,
+    224,
+    205
+   ],
+   "share": 0.157,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    182,
+    160
+   ],
+   "share": 0.075,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    241,
+    218,
+    60
+   ],
+   "share": 0.003,
+   "material": "water",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    187,
+    137,
+    16
+   ],
+   "share": 0.003,
+   "material": "water",
+   "thickness_cm": 1.5
+  }
+ ]
+}

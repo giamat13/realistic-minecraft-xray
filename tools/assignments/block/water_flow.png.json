@@ -1,0 +1,73 @@
+{
+ "path": "block/water_flow.png",
+ "depicts": "water flow animation: flowing water, translucent",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    167,
+    167,
+    167
+   ],
+   "share": 0.495,
+   "material": "water",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    161,
+    161,
+    161
+   ],
+   "share": 0.349,
+   "material": "water",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.057,
+   "material": "water",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    182,
+    182,
+    182
+   ],
+   "share": 0.057,
+   "material": "water",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    194,
+    194,
+    194
+   ],
+   "share": 0.021,
+   "material": "water",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    206,
+    206,
+    206
+   ],
+   "share": 0.021,
+   "material": "water",
+   "thickness_cm": 100.0
+  }
+ ]
+}

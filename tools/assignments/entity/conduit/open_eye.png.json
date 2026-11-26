@@ -1,0 +1,73 @@
+{
+ "path": "entity/conduit/open_eye.png",
+ "depicts": "open conduit eye: prismarine sclera, red-brown iris, glowing cyan pupil and gold rim",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    135,
+    166
+   ],
+   "share": 0.308,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    10,
+    50,
+    89
+   ],
+   "share": 0.25,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    16,
+    90,
+    119
+   ],
+   "share": 0.192,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    101,
+    36,
+    31
+   ],
+   "share": 0.096,
+   "material": "iron_oxide",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    29,
+    194,
+    209
+   ],
+   "share": 0.096,
+   "material": "glass",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    128,
+    108,
+    40
+   ],
+   "share": 0.058,
+   "material": "brass",
+   "thickness_cm": 0.1
+  }
+ ]
+}

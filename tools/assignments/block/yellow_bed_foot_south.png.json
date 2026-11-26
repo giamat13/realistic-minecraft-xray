@@ -1,0 +1,73 @@
+{
+ "path": "block/yellow_bed_foot_south.png",
+ "depicts": "yellow bed foot end, south side: wool mattress over oak wood frame",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    158,
+    10
+   ],
+   "share": 0.439,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    88,
+    54
+   ],
+   "share": 0.197,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    121,
+    68
+   ],
+   "share": 0.189,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    181,
+    143,
+    85
+   ],
+   "share": 0.129,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    246,
+    182,
+    24
+   ],
+   "share": 0.045,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    184,
+    136,
+    40
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 20.0
+  }
+ ]
+}

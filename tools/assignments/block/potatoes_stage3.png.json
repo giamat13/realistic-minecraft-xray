@@ -1,0 +1,73 @@
+{
+ "path": "block/potatoes_stage3.png",
+ "depicts": "potato crop stage 3: dense green foliage with brown stalks",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    109,
+    41
+   ],
+   "share": 0.309,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    143,
+    40
+   ],
+   "share": 0.247,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.222,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    114,
+    62
+   ],
+   "share": 0.148,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    200,
+    162,
+    75
+   ],
+   "share": 0.037,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    170,
+    141,
+    74
+   ],
+   "share": 0.037,
+   "material": "plant_tissue",
+   "thickness_cm": 8.0
+  }
+ ]
+}

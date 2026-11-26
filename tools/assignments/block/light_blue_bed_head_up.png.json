@@ -1,0 +1,73 @@
+{
+ "path": "block/light_blue_bed_head_up.png",
+ "depicts": "light blue bed head end, top face: white pillow wool over blue blanket",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    37,
+    147,
+    207
+   ],
+   "share": 0.371,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.219,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    204,
+    210,
+    210
+   ],
+   "share": 0.219,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    23,
+    115,
+    170
+   ],
+   "share": 0.129,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.062,
+   "material": "wool",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    125,
+    179,
+    209
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 100.0
+  }
+ ]
+}

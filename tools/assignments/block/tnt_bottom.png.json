@@ -1,0 +1,51 @@
+{
+ "path": "block/tnt_bottom.png",
+ "depicts": "TNT block bottom face: red-painted TNT sticks with grey paper bands",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    39,
+    22
+   ],
+   "share": 0.5,
+   "material": "tnt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    142,
+    142,
+    142
+   ],
+   "share": 0.25,
+   "material": "paper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    219,
+    47,
+    26
+   ],
+   "share": 0.25,
+   "material": "tnt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    167,
+    67,
+    53
+   ],
+   "share": 0.0,
+   "material": "tnt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

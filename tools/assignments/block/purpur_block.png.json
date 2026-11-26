@@ -1,0 +1,73 @@
+{
+ "path": "block/purpur_block.png",
+ "depicts": "purpur block (end-city purple stone-like building block with light speckles)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    162,
+    113,
+    161
+   ],
+   "share": 0.238,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    134,
+    178
+   ],
+   "share": 0.199,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    123,
+    172
+   ],
+   "share": 0.184,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    144,
+    101,
+    144
+   ],
+   "share": 0.176,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    186,
+    149,
+    186
+   ],
+   "share": 0.117,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    199,
+    168,
+    199
+   ],
+   "share": 0.086,
+   "material": "purpur",
+   "thickness_cm": 100.0
+  }
+ ]
+}

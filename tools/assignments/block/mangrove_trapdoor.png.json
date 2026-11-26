@@ -1,0 +1,73 @@
+{
+ "path": "block/mangrove_trapdoor.png",
+ "depicts": "mangrove trapdoor: red-brown mangrove wood planks, 3px (18cm) thick with a central opening",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    97,
+    32,
+    33
+   ],
+   "share": 0.509,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    66,
+    52
+   ],
+   "share": 0.125,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    111,
+    42,
+    45
+   ],
+   "share": 0.116,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    77,
+    58
+   ],
+   "share": 0.112,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    119,
+    56,
+    52
+   ],
+   "share": 0.107,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    84,
+    64
+   ],
+   "share": 0.031,
+   "material": "wood_oak",
+   "thickness_cm": 18.0
+  }
+ ]
+}

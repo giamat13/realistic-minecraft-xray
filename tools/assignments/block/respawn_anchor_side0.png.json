@@ -1,0 +1,73 @@
+{
+ "path": "block/respawn_anchor_side0.png",
+ "depicts": "respawn anchor side face 0 (dark crying obsidian with purple crystal tears)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    8,
+    5,
+    14
+   ],
+   "share": 0.328,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    35,
+    29,
+    51
+   ],
+   "share": 0.324,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    56,
+    101
+   ],
+   "share": 0.219,
+   "material": "obsidian",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    43,
+    1,
+    120
+   ],
+   "share": 0.07,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    6,
+    171
+   ],
+   "share": 0.039,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    131,
+    8,
+    228
+   ],
+   "share": 0.02,
+   "material": "amethyst",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_dark_oak_log.png",
+ "depicts": "stripped dark oak log side: dark brown exposed heartwood with grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    57,
+    36
+   ],
+   "share": 0.312,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    54,
+    35
+   ],
+   "share": 0.238,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    63,
+    39
+   ],
+   "share": 0.191,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    59,
+    48,
+    32
+   ],
+   "share": 0.117,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    78,
+    60,
+    37
+   ],
+   "share": 0.113,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    80,
+    61,
+    38
+   ],
+   "share": 0.027,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

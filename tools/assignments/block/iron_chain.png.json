@@ -1,0 +1,40 @@
+{
+ "path": "block/iron_chain.png",
+ "depicts": "iron chain: small linked iron wire links (mostly air)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    37,
+    44,
+    61
+   ],
+   "share": 0.464,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    62,
+    68,
+    83
+   ],
+   "share": 0.446,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    80,
+    101
+   ],
+   "share": 0.089,
+   "material": "iron",
+   "thickness_cm": 0.5
+  }
+ ]
+}

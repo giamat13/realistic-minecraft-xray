@@ -1,0 +1,73 @@
+{
+ "path": "entity/decorated_pot/plenty_pottery_pattern.png",
+ "depicts": "decorated pot sherd face with a plenty pattern in fired clay",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    77,
+    41,
+    33
+   ],
+   "share": 0.228,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 1,
+   "rgb": [
+    133,
+    75,
+    61
+   ],
+   "share": 0.201,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    68,
+    56
+   ],
+   "share": 0.179,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    98,
+    56,
+    48
+   ],
+   "share": 0.17,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 4,
+   "rgb": [
+    156,
+    92,
+    71
+   ],
+   "share": 0.147,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    119,
+    78
+   ],
+   "share": 0.076,
+   "material": "terracotta",
+   "thickness_cm": 0.8
+  }
+ ]
+}

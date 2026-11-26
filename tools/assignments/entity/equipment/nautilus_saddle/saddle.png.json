@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/nautilus_saddle/saddle.png",
+ "depicts": "nautilus saddle: leather saddle with iron straps and buckles",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    200,
+    94,
+    40
+   ],
+   "share": 0.476,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    109,
+    47,
+    20
+   ],
+   "share": 0.357,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    241,
+    139,
+    92
+   ],
+   "share": 0.071,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    127,
+    111,
+    99
+   ],
+   "share": 0.036,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    72,
+    67
+   ],
+   "share": 0.036,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    176,
+    153,
+    136
+   ],
+   "share": 0.024,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

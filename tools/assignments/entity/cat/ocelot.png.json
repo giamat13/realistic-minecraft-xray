@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/ocelot.png",
+ "depicts": "adult ocelot UV map: golden spotted fur over skin, white muzzle, green eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    246,
+    206,
+    112
+   ],
+   "share": 0.63,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    244,
+    220,
+    164
+   ],
+   "share": 0.162,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    208,
+    155,
+    79
+   ],
+   "share": 0.152,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    142,
+    85,
+    42
+   ],
+   "share": 0.05,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    253
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    31,
+    111,
+    50
+   ],
+   "share": 0.003,
+   "material": "water",
+   "thickness_cm": 1.5
+  }
+ ]
+}

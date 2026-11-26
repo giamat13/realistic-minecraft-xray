@@ -1,0 +1,73 @@
+{
+ "path": "block/mud.png",
+ "depicts": "mud block: dark wet mud, 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    49,
+    57
+   ],
+   "share": 0.293,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    56,
+    61
+   ],
+   "share": 0.23,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    70,
+    64,
+    62
+   ],
+   "share": 0.156,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    56,
+    54
+   ],
+   "share": 0.148,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    67,
+    68,
+    69
+   ],
+   "share": 0.141,
+   "material": "mud",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    74,
+    76
+   ],
+   "share": 0.031,
+   "material": "mud",
+   "thickness_cm": 100.0
+  }
+ ]
+}

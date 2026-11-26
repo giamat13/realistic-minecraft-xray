@@ -1,0 +1,51 @@
+{
+ "path": "block/yellow_bed_foot_up.png",
+ "depicts": "yellow bed foot end, top view: yellow wool blanket",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    206,
+    41
+   ],
+   "share": 0.461,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    194,
+    24
+   ],
+   "share": 0.266,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    218,
+    57
+   ],
+   "share": 0.168,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    182,
+    24
+   ],
+   "share": 0.105,
+   "material": "wool",
+   "thickness_cm": 20.0
+  }
+ ]
+}

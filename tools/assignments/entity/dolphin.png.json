@@ -1,0 +1,73 @@
+{
+ "path": "entity/dolphin.png",
+ "depicts": "adult dolphin mob skin texture (blue-grey dorsal skin, pale belly, darker fin/shadow shading), wrapped body, mostly soft tissue with blubber",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    168,
+    188,
+    208
+   ],
+   "share": 0.527,
+   "material": "soft_tissue",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    191,
+    207,
+    220
+   ],
+   "share": 0.307,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    153,
+    177
+   ],
+   "share": 0.163,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    8,
+    9,
+    31
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    107,
+    113,
+    142
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/orange_tulip.png",
+ "depicts": "orange tulip sprite: thin green stem and leaves with orange petals",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    23,
+    124,
+    4
+   ],
+   "share": 0.293,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    84,
+    167,
+    45
+   ],
+   "share": 0.293,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    74,
+    143,
+    40
+   ],
+   "share": 0.195,
+   "material": "plant_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    241,
+    157,
+    37
+   ],
+   "share": 0.098,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    189,
+    106,
+    34
+   ],
+   "share": 0.073,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    211,
+    125,
+    50
+   ],
+   "share": 0.049,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

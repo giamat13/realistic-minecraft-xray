@@ -1,0 +1,73 @@
+{
+ "path": "block/purple_terracotta.png",
+ "depicts": "purple terracotta block (matte fired clay, dyed)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    118,
+    70,
+    86
+   ],
+   "share": 0.242,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    115,
+    68,
+    84
+   ],
+   "share": 0.238,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    119,
+    72,
+    87
+   ],
+   "share": 0.184,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    74,
+    89
+   ],
+   "share": 0.145,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    118,
+    69,
+    84
+   ],
+   "share": 0.141,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    72,
+    87
+   ],
+   "share": 0.051,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

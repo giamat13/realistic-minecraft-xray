@@ -1,0 +1,62 @@
+{
+ "path": "block/iron_bars.png",
+ "depicts": "iron bars: thin iron rods forming a grille (real rod diameter ~1 cm, mostly air)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    110,
+    114,
+    107
+   ],
+   "share": 0.569,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    156,
+    156,
+    156
+   ],
+   "share": 0.172,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    171,
+    172,
+    171
+   ],
+   "share": 0.129,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    197,
+    197,
+    197
+   ],
+   "share": 0.129,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    139,
+    136
+   ],
+   "share": 0.0,
+   "material": "iron",
+   "thickness_cm": 1.0
+  }
+ ]
+}

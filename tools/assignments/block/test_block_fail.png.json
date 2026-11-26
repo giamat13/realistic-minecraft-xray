@@ -1,0 +1,73 @@
+{
+ "path": "block/test_block_fail.png",
+ "depicts": "game-test block in its purple 'fail' state, painted plastic cube with white pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    82,
+    150
+   ],
+   "share": 0.41,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    108,
+    193
+   ],
+   "share": 0.199,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    66,
+    126
+   ],
+   "share": 0.184,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    226,
+    226,
+    226
+   ],
+   "share": 0.105,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.066,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    157,
+    130,
+    203
+   ],
+   "share": 0.035,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  }
+ ]
+}

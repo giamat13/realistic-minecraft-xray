@@ -1,0 +1,73 @@
+{
+ "path": "block/poplar_log_top.png",
+ "depicts": "poplar log end grain: pale annual rings with dark bark ring",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    156,
+    144,
+    134
+   ],
+   "share": 0.273,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    167,
+    156,
+    141
+   ],
+   "share": 0.227,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    134,
+    120,
+    115
+   ],
+   "share": 0.168,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    58,
+    45
+   ],
+   "share": 0.117,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    88,
+    67,
+    43
+   ],
+   "share": 0.117,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    145,
+    133,
+    123
+   ],
+   "share": 0.098,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

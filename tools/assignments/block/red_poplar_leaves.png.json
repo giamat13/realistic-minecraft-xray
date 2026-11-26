@@ -1,0 +1,51 @@
+{
+ "path": "block/red_poplar_leaves.png",
+ "depicts": "red poplar leaves (foliage, mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    105,
+    31,
+    35
+   ],
+   "share": 0.308,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    212,
+    60,
+    47
+   ],
+   "share": 0.264,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    138,
+    41,
+    41
+   ],
+   "share": 0.236,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    172,
+    48,
+    33
+   ],
+   "share": 0.192,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  }
+ ]
+}

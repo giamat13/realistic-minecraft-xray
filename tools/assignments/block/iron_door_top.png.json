@@ -1,0 +1,73 @@
+{
+ "path": "block/iron_door_top.png",
+ "depicts": "iron door upper half: iron slab with recessed panels and handle/hinge detail; real iron door slab ~5 cm",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    209,
+    207,
+    207
+   ],
+   "share": 0.562,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    171,
+    171,
+    171
+   ],
+   "share": 0.303,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    230,
+    230,
+    230
+   ],
+   "share": 0.058,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    190,
+    190,
+    190
+   ],
+   "share": 0.043,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    73,
+    73
+   ],
+   "share": 0.019,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    129,
+    129,
+    129
+   ],
+   "share": 0.014,
+   "material": "iron",
+   "thickness_cm": 5.0
+  }
+ ]
+}

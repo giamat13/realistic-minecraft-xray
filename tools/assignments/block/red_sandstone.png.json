@@ -1,0 +1,73 @@
+{
+ "path": "block/red_sandstone.png",
+ "depicts": "red sandstone block side (iron-oxide stained sandstone)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    102,
+    33
+   ],
+   "share": 0.348,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    172,
+    87,
+    18
+   ],
+   "share": 0.191,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    210,
+    117,
+    43
+   ],
+   "share": 0.16,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    159,
+    78,
+    11
+   ],
+   "share": 0.152,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    203,
+    110,
+    36
+   ],
+   "share": 0.125,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    217,
+    123,
+    48
+   ],
+   "share": 0.023,
+   "material": "sandstone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

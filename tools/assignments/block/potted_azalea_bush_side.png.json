@@ -1,0 +1,73 @@
+{
+ "path": "block/potted_azalea_bush_side.png",
+ "depicts": "potted azalea bush side view: green leaf canopy",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.259,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.241,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    114,
+    51
+   ],
+   "share": 0.224,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.172,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    66,
+    85,
+    45
+   ],
+   "share": 0.069,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    94,
+    39
+   ],
+   "share": 0.034,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  }
+ ]
+}

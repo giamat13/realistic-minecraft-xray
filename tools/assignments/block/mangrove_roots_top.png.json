@@ -1,0 +1,62 @@
+{
+ "path": "block/mangrove_roots_top.png",
+ "depicts": "mangrove roots block top: tangled brown woody roots with gaps (about 69% root wood coverage over 1 m)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    78,
+    63,
+    39
+   ],
+   "share": 0.345,
+   "material": "wood_oak",
+   "thickness_cm": 69.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    60,
+    47,
+    35
+   ],
+   "share": 0.294,
+   "material": "wood_oak",
+   "thickness_cm": 69.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    90,
+    72,
+    44
+   ],
+   "share": 0.232,
+   "material": "wood_oak",
+   "thickness_cm": 69.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    53,
+    34
+   ],
+   "share": 0.113,
+   "material": "wood_oak",
+   "thickness_cm": 69.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    102,
+    82,
+    52
+   ],
+   "share": 0.017,
+   "material": "wood_oak",
+   "thickness_cm": 69.0
+  }
+ ]
+}

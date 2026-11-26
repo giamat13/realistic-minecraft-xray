@@ -1,0 +1,73 @@
+{
+ "path": "block/polished_blackstone_bricks.png",
+ "depicts": "polished blackstone bricks: dark basaltic brick with mortar seams (blackstone approximated as basalt)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    60,
+    57,
+    71
+   ],
+   "share": 0.262,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    44,
+    54
+   ],
+   "share": 0.23,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    39,
+    34,
+    28
+   ],
+   "share": 0.176,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    35,
+    22,
+    31
+   ],
+   "share": 0.16,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    78,
+    75,
+    84
+   ],
+   "share": 0.09,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    22,
+    15,
+    16
+   ],
+   "share": 0.082,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

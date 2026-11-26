@@ -1,0 +1,62 @@
+{
+ "path": "block/medium_amethyst_bud.png",
+ "depicts": "medium amethyst bud: pink-violet amethyst crystal cluster spike about 6cm across",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    207,
+    160,
+    243
+   ],
+   "share": 0.275,
+   "material": "amethyst",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    100,
+    71,
+    158
+   ],
+   "share": 0.235,
+   "material": "amethyst",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    91,
+    181
+   ],
+   "share": 0.235,
+   "material": "amethyst",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    141,
+    106,
+    204
+   ],
+   "share": 0.137,
+   "material": "amethyst",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    203,
+    230
+   ],
+   "share": 0.118,
+   "material": "amethyst",
+   "thickness_cm": 6.0
+  }
+ ]
+}

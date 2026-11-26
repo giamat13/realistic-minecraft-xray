@@ -1,0 +1,73 @@
+{
+ "path": "entity/bee/bee_angry.png",
+ "depicts": "angry honey bee mob skin: same chitinous striped bee body with red anger marks on the shell",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    241,
+    197,
+    78
+   ],
+   "share": 0.295,
+   "material": "fat",
+   "thickness_cm": 0.6
+  },
+  {
+   "id": 1,
+   "rgb": [
+    83,
+    45,
+    36
+   ],
+   "share": 0.291,
+   "material": "shell_chitin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    107,
+    44
+   ],
+   "share": 0.172,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    34,
+    20,
+    15
+   ],
+   "share": 0.144,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    244,
+    247,
+    238
+   ],
+   "share": 0.07,
+   "material": "shell_chitin",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    209,
+    4,
+    26
+   ],
+   "share": 0.028,
+   "material": "shell_chitin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

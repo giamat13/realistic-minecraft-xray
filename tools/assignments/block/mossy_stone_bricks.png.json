@@ -1,0 +1,73 @@
+{
+ "path": "block/mossy_stone_bricks.png",
+ "depicts": "mossy stone bricks: grey stone bricks with a thin moss skin on the mortar and edges (stone 1 m, moss skin negligible)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    123,
+    124
+   ],
+   "share": 0.332,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    145,
+    143,
+    145
+   ],
+   "share": 0.18,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    94,
+    115,
+    65
+   ],
+   "share": 0.168,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    97,
+    97,
+    97
+   ],
+   "share": 0.148,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    118,
+    138,
+    83
+   ],
+   "share": 0.109,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    82,
+    93,
+    57
+   ],
+   "share": 0.062,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "block/warped_wart_block.png",
+ "depicts": "warped wart block: solid bubbly nether fungal tissue block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    22,
+    126,
+    134
+   ],
+   "share": 0.496,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    25,
+    104,
+    104
+   ],
+   "share": 0.426,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    17,
+    155,
+    133
+   ],
+   "share": 0.043,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    20,
+    180,
+    133
+   ],
+   "share": 0.035,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    23,
+    120,
+    121
+   ],
+   "share": 0.0,
+   "material": "fungus",
+   "thickness_cm": 100.0
+  }
+ ]
+}

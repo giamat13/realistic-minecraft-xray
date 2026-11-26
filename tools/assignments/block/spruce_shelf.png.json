@@ -1,0 +1,73 @@
+{
+ "path": "block/spruce_shelf.png",
+ "depicts": "spruce wooden shelf block (solid wood cabinet/shelf faces with small iron fittings)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    83,
+    47
+   ],
+   "share": 0.554,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    117,
+    90,
+    53
+   ],
+   "share": 0.166,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    88,
+    65,
+    34
+   ],
+   "share": 0.162,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    133,
+    97,
+    56
+   ],
+   "share": 0.103,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    63,
+    63,
+    63
+   ],
+   "share": 0.008,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.008,
+   "material": "iron",
+   "thickness_cm": 0.3
+  }
+ ]
+}

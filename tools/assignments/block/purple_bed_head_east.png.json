@@ -1,0 +1,73 @@
+{
+ "path": "block/purple_bed_head_east.png",
+ "depicts": "purple bed head end, east face (white pillow textile over plank frame, purple mattress edge)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    166,
+    130,
+    75
+   ],
+   "share": 0.301,
+   "material": "planks",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    108,
+    86,
+    52
+   ],
+   "share": 0.179,
+   "material": "planks",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    215,
+    222,
+    222
+   ],
+   "share": 0.171,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    70,
+    18,
+    118
+   ],
+   "share": 0.138,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    101,
+    31,
+    159
+   ],
+   "share": 0.122,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.089,
+   "material": "textile",
+   "thickness_cm": 10.0
+  }
+ ]
+}

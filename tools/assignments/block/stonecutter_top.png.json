@@ -1,0 +1,73 @@
+{
+ "path": "block/stonecutter_top.png",
+ "depicts": "stonecutter block top: grey stone table surface with wooden corner frame and saw-bench outline",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    122,
+    122,
+    122
+   ],
+   "share": 0.461,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.23,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    97,
+    97
+   ],
+   "share": 0.168,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    72,
+    20
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    113,
+    52
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    123,
+    94,
+    47
+   ],
+   "share": 0.047,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

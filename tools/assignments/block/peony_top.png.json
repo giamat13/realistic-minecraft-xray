@@ -1,0 +1,73 @@
+{
+ "path": "block/peony_top.png",
+ "depicts": "upper half of a peony plant, pink flower head with green leaves",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    232,
+    187,
+    249
+   ],
+   "share": 0.327,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    29,
+    63,
+    34
+   ],
+   "share": 0.291,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    38,
+    94,
+    37
+   ],
+   "share": 0.218,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    223,
+    151,
+    243
+   ],
+   "share": 0.136,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    246,
+    226,
+    255
+   ],
+   "share": 0.027,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    127,
+    139
+   ],
+   "share": 0.0,
+   "material": "foliage",
+   "thickness_cm": 8.0
+  }
+ ]
+}

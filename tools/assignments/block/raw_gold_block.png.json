@@ -1,0 +1,73 @@
+{
+ "path": "block/raw_gold_block.png",
+ "depicts": "raw gold block (gold-bearing ore chunks: native gold in a brownish host rock)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    201,
+    140,
+    28
+   ],
+   "share": 0.266,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    247,
+    196,
+    49
+   ],
+   "share": 0.188,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    238,
+    164,
+    26
+   ],
+   "share": 0.176,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    174,
+    109,
+    38
+   ],
+   "share": 0.172,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    250,
+    234,
+    46
+   ],
+   "share": 0.109,
+   "material": "gold",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    247,
+    157
+   ],
+   "share": 0.09,
+   "material": "gold",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/red_bed_foot_south.png",
+ "depicts": "red bed foot end, south face (red wool mattress over plank frame, transparent legs)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    124,
+    23,
+    23
+   ],
+   "share": 0.341,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    110,
+    88,
+    54
+   ],
+   "share": 0.197,
+   "material": "planks",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    156,
+    121,
+    68
+   ],
+   "share": 0.189,
+   "material": "planks",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    150,
+    35,
+    33
+   ],
+   "share": 0.144,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    181,
+    143,
+    85
+   ],
+   "share": 0.129,
+   "material": "planks",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    138,
+    72,
+    47
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 15.0
+  }
+ ]
+}

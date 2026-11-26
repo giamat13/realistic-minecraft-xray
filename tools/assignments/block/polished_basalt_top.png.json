@@ -1,0 +1,73 @@
+{
+ "path": "block/polished_basalt_top.png",
+ "depicts": "polished basalt top: dark basalt with radial pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    116,
+    116
+   ],
+   "share": 0.281,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    92,
+    92,
+    92
+   ],
+   "share": 0.242,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    75,
+    79
+   ],
+   "share": 0.23,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    137,
+    137
+   ],
+   "share": 0.152,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    61,
+    62,
+    76
+   ],
+   "share": 0.062,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    51,
+    52,
+    62
+   ],
+   "share": 0.031,
+   "material": "basalt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

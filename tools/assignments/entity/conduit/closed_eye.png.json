@@ -1,0 +1,73 @@
+{
+ "path": "entity/conduit/closed_eye.png",
+ "depicts": "closed conduit eye: sea-blue prismarine lid with a glowing cyan rim",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    14,
+    78,
+    104
+   ],
+   "share": 0.288,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    31,
+    150,
+    177
+   ],
+   "share": 0.192,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    33,
+    128,
+    161
+   ],
+   "share": 0.192,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    8,
+    32,
+    84
+   ],
+   "share": 0.135,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    29,
+    109,
+    141
+   ],
+   "share": 0.115,
+   "material": "prismarine",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    29,
+    194,
+    209
+   ],
+   "share": 0.077,
+   "material": "glass",
+   "thickness_cm": 0.5
+  }
+ ]
+}

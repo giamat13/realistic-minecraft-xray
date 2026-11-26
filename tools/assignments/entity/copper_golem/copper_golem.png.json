@@ -1,0 +1,73 @@
+{
+ "path": "entity/copper_golem/copper_golem.png",
+ "depicts": "unoxidised copper golem: shell of copper plates, copper-coloured body",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    221,
+    127,
+    100
+   ],
+   "share": 0.351,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    132,
+    64,
+    41
+   ],
+   "share": 0.218,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    91,
+    66
+   ],
+   "share": 0.166,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    36,
+    13
+   ],
+   "share": 0.137,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    191,
+    111,
+    84
+   ],
+   "share": 0.113,
+   "material": "copper",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    62,
+    25,
+    12
+   ],
+   "share": 0.014,
+   "material": "copper",
+   "thickness_cm": 0.3
+  }
+ ]
+}

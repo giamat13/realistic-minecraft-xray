@@ -1,0 +1,73 @@
+{
+ "path": "block/red_glazed_terracotta.png",
+ "depicts": "red glazed terracotta (fired clay with red glaze and pattern)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    176,
+    46,
+    38
+   ],
+   "share": 0.359,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    205,
+    73,
+    66
+   ],
+   "share": 0.297,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    144,
+    32,
+    32
+   ],
+   "share": 0.211,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    209,
+    86,
+    80
+   ],
+   "share": 0.078,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    145,
+    124
+   ],
+   "share": 0.055,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    182,
+    60,
+    53
+   ],
+   "share": 0.0,
+   "material": "ceramic_glaze",
+   "thickness_cm": 100.0
+  }
+ ]
+}

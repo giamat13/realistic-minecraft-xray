@@ -1,0 +1,73 @@
+{
+ "path": "block/repeater_on.png",
+ "depicts": "lit redstone repeater (stone base slab with glowing redstone dust torch and light top)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    190,
+    192,
+    190
+   ],
+   "share": 0.375,
+   "material": "stone",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    134,
+    136,
+    134
+   ],
+   "share": 0.348,
+   "material": "stone",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    170,
+    172
+   ],
+   "share": 0.191,
+   "material": "stone",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    192,
+    1,
+    3
+   ],
+   "share": 0.039,
+   "material": "redstone_dust",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    213,
+    216,
+    213
+   ],
+   "share": 0.023,
+   "material": "stone",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    0,
+    0
+   ],
+   "share": 0.023,
+   "material": "redstone_dust",
+   "thickness_cm": 1.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/poplar_shelf.png",
+ "depicts": "poplar shelf block: pale poplar wood with dark grain and slot recesses",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    135,
+    121,
+    116
+   ],
+   "share": 0.261,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    146,
+    134,
+    124
+   ],
+   "share": 0.242,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    152,
+    139
+   ],
+   "share": 0.241,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    174,
+    165,
+    149
+   ],
+   "share": 0.145,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    118,
+    102,
+    101
+   ],
+   "share": 0.062,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    107,
+    93,
+    93
+   ],
+   "share": 0.049,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

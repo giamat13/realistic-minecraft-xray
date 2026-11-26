@@ -1,0 +1,73 @@
+{
+ "path": "block/pale_oak_planks.png",
+ "depicts": "pale oak planks, pale wood boards",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    195,
+    181,
+    181
+   ],
+   "share": 0.207,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    250,
+    239,
+    238
+   ],
+   "share": 0.203,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    231,
+    227,
+    225
+   ],
+   "share": 0.188,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    221,
+    206,
+    205
+   ],
+   "share": 0.184,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    251,
+    248
+   ],
+   "share": 0.148,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    210,
+    198,
+    199
+   ],
+   "share": 0.07,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

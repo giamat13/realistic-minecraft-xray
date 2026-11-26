@@ -1,0 +1,73 @@
+{
+ "path": "block/jigsaw_top.png",
+ "depicts": "jigsaw block top: dark steel-cased block with lilac highlighted socket, solid block",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    36,
+    45
+   ],
+   "share": 0.363,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    16,
+    16,
+    16
+   ],
+   "share": 0.312,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    211,
+    183,
+    211
+   ],
+   "share": 0.223,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    99,
+    118
+   ],
+   "share": 0.074,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    150,
+    120,
+    150
+   ],
+   "share": 0.027,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    80,
+    70,
+    81
+   ],
+   "share": 0.0,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

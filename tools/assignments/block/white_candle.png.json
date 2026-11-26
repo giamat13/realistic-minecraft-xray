@@ -1,0 +1,62 @@
+{
+ "path": "block/white_candle.png",
+ "depicts": "unlit white candle: wax body with cotton wick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    199,
+    211,
+    211
+   ],
+   "share": 0.429,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    224,
+    229,
+    229
+   ],
+   "share": 0.286,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    249,
+    249,
+    249
+   ],
+   "share": 0.238,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    210,
+    217,
+    218
+   ],
+   "share": 0.0,
+   "material": "wax",
+   "thickness_cm": 2.0
+  }
+ ]
+}

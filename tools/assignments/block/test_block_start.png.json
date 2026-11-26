@@ -1,0 +1,73 @@
+{
+ "path": "block/test_block_start.png",
+ "depicts": "game-test block 'start' state, wood-tan painted cube with white pattern",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    187,
+    140,
+    75
+   ],
+   "share": 0.273,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    166,
+    115,
+    64
+   ],
+   "share": 0.215,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    226,
+    226
+   ],
+   "share": 0.207,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    143,
+    97,
+    52
+   ],
+   "share": 0.164,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.105,
+   "material": "plastic",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    163,
+    105
+   ],
+   "share": 0.035,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

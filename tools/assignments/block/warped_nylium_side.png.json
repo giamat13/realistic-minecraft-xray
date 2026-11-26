@@ -1,0 +1,73 @@
+{
+ "path": "block/warped_nylium_side.png",
+ "depicts": "warped nylium side: netherrack with a teal fungal crust on top",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    87,
+    31,
+    31
+   ],
+   "share": 0.414,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    54,
+    68,
+    67
+   ],
+   "share": 0.195,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    116,
+    52,
+    52
+   ],
+   "share": 0.188,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    22,
+    97,
+    91
+   ],
+   "share": 0.074,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    18,
+    166,
+    133
+   ],
+   "share": 0.07,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    22,
+    126,
+    134
+   ],
+   "share": 0.059,
+   "material": "netherrack",
+   "thickness_cm": 100.0
+  }
+ ]
+}

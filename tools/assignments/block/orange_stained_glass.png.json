@@ -1,0 +1,18 @@
+{
+ "path": "block/orange_stained_glass.png",
+ "depicts": "orange stained glass block: orange-dyed glass",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    127,
+    51
+   ],
+   "share": 1.0,
+   "material": "glass",
+   "thickness_cm": 100.0
+  }
+ ]
+}

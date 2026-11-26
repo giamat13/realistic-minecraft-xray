@@ -1,0 +1,51 @@
+{
+ "path": "block/pumpkin_stem.png",
+ "depicts": "pumpkin stem (thin curved plant stalk, mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    141,
+    139
+   ],
+   "share": 0.314,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    180,
+    178,
+    180
+   ],
+   "share": 0.286,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    98,
+    97,
+    98
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    197,
+    198,
+    197
+   ],
+   "share": 0.2,
+   "material": "plant_tissue",
+   "thickness_cm": 2.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/warped_sign.png",
+ "depicts": "warped sign: standing wooden sign board of warped wood on a wooden post",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    36,
+    100,
+    90
+   ],
+   "share": 0.482,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    132,
+    131
+   ],
+   "share": 0.315,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    23,
+    61,
+    58
+   ],
+   "share": 0.084,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    75,
+    38,
+    55
+   ],
+   "share": 0.067,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    45,
+    92
+   ],
+   "share": 0.041,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    17,
+    158,
+    133
+   ],
+   "share": 0.012,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

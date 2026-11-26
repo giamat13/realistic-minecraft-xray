@@ -1,0 +1,73 @@
+{
+ "path": "block/item_frame.png",
+ "depicts": "item frame: wooden picture-frame border (oak wood with dark inner shading and edge trim), 2 cm thick board",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    120,
+    66,
+    41
+   ],
+   "share": 0.285,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    131,
+    72,
+    41
+   ],
+   "share": 0.223,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    51,
+    47,
+    43
+   ],
+   "share": 0.219,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    167,
+    88,
+    49
+   ],
+   "share": 0.18,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    148,
+    76,
+    41
+   ],
+   "share": 0.078,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    40,
+    36,
+    34
+   ],
+   "share": 0.016,
+   "material": "wood_dark",
+   "thickness_cm": 2.0
+  }
+ ]
+}

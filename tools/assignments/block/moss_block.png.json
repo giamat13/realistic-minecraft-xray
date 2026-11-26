@@ -1,0 +1,73 @@
+{
+ "path": "block/moss_block.png",
+ "depicts": "moss block: dense green moss mat, 1 m cube",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    100,
+    114,
+    51
+   ],
+   "share": 0.277,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    94,
+    39
+   ],
+   "share": 0.266,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    80,
+    105,
+    44
+   ],
+   "share": 0.172,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    128,
+    49
+   ],
+   "share": 0.125,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    112,
+    146,
+    45
+   ],
+   "share": 0.09,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    66,
+    85,
+    45
+   ],
+   "share": 0.07,
+   "material": "moss",
+   "thickness_cm": 100.0
+  }
+ ]
+}

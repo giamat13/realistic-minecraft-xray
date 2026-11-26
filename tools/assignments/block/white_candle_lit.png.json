@@ -1,0 +1,73 @@
+{
+ "path": "block/white_candle_lit.png",
+ "depicts": "lit white candle: wax body, bright yellow-white flame, cotton wick",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    199,
+    211,
+    211
+   ],
+   "share": 0.333,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    250,
+    240,
+    203
+   ],
+   "share": 0.19,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    229,
+    228
+   ],
+   "share": 0.19,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    248,
+    247,
+    245
+   ],
+   "share": 0.143,
+   "material": "wax",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    248,
+    218,
+    171
+   ],
+   "share": 0.095,
+   "material": "fire",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    32,
+    52
+   ],
+   "share": 0.048,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

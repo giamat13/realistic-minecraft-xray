@@ -1,0 +1,73 @@
+{
+ "path": "block/stripped_cherry_log.png",
+ "depicts": "stripped cherry log side: bark removed, pinkish exposed cherry wood",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    216,
+    146,
+    151
+   ],
+   "share": 0.484,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    220,
+    152,
+    158
+   ],
+   "share": 0.273,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.105,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    137,
+    141
+   ],
+   "share": 0.094,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    201,
+    125,
+    121
+   ],
+   "share": 0.023,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    223,
+    156,
+    164
+   ],
+   "share": 0.02,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

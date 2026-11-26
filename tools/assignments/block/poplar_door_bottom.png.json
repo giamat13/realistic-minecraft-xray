@@ -1,0 +1,73 @@
+{
+ "path": "block/poplar_door_bottom.png",
+ "depicts": "poplar wood door lower half: pale poplar planks with dark grain holes",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    140,
+    130
+   ],
+   "share": 0.465,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    112,
+    109
+   ],
+   "share": 0.27,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    171,
+    161,
+    145
+   ],
+   "share": 0.242,
+   "material": "wood_soft",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    56,
+    44,
+    31
+   ],
+   "share": 0.016,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    93,
+    73,
+    45
+   ],
+   "share": 0.004,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    75,
+    59,
+    46
+   ],
+   "share": 0.004,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  }
+ ]
+}

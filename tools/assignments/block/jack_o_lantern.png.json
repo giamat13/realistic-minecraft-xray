@@ -1,0 +1,73 @@
+{
+ "path": "block/jack_o_lantern.png",
+ "depicts": "jack o' lantern: carved pumpkin (vegetable flesh and rind) with glowing lantern flame through the carved face openings",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    150,
+    39
+   ],
+   "share": 0.316,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    207,
+    94
+   ],
+   "share": 0.211,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    196,
+    118,
+    20
+   ],
+   "share": 0.18,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    92,
+    12
+   ],
+   "share": 0.16,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    254,
+    255,
+    161
+   ],
+   "share": 0.09,
+   "material": "fire",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    126,
+    61,
+    14
+   ],
+   "share": 0.043,
+   "material": "vegetable",
+   "thickness_cm": 100.0
+  }
+ ]
+}

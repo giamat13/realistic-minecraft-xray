@@ -1,0 +1,73 @@
+{
+ "path": "block/pale_moss_block.png",
+ "depicts": "pale moss block, dense pale fibrous moss mat",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    89,
+    94,
+    88
+   ],
+   "share": 0.246,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    109,
+    114,
+    107
+   ],
+   "share": 0.242,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    128,
+    119
+   ],
+   "share": 0.16,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    99,
+    105,
+    98
+   ],
+   "share": 0.156,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    137,
+    146,
+    135
+   ],
+   "share": 0.133,
+   "material": "moss",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    81,
+    85,
+    81
+   ],
+   "share": 0.062,
+   "material": "moss",
+   "thickness_cm": 100.0
+  }
+ ]
+}

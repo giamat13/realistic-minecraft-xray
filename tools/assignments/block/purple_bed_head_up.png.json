@@ -1,0 +1,73 @@
+{
+ "path": "block/purple_bed_head_up.png",
+ "depicts": "purple bed head top face (white pillow on purple wool mattress)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    114,
+    37,
+    168
+   ],
+   "share": 0.371,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 0.219,
+   "material": "textile",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    204,
+    210,
+    210
+   ],
+   "share": 0.219,
+   "material": "textile",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    75,
+    21,
+    126
+   ],
+   "share": 0.129,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.062,
+   "material": "textile",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    160,
+    127,
+    189
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 15.0
+  }
+ ]
+}

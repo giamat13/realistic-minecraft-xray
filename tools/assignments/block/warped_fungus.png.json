@@ -1,0 +1,73 @@
+{
+ "path": "block/warped_fungus.png",
+ "depicts": "warped fungus: small teal-and-orange nether mushroom with thin stem, mostly air",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    22,
+    111,
+    111
+   ],
+   "share": 0.3,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    19,
+    171,
+    133
+   ],
+   "share": 0.28,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    76,
+    39,
+    55
+   ],
+   "share": 0.2,
+   "material": "fungus",
+   "thickness_cm": 4.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    247,
+    86,
+    4
+   ],
+   "share": 0.16,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    62,
+    79,
+    88
+   ],
+   "share": 0.04,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    164,
+    104
+   ],
+   "share": 0.02,
+   "material": "fungus",
+   "thickness_cm": 6.0
+  }
+ ]
+}

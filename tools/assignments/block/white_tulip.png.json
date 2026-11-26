@@ -1,0 +1,73 @@
+{
+ "path": "block/white_tulip.png",
+ "depicts": "white tulip flower sprite: green leaves and stem, white petals",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    171,
+    45
+   ],
+   "share": 0.289,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    79,
+    150,
+    44
+   ],
+   "share": 0.289,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    23,
+    124,
+    4
+   ],
+   "share": 0.222,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    247,
+    247,
+    247
+   ],
+   "share": 0.067,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    155,
+    189,
+    189
+   ],
+   "share": 0.067,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    214,
+    232,
+    232
+   ],
+   "share": 0.067,
+   "material": "plant_tissue",
+   "thickness_cm": 1.0
+  }
+ ]
+}

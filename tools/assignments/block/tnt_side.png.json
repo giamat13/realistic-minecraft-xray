@@ -1,0 +1,73 @@
+{
+ "path": "block/tnt_side.png",
+ "depicts": "TNT block side face: red TNT sticks with white paper label band and dark printed text",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    163,
+    31,
+    29
+   ],
+   "share": 0.359,
+   "material": "tnt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    221,
+    49,
+    26
+   ],
+   "share": 0.266,
+   "material": "tnt",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    207,
+    203,
+    203
+   ],
+   "share": 0.262,
+   "material": "paper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    45,
+    44,
+    77
+   ],
+   "share": 0.086,
+   "material": "ink",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.027,
+   "material": "paper",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    182,
+    88,
+    84
+   ],
+   "share": 0.0,
+   "material": "tnt",
+   "thickness_cm": 100.0
+  }
+ ]
+}

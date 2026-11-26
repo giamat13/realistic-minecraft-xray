@@ -1,0 +1,73 @@
+{
+ "path": "block/sniffer_egg_not_cracked_east.png",
+ "depicts": "sniffer egg side: large red and green speckled egg",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    147,
+    39,
+    28
+   ],
+   "share": 0.318,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    125,
+    77
+   ],
+   "share": 0.245,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    45,
+    101,
+    70
+   ],
+   "share": 0.214,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    119,
+    18,
+    18
+   ],
+   "share": 0.193,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    156,
+    92
+   ],
+   "share": 0.031,
+   "material": "egg",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    94,
+    73,
+    49
+   ],
+   "share": 0.0,
+   "material": "egg",
+   "thickness_cm": 30.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/white_bed_head_east.png",
+ "depicts": "white bed head end, east side: oak headboard with wool pillow and mattress",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    166,
+    130,
+    75
+   ],
+   "share": 0.301,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    206,
+    215,
+    215
+   ],
+   "share": 0.26,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    176,
+    177
+   ],
+   "share": 0.203,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    86,
+    52
+   ],
+   "share": 0.179,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    248,
+    248,
+    248
+   ],
+   "share": 0.057,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    171,
+    160,
+    138
+   ],
+   "share": 0.0,
+   "material": "wool",
+   "thickness_cm": 20.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/rail_corner.png",
+ "depicts": "curved steel rail corner track with wooden crossties (flat, mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    94,
+    72,
+    41
+   ],
+   "share": 0.241,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    167,
+    168,
+    167
+   ],
+   "share": 0.213,
+   "material": "steel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    114,
+    107
+   ],
+   "share": 0.213,
+   "material": "steel",
+   "thickness_cm": 0.8
+  },
+  {
+   "id": 3,
+   "rgb": [
+    158,
+    123,
+    71
+   ],
+   "share": 0.204,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    98,
+    55
+   ],
+   "share": 0.13,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    115,
+    90
+   ],
+   "share": 0.0,
+   "material": "wood_oak",
+   "thickness_cm": 10.0
+  }
+ ]
+}

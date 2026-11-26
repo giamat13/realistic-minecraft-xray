@@ -1,0 +1,73 @@
+{
+ "path": "entity/equipment/nautilus_body/gold.png",
+ "depicts": "nautilus body armour plate in gold sheet",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    204,
+    142,
+    37
+   ],
+   "share": 0.346,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    250,
+    198,
+    43
+   ],
+   "share": 0.263,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    254,
+    239,
+    88
+   ],
+   "share": 0.251,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.054,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    158,
+    80,
+    11
+   ],
+   "share": 0.053,
+   "material": "gold",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    250,
+    173
+   ],
+   "share": 0.032,
+   "material": "gold",
+   "thickness_cm": 0.3
+  }
+ ]
+}

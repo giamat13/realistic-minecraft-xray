@@ -1,0 +1,73 @@
+{
+ "path": "entity/end_crystal/end_crystal.png",
+ "depicts": "end crystal model texture: translucent purple crystal body, pink core, grey steel cage bars and dark iron frame, light highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    223,
+    115,
+    247
+   ],
+   "share": 0.35,
+   "material": "glass",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    113,
+    117,
+    120
+   ],
+   "share": 0.276,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    42,
+    42
+   ],
+   "share": 0.191,
+   "material": "iron",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    184,
+    221,
+    248
+   ],
+   "share": 0.117,
+   "material": "glass",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    215,
+    26,
+    127
+   ],
+   "share": 0.036,
+   "material": "potion_liquid",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    230,
+    245,
+    255
+   ],
+   "share": 0.03,
+   "material": "glass",
+   "thickness_cm": 5.0
+  }
+ ]
+}

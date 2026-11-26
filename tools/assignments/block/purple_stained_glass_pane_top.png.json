@@ -1,0 +1,51 @@
+{
+ "path": "block/purple_stained_glass_pane_top.png",
+ "depicts": "purple stained glass pane top (thin dyed glass sheet, mostly transparent)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    127,
+    63,
+    177
+   ],
+   "share": 0.375,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    61,
+    170
+   ],
+   "share": 0.344,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    118,
+    59,
+    165
+   ],
+   "share": 0.25,
+   "material": "glass",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    124,
+    62,
+    173
+   ],
+   "share": 0.031,
+   "material": "glass",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/smoker_side.png",
+ "depicts": "smoker side face: dark wood panels, stone bands, oak edge",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    69,
+    56,
+    38
+   ],
+   "share": 0.262,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    87,
+    48
+   ],
+   "share": 0.219,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    112,
+    112,
+    112
+   ],
+   "share": 0.188,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    136,
+    136,
+    136
+   ],
+   "share": 0.145,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    86,
+    84,
+    84
+   ],
+   "share": 0.137,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    150,
+    116,
+    65
+   ],
+   "share": 0.051,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "block/red_nether_bricks.png",
+ "depicts": "red nether bricks (dark red fired brick with mortar lines; nearest analogue fired brick)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    5,
+    7
+   ],
+   "share": 0.285,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    2,
+    3
+   ],
+   "share": 0.215,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    46,
+    0,
+    1
+   ],
+   "share": 0.203,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    86,
+    14,
+    16
+   ],
+   "share": 0.145,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    115,
+    23,
+    26
+   ],
+   "share": 0.082,
+   "material": "brick",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    107,
+    19,
+    23
+   ],
+   "share": 0.07,
+   "material": "brick",
+   "thickness_cm": 100.0
+  }
+ ]
+}

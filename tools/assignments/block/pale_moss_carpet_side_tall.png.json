@@ -1,0 +1,62 @@
+{
+ "path": "block/pale_moss_carpet_side_tall.png",
+ "depicts": "pale moss carpet tall side sprite, tall moss tufts",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    109,
+    114,
+    107
+   ],
+   "share": 0.381,
+   "material": "moss",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    81,
+    85,
+    81
+   ],
+   "share": 0.328,
+   "material": "moss",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    122,
+    128,
+    119
+   ],
+   "share": 0.157,
+   "material": "moss",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    137,
+    146,
+    135
+   ],
+   "share": 0.082,
+   "material": "moss",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    89,
+    94,
+    88
+   ],
+   "share": 0.052,
+   "material": "moss",
+   "thickness_cm": 5.0
+  }
+ ]
+}

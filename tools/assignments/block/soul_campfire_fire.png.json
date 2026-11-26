@@ -1,0 +1,73 @@
+{
+ "path": "block/soul_campfire_fire.png",
+ "depicts": "soul campfire flame, blue soul fire animated 8 frames",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    27,
+    183,
+    188
+   ],
+   "share": 0.317,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    124,
+    242,
+    245
+   ],
+   "share": 0.23,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    8,
+    143,
+    146
+   ],
+   "share": 0.144,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    212,
+    254,
+    255
+   ],
+   "share": 0.137,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    91,
+    227,
+    232
+   ],
+   "share": 0.129,
+   "material": "fire",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.043,
+   "material": "fire",
+   "thickness_cm": 20.0
+  }
+ ]
+}

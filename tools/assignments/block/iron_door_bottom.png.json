@@ -1,0 +1,73 @@
+{
+ "path": "block/iron_door_bottom.png",
+ "depicts": "iron door lower half: iron slab with recessed panels; real iron door slab ~5 cm (model 3px)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    202,
+    201,
+    201
+   ],
+   "share": 0.59,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    228,
+    228,
+    228
+   ],
+   "share": 0.137,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    164,
+    164,
+    164
+   ],
+   "share": 0.133,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    177,
+    177,
+    177
+   ],
+   "share": 0.129,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    46,
+    46,
+    46
+   ],
+   "share": 0.008,
+   "material": "iron",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    67,
+    67,
+    67
+   ],
+   "share": 0.004,
+   "material": "iron",
+   "thickness_cm": 5.0
+  }
+ ]
+}

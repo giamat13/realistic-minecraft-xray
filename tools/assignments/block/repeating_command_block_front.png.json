@@ -1,0 +1,73 @@
+{
+ "path": "block/repeating_command_block_front.png",
+ "depicts": "repeating command block front face (purple-painted steel housing with arrow mark, animated strip, frame 1)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    106,
+    82,
+    182
+   ],
+   "share": 0.48,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    168,
+    158,
+    199
+   ],
+   "share": 0.406,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    56,
+    71
+   ],
+   "share": 0.094,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    224,
+    109,
+    106
+   ],
+   "share": 0.008,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    122,
+    56
+   ],
+   "share": 0.008,
+   "material": "steel",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    130,
+    37,
+    35
+   ],
+   "share": 0.004,
+   "material": "steel",
+   "thickness_cm": 100.0
+  }
+ ]
+}

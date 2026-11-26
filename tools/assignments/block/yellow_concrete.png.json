@@ -1,0 +1,73 @@
+{
+ "path": "block/yellow_concrete.png",
+ "depicts": "solid yellow concrete block (set cement with aggregate)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    241,
+    175,
+    21
+   ],
+   "share": 0.23,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    239,
+    174,
+    21
+   ],
+   "share": 0.211,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    176,
+    21
+   ],
+   "share": 0.168,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    242,
+    177,
+    23
+   ],
+   "share": 0.141,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    242,
+    176,
+    22
+   ],
+   "share": 0.125,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    240,
+    175,
+    21
+   ],
+   "share": 0.125,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

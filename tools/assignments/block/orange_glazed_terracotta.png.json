@@ -1,0 +1,73 @@
+{
+ "path": "block/orange_glazed_terracotta.png",
+ "depicts": "orange glazed terracotta: patterned glaze over fired terracotta body (teal and white pattern on orange)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    112,
+    13
+   ],
+   "share": 0.426,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    22,
+    150,
+    154
+   ],
+   "share": 0.242,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    28,
+    195,
+    195
+   ],
+   "share": 0.156,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    249,
+    167,
+    58
+   ],
+   "share": 0.129,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    250,
+    248,
+    238
+   ],
+   "share": 0.047,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    155,
+    147,
+    92
+   ],
+   "share": 0.0,
+   "material": "terracotta",
+   "thickness_cm": 100.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/bed/light_gray.png",
+ "depicts": "light gray dyed wool bed entity skin: light gray wool blanket with shaded folds, oak frame, pillow",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    172,
+    138,
+    82
+   ],
+   "share": 0.328,
+   "material": "wood_oak",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    103,
+    92,
+    70
+   ],
+   "share": 0.29,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    139,
+    130
+   ],
+   "share": 0.155,
+   "material": "wool",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    225,
+    229,
+    229
+   ],
+   "share": 0.094,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    170,
+    172,
+    170
+   ],
+   "share": 0.067,
+   "material": "textile",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.065,
+   "material": "air",
+   "thickness_cm": 1.0
+  }
+ ]
+}

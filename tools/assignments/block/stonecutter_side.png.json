@@ -1,0 +1,73 @@
+{
+ "path": "block/stonecutter_side.png",
+ "depicts": "stonecutter block side: grey stone body with wooden base/frame strips (upper part air)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    62,
+    38
+   ],
+   "share": 0.375,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    123,
+    123,
+    123
+   ],
+   "share": 0.285,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    77,
+    49,
+    28
+   ],
+   "share": 0.139,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    143,
+    143,
+    143
+   ],
+   "share": 0.104,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.097,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    107,
+    90,
+    78
+   ],
+   "share": 0.0,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

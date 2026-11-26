@@ -1,0 +1,73 @@
+{
+ "path": "block/target_top.png",
+ "depicts": "target block top face: wooden block with painted red target rings on cream base",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    239,
+    224,
+    204
+   ],
+   "share": 0.598,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    198,
+    50,
+    50
+   ],
+   "share": 0.242,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    252,
+    250,
+    247
+   ],
+   "share": 0.074,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    220,
+    74,
+    74
+   ],
+   "share": 0.055,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    164,
+    52,
+    52
+   ],
+   "share": 0.031,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    226,
+    170,
+    158
+   ],
+   "share": 0.0,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  }
+ ]
+}

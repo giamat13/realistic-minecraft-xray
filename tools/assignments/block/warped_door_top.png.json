@@ -1,0 +1,73 @@
+{
+ "path": "block/warped_door_top.png",
+ "depicts": "warped door top half: wooden door made of warped (nether fungus-stem) wood, teal planks with dark grain",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    51,
+    128,
+    124
+   ],
+   "share": 0.52,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    37,
+    90,
+    82
+   ],
+   "share": 0.234,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    35,
+    172,
+    161
+   ],
+   "share": 0.219,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    24,
+    62,
+    58
+   ],
+   "share": 0.016,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    94,
+    89,
+    107
+   ],
+   "share": 0.008,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    72,
+    63,
+    81
+   ],
+   "share": 0.004,
+   "material": "wood_dark",
+   "thickness_cm": 19.0
+  }
+ ]
+}

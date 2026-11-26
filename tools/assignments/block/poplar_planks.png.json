@@ -1,0 +1,73 @@
+{
+ "path": "block/poplar_planks.png",
+ "depicts": "poplar wood planks: pale softwood boards",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    168,
+    158,
+    142
+   ],
+   "share": 0.352,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    156,
+    144,
+    134
+   ],
+   "share": 0.188,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    145,
+    133,
+    123
+   ],
+   "share": 0.184,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    118,
+    102,
+    101
+   ],
+   "share": 0.113,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    126,
+    111,
+    108
+   ],
+   "share": 0.094,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    135,
+    121,
+    116
+   ],
+   "share": 0.07,
+   "material": "wood_soft",
+   "thickness_cm": 100.0
+  }
+ ]
+}

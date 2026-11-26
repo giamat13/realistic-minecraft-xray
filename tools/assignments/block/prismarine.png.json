@@ -1,0 +1,62 @@
+{
+ "path": "block/prismarine.png",
+ "depicts": "prismarine stone (ocean monument sea-green calcite-based stone, animated)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    94,
+    164,
+    150
+   ],
+   "share": 0.277,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    137,
+    116
+   ],
+   "share": 0.215,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    183,
+    171
+   ],
+   "share": 0.203,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    65,
+    129,
+    106
+   ],
+   "share": 0.16,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    155,
+    203,
+    191
+   ],
+   "share": 0.145,
+   "material": "calcite",
+   "thickness_cm": 100.0
+  }
+ ]
+}

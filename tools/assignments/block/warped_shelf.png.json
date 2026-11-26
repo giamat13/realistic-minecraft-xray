@@ -1,0 +1,73 @@
+{
+ "path": "block/warped_shelf.png",
+ "depicts": "warped shelf: block of warped (fungus-stem) wood with dividers",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    132,
+    119
+   ],
+   "share": 0.301,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    49,
+    139,
+    134
+   ],
+   "share": 0.235,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    165,
+    163
+   ],
+   "share": 0.19,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    58,
+    152,
+    150
+   ],
+   "share": 0.162,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    40,
+    112,
+    103
+   ],
+   "share": 0.062,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    36,
+    99,
+    91
+   ],
+   "share": 0.049,
+   "material": "wood_dark",
+   "thickness_cm": 100.0
+  }
+ ]
+}

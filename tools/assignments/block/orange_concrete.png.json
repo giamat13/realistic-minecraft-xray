@@ -1,0 +1,73 @@
+{
+ "path": "block/orange_concrete.png",
+ "depicts": "orange concrete block: dye-coloured solid concrete",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    225,
+    97,
+    0
+   ],
+   "share": 0.379,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    225,
+    98,
+    2
+   ],
+   "share": 0.238,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    223,
+    96,
+    0
+   ],
+   "share": 0.223,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    225,
+    99,
+    3
+   ],
+   "share": 0.07,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    224,
+    96,
+    0
+   ],
+   "share": 0.066,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    225,
+    99,
+    2
+   ],
+   "share": 0.023,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}

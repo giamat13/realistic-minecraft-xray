@@ -1,0 +1,29 @@
+{
+ "path": "entity/conduit/wind.png",
+ "depicts": "conduit wind swirl particle sprite: pale cyan water-mist and air vapour",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    229,
+    247
+   ],
+   "share": 0.5,
+   "material": "steam",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    191,
+    243,
+    255
+   ],
+   "share": 0.5,
+   "material": "steam",
+   "thickness_cm": 0.2
+  }
+ ]
+}

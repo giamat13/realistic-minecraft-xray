@@ -1,0 +1,73 @@
+{
+ "path": "block/light_blue_concrete_powder.png",
+ "depicts": "light blue concrete powder block face: loose dry concrete premix dyed blue (treated as concrete, density of the mix)",
+ "kind": "block",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    180,
+    212
+   ],
+   "share": 0.297,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    80,
+    190,
+    219
+   ],
+   "share": 0.215,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    65,
+    170,
+    208
+   ],
+   "share": 0.215,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    92,
+    199,
+    222
+   ],
+   "share": 0.141,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    60,
+    160,
+    202
+   ],
+   "share": 0.121,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    103,
+    217,
+    238
+   ],
+   "share": 0.012,
+   "material": "concrete",
+   "thickness_cm": 100.0
+  }
+ ]
+}
