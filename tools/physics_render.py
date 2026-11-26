@@ -114,9 +114,10 @@ def render(rel, arr, asg, fill=False):
         alpha = -np.expm1(-10.0 ** logt) * (np.where(valid, 255.0, 0.0) if rel.startswith(WATER) else src_a)
     elif rel.startswith("particle/") or (rel.startswith("item/") and kind not in RELATIVE_KINDS):
         gray = 25 + 230 * s    # the same scale as every object (the shader pack decodes it back)
-        # smoke, flame and the like attenuate nothing measurable, so they do not show at all
-        alpha = np.where(10.0 ** logt < MIN_VISIBLE_TAU, 0.0,
-                         np.maximum(-np.expm1(-10.0 ** logt) * 255, MIN_ITEM_ALPHA) * src_a / 255)
+        # smoke, flame and the like attenuate nothing measurable, so those particles do not show at all;
+        # an item always keeps the display floor, or it could not be found in the inventory
+        unseen = rel.startswith("particle/") & (10.0 ** logt < MIN_VISIBLE_TAU)
+        alpha = np.where(unseen, 0.0, np.maximum(-np.expm1(-10.0 ** logt) * 255, MIN_ITEM_ALPHA) * src_a / 255)
     elif kind in RELATIVE_KINDS:
         lt = logt[valid]
         rel_s = (logt - lt.min()) / (lt.max() - lt.min()) if valid.any() and lt.max() > lt.min() else np.full_like(logt, 0.8)

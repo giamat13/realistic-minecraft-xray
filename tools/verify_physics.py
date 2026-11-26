@@ -33,6 +33,13 @@ for r in paths:
 check("every texture of every version rendered", miss == 0, f"{len(paths)} paths, missing {miss}")
 check("all pixels grayscale", bad == 0); check("sizes identical to source", size == 0)
 check("every texture has an assignment", all((asg / (r + ".json")).exists() for r in paths))
+def lost(r):  # share of the source's visible pixels that cannot be seen (the game drops alpha below 0.1)
+    was = np.asarray(texsrc.load(r).convert("RGBA"))[..., 3] > 25
+    now = np.asarray(Image.open(root / r).convert("RGBA"))[..., 3] > 25
+    return (was & ~now).sum() / max(was.sum(), 1)
+INK = {"item/filled_map_markings.png"}  # pigment drawn over the map: nothing for a ray to stop
+hidden = [r for r in paths if r.startswith("item/") and r not in INK and lost(r) > 0.05]
+check("no item loses its picture", not hidden, str(hidden[:20]))
 def stat(n):
     a = np.asarray(Image.open(root / f"block/{n}.png").convert("RGBA")).astype(float); v = a[a[..., 3] > 0]; return v[:, 0].mean(), v[:, 3].mean()
 s = {n: stat(n) for n in ["oak_leaves", "dirt", "stone", "oak_planks", "iron_block", "gold_block", "netherite_block", "glass", "oak_door_top"]}
