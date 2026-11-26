@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_black_baby.png",
+ "depicts": "baby black cat mob skin: black fur with pale markings on small soft-tissue body, grey ears, green eyes, pink nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    28,
+    25,
+    39
+   ],
+   "share": 0.696,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.202,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    236,
+    237,
+    238
+   ],
+   "share": 0.064,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    86,
+    83,
+    95
+   ],
+   "share": 0.03,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    90,
+    157,
+    18
+   ],
+   "share": 0.006,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    115,
+    115
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

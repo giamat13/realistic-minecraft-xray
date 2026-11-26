@@ -1,0 +1,51 @@
+{
+ "path": "entity/shield/half_horizontal.png",
+ "depicts": "shield banner pattern 'half horizontal' (dyed cloth top-half band, transparent elsewhere): dyed cloth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.7,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.15,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.13,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    237,
+    237,
+    237
+   ],
+   "share": 0.02,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

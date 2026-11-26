@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/baby/taiga.png",
+ "depicts": "baby villager taiga-type overlay (dark grey robe, pale skin, brown hair or boots)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    49,
+    47,
+    46
+   ],
+   "share": 0.334,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    30,
+    30,
+    30
+   ],
+   "share": 0.201,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    194,
+    184,
+    154
+   ],
+   "share": 0.125,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    163,
+    148,
+    120
+   ],
+   "share": 0.119,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    65,
+    54
+   ],
+   "share": 0.11,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    218,
+    207,
+    174
+   ],
+   "share": 0.11,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

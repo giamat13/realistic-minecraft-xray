@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/container/bundle/slot_highlight_front.png",
+ "depicts": "white translucent highlight overlay in front of a bundle slot",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

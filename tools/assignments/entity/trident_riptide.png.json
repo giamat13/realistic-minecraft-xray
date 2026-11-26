@@ -1,0 +1,18 @@
+{
+ "path": "entity/trident_riptide.png",
+ "depicts": "riptide trident water-spray overlay (splash of water droplets around the trident)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    211,
+    235,
+    234
+   ],
+   "share": 1.0,
+   "material": "water",
+   "thickness_cm": 0.2
+  }
+ ]
+}

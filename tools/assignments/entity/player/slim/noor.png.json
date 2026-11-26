@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/slim/noor.png",
+ "depicts": "Noor (slim default player skin): dark hair, green and red clothing, tan skin, white undershirt highlight",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    43,
+    31,
+    19
+   ],
+   "share": 0.333,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    31,
+    96,
+    67
+   ],
+   "share": 0.196,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    45,
+    25
+   ],
+   "share": 0.161,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    114,
+    22,
+    7
+   ],
+   "share": 0.159,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    175,
+    97,
+    70
+   ],
+   "share": 0.151,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

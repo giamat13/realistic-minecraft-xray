@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/container/creative_inventory/tab_top_selected_5.png",
+ "depicts": "creative inventory top tab (selected, variant 5) grey GUI panel with white bevel and black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.712,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.128,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.094,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.067,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

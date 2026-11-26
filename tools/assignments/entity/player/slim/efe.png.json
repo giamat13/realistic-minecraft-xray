@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/slim/efe.png",
+ "depicts": "Efe (slim default player skin): mauve skin, plum hair, pale teal clothing, dark trousers, gold buttons",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    147,
+    99,
+    106
+   ],
+   "share": 0.3,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    196,
+    194
+   ],
+   "share": 0.283,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    67,
+    38,
+    50
+   ],
+   "share": 0.281,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    19,
+    20,
+    26
+   ],
+   "share": 0.111,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    228,
+    201,
+    73
+   ],
+   "share": 0.017,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    248,
+    248,
+    188
+   ],
+   "share": 0.008,
+   "material": "silver",
+   "thickness_cm": 0.05
+  }
+ ]
+}

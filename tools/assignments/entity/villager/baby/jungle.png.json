@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/baby/jungle.png",
+ "depicts": "baby villager jungle-type overlay (dark brown robe, yellow and ochre and green clothing trim, brown leather)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    75,
+    42,
+    29
+   ],
+   "share": 0.434,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    240,
+    200,
+    64
+   ],
+   "share": 0.249,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    151,
+    110,
+    44
+   ],
+   "share": 0.123,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    204,
+    152,
+    56
+   ],
+   "share": 0.109,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    69,
+    113,
+    27
+   ],
+   "share": 0.074,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    99,
+    181,
+    50
+   ],
+   "share": 0.012,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

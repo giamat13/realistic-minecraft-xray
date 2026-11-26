@@ -1,0 +1,73 @@
+{
+ "path": "entity/sulfur_cube/sulfur_cube_inner_small.png",
+ "depicts": "small sulfur cube inner core (fictional sulfur-yellow cube; native sulfur crystal with calcite-like white highlight)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    212,
+    204,
+    143
+   ],
+   "share": 0.266,
+   "material": "sulfur",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    209,
+    175,
+    138
+   ],
+   "share": 0.247,
+   "material": "sulfur",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    247,
+    255,
+    243
+   ],
+   "share": 0.211,
+   "material": "calcite",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    236,
+    145
+   ],
+   "share": 0.141,
+   "material": "sulfur",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    237,
+    250,
+    191
+   ],
+   "share": 0.135,
+   "material": "sulfur",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    225,
+    218,
+    170
+   ],
+   "share": 0.0,
+   "material": "sulfur",
+   "thickness_cm": 5.0
+  }
+ ]
+}

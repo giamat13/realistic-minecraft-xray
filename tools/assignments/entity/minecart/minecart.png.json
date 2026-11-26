@@ -1,0 +1,73 @@
+{
+ "path": "entity/minecart/minecart.png",
+ "depicts": "iron minecart (model texture): sheet-iron cart walls and rims, shaded dark interior edges",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    73,
+    76,
+    77
+   ],
+   "share": 0.402,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    102,
+    111,
+    115
+   ],
+   "share": 0.289,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    142,
+    144
+   ],
+   "share": 0.224,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    162,
+    168,
+    169
+   ],
+   "share": 0.049,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    184,
+    187,
+    188
+   ],
+   "share": 0.029,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    26,
+    27,
+    29
+   ],
+   "share": 0.007,
+   "material": "iron",
+   "thickness_cm": 0.2
+  }
+ ]
+}

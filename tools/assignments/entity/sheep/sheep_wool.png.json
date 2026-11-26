@@ -1,0 +1,62 @@
+{
+ "path": "entity/sheep/sheep_wool.png",
+ "depicts": "adult sheep wool overlay (outer fleece, white with grey shading covering body/head): wool fibres",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    248,
+    248,
+    248
+   ],
+   "share": 0.255,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.24,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    239,
+    239,
+    239
+   ],
+   "share": 0.205,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    223,
+    223,
+    223
+   ],
+   "share": 0.151,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    212,
+    212,
+    212
+   ],
+   "share": 0.15,
+   "material": "wool",
+   "thickness_cm": 5.0
+  }
+ ]
+}

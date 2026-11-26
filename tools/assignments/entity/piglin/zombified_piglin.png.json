@@ -1,0 +1,73 @@
+{
+ "path": "entity/piglin/zombified_piglin.png",
+ "depicts": "zombified piglin mob (fictional undead pig-humanoid): reddish-pink skin, olive rag tunic, brown leather boots, dark cloth, grey ear/undershirt highlight",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    210,
+    106,
+    99
+   ],
+   "share": 0.346,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    220,
+    149,
+    145
+   ],
+   "share": 0.272,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    96,
+    117,
+    55
+   ],
+   "share": 0.151,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    106,
+    58,
+    38
+   ],
+   "share": 0.112,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    37,
+    34,
+    31
+   ],
+   "share": 0.065,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    209,
+    207,
+    207
+   ],
+   "share": 0.053,
+   "material": "soft_tissue",
+   "thickness_cm": 4.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/nautilus/zombie_nautilus.png",
+ "depicts": "zombie nautilus: decayed cream-olive soft mantle with dark olive mottling, green algae growth patches, glowing cyan eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    204,
+    206,
+    179
+   ],
+   "share": 0.33,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    142,
+    137,
+    96
+   ],
+   "share": 0.274,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    32,
+    47,
+    40
+   ],
+   "share": 0.173,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    70,
+    87,
+    59
+   ],
+   "share": 0.143,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    81,
+    146,
+    19
+   ],
+   "share": 0.078,
+   "material": "plant_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    232,
+    218
+   ],
+   "share": 0.002,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

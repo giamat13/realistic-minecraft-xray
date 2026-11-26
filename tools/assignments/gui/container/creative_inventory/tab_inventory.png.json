@@ -1,0 +1,73 @@
+{
+ "path": "gui/container/creative_inventory/tab_inventory.png",
+ "depicts": "creative inventory tab sprite (inventory tab): grey bevelled tab with white highlight and black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    140,
+    139,
+    139
+   ],
+   "share": 0.407,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.356,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.079,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.076,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    54,
+    54,
+    54
+   ],
+   "share": 0.057,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.024,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_chestnut_angry_baby.png",
+ "depicts": "Baby angry chestnut wolf: brown fur and skin, dark nose, red eye patches",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    122,
+    112
+   ],
+   "share": 0.398,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    216,
+    183,
+    165
+   ],
+   "share": 0.3,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    68,
+    70
+   ],
+   "share": 0.241,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    246,
+    213,
+    191
+   ],
+   "share": 0.046,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    23,
+    24,
+    27
+   ],
+   "share": 0.011,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    228,
+    46,
+    46
+   ],
+   "share": 0.003,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

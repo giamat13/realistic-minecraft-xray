@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_all_black_baby.png",
+ "depicts": "baby all-black cat mob skin: black fur on small soft-tissue body, dark legs, yellow eye, pink nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    16,
+    14,
+    26
+   ],
+   "share": 0.475,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    7,
+    7,
+    13
+   ],
+   "share": 0.191,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    22,
+    21,
+    36
+   ],
+   "share": 0.174,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    4,
+    4,
+    7
+   ],
+   "share": 0.152,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    225,
+    185,
+    69
+   ],
+   "share": 0.006,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    146,
+    105,
+    131
+   ],
+   "share": 0.003,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/nautilus/nautilus.png",
+ "depicts": "nautilus (cephalopod mob): striped red and cream soft mantle and tentacles, pale highlights, dark eyes, tan patch",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    153,
+    53,
+    44
+   ],
+   "share": 0.33,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    209,
+    193,
+    174
+   ],
+   "share": 0.229,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    180,
+    105,
+    76
+   ],
+   "share": 0.211,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    235,
+    100,
+    76
+   ],
+   "share": 0.201,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    252,
+    242,
+    229
+   ],
+   "share": 0.029,
+   "material": "bone",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    28,
+    0,
+    0
+   ],
+   "share": 0.001,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/hud/heart/half.png",
+ "depicts": "half health heart HUD icon: red heart organ, muscle with wet blood gloss",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    19,
+    19
+   ],
+   "share": 0.75,
+   "material": "muscle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    187,
+    19,
+    19
+   ],
+   "share": 0.2,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    200,
+    200
+   ],
+   "share": 0.05,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/backup/changes.png",
+ "depicts": "backup screen 'changes' glyph: white pixel-art cross/line icon",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

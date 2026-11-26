@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/loom/pattern_selected.png",
+ "depicts": "14x14 loom banner-pattern button in selected state: dark olive cloth panel with black border",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    73,
+    58
+   ],
+   "share": 0.745,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    33,
+    29,
+    23
+   ],
+   "share": 0.128,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    107,
+    97,
+    76
+   ],
+   "share": 0.128,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

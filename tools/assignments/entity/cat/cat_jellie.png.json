@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_jellie.png",
+ "depicts": "Jellie cat mob skin (fictional grey-and-white cat): grey and white fur over soft-tissue body, pink nose, dark eyes, closest analogue cat fur",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    215,
+    215,
+    215
+   ],
+   "share": 0.374,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    73,
+    73
+   ],
+   "share": 0.362,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    248,
+    246,
+    247
+   ],
+   "share": 0.152,
+   "material": "soft_tissue",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    110,
+    110,
+    109
+   ],
+   "share": 0.103,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    157,
+    159
+   ],
+   "share": 0.005,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    25,
+    40
+   ],
+   "share": 0.003,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

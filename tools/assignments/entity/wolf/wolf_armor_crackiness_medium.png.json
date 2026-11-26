@@ -1,0 +1,40 @@
+{
+ "path": "entity/wolf/wolf_armor_crackiness_medium.png",
+ "depicts": "Moderately cracked wolf armour overlay: crack lines over transparent background",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.895,
+   "material": "air",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    165,
+    165,
+    165
+   ],
+   "share": 0.105,
+   "material": "keratin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    17,
+    17,
+    17
+   ],
+   "share": 0.0,
+   "material": "air",
+   "thickness_cm": 0.4
+  }
+ ]
+}

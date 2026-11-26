@@ -1,0 +1,18 @@
+{
+ "path": "font/unicode_page_0f.png",
+ "depicts": "Unicode font page 0f: white glyph strokes on transparent background",
+ "kind": "font",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

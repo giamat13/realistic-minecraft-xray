@@ -1,0 +1,73 @@
+{
+ "path": "entity/illager/illusioner.png",
+ "depicts": "illusioner illager: pale-skinned illusionist in blue robes with grey belt buckle and dark hair",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    18,
+    84,
+    137
+   ],
+   "share": 0.474,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    52,
+    64,
+    70
+   ],
+   "share": 0.249,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    141,
+    150,
+    152
+   ],
+   "share": 0.185,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    103,
+    104,
+    117
+   ],
+   "share": 0.059,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    28,
+    27,
+    26
+   ],
+   "share": 0.032,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

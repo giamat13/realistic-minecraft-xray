@@ -1,0 +1,51 @@
+{
+ "path": "entity/cat/cat_collar.png",
+ "depicts": "cat collar overlay: dyed leather-like strap with grey metal-tinted buckle",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    184,
+    184,
+    184
+   ],
+   "share": 0.375,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.312,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    186,
+    186,
+    186
+   ],
+   "share": 0.25,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    187,
+    187,
+    187
+   ],
+   "share": 0.062,
+   "material": "leather",
+   "thickness_cm": 0.3
+  }
+ ]
+}

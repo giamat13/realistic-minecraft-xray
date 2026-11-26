@@ -1,0 +1,6 @@
+{
+ "path": "gui/sprites/container/loom/error.png",
+ "depicts": "26x26 loom error icon, fully transparent (no visible pixels); no clusters, so no material contributes",
+ "kind": "gui",
+ "clusters": []
+}

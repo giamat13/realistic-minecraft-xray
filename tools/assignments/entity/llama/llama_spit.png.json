@@ -1,0 +1,18 @@
+{
+ "path": "entity/llama/llama_spit.png",
+ "depicts": "llama spit projectile: a glob of sticky saliva/mucus (pale cyan-white), closest analogue slime/mucus",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    224,
+    255,
+    252
+   ],
+   "share": 1.0,
+   "material": "slime",
+   "thickness_cm": 3.0
+  }
+ ]
+}

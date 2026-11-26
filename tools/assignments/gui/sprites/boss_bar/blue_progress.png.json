@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/boss_bar/blue_progress.png",
+ "depicts": "boss-bar fill, blue colour variant: bright cyan UI bar strip, colour gradient with dark edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    58,
+    74
+   ],
+   "share": 0.391,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    109,
+    140
+   ],
+   "share": 0.199,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    143,
+    185
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    183,
+    236
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    35,
+    45
+   ],
+   "share": 0.013,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    90,
+    115
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

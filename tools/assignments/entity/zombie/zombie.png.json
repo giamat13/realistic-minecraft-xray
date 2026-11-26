@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie/zombie.png",
+ "depicts": "adult zombie base layer: green skin, teal shirt, dark blue trousers, dark hair",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    57,
+    105,
+    55
+   ],
+   "share": 0.429,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    161,
+    161
+   ],
+   "share": 0.204,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    60,
+    50,
+    143
+   ],
+   "share": 0.19,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    132,
+    89
+   ],
+   "share": 0.091,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    49,
+    59,
+    51
+   ],
+   "share": 0.065,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    204,
+    204
+   ],
+   "share": 0.02,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

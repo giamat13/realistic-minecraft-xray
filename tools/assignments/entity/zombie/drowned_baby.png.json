@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie/drowned_baby.png",
+ "depicts": "baby drowned zombie base skin layer, teal-tinted skin with lit highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    93,
+    86
+   ],
+   "share": 0.882,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    56,
+    129,
+    156
+   ],
+   "share": 0.058,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    56,
+    199,
+    210
+   ],
+   "share": 0.028,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    164,
+    255,
+    247
+   ],
+   "share": 0.017,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    116,
+    255,
+    254
+   ],
+   "share": 0.013,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    87,
+    106,
+    20
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

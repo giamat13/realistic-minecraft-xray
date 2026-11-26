@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/dialog/warning_button.png",
+ "depicts": "20x20 grey dialog button face with black outline and yellow warning-triangle icon",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    113,
+    113,
+    111
+   ],
+   "share": 0.432,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.19,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    219,
+    96
+   ],
+   "share": 0.14,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.122,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    170,
+    170,
+    170
+   ],
+   "share": 0.08,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    219,
+    193,
+    107
+   ],
+   "share": 0.035,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  }
+ ]
+}

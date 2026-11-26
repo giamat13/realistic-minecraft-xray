@@ -1,0 +1,73 @@
+{
+ "path": "entity/illager/evoker_fangs.png",
+ "depicts": "evoker fangs: ivory-coloured tooth-like magic fangs; enamel and dentin with bone-like shading",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    94,
+    88,
+    83
+   ],
+   "share": 0.707,
+   "material": "tooth_enamel",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    75,
+    67,
+    63
+   ],
+   "share": 0.197,
+   "material": "tooth_enamel",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    135,
+    133,
+    119
+   ],
+   "share": 0.041,
+   "material": "tooth_enamel",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    197,
+    191,
+    165
+   ],
+   "share": 0.029,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    219,
+    214,
+    192
+   ],
+   "share": 0.017,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    166,
+    161,
+    139
+   ],
+   "share": 0.009,
+   "material": "tooth_enamel",
+   "thickness_cm": 1.0
+  }
+ ]
+}

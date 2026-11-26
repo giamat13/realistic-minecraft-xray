@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_black_angry_baby.png",
+ "depicts": "Baby angry black wolf: dark fur over skin, dark nose, red eye patches",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    54,
+    51,
+    59
+   ],
+   "share": 0.665,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    64,
+    68
+   ],
+   "share": 0.168,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    42,
+    41,
+    48
+   ],
+   "share": 0.091,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    36,
+    33,
+    38
+   ],
+   "share": 0.059,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    22,
+    21,
+    23
+   ],
+   "share": 0.014,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    228,
+    46,
+    46
+   ],
+   "share": 0.003,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

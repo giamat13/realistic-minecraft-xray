@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/baby/savanna.png",
+ "depicts": "baby villager savanna-type overlay (red robe, olive trim, brown leather, pale skin)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    142,
+    35,
+    42
+   ],
+   "share": 0.258,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    79,
+    41,
+    40
+   ],
+   "share": 0.247,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    94,
+    65,
+    46
+   ],
+   "share": 0.242,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    105,
+    96,
+    31
+   ],
+   "share": 0.139,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    196,
+    178,
+    156
+   ],
+   "share": 0.06,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    162,
+    131,
+    109
+   ],
+   "share": 0.054,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

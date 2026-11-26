@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/baby/snow.png",
+ "depicts": "baby zombie villager, snow type: grey-green skin, dark teal robe, brown fur-trimmed hat, black hair",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    117,
+    106
+   ],
+   "share": 0.291,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    32,
+    32,
+    32
+   ],
+   "share": 0.208,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    43,
+    68,
+    70
+   ],
+   "share": 0.205,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    179,
+    172,
+    132
+   ],
+   "share": 0.125,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    209,
+    197,
+    164
+   ],
+   "share": 0.116,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    47,
+    28
+   ],
+   "share": 0.055,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

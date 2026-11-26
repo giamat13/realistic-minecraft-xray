@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_black_angry.png",
+ "depicts": "Angry black wolf mob: dark fur over skin, black nose, red eyes and mouth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    49,
+    47,
+    55
+   ],
+   "share": 0.706,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    64,
+    68
+   ],
+   "share": 0.152,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    32,
+    29,
+    32
+   ],
+   "share": 0.13,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.009,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    15,
+    15
+   ],
+   "share": 0.002,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    228,
+    46,
+    46
+   ],
+   "share": 0.002,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

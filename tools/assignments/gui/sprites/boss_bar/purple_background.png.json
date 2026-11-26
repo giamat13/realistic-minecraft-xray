@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/boss_bar/purple_background.png",
+ "depicts": "boss-bar track, purple colour variant: dark violet recessed UI trough strip",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    19,
+    0,
+    38
+   ],
+   "share": 0.404,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    38,
+    0,
+    73
+   ],
+   "share": 0.391,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    30,
+    0,
+    57
+   ],
+   "share": 0.194,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    45,
+    0,
+    87
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    41,
+    0,
+    78
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    0,
+    64
+   ],
+   "share": 0.002,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

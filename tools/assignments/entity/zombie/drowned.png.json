@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie/drowned.png",
+ "depicts": "adult drowned zombie base skin layer, teal-tinted (waterlogged) zombie skin with lit highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    41,
+    82,
+    77
+   ],
+   "share": 0.836,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    76,
+    118,
+    116
+   ],
+   "share": 0.127,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    49,
+    173,
+    183
+   ],
+   "share": 0.023,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    101,
+    224,
+    221
+   ],
+   "share": 0.008,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    143,
+    241,
+    215
+   ],
+   "share": 0.006,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    76,
+    92,
+    18
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/mule_baby.png",
+ "depicts": "baby mule: brown hide over muscle, dark mane/hooves, grey steel tack",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    38,
+    26
+   ],
+   "share": 0.611,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    36,
+    25,
+    23
+   ],
+   "share": 0.236,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    149,
+    132,
+    112
+   ],
+   "share": 0.087,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    115,
+    89,
+    73
+   ],
+   "share": 0.041,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    87,
+    87,
+    87
+   ],
+   "share": 0.024,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.003,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

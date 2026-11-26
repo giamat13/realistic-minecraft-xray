@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_black_tame.png",
+ "depicts": "Tamed black wolf: dark fur over skin, black nose, collar area",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    49,
+    47,
+    55
+   ],
+   "share": 0.71,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    64,
+    68
+   ],
+   "share": 0.152,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    36,
+    33,
+    38
+   ],
+   "share": 0.078,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    27,
+    22,
+    25
+   ],
+   "share": 0.046,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.011,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.004,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/turtle/turtle_baby.png",
+ "depicts": "baby sea turtle mob (green-scuted carapace, pale yellow skin and flippers, brown patches, dark eyes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    121,
+    192,
+    79
+   ],
+   "share": 0.313,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    142,
+    65
+   ],
+   "share": 0.269,
+   "material": "shell_chitin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    212,
+    200,
+    124
+   ],
+   "share": 0.201,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    242,
+    234,
+    162
+   ],
+   "share": 0.149,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    187,
+    159,
+    107
+   ],
+   "share": 0.052,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    49,
+    49,
+    48
+   ],
+   "share": 0.015,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

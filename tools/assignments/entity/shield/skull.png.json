@@ -1,0 +1,29 @@
+{
+ "path": "entity/shield/skull.png",
+ "depicts": "shield banner pattern 'skull' mark (dyed cloth skull shape, transparent elsewhere): dyed cloth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.98,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    237,
+    237,
+    237
+   ],
+   "share": 0.02,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

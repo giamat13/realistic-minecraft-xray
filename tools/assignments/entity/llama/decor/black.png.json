@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/decor/black.png",
+ "depicts": "black llama carpet decoration: dark woven textile with purple dye trim and tassels",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    20,
+    18,
+    31
+   ],
+   "share": 0.274,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    37,
+    5,
+    84
+   ],
+   "share": 0.228,
+   "material": "dye_pigment",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    31,
+    30,
+    39
+   ],
+   "share": 0.181,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    68,
+    66,
+    84
+   ],
+   "share": 0.16,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    35,
+    11,
+    72
+   ],
+   "share": 0.126,
+   "material": "dye_pigment",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    60,
+    58,
+    76
+   ],
+   "share": 0.03,
+   "material": "textile",
+   "thickness_cm": 0.3
+  }
+ ]
+}

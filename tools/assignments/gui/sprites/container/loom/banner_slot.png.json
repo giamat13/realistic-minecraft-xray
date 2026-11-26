@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/container/loom/banner_slot.png",
+ "depicts": "16x16 loom banner input-slot placeholder: a dark outlined banner (cloth on pole) on a grey slot background",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.867,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.133,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

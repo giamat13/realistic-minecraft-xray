@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/baby/jungle.png",
+ "depicts": "baby zombie villager, jungle type: olive-brown robe, straw-yellow hat trim, dark hair",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    66,
+    51,
+    29
+   ],
+   "share": 0.38,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    117,
+    91,
+    46
+   ],
+   "share": 0.223,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    123,
+    52
+   ],
+   "share": 0.157,
+   "material": "straw",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    38,
+    32,
+    24
+   ],
+   "share": 0.111,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    176,
+    153,
+    69
+   ],
+   "share": 0.109,
+   "material": "straw",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    102,
+    121,
+    40
+   ],
+   "share": 0.02,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "path": "gui/container/bundle.png",
+ "depicts": "bundle GUI container background: grey bevelled panel and item-slot frame, dark outline and white highlight pixels",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.357,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    104,
+    104,
+    104
+   ],
+   "share": 0.266,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.15,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.141,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.086,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

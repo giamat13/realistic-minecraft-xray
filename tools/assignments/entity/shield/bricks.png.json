@@ -1,0 +1,62 @@
+{
+ "path": "entity/shield/bricks.png",
+ "depicts": "shield banner pattern 'bricks' (dyed cloth brick-pattern stripes, transparent elsewhere): textile banner cloth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.701,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.124,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.124,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    237,
+    237,
+    237
+   ],
+   "share": 0.031,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    221,
+    221,
+    221
+   ],
+   "share": 0.021,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

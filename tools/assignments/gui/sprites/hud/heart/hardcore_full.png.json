@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/hud/heart/hardcore_full.png",
+ "depicts": "hardcore full heart HUD icon: dark-outlined red heart organ, muscle with blood",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    19,
+    19
+   ],
+   "share": 0.559,
+   "material": "muscle",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    96,
+    7,
+    7
+   ],
+   "share": 0.235,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    187,
+    19,
+    19
+   ],
+   "share": 0.206,
+   "material": "muscle",
+   "thickness_cm": 0.3
+  }
+ ]
+}

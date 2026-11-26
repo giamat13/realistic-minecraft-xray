@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf.png",
+ "depicts": "Wild wolf mob: pale grey-white fur over skin, dark nose and eye area",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    207,
+    203,
+    204
+   ],
+   "share": 0.8,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    179,
+    167,
+    159
+   ],
+   "share": 0.123,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    152,
+    129,
+    111
+   ],
+   "share": 0.044,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    58,
+    57,
+    55
+   ],
+   "share": 0.026,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

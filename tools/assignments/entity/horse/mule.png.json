@@ -1,0 +1,73 @@
+{
+ "path": "entity/horse/mule.png",
+ "depicts": "mule: brown hide over muscle, dark mane and hooves, tan leather saddle tack",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    68,
+    40,
+    26
+   ],
+   "share": 0.545,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    36,
+    25,
+    23
+   ],
+   "share": 0.328,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    148,
+    132,
+    114
+   ],
+   "share": 0.069,
+   "material": "muscle",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    161,
+    112,
+    36
+   ],
+   "share": 0.031,
+   "material": "leather",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    110,
+    89,
+    75
+   ],
+   "share": 0.026,
+   "material": "muscle",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

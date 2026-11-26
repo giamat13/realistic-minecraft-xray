@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/profession/cleric.png",
+ "depicts": "cleric profession overlay (purple robe with gold trim and necklace, olive belt)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    117,
+    58,
+    88
+   ],
+   "share": 0.377,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    44,
+    63
+   ],
+   "share": 0.255,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    113,
+    94,
+    60
+   ],
+   "share": 0.145,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    134,
+    78,
+    106
+   ],
+   "share": 0.091,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    156,
+    139,
+    55
+   ],
+   "share": 0.073,
+   "material": "gold",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    188,
+    157,
+    57
+   ],
+   "share": 0.059,
+   "material": "gold",
+   "thickness_cm": 0.05
+  }
+ ]
+}

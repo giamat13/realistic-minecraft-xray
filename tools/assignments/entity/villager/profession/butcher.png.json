@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/profession/butcher.png",
+ "depicts": "butcher profession overlay (white apron, grey cleaver blade, red blood-stained cloth and meat)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    208,
+    205,
+    201
+   ],
+   "share": 0.294,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    166,
+    159,
+    159
+   ],
+   "share": 0.176,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    245,
+    245,
+    245
+   ],
+   "share": 0.15,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    128,
+    69,
+    63
+   ],
+   "share": 0.147,
+   "material": "muscle",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    114,
+    113
+   ],
+   "share": 0.121,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    174,
+    87,
+    79
+   ],
+   "share": 0.112,
+   "material": "muscle",
+   "thickness_cm": 0.2
+  }
+ ]
+}

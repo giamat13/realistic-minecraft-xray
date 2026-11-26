@@ -1,0 +1,73 @@
+{
+ "path": "entity/signs/cherry.png",
+ "depicts": "cherry wood sign: pinkish cherry board (2 cm, closest soft wood) and dark post (5 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    231,
+    183,
+    177
+   ],
+   "share": 0.319,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    231,
+    196,
+    189
+   ],
+   "share": 0.281,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    222,
+    160,
+    154
+   ],
+   "share": 0.192,
+   "material": "wood_soft",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    49,
+    29,
+    40
+   ],
+   "share": 0.096,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    205,
+    133,
+    128
+   ],
+   "share": 0.075,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    73,
+    46,
+    59
+   ],
+   "share": 0.037,
+   "material": "wood_soft",
+   "thickness_cm": 5.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/boss_bar/purple_progress.png",
+ "depicts": "boss-bar fill, purple colour variant: bright violet UI bar strip, colour gradient with dark edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    38,
+    0,
+    74
+   ],
+   "share": 0.391,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    0,
+    140
+   ],
+   "share": 0.199,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    97,
+    0,
+    185
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    123,
+    0,
+    236
+   ],
+   "share": 0.196,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    24,
+    0,
+    45
+   ],
+   "share": 0.013,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    59,
+    0,
+    115
+   ],
+   "share": 0.004,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

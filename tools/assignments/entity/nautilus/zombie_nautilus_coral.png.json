@@ -1,0 +1,73 @@
+{
+ "path": "entity/nautilus/zombie_nautilus_coral.png",
+ "depicts": "zombie nautilus with coral growth: decayed pale-cream soft mantle, red-brown body, olive mottling, blue and yellow calcareous coral growths, glowing cyan eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    152,
+    100,
+    84
+   ],
+   "share": 0.356,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    197,
+    171
+   ],
+   "share": 0.301,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    57,
+    29
+   ],
+   "share": 0.25,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    48,
+    83,
+    200
+   ],
+   "share": 0.065,
+   "material": "calcite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    222,
+    206,
+    71
+   ],
+   "share": 0.027,
+   "material": "calcite",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    122,
+    232,
+    218
+   ],
+   "share": 0.002,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

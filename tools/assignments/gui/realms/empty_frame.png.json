@@ -1,0 +1,73 @@
+{
+ "path": "gui/realms/empty_frame.png",
+ "depicts": "16x16 empty Realms slot frame: grey bevelled panel with lighter bright edges (abstract GUI frame)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    90,
+    89,
+    89
+   ],
+   "share": 0.418,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    112,
+    111,
+    111
+   ],
+   "share": 0.285,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    139,
+    138,
+    138
+   ],
+   "share": 0.145,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    65,
+    64,
+    64
+   ],
+   "share": 0.137,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    135,
+    135,
+    135
+   ],
+   "share": 0.016,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    101,
+    100,
+    100
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

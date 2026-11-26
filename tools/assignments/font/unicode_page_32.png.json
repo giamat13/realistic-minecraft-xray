@@ -1,0 +1,18 @@
+{
+ "path": "font/unicode_page_32.png",
+ "depicts": "Minecraft Unicode font glyph sheet for code page 0x32 (U+3200-U+32FF): white text glyph pixels on transparent background",
+ "kind": "font",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_chestnut.png",
+ "depicts": "Chestnut wolf mob: brown fur over skin, dark nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    222,
+    190,
+    171
+   ],
+   "share": 0.351,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    178,
+    151,
+    137
+   ],
+   "share": 0.313,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    130,
+    108,
+    101
+   ],
+   "share": 0.184,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    70,
+    56,
+    59
+   ],
+   "share": 0.136,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    20,
+    18,
+    17
+   ],
+   "share": 0.014,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

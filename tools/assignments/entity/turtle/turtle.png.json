@@ -1,0 +1,73 @@
+{
+ "path": "entity/turtle/turtle.png",
+ "depicts": "sea turtle mob (green-scuted carapace, khaki skin on head and flippers, pale plastron, dark eyes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    150,
+    143,
+    101
+   ],
+   "share": 0.423,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    43,
+    115,
+    59
+   ],
+   "share": 0.275,
+   "material": "shell_chitin",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    198,
+    196,
+    137
+   ],
+   "share": 0.166,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    66,
+    175,
+    69
+   ],
+   "share": 0.134,
+   "material": "shell_chitin",
+   "thickness_cm": 1.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "water",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    49,
+    49,
+    48
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "path": "entity/shield/small_stripes.png",
+ "depicts": "shield banner pattern 'small stripes' (dyed cloth thin stripes, transparent elsewhere): dyed cloth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 0.65,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.17,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.13,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    237,
+    237,
+    237
+   ],
+   "share": 0.05,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

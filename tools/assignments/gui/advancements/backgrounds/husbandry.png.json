@@ -1,0 +1,73 @@
+{
+ "path": "gui/advancements/backgrounds/husbandry.png",
+ "depicts": "Advancement screen tile background for the husbandry tab (brown oak wood grain tile with grey border lines)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    150,
+    108,
+    74
+   ],
+   "share": 0.371,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    185,
+    133,
+    92
+   ],
+   "share": 0.246,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    85,
+    58
+   ],
+   "share": 0.246,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    89,
+    61,
+    41
+   ],
+   "share": 0.121,
+   "material": "wood_oak",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.012,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.004,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

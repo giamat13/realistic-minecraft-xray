@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/slim/makena.png",
+ "depicts": "Makena (slim default player skin): brown skin, dark cloak, ochre and gold-orange clothing, pale skin highlights",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    46,
+    29,
+    26
+   ],
+   "share": 0.375,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    141,
+    67,
+    65
+   ],
+   "share": 0.246,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    168,
+    115,
+    16
+   ],
+   "share": 0.211,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    216,
+    150,
+    28
+   ],
+   "share": 0.123,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    175,
+    167
+   ],
+   "share": 0.037,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    222,
+    198,
+    189
+   ],
+   "share": 0.008,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

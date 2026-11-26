@@ -1,0 +1,73 @@
+{
+ "path": "entity/nautilus/nautilus_baby.png",
+ "depicts": "baby nautilus (cephalopod mob): striped red and cream soft mantle and tentacles, pale highlights, dark eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    165,
+    57,
+    51
+   ],
+   "share": 0.341,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    207,
+    193,
+    173
+   ],
+   "share": 0.207,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    229,
+    120,
+    100
+   ],
+   "share": 0.201,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    174,
+    124,
+    97
+   ],
+   "share": 0.196,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    235,
+    231,
+    225
+   ],
+   "share": 0.052,
+   "material": "bone",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    29,
+    2,
+    2
+   ],
+   "share": 0.004,
+   "material": "ink",
+   "thickness_cm": 0.2
+  }
+ ]
+}

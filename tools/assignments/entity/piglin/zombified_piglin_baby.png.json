@@ -1,0 +1,73 @@
+{
+ "path": "entity/piglin/zombified_piglin_baby.png",
+ "depicts": "baby zombified piglin mob: pale pink skin, brown cloth and olive rags, light grey undershirt",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    179,
+    174
+   ],
+   "share": 0.352,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    131,
+    127
+   ],
+   "share": 0.218,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    67,
+    43,
+    31
+   ],
+   "share": 0.182,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    104,
+    126,
+    61
+   ],
+   "share": 0.132,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    222,
+    222,
+    222
+   ],
+   "share": 0.078,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    199,
+    108,
+    89
+   ],
+   "share": 0.037,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

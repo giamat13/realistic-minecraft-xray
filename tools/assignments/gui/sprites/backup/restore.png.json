@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/backup/restore.png",
+ "depicts": "backup screen 'restore' icon: orange-red painted pixel-art glyph (cloud-like arrow), UI colour only",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    221,
+    76,
+    29
+   ],
+   "share": 0.33,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    138,
+    98
+   ],
+   "share": 0.25,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    206,
+    31,
+    3
+   ],
+   "share": 0.188,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    235,
+    119,
+    72
+   ],
+   "share": 0.116,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    236,
+    118,
+    62
+   ],
+   "share": 0.116,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    224,
+    93,
+    50
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

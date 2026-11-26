@@ -1,0 +1,73 @@
+{
+ "path": "gui/container/creative_inventory/tabs.png",
+ "depicts": "creative inventory tab strip with red, blue and green coloured tab accents, black outlines and white highlights",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    159,
+    159,
+    159
+   ],
+   "share": 0.7,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.097,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.086,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    25,
+    0
+   ],
+   "share": 0.057,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    126,
+    255
+   ],
+   "share": 0.052,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    0,
+    255,
+    6
+   ],
+   "share": 0.009,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

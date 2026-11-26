@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_ashen_angry.png",
+ "depicts": "Angry ashen wolf: grey fur over skin, dark nose, red eye and mouth flush",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    230,
+    237,
+    232
+   ],
+   "share": 0.36,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    161,
+    155,
+    165
+   ],
+   "share": 0.34,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    127,
+    123,
+    136
+   ],
+   "share": 0.277,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    57,
+    60,
+    63
+   ],
+   "share": 0.011,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.007,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    205,
+    30,
+    30
+   ],
+   "share": 0.004,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

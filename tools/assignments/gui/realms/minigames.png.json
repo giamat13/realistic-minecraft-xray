@@ -1,0 +1,73 @@
+{
+ "path": "gui/realms/minigames.png",
+ "depicts": "64x36 'minigames' icon: brown wooden blocks, grey metal parts and coloured paint accents",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    138,
+    106,
+    65
+   ],
+   "share": 0.384,
+   "material": "wood_oak",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    70,
+    54,
+    35
+   ],
+   "share": 0.273,
+   "material": "wood_dark",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    158,
+    160,
+    166
+   ],
+   "share": 0.248,
+   "material": "steel",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    250,
+    50,
+    38
+   ],
+   "share": 0.081,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    239,
+    244,
+    227
+   ],
+   "share": 0.012,
+   "material": "paper",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    249,
+    171,
+    10
+   ],
+   "share": 0.004,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_ashen_baby.png",
+ "depicts": "Baby ashen wolf: grey fur over skin, dark nose and claws",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    144,
+    137,
+    147
+   ],
+   "share": 0.433,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    246,
+    249,
+    242
+   ],
+   "share": 0.289,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    225,
+    233,
+    228
+   ],
+   "share": 0.161,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    187,
+    192,
+    200
+   ],
+   "share": 0.091,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    102,
+    119
+   ],
+   "share": 0.021,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

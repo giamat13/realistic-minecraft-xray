@@ -1,0 +1,40 @@
+{
+ "path": "entity/shield/border.png",
+ "depicts": "shield banner pattern 'border' (thin dyed cloth outline strip, transparent elsewhere): textile banner cloth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    219,
+    219,
+    219
+   ],
+   "share": 0.554,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    229,
+    229
+   ],
+   "share": 0.446,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    224,
+    224
+   ],
+   "share": 0.0,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

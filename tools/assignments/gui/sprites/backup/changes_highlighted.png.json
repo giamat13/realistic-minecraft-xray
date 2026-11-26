@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/backup/changes_highlighted.png",
+ "depicts": "backup screen 'changes' glyph, hovered state: grey pixel-art cross/line icon",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    169,
+    169,
+    169
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "path": "font/unicode_page_5c.png",
+ "depicts": "Minecraft Unicode font glyph sheet for code page 0x5C (U+5C00-U+5CFF): white text glyph pixels on transparent background",
+ "kind": "font",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

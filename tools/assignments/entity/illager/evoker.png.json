@@ -1,0 +1,73 @@
+{
+ "path": "entity/illager/evoker.png",
+ "depicts": "evoker illager: pale-skinned spellcaster in dark robes with gold trim; head skin, robe cloth, gold embroidery",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    30,
+    29,
+    28
+   ],
+   "share": 0.463,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    67,
+    68
+   ],
+   "share": 0.254,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    137,
+    142,
+    142
+   ],
+   "share": 0.242,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    192,
+    170,
+    81
+   ],
+   "share": 0.029,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    208,
+    203,
+    141
+   ],
+   "share": 0.011,
+   "material": "gold",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

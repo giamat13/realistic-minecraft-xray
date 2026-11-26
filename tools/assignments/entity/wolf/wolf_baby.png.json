@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_baby.png",
+ "depicts": "Baby wild wolf: pale fur over skin, dark nose and claws",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    210,
+    211
+   ],
+   "share": 0.54,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    193,
+    190,
+    190
+   ],
+   "share": 0.26,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    172,
+    160,
+    152
+   ],
+   "share": 0.153,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    152,
+    116,
+    87
+   ],
+   "share": 0.022,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    57,
+    56,
+    53
+   ],
+   "share": 0.019,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.005,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  }
+ ]
+}

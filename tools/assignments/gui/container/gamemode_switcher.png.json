@@ -1,0 +1,40 @@
+{
+ "path": "gui/container/gamemode_switcher.png",
+ "depicts": "gamemode switcher radial menu background: dark grey translucent panel with black outline pixels",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    33,
+    33
+   ],
+   "share": 0.887,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.059,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.054,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

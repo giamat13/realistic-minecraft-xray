@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/container/creative_inventory/scroller.png",
+ "depicts": "creative inventory scrollbar handle: grey plastic knob with ridged grip and bevel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.456,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.278,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.133,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.133,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/sulfur_cube/sulfur_cube_outer.png",
+ "depicts": "sulfur cube outer shell (fictional translucent pale-yellow cube shell with dark markings; sulfur film with calcite-like highlights)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    238,
+    245,
+    190
+   ],
+   "share": 0.87,
+   "material": "sulfur",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    215,
+    245,
+    181
+   ],
+   "share": 0.118,
+   "material": "calcite",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    64,
+    59,
+    48
+   ],
+   "share": 0.007,
+   "material": "graphite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    82,
+    68,
+    55
+   ],
+   "share": 0.003,
+   "material": "graphite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    100,
+    78,
+    62
+   ],
+   "share": 0.001,
+   "material": "graphite",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    143,
+    101,
+    79
+   ],
+   "share": 0.001,
+   "material": "keratin",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_armor.png",
+ "depicts": "Wolf body armour (armadillo scute plates, reddish) with skin showing at edges",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    155,
+    95,
+    90
+   ],
+   "share": 0.272,
+   "material": "keratin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    176,
+    119,
+    113
+   ],
+   "share": 0.264,
+   "material": "keratin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    121,
+    70,
+    67
+   ],
+   "share": 0.228,
+   "material": "keratin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    198,
+    136,
+    132
+   ],
+   "share": 0.117,
+   "material": "keratin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    92,
+    45,
+    48
+   ],
+   "share": 0.101,
+   "material": "keratin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 5,
+   "rgb": [
+    178,
+    146,
+    117
+   ],
+   "share": 0.019,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

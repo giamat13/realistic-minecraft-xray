@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/advancements/tab_left_top_selected.png",
+ "depicts": "advancement-screen tab frame, selected, top-left corner: light grey panel with white bevel and black outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.723,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.123,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.091,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.062,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

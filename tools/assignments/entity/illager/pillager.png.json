@@ -1,0 +1,73 @@
+{
+ "path": "entity/illager/pillager.png",
+ "depicts": "pillager illager: pale-skinned raider in dark leather armour and cloth with iron fittings",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    42,
+    29,
+    29
+   ],
+   "share": 0.48,
+   "material": "textile",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    144,
+    151,
+    151
+   ],
+   "share": 0.273,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    79,
+    47,
+    39
+   ],
+   "share": 0.153,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    102,
+    110,
+    110
+   ],
+   "share": 0.09,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    199,
+    206,
+    206
+   ],
+   "share": 0.003,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

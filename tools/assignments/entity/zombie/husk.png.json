@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie/husk.png",
+ "depicts": "adult husk zombie: desert-dried tan skin, dark hair, torn linen tunic and trousers",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    80,
+    71,
+    52
+   ],
+   "share": 0.234,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    53,
+    44,
+    27
+   ],
+   "share": 0.215,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    202,
+    175,
+    117
+   ],
+   "share": 0.179,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    167,
+    145,
+    98
+   ],
+   "share": 0.179,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    109,
+    98,
+    77
+   ],
+   "share": 0.156,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    230,
+    204,
+    148
+   ],
+   "share": 0.036,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  }
+ ]
+}

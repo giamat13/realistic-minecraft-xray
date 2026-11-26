@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_calico_baby.png",
+ "depicts": "baby calico cat mob skin: white, orange and dark patched fur over small soft-tissue body, cyan eye glints",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    240,
+    242,
+    244
+   ],
+   "share": 0.365,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    206,
+    200,
+    192
+   ],
+   "share": 0.343,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    210,
+    146,
+    62
+   ],
+   "share": 0.146,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    74,
+    68,
+    59
+   ],
+   "share": 0.099,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    152,
+    123,
+    84
+   ],
+   "share": 0.044,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    86,
+    218,
+    245
+   ],
+   "share": 0.003,
+   "material": "glass",
+   "thickness_cm": 0.2
+  }
+ ]
+}

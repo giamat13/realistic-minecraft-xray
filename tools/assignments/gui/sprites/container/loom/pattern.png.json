@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/container/loom/pattern.png",
+ "depicts": "14x14 loom banner-pattern button: tan cloth banner shape with dark-ink pattern cross and light highlight edge",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    160,
+    145,
+    114
+   ],
+   "share": 0.49,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    82,
+    74,
+    58
+   ],
+   "share": 0.26,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    202,
+    159
+   ],
+   "share": 0.128,
+   "material": "textile",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    33,
+    29,
+    23
+   ],
+   "share": 0.061,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    107,
+    97,
+    76
+   ],
+   "share": 0.061,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    137,
+    124,
+    97
+   ],
+   "share": 0.0,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

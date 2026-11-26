@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/baby/desert.png",
+ "depicts": "baby zombie villager, desert type: green-grey skin, orange-brown desert robe trim, dark hair",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    56,
+    73,
+    44
+   ],
+   "share": 0.239,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    135,
+    59,
+    20
+   ],
+   "share": 0.226,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    226,
+    193,
+    149
+   ],
+   "share": 0.197,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    195,
+    159,
+    111
+   ],
+   "share": 0.195,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    24,
+    46,
+    30
+   ],
+   "share": 0.102,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    183,
+    90,
+    23
+   ],
+   "share": 0.042,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "path": "entity/cat/cat_collar_baby.png",
+ "depicts": "baby cat collar overlay: dyed leather-like strap with grey metal-tinted buckle",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    188,
+    188,
+    188
+   ],
+   "share": 0.625,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    184,
+    184,
+    184
+   ],
+   "share": 0.25,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    186,
+    186,
+    186
+   ],
+   "share": 0.125,
+   "material": "leather",
+   "thickness_cm": 0.3
+  }
+ ]
+}

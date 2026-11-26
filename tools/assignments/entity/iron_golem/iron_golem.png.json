@@ -1,0 +1,73 @@
+{
+ "path": "entity/iron_golem/iron_golem.png",
+ "depicts": "iron golem: iron body plates with lighter face, olive-steel rivets, gold accents, dark mouth and red poppy-like marks",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    175,
+    156
+   ],
+   "share": 0.498,
+   "material": "iron",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    212,
+    208,
+    203
+   ],
+   "share": 0.293,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    120,
+    117,
+    73
+   ],
+   "share": 0.202,
+   "material": "steel",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    213,
+    0
+   ],
+   "share": 0.005,
+   "material": "gold",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    30,
+    0,
+    14
+   ],
+   "share": 0.002,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    141,
+    0,
+    42
+   ],
+   "share": 0.001,
+   "material": "cinnabar",
+   "thickness_cm": 0.2
+  }
+ ]
+}

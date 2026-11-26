@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/llama_creamy_baby.png",
+ "depicts": "baby creamy llama mob skin: cream fleece over small body (soft tissue), tan muzzle skin, dark hooves",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    245,
+    226,
+    184
+   ],
+   "share": 0.636,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    229,
+    205,
+    152
+   ],
+   "share": 0.355,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    171,
+    142,
+    106
+   ],
+   "share": 0.005,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    51,
+    41,
+    35
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    81,
+    61
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    204,
+    169,
+    126
+   ],
+   "share": 0.001,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  }
+ ]
+}

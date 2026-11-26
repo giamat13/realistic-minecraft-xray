@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/friends/accept.png",
+ "depicts": "18x18 green checkmark UI icon painted on plastic",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    3,
+    184,
+    3
+   ],
+   "share": 0.403,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    3,
+    126,
+    3
+   ],
+   "share": 0.328,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    3,
+    57,
+    3
+   ],
+   "share": 0.269,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/llama_white_baby.png",
+ "depicts": "baby white llama mob skin: white fleece over small body (soft tissue), tan muzzle skin, dark hooves",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    234,
+    234,
+    233
+   ],
+   "share": 0.636,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    203,
+    203
+   ],
+   "share": 0.355,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    169,
+    140,
+    105
+   ],
+   "share": 0.004,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    204,
+    169,
+    126
+   ],
+   "share": 0.002,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    99,
+    81,
+    61
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    51,
+    41,
+    35
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

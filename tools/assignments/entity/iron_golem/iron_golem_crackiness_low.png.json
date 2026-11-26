@@ -1,0 +1,73 @@
+{
+ "path": "entity/iron_golem/iron_golem_crackiness_low.png",
+ "depicts": "iron golem crack overlay (lightly cracked): rust-brown oxide and exposed grey metal fragments over dark gaps",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    142,
+    95,
+    49
+   ],
+   "share": 0.393,
+   "material": "iron_oxide",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    162,
+    145,
+    130
+   ],
+   "share": 0.213,
+   "material": "iron",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    14,
+    0,
+    0
+   ],
+   "share": 0.169,
+   "material": "air",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    125,
+    137,
+    133
+   ],
+   "share": 0.122,
+   "material": "steel",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    73,
+    61,
+    14
+   ],
+   "share": 0.102,
+   "material": "iron_oxide",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    229,
+    153,
+    0
+   ],
+   "share": 0.001,
+   "material": "iron_oxide",
+   "thickness_cm": 0.3
+  }
+ ]
+}

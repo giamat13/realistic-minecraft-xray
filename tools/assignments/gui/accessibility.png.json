@@ -1,0 +1,73 @@
+{
+ "path": "gui/accessibility.png",
+ "depicts": "Accessibility options button icon (grey button face, white figure glyph with black outline, 2 frames)",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    111,
+    111,
+    111
+   ],
+   "share": 0.367,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    253,
+    253,
+    253
+   ],
+   "share": 0.272,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.131,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    62,
+    62,
+    62
+   ],
+   "share": 0.116,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    171,
+    171,
+    171
+   ],
+   "share": 0.098,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    214,
+    214,
+    214
+   ],
+   "share": 0.016,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

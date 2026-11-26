@@ -1,0 +1,73 @@
+{
+ "path": "entity/shulker/spark.png",
+ "depicts": "shulker bullet projectile sprite (small glowing pale energy sphere, closest analogue glowstone, ~0.5 cm across)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    240,
+    213,
+    166
+   ],
+   "share": 0.309,
+   "material": "glowstone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    255,
+    234,
+    173
+   ],
+   "share": 0.253,
+   "material": "glowstone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    140,
+    112,
+    117
+   ],
+   "share": 0.167,
+   "material": "glowstone",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    229,
+    151
+   ],
+   "share": 0.128,
+   "material": "glowstone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    207,
+    185,
+    137
+   ],
+   "share": 0.083,
+   "material": "glowstone",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    220,
+    192,
+    157
+   ],
+   "share": 0.059,
+   "material": "glowstone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

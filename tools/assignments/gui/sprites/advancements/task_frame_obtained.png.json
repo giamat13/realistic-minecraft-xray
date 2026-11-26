@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/advancements/task_frame_obtained.png",
+ "depicts": "advancement task-slot frame, obtained (completed): gilded bevelled gold border around a gold-tinted panel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    170,
+    126,
+    15
+   ],
+   "share": 0.709,
+   "material": "brass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.149,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    219,
+    162,
+    19
+   ],
+   "share": 0.071,
+   "material": "brass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    73,
+    54,
+    6
+   ],
+   "share": 0.071,
+   "material": "bronze",
+   "thickness_cm": 0.2
+  }
+ ]
+}

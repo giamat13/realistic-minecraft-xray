@@ -1,0 +1,73 @@
+{
+ "path": "entity/goat/goat.png",
+ "depicts": "goat (~1 m body depth ~ 35 cm): cream and white wool-like hair over skin, grey-brown skin, dark hooves and grey horns",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    226,
+    221,
+    207
+   ],
+   "share": 0.374,
+   "material": "keratin",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    246,
+    246,
+    244
+   ],
+   "share": 0.35,
+   "material": "keratin",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    192,
+    172,
+    144
+   ],
+   "share": 0.121,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    142,
+    124,
+    109
+   ],
+   "share": 0.103,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    63,
+    61,
+    61
+   ],
+   "share": 0.033,
+   "material": "keratin",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.019,
+   "material": "keratin",
+   "thickness_cm": 3.0
+  }
+ ]
+}

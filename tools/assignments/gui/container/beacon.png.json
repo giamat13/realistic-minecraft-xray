@@ -1,0 +1,73 @@
+{
+ "path": "gui/container/beacon.png",
+ "depicts": "beacon GUI container background: dark frame panels, grey slot plates, mint and green emerald-like pixels and gold-yellow accent",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    32,
+    32,
+    32
+   ],
+   "share": 0.424,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    205,
+    205,
+    205
+   ],
+   "share": 0.333,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    129,
+    129,
+    129
+   ],
+   "share": 0.237,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    139,
+    249,
+    181
+   ],
+   "share": 0.003,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    156,
+    43
+   ],
+   "share": 0.002,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    254,
+    234,
+    81
+   ],
+   "share": 0.0,
+   "material": "gold",
+   "thickness_cm": 0.05
+  }
+ ]
+}

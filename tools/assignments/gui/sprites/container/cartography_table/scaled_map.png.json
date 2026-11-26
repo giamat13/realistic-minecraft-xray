@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/container/cartography_table/scaled_map.png",
+ "depicts": "paper map item zoomed/scaled, dark frame and black scale marks",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    190,
+    150
+   ],
+   "share": 0.787,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    153,
+    135,
+    108
+   ],
+   "share": 0.076,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.072,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 3,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.065,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 4,
+   "rgb": [
+    197,
+    175,
+    138
+   ],
+   "share": 0.0,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 5,
+   "rgb": [
+    184,
+    164,
+    130
+   ],
+   "share": 0.0,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

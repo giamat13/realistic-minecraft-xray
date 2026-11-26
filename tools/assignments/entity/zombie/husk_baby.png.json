@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie/husk_baby.png",
+ "depicts": "baby husk zombie: tan skin, linen tunic and dark trousers",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    92,
+    81,
+    59
+   ],
+   "share": 0.314,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    122,
+    110,
+    87
+   ],
+   "share": 0.175,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    167,
+    146,
+    98
+   ],
+   "share": 0.175,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    207,
+    180,
+    120
+   ],
+   "share": 0.156,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    50,
+    42,
+    26
+   ],
+   "share": 0.13,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    230,
+    204,
+    148
+   ],
+   "share": 0.049,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

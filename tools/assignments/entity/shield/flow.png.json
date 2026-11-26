@@ -1,0 +1,18 @@
+{
+ "path": "entity/shield/flow.png",
+ "depicts": "shield banner pattern 'flow' (dyed cloth small curl/flow mark, transparent elsewhere): dyed cloth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    243,
+    243,
+    243
+   ],
+   "share": 1.0,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

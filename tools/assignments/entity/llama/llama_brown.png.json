@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/llama_brown.png",
+ "depicts": "brown llama mob skin: brown fleece over body and neck (soft tissue under wool), dark hooves and eye/nose tones, cream muzzle and ear skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    91,
+    34
+   ],
+   "share": 0.768,
+   "material": "soft_tissue",
+   "thickness_cm": 12.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    50,
+    44,
+    35
+   ],
+   "share": 0.11,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    246,
+    227,
+    185
+   ],
+   "share": 0.077,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    190,
+    144
+   ],
+   "share": 0.032,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    178,
+    147,
+    111
+   ],
+   "share": 0.011,
+   "material": "soft_tissue",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    165,
+    165,
+    165
+   ],
+   "share": 0.002,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

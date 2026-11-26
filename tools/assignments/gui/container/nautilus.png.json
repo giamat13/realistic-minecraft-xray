@@ -1,0 +1,73 @@
+{
+ "path": "gui/container/nautilus.png",
+ "depicts": "nautilus-style mount inventory GUI container background: grey bevelled panel, slot frames, black outline and white highlight pixels",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.432,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.318,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 2,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.116,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.067,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.044,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.023,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

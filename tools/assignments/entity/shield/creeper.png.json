@@ -1,0 +1,18 @@
+{
+ "path": "entity/shield/creeper.png",
+ "depicts": "shield banner pattern 'creeper' face (small dyed cloth creeper face shape, transparent elsewhere): dyed cloth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    242,
+    242,
+    242
+   ],
+   "share": 1.0,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

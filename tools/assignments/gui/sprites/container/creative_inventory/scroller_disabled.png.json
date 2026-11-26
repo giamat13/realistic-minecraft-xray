@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/creative_inventory/scroller_disabled.png",
+ "depicts": "disabled creative inventory scrollbar handle, grey knob with ridges and bevel",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.467,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.4,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.133,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

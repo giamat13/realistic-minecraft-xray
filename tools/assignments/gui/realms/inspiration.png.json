@@ -1,0 +1,73 @@
+{
+ "path": "gui/realms/inspiration.png",
+ "depicts": "Realms 'inspiration' key-art thumbnail: sky, sandy ground, a tree with dark trunk and leafy canopy, grey stone rocks",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    165,
+    203,
+    254
+   ],
+   "share": 0.434,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    214,
+    207,
+    158
+   ],
+   "share": 0.413,
+   "material": "sand",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    56,
+    55,
+    25
+   ],
+   "share": 0.053,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    20,
+    21,
+    9
+   ],
+   "share": 0.041,
+   "material": "wood_oak",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    135,
+    146,
+    152
+   ],
+   "share": 0.03,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    90,
+    97,
+    93
+   ],
+   "share": 0.028,
+   "material": "stone",
+   "thickness_cm": 100.0
+  }
+ ]
+}

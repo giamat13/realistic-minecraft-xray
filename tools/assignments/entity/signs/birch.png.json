@@ -1,0 +1,73 @@
+{
+ "path": "entity/signs/birch.png",
+ "depicts": "birch wood sign: pale birch board (2 cm, closest planks) and post with bark (5 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    202,
+    185,
+    127
+   ],
+   "share": 0.61,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    165,
+    147,
+    104
+   ],
+   "share": 0.262,
+   "material": "planks",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    247,
+    246,
+    244
+   ],
+   "share": 0.075,
+   "material": "planks",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    218,
+    214,
+    209
+   ],
+   "share": 0.04,
+   "material": "planks",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    96,
+    94,
+    84
+   ],
+   "share": 0.008,
+   "material": "planks",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    54,
+    52,
+    42
+   ],
+   "share": 0.005,
+   "material": "planks",
+   "thickness_cm": 5.0
+  }
+ ]
+}

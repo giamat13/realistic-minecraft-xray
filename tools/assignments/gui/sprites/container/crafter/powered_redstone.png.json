@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/crafter/powered_redstone.png",
+ "depicts": "glowing red redstone dust item icon (powered), small dust grains",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    244,
+    0,
+    0
+   ],
+   "share": 0.5,
+   "material": "redstone_dust",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    205,
+    0,
+    0
+   ],
+   "share": 0.342,
+   "material": "redstone_dust",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    224,
+    0,
+    0
+   ],
+   "share": 0.158,
+   "material": "redstone_dust",
+   "thickness_cm": 0.5
+  }
+ ]
+}

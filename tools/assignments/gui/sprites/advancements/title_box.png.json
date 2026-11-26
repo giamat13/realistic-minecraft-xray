@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/advancements/title_box.png",
+ "depicts": "advancement screen title banner: dark translucent panel with black and dark-grey border",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    33,
+    33,
+    33
+   ],
+   "share": 0.786,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.107,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    85,
+    85,
+    85
+   ],
+   "share": 0.106,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

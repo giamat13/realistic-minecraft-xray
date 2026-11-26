@@ -1,0 +1,73 @@
+{
+ "path": "entity/trident/trident.png",
+ "depicts": "trident item (teal prismarine shaft and three-pronged tip, highlights)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    86,
+    155,
+    139
+   ],
+   "share": 0.416,
+   "material": "prismarine",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    101,
+    167,
+    153
+   ],
+   "share": 0.196,
+   "material": "prismarine",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    174,
+    207,
+    198
+   ],
+   "share": 0.158,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 3,
+   "rgb": [
+    64,
+    123,
+    107
+   ],
+   "share": 0.129,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 4,
+   "rgb": [
+    221,
+    232,
+    218
+   ],
+   "share": 0.057,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 5,
+   "rgb": [
+    148,
+    187,
+    176
+   ],
+   "share": 0.043,
+   "material": "prismarine",
+   "thickness_cm": 0.5
+  }
+ ]
+}

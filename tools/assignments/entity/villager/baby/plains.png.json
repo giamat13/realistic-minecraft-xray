@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/baby/plains.png",
+ "depicts": "baby villager plains-type overlay (brown and grey robe, dark hair, grey vest)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    85,
+    61,
+    54
+   ],
+   "share": 0.593,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    109,
+    80,
+    74
+   ],
+   "share": 0.232,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    61,
+    43,
+    37
+   ],
+   "share": 0.107,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    114,
+    113,
+    113
+   ],
+   "share": 0.023,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    35,
+    24,
+    20
+   ],
+   "share": 0.023,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    76,
+    76,
+    76
+   ],
+   "share": 0.023,
+   "material": "textile",
+   "thickness_cm": 0.2
+  }
+ ]
+}

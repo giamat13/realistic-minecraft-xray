@@ -1,0 +1,40 @@
+{
+ "path": "gui/sprites/container/cartography_table/duplicated_map.png",
+ "depicts": "paper map icon (duplicated map item) with dark frame and ink-drawn border",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    190,
+    150
+   ],
+   "share": 0.829,
+   "material": "paper",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 1,
+   "rgb": [
+    55,
+    55,
+    55
+   ],
+   "share": 0.095,
+   "material": "ink",
+   "thickness_cm": 0.02
+  },
+  {
+   "id": 2,
+   "rgb": [
+    153,
+    135,
+    108
+   ],
+   "share": 0.076,
+   "material": "paper",
+   "thickness_cm": 0.02
+  }
+ ]
+}

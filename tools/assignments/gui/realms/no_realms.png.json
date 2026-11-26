@@ -1,0 +1,73 @@
+{
+ "path": "gui/realms/no_realms.png",
+ "depicts": "'no realms' empty-state icon: pale cloud outline with coloured sparkle/ accent pixels and dark sketch lines",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    232,
+    232,
+    249
+   ],
+   "share": 0.899,
+   "material": "water",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 1,
+   "rgb": [
+    195,
+    121,
+    83
+   ],
+   "share": 0.032,
+   "material": "clay",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 2,
+   "rgb": [
+    71,
+    55,
+    64
+   ],
+   "share": 0.027,
+   "material": "ink",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 3,
+   "rgb": [
+    227,
+    78,
+    182
+   ],
+   "share": 0.025,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 4,
+   "rgb": [
+    178,
+    20,
+    162
+   ],
+   "share": 0.013,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  },
+  {
+   "id": 5,
+   "rgb": [
+    229,
+    192,
+    66
+   ],
+   "share": 0.003,
+   "material": "dye_pigment",
+   "thickness_cm": 0.05
+  }
+ ]
+}

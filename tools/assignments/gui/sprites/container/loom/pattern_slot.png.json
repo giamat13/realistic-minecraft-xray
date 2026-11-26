@@ -1,0 +1,29 @@
+{
+ "path": "gui/sprites/container/loom/pattern_slot.png",
+ "depicts": "16x16 loom pattern input-slot placeholder: dark outlined banner-pattern shape on grey slot background",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.719,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    58,
+    58,
+    58
+   ],
+   "share": 0.281,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

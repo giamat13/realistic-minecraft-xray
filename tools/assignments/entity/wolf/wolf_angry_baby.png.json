@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_angry_baby.png",
+ "depicts": "Baby angry wolf mob: smaller body fur over skin, red eye patches",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    207,
+    204,
+    204
+   ],
+   "share": 0.792,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    172,
+    160,
+    152
+   ],
+   "share": 0.152,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    57,
+    56,
+    53
+   ],
+   "share": 0.022,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    152,
+    116,
+    87
+   ],
+   "share": 0.022,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.008,
+   "material": "keratin",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    228,
+    46,
+    46
+   ],
+   "share": 0.003,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

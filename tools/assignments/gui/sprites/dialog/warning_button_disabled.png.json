@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/dialog/warning_button_disabled.png",
+ "depicts": "20x20 dark disabled warning button with grey warning icon and dark outline",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    44,
+    44,
+    44
+   ],
+   "share": 0.51,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.19,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    103,
+    103,
+    103
+   ],
+   "share": 0.145,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    41,
+    41,
+    41
+   ],
+   "share": 0.1,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    82,
+    82,
+    82
+   ],
+   "share": 0.03,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    60,
+    60,
+    60
+   ],
+   "share": 0.025,
+   "material": "plastic",
+   "thickness_cm": 0.2
+  }
+ ]
+}

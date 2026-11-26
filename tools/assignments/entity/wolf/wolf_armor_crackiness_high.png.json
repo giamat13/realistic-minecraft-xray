@@ -1,0 +1,62 @@
+{
+ "path": "entity/wolf/wolf_armor_crackiness_high.png",
+ "depicts": "Heavily cracked wolf armour overlay: crack lines in scute plates over transparent background",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.81,
+   "material": "air",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 1,
+   "rgb": [
+    164,
+    164,
+    164
+   ],
+   "share": 0.17,
+   "material": "keratin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 2,
+   "rgb": [
+    179,
+    179,
+    179
+   ],
+   "share": 0.01,
+   "material": "keratin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 3,
+   "rgb": [
+    175,
+    175,
+    175
+   ],
+   "share": 0.01,
+   "material": "keratin",
+   "thickness_cm": 0.4
+  },
+  {
+   "id": 4,
+   "rgb": [
+    31,
+    31,
+    31
+   ],
+   "share": 0.0,
+   "material": "air",
+   "thickness_cm": 0.4
+  }
+ ]
+}

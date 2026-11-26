@@ -1,0 +1,51 @@
+{
+ "path": "gui/sprites/container/crafter/disabled_slot.png",
+ "depicts": "greyed-out crafter inventory slot: grey panel with dark and white bevel edges",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    198,
+    198,
+    198
+   ],
+   "share": 0.79,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 1,
+   "rgb": [
+    139,
+    139,
+    139
+   ],
+   "share": 0.102,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.102,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    178,
+    178,
+    178
+   ],
+   "share": 0.006,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  }
+ ]
+}

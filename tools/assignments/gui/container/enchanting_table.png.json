@@ -1,0 +1,73 @@
+{
+ "path": "gui/container/enchanting_table.png",
+ "depicts": "enchanting table GUI container background: warm grey parchment-like panel with dark outline and white highlight pixels",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    146,
+    141,
+    131
+   ],
+   "share": 0.49,
+   "material": "paper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    199,
+    198,
+    197
+   ],
+   "share": 0.299,
+   "material": "paper",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    72,
+    69,
+    63
+   ],
+   "share": 0.114,
+   "material": "plastic",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.071,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "share": 0.023,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    33,
+    29,
+    23
+   ],
+   "share": 0.004,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

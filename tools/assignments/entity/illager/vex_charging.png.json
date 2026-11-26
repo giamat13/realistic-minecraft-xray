@@ -1,0 +1,73 @@
+{
+ "path": "entity/illager/vex_charging.png",
+ "depicts": "charging vex: ghostly red-tinged spectral spirit (fictional, closest analogue a smoke-like low-density gas)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    136,
+    159,
+    182
+   ],
+   "share": 0.44,
+   "material": "smoke",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    203,
+    99,
+    128
+   ],
+   "share": 0.198,
+   "material": "smoke",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    100,
+    123,
+    146
+   ],
+   "share": 0.192,
+   "material": "smoke",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    231,
+    238,
+    245
+   ],
+   "share": 0.09,
+   "material": "smoke",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    151,
+    34,
+    56
+   ],
+   "share": 0.061,
+   "material": "smoke",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    236,
+    154,
+    177
+   ],
+   "share": 0.017,
+   "material": "smoke",
+   "thickness_cm": 5.0
+  }
+ ]
+}

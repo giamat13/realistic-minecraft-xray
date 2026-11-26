@@ -1,0 +1,73 @@
+{
+ "path": "entity/signs/crimson.png",
+ "depicts": "crimson nether-stem sign: board (2 cm crimson hyphae wood, closest oak-class) and dark post (5 cm)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    98,
+    50,
+    70
+   ],
+   "share": 0.367,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    127,
+    59,
+    86
+   ],
+   "share": 0.302,
+   "material": "wood_oak",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    73,
+    34,
+    47
+   ],
+   "share": 0.3,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    160,
+    28,
+    28
+   ],
+   "share": 0.021,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    123,
+    0,
+    0
+   ],
+   "share": 0.008,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    189,
+    48,
+    49
+   ],
+   "share": 0.001,
+   "material": "wood_oak",
+   "thickness_cm": 5.0
+  }
+ ]
+}

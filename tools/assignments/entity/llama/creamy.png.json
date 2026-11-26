@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/creamy.png",
+ "depicts": "creamy llama: cream woolly fleece over body, dark hooves and muzzle, brown leather tack",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    244,
+    224,
+    180
+   ],
+   "share": 0.557,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    230,
+    205,
+    152
+   ],
+   "share": 0.26,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    44,
+    39,
+    31
+   ],
+   "share": 0.085,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    163,
+    113,
+    36
+   ],
+   "share": 0.062,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    71,
+    61,
+    47
+   ],
+   "share": 0.027,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    172,
+    151,
+    126
+   ],
+   "share": 0.009,
+   "material": "wool",
+   "thickness_cm": 5.0
+  }
+ ]
+}

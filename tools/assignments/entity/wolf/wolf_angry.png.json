@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_angry.png",
+ "depicts": "Angry wolf mob: same fur and skin, red eyes and red mouth or flush",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    204,
+    200,
+    199
+   ],
+   "share": 0.884,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    155,
+    139,
+    128
+   ],
+   "share": 0.077,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    58,
+    57,
+    55
+   ],
+   "share": 0.028,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    18,
+    20,
+    22
+   ],
+   "share": 0.007,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    228,
+    46,
+    46
+   ],
+   "share": 0.002,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    182,
+    15,
+    15
+   ],
+   "share": 0.002,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

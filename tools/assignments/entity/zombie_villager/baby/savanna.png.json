@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie_villager/baby/savanna.png",
+ "depicts": "baby zombie villager, savanna type: brown-red robe, dark hair, olive trim, pale skin",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    96,
+    62,
+    45
+   ],
+   "share": 0.492,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    73,
+    45,
+    39
+   ],
+   "share": 0.237,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  },
+  {
+   "id": 2,
+   "rgb": [
+    146,
+    71,
+    59
+   ],
+   "share": 0.117,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    194,
+    176,
+    154
+   ],
+   "share": 0.057,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    108,
+    108,
+    49
+   ],
+   "share": 0.05,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    159,
+    137,
+    117
+   ],
+   "share": 0.047,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

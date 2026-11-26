@@ -1,0 +1,73 @@
+{
+ "path": "entity/illager/vex.png",
+ "depicts": "vex: ghostly blue-white spirit; low-density translucent spectral body (closest analogue a smoke-like low-density gas)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    116,
+    139,
+    161
+   ],
+   "share": 0.356,
+   "material": "smoke",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    138,
+    162,
+    184
+   ],
+   "share": 0.335,
+   "material": "smoke",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    89,
+    112,
+    133
+   ],
+   "share": 0.128,
+   "material": "smoke",
+   "thickness_cm": 15.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    162,
+    188,
+    213
+   ],
+   "share": 0.09,
+   "material": "smoke",
+   "thickness_cm": 8.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    218,
+    229,
+    239
+   ],
+   "share": 0.05,
+   "material": "smoke",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    245,
+    249,
+    252
+   ],
+   "share": 0.041,
+   "material": "smoke",
+   "thickness_cm": 3.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/baby/swamp.png",
+ "depicts": "baby villager swamp-type overlay (dark and green robe with purple trim, tan skin)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    30,
+    29,
+    29
+   ],
+   "share": 0.379,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    69,
+    87,
+    38
+   ],
+   "share": 0.229,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    110,
+    142,
+    71
+   ],
+   "share": 0.193,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    80,
+    58,
+    101
+   ],
+   "share": 0.189,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    163,
+    107,
+    77
+   ],
+   "share": 0.006,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    190,
+    136,
+    108
+   ],
+   "share": 0.004,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  }
+ ]
+}

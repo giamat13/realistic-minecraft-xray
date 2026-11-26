@@ -1,0 +1,73 @@
+{
+ "path": "gui/sprites/backup/restore_highlighted.png",
+ "depicts": "backup screen 'restore' icon, hovered state: darker orange-red painted pixel-art glyph",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    144,
+    49,
+    19
+   ],
+   "share": 0.33,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    149,
+    90,
+    64
+   ],
+   "share": 0.25,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    134,
+    20,
+    2
+   ],
+   "share": 0.188,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    153,
+    77,
+    47
+   ],
+   "share": 0.116,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 4,
+   "rgb": [
+    154,
+    77,
+    40
+   ],
+   "share": 0.116,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    146,
+    60,
+    33
+   ],
+   "share": 0.0,
+   "material": "plastic",
+   "thickness_cm": 0.1
+  }
+ ]
+}

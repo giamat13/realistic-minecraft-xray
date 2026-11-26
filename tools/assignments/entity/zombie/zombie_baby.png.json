@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie/zombie_baby.png",
+ "depicts": "baby zombie base layer: green skin, teal shirt, blue trousers, dark hair",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    74,
+    120,
+    54
+   ],
+   "share": 0.487,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    0,
+    164,
+    164
+   ],
+   "share": 0.165,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    36,
+    63,
+    118
+   ],
+   "share": 0.137,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    115,
+    147,
+    96
+   ],
+   "share": 0.115,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    75,
+    63,
+    177
+   ],
+   "share": 0.053,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    46,
+    46,
+    46
+   ],
+   "share": 0.043,
+   "material": "keratin",
+   "thickness_cm": 0.5
+  }
+ ]
+}

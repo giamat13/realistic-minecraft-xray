@@ -1,0 +1,73 @@
+{
+ "path": "entity/cat/cat_jellie_baby.png",
+ "depicts": "baby Jellie cat mob skin (fictional grey-and-white cat): grey and white fur over small soft-tissue body, green eyes, pink nose",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    201,
+    201,
+    201
+   ],
+   "share": 0.312,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    74,
+    73,
+    72
+   ],
+   "share": 0.307,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    242,
+    243,
+    244
+   ],
+   "share": 0.265,
+   "material": "soft_tissue",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    109,
+    109,
+    108
+   ],
+   "share": 0.105,
+   "material": "soft_tissue",
+   "thickness_cm": 3.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    125,
+    184,
+    53
+   ],
+   "share": 0.006,
+   "material": "glass",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    191,
+    122,
+    165
+   ],
+   "share": 0.006,
+   "material": "soft_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

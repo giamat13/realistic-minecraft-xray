@@ -1,0 +1,73 @@
+{
+ "path": "entity/guardian/guardian.png",
+ "depicts": "guardian (spiny ocean fish-like mob, ~0.85 m, duplicate texture): muscle body with orange keratin spines, pale and red eye, bone spine tips",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    91,
+    126,
+    111
+   ],
+   "share": 0.914,
+   "material": "muscle",
+   "thickness_cm": 40.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    237,
+    124,
+    48
+   ],
+   "share": 0.036,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    197,
+    83,
+    38
+   ],
+   "share": 0.021,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    210,
+    205,
+    196
+   ],
+   "share": 0.011,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    121,
+    11,
+    18
+   ],
+   "share": 0.01,
+   "material": "soft_tissue",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    180,
+    147,
+    84
+   ],
+   "share": 0.008,
+   "material": "bone",
+   "thickness_cm": 0.5
+  }
+ ]
+}

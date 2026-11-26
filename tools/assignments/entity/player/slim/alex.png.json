@@ -1,0 +1,73 @@
+{
+ "path": "entity/player/slim/alex.png",
+ "depicts": "Alex (Minecraft steve-like default skin, slim arms): skin tones, orange hair, green shirt and dark cloth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    132,
+    178,
+    124
+   ],
+   "share": 0.283,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    99,
+    80,
+    68
+   ],
+   "share": 0.227,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    233,
+    148,
+    65
+   ],
+   "share": 0.226,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    234,
+    210,
+    180
+   ],
+   "share": 0.204,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    49,
+    59,
+    48
+   ],
+   "share": 0.059,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "path": "entity/llama/brown.png",
+ "depicts": "brown llama: brown woolly fleece over body, cream face and legs wool, dark hooves, leather saddle tack",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    139,
+    91,
+    34
+   ],
+   "share": 0.768,
+   "material": "wool",
+   "thickness_cm": 20.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    50,
+    44,
+    35
+   ],
+   "share": 0.11,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    246,
+    227,
+    185
+   ],
+   "share": 0.077,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    222,
+    190,
+    144
+   ],
+   "share": 0.032,
+   "material": "wool",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    178,
+    147,
+    111
+   ],
+   "share": 0.011,
+   "material": "leather",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 5,
+   "rgb": [
+    165,
+    165,
+    165
+   ],
+   "share": 0.002,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

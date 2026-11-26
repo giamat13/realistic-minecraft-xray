@@ -1,0 +1,73 @@
+{
+ "path": "entity/illager/vindicator.png",
+ "depicts": "vindicator illager: pale-skinned axe-wielder in dark teal and dark clothing with iron axe and dark hair",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    61,
+    53,
+    51
+   ],
+   "share": 0.463,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    144,
+    150,
+    150
+   ],
+   "share": 0.242,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    39,
+    29,
+    31
+   ],
+   "share": 0.138,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 3,
+   "rgb": [
+    42,
+    80,
+    81
+   ],
+   "share": 0.097,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    109,
+    114,
+    114
+   ],
+   "share": 0.058,
+   "material": "iron",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "share": 0.001,
+   "material": "textile",
+   "thickness_cm": 0.1
+  }
+ ]
+}

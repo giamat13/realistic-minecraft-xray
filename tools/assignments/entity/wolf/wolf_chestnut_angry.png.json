@@ -1,0 +1,73 @@
+{
+ "path": "entity/wolf/wolf_chestnut_angry.png",
+ "depicts": "Angry chestnut wolf: brown fur over skin, dark nose, red eyes and mouth",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    214,
+    182,
+    164
+   ],
+   "share": 0.495,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    148,
+    124,
+    115
+   ],
+   "share": 0.33,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    75,
+    60,
+    62
+   ],
+   "share": 0.148,
+   "material": "soft_tissue",
+   "thickness_cm": 10.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    30,
+    26,
+    27
+   ],
+   "share": 0.022,
+   "material": "keratin",
+   "thickness_cm": 0.3
+  },
+  {
+   "id": 4,
+   "rgb": [
+    182,
+    15,
+    15
+   ],
+   "share": 0.002,
+   "material": "blood",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 5,
+   "rgb": [
+    228,
+    46,
+    46
+   ],
+   "share": 0.002,
+   "material": "blood",
+   "thickness_cm": 0.1
+  }
+ ]
+}

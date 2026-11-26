@@ -1,0 +1,73 @@
+{
+ "path": "entity/villager/baby/desert.png",
+ "depicts": "baby villager desert-type overlay (tan skin on face and hands, green and orange robe trim, brown leather shoes)",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    218,
+    174,
+    116
+   ],
+   "share": 0.337,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    25,
+    66,
+    36
+   ],
+   "share": 0.217,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    209,
+    81,
+    4
+   ],
+   "share": 0.201,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    69,
+    83,
+    40
+   ],
+   "share": 0.142,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    244,
+    211,
+    165
+   ],
+   "share": 0.083,
+   "material": "soft_tissue",
+   "thickness_cm": 6.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    167,
+    109,
+    64
+   ],
+   "share": 0.022,
+   "material": "leather",
+   "thickness_cm": 0.2
+  }
+ ]
+}

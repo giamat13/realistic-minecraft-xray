@@ -1,0 +1,73 @@
+{
+ "path": "entity/zombie/drowned_outer_layer.png",
+ "depicts": "adult drowned outer clothing layer: wet teal and brown rags/cloth with green algae patches",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    50,
+    88,
+    85
+   ],
+   "share": 0.308,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 1,
+   "rgb": [
+    88,
+    61,
+    43
+   ],
+   "share": 0.3,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 2,
+   "rgb": [
+    82,
+    116,
+    112
+   ],
+   "share": 0.217,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 3,
+   "rgb": [
+    120,
+    90,
+    62
+   ],
+   "share": 0.075,
+   "material": "leather",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 4,
+   "rgb": [
+    78,
+    158,
+    127
+   ],
+   "share": 0.056,
+   "material": "textile",
+   "thickness_cm": 0.2
+  },
+  {
+   "id": 5,
+   "rgb": [
+    42,
+    131,
+    0
+   ],
+   "share": 0.044,
+   "material": "plant_tissue",
+   "thickness_cm": 0.3
+  }
+ ]
+}

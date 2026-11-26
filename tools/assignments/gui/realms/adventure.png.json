@@ -1,0 +1,73 @@
+{
+ "path": "gui/realms/adventure.png",
+ "depicts": "Realms 'adventure' key-art thumbnail: dark forest canopy, grassy meadow, grey rocky cliffs, sky and pale cloud haze",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    15,
+    43,
+    6
+   ],
+   "share": 0.372,
+   "material": "foliage",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    29,
+    88,
+    14
+   ],
+   "share": 0.178,
+   "material": "grass",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    65,
+    73,
+    64
+   ],
+   "share": 0.173,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    108,
+    111,
+    110
+   ],
+   "share": 0.119,
+   "material": "stone",
+   "thickness_cm": 100.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    127,
+    173,
+    254
+   ],
+   "share": 0.117,
+   "material": "air",
+   "thickness_cm": 1000.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    177,
+    186,
+    202
+   ],
+   "share": 0.04,
+   "material": "water",
+   "thickness_cm": 0.5
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "path": "gui/sprites/boss_bar/notched_12_progress.png",
+ "depicts": "boss-bar fill with 12-notch divider lines, transparent except near-black notch marks",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    2,
+    2,
+    2
+   ],
+   "share": 1.0,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

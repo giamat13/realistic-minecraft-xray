@@ -1,0 +1,51 @@
+{
+ "path": "gui/checkmark.png",
+ "depicts": "green checkmark glyph (tick sprite) in several green shades, GUI glyph",
+ "kind": "gui",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    4,
+    169,
+    53
+   ],
+   "share": 0.41,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 1,
+   "rgb": [
+    41,
+    67,
+    49
+   ],
+   "share": 0.231,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 2,
+   "rgb": [
+    4,
+    135,
+    43
+   ],
+   "share": 0.179,
+   "material": "steel",
+   "thickness_cm": 0.1
+  },
+  {
+   "id": 3,
+   "rgb": [
+    4,
+    203,
+    64
+   ],
+   "share": 0.179,
+   "material": "steel",
+   "thickness_cm": 0.1
+  }
+ ]
+}

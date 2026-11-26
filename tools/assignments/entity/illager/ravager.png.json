@@ -1,0 +1,73 @@
+{
+ "path": "entity/illager/ravager.png",
+ "depicts": "ravager: grey-brown armoured beast with thick hide over muscle, bone horns and teeth, reddish-orange mouth and eyes",
+ "kind": "entity",
+ "clusters": [
+  {
+   "id": 0,
+   "rgb": [
+    81,
+    76,
+    72
+   ],
+   "share": 0.814,
+   "material": "muscle",
+   "thickness_cm": 30.0
+  },
+  {
+   "id": 1,
+   "rgb": [
+    125,
+    153,
+    151
+   ],
+   "share": 0.106,
+   "material": "bone",
+   "thickness_cm": 2.0
+  },
+  {
+   "id": 2,
+   "rgb": [
+    41,
+    41,
+    38
+   ],
+   "share": 0.039,
+   "material": "keratin",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 3,
+   "rgb": [
+    201,
+    207,
+    207
+   ],
+   "share": 0.022,
+   "material": "bone",
+   "thickness_cm": 1.0
+  },
+  {
+   "id": 4,
+   "rgb": [
+    146,
+    67,
+    29
+   ],
+   "share": 0.013,
+   "material": "muscle",
+   "thickness_cm": 5.0
+  },
+  {
+   "id": 5,
+   "rgb": [
+    218,
+    102,
+    44
+   ],
+   "share": 0.004,
+   "material": "muscle",
+   "thickness_cm": 5.0
+  }
+ ]
+}
