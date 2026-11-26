@@ -1,7 +1,7 @@
 """Render every texture from its per-region material assignment using the X-ray physics model.
 Usage: python3 tools/physics_render.py [--out DIR] [--only-assigned]
 Needs tools/assignments/<rel>.json for each texture (made by the annotators), /tmp/mc sources (texsrc.py)."""
-import sys, os, json, pathlib, argparse, zlib
+import sys, os, json, pathlib, argparse, zlib, subprocess
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
 from PIL import Image
@@ -104,6 +104,9 @@ def main():
         if mc is not None: (out / (rel + ".mcmeta")).write_bytes(mc)
         n += 1
     print(f"rendered {n}, missing assignments {miss}")
-    return 1 if miss and not a.only_assigned else 0
+    if a.out == ap.get_default("out"):   # creatures are painted as radiographs on top of the flat render
+        for script in ("generate_mob_skeletons.py", "generate_player_skins.py"):
+            subprocess.run([sys.executable, str(pathlib.Path(__file__).with_name(script))], check=True)
+    return1 if miss and not a.only_assigned else 0
 if __name__ == "__main__":
     sys.exit(main())
