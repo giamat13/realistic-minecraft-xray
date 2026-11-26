@@ -27,6 +27,14 @@
     "log": {
       "force_translucent": true,
       "sprite": "block/campfire_log"
+    },
+    "xray_campfire_log_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/campfire_log_d400"
+    },
+    "xray_campfire_log_d100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/campfire_log_d100"
     }
   },
   "elements": [
@@ -59,7 +67,7 @@
             16,
             5
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "south": {
           "uv": [
@@ -78,7 +86,7 @@
             0,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "up": {
           "uv": [
@@ -88,7 +96,7 @@
             4
           ],
           "rotation": 90,
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "down": {
           "uv": [
@@ -98,7 +106,7 @@
             4
           ],
           "rotation": 90,
-          "texture": "#log",
+          "texture": "#xray_campfire_log_d400",
           "cullface": "down"
         }
       }
@@ -122,7 +130,7 @@
             0,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "east": {
           "uv": [
@@ -141,7 +149,7 @@
             16,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "west": {
           "uv": [
@@ -161,7 +169,7 @@
             4
           ],
           "rotation": 180,
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "down": {
           "uv": [
@@ -170,7 +178,7 @@
             16,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         }
       }
     },
@@ -203,7 +211,7 @@
             16,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "south": {
           "uv": [
@@ -222,7 +230,7 @@
             0,
             5
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "up": {
           "uv": [
@@ -232,7 +240,7 @@
             4
           ],
           "rotation": 90,
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "down": {
           "uv": [
@@ -242,7 +250,7 @@
             4
           ],
           "rotation": 90,
-          "texture": "#log",
+          "texture": "#xray_campfire_log_d400",
           "cullface": "down"
         }
       }
@@ -266,7 +274,7 @@
             16,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "east": {
           "uv": [
@@ -285,7 +293,7 @@
             0,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "west": {
           "uv": [
@@ -305,7 +313,7 @@
             4
           ],
           "rotation": 180,
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "down": {
           "uv": [
@@ -314,7 +322,7 @@
             16,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         }
       }
     },
@@ -358,7 +366,7 @@
             14
           ],
           "rotation": 90,
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d100"
         },
         "down": {
           "uv": [
@@ -368,7 +376,7 @@
             14
           ],
           "rotation": 90,
-          "texture": "#log",
+          "texture": "#xray_campfire_log_d100",
           "cullface": "down"
         }
       }

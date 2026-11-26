@@ -8,6 +8,453 @@
     "lit_log": {
       "force_translucent": true,
       "sprite": "minecraft:block/campfire_log_lit"
+    },
+    "xray_campfire_log_lit_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/campfire_log_lit_d400"
+    },
+    "xray_campfire_log_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/campfire_log_d400"
+    },
+    "xray_campfire_log_lit_d100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/campfire_log_lit_d100"
+    },
+    "xray_campfire_log_d100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/campfire_log_d100"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        1,
+        0,
+        0
+      ],
+      "to": [
+        5,
+        4,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#log",
+          "cullface": "north"
+        },
+        "east": {
+          "uv": [
+            0,
+            1,
+            16,
+            5
+          ],
+          "texture": "#xray_campfire_log_lit_d400"
+        },
+        "south": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#log",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            16,
+            0,
+            0,
+            4
+          ],
+          "texture": "#xray_campfire_log_d400"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "rotation": 90,
+          "texture": "#xray_campfire_log_d400"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "rotation": 90,
+          "texture": "#xray_campfire_log_d400",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        3,
+        11
+      ],
+      "to": [
+        16,
+        7,
+        15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            16,
+            0,
+            0,
+            4
+          ],
+          "texture": "#xray_campfire_log_lit_d400"
+        },
+        "east": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#log",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "texture": "#xray_campfire_log_lit_d400"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#log",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "rotation": 180,
+          "texture": "#xray_campfire_log_d400"
+        },
+        "down": {
+          "uv": [
+            0,
+            4,
+            16,
+            8
+          ],
+          "texture": "#xray_campfire_log_lit_d400"
+        }
+      }
+    },
+    {
+      "from": [
+        11,
+        0,
+        0
+      ],
+      "to": [
+        15,
+        4,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#log",
+          "cullface": "north"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "texture": "#xray_campfire_log_d400"
+        },
+        "south": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#log",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            16,
+            1,
+            0,
+            5
+          ],
+          "texture": "#xray_campfire_log_lit_d400"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "rotation": 90,
+          "texture": "#xray_campfire_log_d400"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "rotation": 90,
+          "texture": "#xray_campfire_log_d400",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        3,
+        1
+      ],
+      "to": [
+        16,
+        7,
+        5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "texture": "#xray_campfire_log_lit_d400"
+        },
+        "east": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#log",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            0,
+            4
+          ],
+          "texture": "#xray_campfire_log_lit_d400"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#log",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "rotation": 180,
+          "texture": "#xray_campfire_log_d400"
+        },
+        "down": {
+          "uv": [
+            0,
+            4,
+            16,
+            8
+          ],
+          "texture": "#xray_campfire_log_lit_d400"
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        0,
+        0
+      ],
+      "to": [
+        11,
+        1,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            15,
+            6,
+            16
+          ],
+          "texture": "#log",
+          "cullface": "north"
+        },
+        "south": {
+          "uv": [
+            10,
+            15,
+            16,
+            16
+          ],
+          "texture": "#log",
+          "cullface": "south"
+        },
+        "up": {
+          "uv": [
+            0,
+            8,
+            16,
+            14
+          ],
+          "rotation": 90,
+          "texture": "#xray_campfire_log_lit_d100"
+        },
+        "down": {
+          "uv": [
+            0,
+            8,
+            16,
+            14
+          ],
+          "rotation": 90,
+          "texture": "#xray_campfire_log_d100",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "from": [
+        0.8,
+        1,
+        8
+      ],
+      "to": [
+        15.2,
+        17,
+        8
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 45,
+        "rescale": true
+      },
+      "shade_direction_override": "up",
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#fire"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#fire"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        1,
+        0.8
+      ],
+      "to": [
+        8,
+        17,
+        15.2
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 45,
+        "rescale": true
+      },
+      "shade_direction_override": "up",
+      "faces": {
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#fire"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#fire"
+        }
+      }
+    }
+  ]
 }

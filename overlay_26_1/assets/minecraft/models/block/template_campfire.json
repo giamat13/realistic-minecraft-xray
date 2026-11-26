@@ -17,6 +17,14 @@
     "log": {
       "force_translucent": true,
       "sprite": "block/campfire_log"
+    },
+    "xray_campfire_log_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/campfire_log_d400"
+    },
+    "xray_campfire_log_d100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/campfire_log_d100"
     }
   },
   "elements": [
@@ -68,7 +76,7 @@
             0,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "up": {
           "uv": [
@@ -78,7 +86,7 @@
             4
           ],
           "rotation": 90,
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "down": {
           "uv": [
@@ -88,7 +96,7 @@
             4
           ],
           "rotation": 90,
-          "texture": "#log",
+          "texture": "#xray_campfire_log_d400",
           "cullface": "down"
         }
       }
@@ -151,7 +159,7 @@
             4
           ],
           "rotation": 180,
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "down": {
           "uv": [
@@ -193,7 +201,7 @@
             16,
             4
           ],
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "south": {
           "uv": [
@@ -222,7 +230,7 @@
             4
           ],
           "rotation": 90,
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "down": {
           "uv": [
@@ -232,7 +240,7 @@
             4
           ],
           "rotation": 90,
-          "texture": "#log",
+          "texture": "#xray_campfire_log_d400",
           "cullface": "down"
         }
       }
@@ -295,7 +303,7 @@
             4
           ],
           "rotation": 180,
-          "texture": "#log"
+          "texture": "#xray_campfire_log_d400"
         },
         "down": {
           "uv": [
@@ -358,7 +366,7 @@
             14
           ],
           "rotation": 90,
-          "texture": "#log",
+          "texture": "#xray_campfire_log_d100",
           "cullface": "down"
         }
       }

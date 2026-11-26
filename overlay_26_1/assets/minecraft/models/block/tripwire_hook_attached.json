@@ -15,6 +15,26 @@
     "tripwire": {
       "force_translucent": true,
       "sprite": "block/tripwire"
+    },
+    "xray_oak_planks_d160": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/oak_planks_d160"
+    },
+    "xray_oak_planks_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/oak_planks_d400"
+    },
+    "xray_oak_planks_d140": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/oak_planks_d140"
+    },
+    "xray_oak_planks_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/oak_planks_d800"
+    },
+    "xray_oak_planks_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/oak_planks_d200"
     }
   },
   "elements": [
@@ -291,7 +311,7 @@
             9,
             14
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d160"
         },
         "up": {
           "uv": [
@@ -300,7 +320,7 @@
             9,
             7
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d160"
         },
         "north": {
           "uv": [
@@ -309,7 +329,7 @@
             9,
             11
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d400"
         },
         "west": {
           "uv": [
@@ -318,7 +338,7 @@
             7,
             11
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d140"
         },
         "east": {
           "uv": [
@@ -327,7 +347,7 @@
             14,
             11
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d140"
         }
       }
     },
@@ -350,7 +370,7 @@
             10,
             16
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d800"
         },
         "up": {
           "uv": [
@@ -359,7 +379,7 @@
             10,
             2
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d800"
         },
         "north": {
           "uv": [
@@ -368,7 +388,7 @@
             10,
             15
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d200"
         },
         "south": {
           "uv": [
@@ -377,7 +397,7 @@
             10,
             15
           ],
-          "texture": "#wood",
+          "texture": "#xray_oak_planks_d200",
           "cullface": "south"
         },
         "west": {
@@ -387,7 +407,7 @@
             2,
             15
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d400"
         },
         "east": {
           "uv": [
@@ -396,7 +416,7 @@
             16,
             15
           ],
-          "texture": "#wood"
+          "texture": "#xray_oak_planks_d400"
         }
       }
     }

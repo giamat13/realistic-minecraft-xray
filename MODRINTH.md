@@ -3,7 +3,7 @@
 **Project type:** Resource Pack
 **Name:** Realistic X-Ray
 **Slug:** realistic-xray
-**Summary (max 256 chars):** A black-and-white X-ray pack that behaves like a real radiograph: dense materials (ores, metals) glow bright and opaque, light ones (stone, dirt, wood, leaves, water) fade away. Covers blocks, items, GUI and mobs.
+**Summary (max 256 chars):** A black-and-white pack that behaves like a real radiograph: denser materials look brighter, full blocks block the beam, thin things let it through. Covers blocks, items, GUI and mobs.
 **Categories:** Utility, Realistic
 **Environment:** Client
 **License:** choose carefully, see "Licensing" below
@@ -19,15 +19,15 @@
 Real X-ray: density decides how a block looks.
 
 - Everything is strictly black and white, and every texture (blocks, items, GUI, mobs, particles) was assigned real materials per region and run through an X-ray attenuation simulation with real NIST XCOM data.
-- Dense materials (ancient debris, netherite, gold, diamond, iron, ores) are bright and nearly opaque.
-- Medium materials (stone, deepslate, obsidian) are translucent gray.
-- Light materials (dirt, sand, wood, leaves, water, glass) almost vanish.
-- Heavy-metal ores (gold, copper, iron, redstone) stand out; diamond, coal and emerald are nearly invisible against stone, just like in a real radiograph.
-- Mixed textures are split by region: for example the grass strip on a grass block side is see-through while the dirt below is denser. Ores show a faint host rock with bright metal blobs.
+- This is not a cheat x-ray: a metre of stone, dirt, wood or glass stops X-rays, so you cannot see through it.
+- Thin or porous things (doors, plants, torches, cobwebs) are partly see-through.
+- Denser materials (netherite, gold, iron) are brighter than rock, wood and soil.
+- Heavy-metal ores (gold, copper, iron, redstone) stand out from the rock; diamond, coal and emerald barely differ from it, just like in a real radiograph.
+- Mixed textures are split by region.
 - Covers every block, item, GUI element, mob, particle, sky texture and effect in each supported version.
 
 **26.1 and newer:** true partial translucency.
-**1.19.4 to 1.21.11:** resource packs cannot make a block translucent, so light blocks disappear entirely (classic x-ray) and dense ones stay solid.
+**1.19.4 to 1.21.11:** resource packs cannot make a block translucent, so cube blocks that let most radiation through are hidden and the rest stay solid.
 
 On 1.19.4 to 1.20.1 the game shows an "incompatible pack format" warning; the pack still loads.
 

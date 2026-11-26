@@ -12,6 +12,202 @@
     "west": {
       "force_translucent": true,
       "sprite": "minecraft:block/pink_bed_head_west"
+    },
+    "xray_pink_bed_head_west_d300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/pink_bed_head_west_d300"
+    },
+    "xray_pink_bed_head_east_d300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/pink_bed_head_east_d300"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        3,
+        0
+      ],
+      "to": [
+        16,
+        9,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#down"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#up"
+        },
+        "north": {
+          "uv": [
+            0,
+            7,
+            16,
+            13
+          ],
+          "texture": "#north",
+          "cullface": "north"
+        },
+        "west": {
+          "uv": [
+            0,
+            7,
+            16,
+            13
+          ],
+          "texture": "#west",
+          "cullface": "west"
+        },
+        "east": {
+          "uv": [
+            0,
+            7,
+            16,
+            13
+          ],
+          "texture": "#east",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        3,
+        3,
+        3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            13,
+            9,
+            16
+          ],
+          "texture": "#xray_pink_bed_head_west_d300",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            13,
+            13,
+            16,
+            16
+          ],
+          "texture": "#north",
+          "cullface": "north"
+        },
+        "south": {
+          "uv": [
+            3,
+            13,
+            6,
+            16
+          ],
+          "texture": "#xray_pink_bed_head_west_d300"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            3,
+            16
+          ],
+          "texture": "#xray_pink_bed_head_west_d300",
+          "cullface": "west"
+        },
+        "east": {
+          "uv": [
+            10,
+            13,
+            13,
+            16
+          ],
+          "texture": "#north"
+        }
+      }
+    },
+    {
+      "from": [
+        13,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        3,
+        3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            13,
+            10,
+            16
+          ],
+          "texture": "#xray_pink_bed_head_east_d300",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            0,
+            13,
+            3,
+            16
+          ],
+          "texture": "#north",
+          "cullface": "north"
+        },
+        "south": {
+          "uv": [
+            10,
+            13,
+            13,
+            16
+          ],
+          "texture": "#xray_pink_bed_head_east_d300"
+        },
+        "west": {
+          "uv": [
+            3,
+            13,
+            6,
+            16
+          ],
+          "texture": "#north"
+        },
+        "east": {
+          "uv": [
+            13,
+            13,
+            16,
+            16
+          ],
+          "texture": "#xray_pink_bed_head_east_d300",
+          "cullface": "east"
+        }
+      }
+    }
+  ]
 }

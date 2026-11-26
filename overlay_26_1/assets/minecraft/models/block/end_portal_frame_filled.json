@@ -19,6 +19,14 @@
     "eye": {
       "force_translucent": true,
       "sprite": "block/end_portal_frame_eye"
+    },
+    "xray_end_stone_d1300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/end_stone_d1300"
+    },
+    "xray_end_portal_frame_top_d1300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/end_portal_frame_top_d1300"
     }
   },
   "elements": [
@@ -41,7 +49,7 @@
             16,
             16
           ],
-          "texture": "#bottom",
+          "texture": "#xray_end_stone_d1300",
           "cullface": "down"
         },
         "up": {
@@ -51,7 +59,7 @@
             16,
             16
           ],
-          "texture": "#top"
+          "texture": "#xray_end_portal_frame_top_d1300"
         },
         "north": {
           "uv": [

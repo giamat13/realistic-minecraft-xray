@@ -4,6 +4,162 @@
     "wall": {
       "force_translucent": true,
       "sprite": "minecraft:block/red_sandstone"
+    },
+    "xray_red_sandstone_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/red_sandstone_d800"
+    },
+    "xray_red_sandstone_d1300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/red_sandstone_d1300"
+    },
+    "xray_red_sandstone_d600": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/red_sandstone_d600"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        0,
+        4
+      ],
+      "to": [
+        12,
+        16,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#wall",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#wall"
+        },
+        "north": {
+          "uv": [
+            4,
+            0,
+            12,
+            16
+          ],
+          "texture": "#xray_red_sandstone_d800"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            12,
+            16
+          ],
+          "texture": "#xray_red_sandstone_d800"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            12,
+            16
+          ],
+          "texture": "#xray_red_sandstone_d800"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            12,
+            16
+          ],
+          "texture": "#xray_red_sandstone_d800"
+        }
+      },
+      "__comment": "Center post"
+    },
+    {
+      "from": [
+        5,
+        0,
+        0
+      ],
+      "to": [
+        11,
+        13,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5,
+            0,
+            11,
+            16
+          ],
+          "texture": "#xray_red_sandstone_d1300",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            5,
+            0,
+            11,
+            16
+          ],
+          "texture": "#xray_red_sandstone_d1300"
+        },
+        "north": {
+          "uv": [
+            5,
+            3,
+            11,
+            16
+          ],
+          "texture": "#wall",
+          "cullface": "north"
+        },
+        "south": {
+          "uv": [
+            5,
+            3,
+            11,
+            16
+          ],
+          "texture": "#wall",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            0,
+            3,
+            16,
+            16
+          ],
+          "texture": "#xray_red_sandstone_d600"
+        },
+        "east": {
+          "uv": [
+            0,
+            3,
+            16,
+            16
+          ],
+          "texture": "#xray_red_sandstone_d600"
+        }
+      },
+      "__comment": "Full wall"
+    }
+  ]
 }

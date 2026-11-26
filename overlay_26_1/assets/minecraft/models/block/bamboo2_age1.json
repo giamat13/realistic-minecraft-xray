@@ -7,6 +7,10 @@
     "particle": {
       "force_translucent": true,
       "sprite": "block/bamboo_stalk"
+    },
+    "xray_bamboo_stalk_d300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/bamboo_stalk_d300"
     }
   },
   "elements": [
@@ -49,7 +53,7 @@
             6,
             16
           ],
-          "texture": "#all"
+          "texture": "#xray_bamboo_stalk_d300"
         },
         "south": {
           "uv": [
@@ -58,7 +62,7 @@
             6,
             16
           ],
-          "texture": "#all"
+          "texture": "#xray_bamboo_stalk_d300"
         },
         "west": {
           "uv": [
@@ -67,7 +71,7 @@
             6,
             16
           ],
-          "texture": "#all"
+          "texture": "#xray_bamboo_stalk_d300"
         },
         "east": {
           "uv": [
@@ -76,7 +80,7 @@
             6,
             16
           ],
-          "texture": "#all"
+          "texture": "#xray_bamboo_stalk_d300"
         }
       }
     }

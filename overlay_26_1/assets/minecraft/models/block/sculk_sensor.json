@@ -20,6 +20,14 @@
     "particle": {
       "force_translucent": true,
       "sprite": "block/sculk_sensor_bottom"
+    },
+    "xray_sculk_sensor_top_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/sculk_sensor_top_d800"
+    },
+    "xray_sculk_sensor_bottom_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/sculk_sensor_bottom_d800"
     }
   },
   "elements": [
@@ -82,7 +90,7 @@
             16,
             16
           ],
-          "texture": "#top"
+          "texture": "#xray_sculk_sensor_top_d800"
         },
         "down": {
           "uv": [
@@ -91,7 +99,7 @@
             16,
             16
           ],
-          "texture": "#bottom",
+          "texture": "#xray_sculk_sensor_bottom_d800",
           "cullface": "down"
         }
       }

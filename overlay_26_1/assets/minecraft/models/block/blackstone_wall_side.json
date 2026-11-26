@@ -4,6 +4,52 @@
     "wall": {
       "force_translucent": true,
       "sprite": "minecraft:block/blackstone"
+    },
+    "xray_blackstone_d1400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/blackstone_d1400"
+    },
+    "xray_blackstone_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/blackstone_d800"
+    },
+    "xray_blackstone_d600": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/blackstone_d600"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        5,
+        0,
+        0
+      ],
+      "to": [
+        11,
+        14,
+        8
+      ],
+      "faces": {
+        "down": {
+          "texture": "#xray_blackstone_d1400",
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#xray_blackstone_d1400"
+        },
+        "north": {
+          "texture": "#xray_blackstone_d800",
+          "cullface": "north"
+        },
+        "west": {
+          "texture": "#xray_blackstone_d600"
+        },
+        "east": {
+          "texture": "#xray_blackstone_d600"
+        }
+      },
+      "__comment": "wall"
+    }
+  ]
 }

@@ -16,6 +16,168 @@
     "top": {
       "force_translucent": true,
       "sprite": "minecraft:block/vault_top_ejecting_ominous"
+    },
+    "xray_vault_front_ejecting_ominous_d1600": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/vault_front_ejecting_ominous_d1600"
+    },
+    "xray_vault_side_on_ominous_d1600": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/vault_side_on_ominous_d1600"
+    },
+    "xray_vault_top_ejecting_ominous_d1300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/vault_top_ejecting_ominous_d1300"
+    },
+    "xray_vault_bottom_ominous_d1300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/vault_bottom_ominous_d1300"
     }
-  }
+  },
+  "elements": [
+    {
+      "name": "cage",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#front",
+          "cullface": "north"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#side",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#side",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#side",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#top",
+          "cullface": "up"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#bottom",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "cage_inverted_faces",
+      "from": [
+        15.998,
+        3.002,
+        0.002
+      ],
+      "to": [
+        0.002,
+        15.998,
+        15.998
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            16,
+            0,
+            0,
+            13
+          ],
+          "texture": "#xray_vault_front_ejecting_ominous_d1600"
+        },
+        "east": {
+          "uv": [
+            16,
+            0,
+            0,
+            13
+          ],
+          "texture": "#xray_vault_side_on_ominous_d1600"
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            0,
+            13
+          ],
+          "texture": "#xray_vault_side_on_ominous_d1600"
+        },
+        "west": {
+          "uv": [
+            16,
+            0,
+            0,
+            13
+          ],
+          "texture": "#xray_vault_side_on_ominous_d1600"
+        },
+        "up": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#xray_vault_top_ejecting_ominous_d1300"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#xray_vault_bottom_ominous_d1300"
+        }
+      }
+    }
+  ]
 }

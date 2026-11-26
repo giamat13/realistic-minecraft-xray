@@ -4,6 +4,47 @@
     "wall": {
       "force_translucent": true,
       "sprite": "minecraft:block/sulfur"
+    },
+    "xray_sulfur_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/sulfur_d800"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        0,
+        4
+      ],
+      "to": [
+        12,
+        16,
+        12
+      ],
+      "faces": {
+        "down": {
+          "texture": "#wall",
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#wall",
+          "cullface": "up"
+        },
+        "north": {
+          "texture": "#xray_sulfur_d800"
+        },
+        "south": {
+          "texture": "#xray_sulfur_d800"
+        },
+        "west": {
+          "texture": "#xray_sulfur_d800"
+        },
+        "east": {
+          "texture": "#xray_sulfur_d800"
+        }
+      },
+      "__comment": "Center post"
+    }
+  ]
 }

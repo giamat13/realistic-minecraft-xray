@@ -4,6 +4,52 @@
     "wall": {
       "force_translucent": true,
       "sprite": "minecraft:block/tuff_bricks"
+    },
+    "xray_tuff_bricks_d1400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/tuff_bricks_d1400"
+    },
+    "xray_tuff_bricks_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/tuff_bricks_d800"
+    },
+    "xray_tuff_bricks_d600": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/tuff_bricks_d600"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        5,
+        0,
+        0
+      ],
+      "to": [
+        11,
+        14,
+        8
+      ],
+      "faces": {
+        "down": {
+          "texture": "#xray_tuff_bricks_d1400",
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#xray_tuff_bricks_d1400"
+        },
+        "north": {
+          "texture": "#xray_tuff_bricks_d800",
+          "cullface": "north"
+        },
+        "west": {
+          "texture": "#xray_tuff_bricks_d600"
+        },
+        "east": {
+          "texture": "#xray_tuff_bricks_d600"
+        }
+      },
+      "__comment": "wall"
+    }
+  ]
 }

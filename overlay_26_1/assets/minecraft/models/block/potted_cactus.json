@@ -16,6 +16,14 @@
     "cactus": {
       "force_translucent": true,
       "sprite": "block/cactus_side"
+    },
+    "xray_cactus_top_d1100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/cactus_top_d1100"
+    },
+    "xray_cactus_side_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/cactus_side_d400"
     }
   },
   "elements": [
@@ -71,7 +79,7 @@
       ],
       "faces": {
         "up": {
-          "texture": "#cactus_top",
+          "texture": "#xray_cactus_top_d1100",
           "cullface": "up"
         },
         "north": {
@@ -81,7 +89,7 @@
             10,
             11
           ],
-          "texture": "#cactus"
+          "texture": "#xray_cactus_side_d400"
         },
         "south": {
           "uv": [
@@ -90,7 +98,7 @@
             10,
             11
           ],
-          "texture": "#cactus"
+          "texture": "#xray_cactus_side_d400"
         },
         "west": {
           "uv": [
@@ -99,7 +107,7 @@
             10,
             11
           ],
-          "texture": "#cactus"
+          "texture": "#xray_cactus_side_d400"
         },
         "east": {
           "uv": [
@@ -108,7 +116,7 @@
             10,
             11
           ],
-          "texture": "#cactus"
+          "texture": "#xray_cactus_side_d400"
         }
       }
     }

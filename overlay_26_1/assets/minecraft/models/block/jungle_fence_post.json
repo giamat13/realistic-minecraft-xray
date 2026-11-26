@@ -4,6 +4,83 @@
     "texture": {
       "force_translucent": true,
       "sprite": "minecraft:block/jungle_planks"
+    },
+    "xray_jungle_planks_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/jungle_planks_d400"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        0,
+        6
+      ],
+      "to": [
+        10,
+        16,
+        10
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            6,
+            10,
+            10
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            6,
+            6,
+            10,
+            10
+          ],
+          "texture": "#texture",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            6,
+            0,
+            10,
+            16
+          ],
+          "texture": "#xray_jungle_planks_d400"
+        },
+        "south": {
+          "uv": [
+            6,
+            0,
+            10,
+            16
+          ],
+          "texture": "#xray_jungle_planks_d400"
+        },
+        "west": {
+          "uv": [
+            6,
+            0,
+            10,
+            16
+          ],
+          "texture": "#xray_jungle_planks_d400"
+        },
+        "east": {
+          "uv": [
+            6,
+            0,
+            10,
+            16
+          ],
+          "texture": "#xray_jungle_planks_d400"
+        }
+      },
+      "__comment": "Center post"
+    }
+  ]
 }

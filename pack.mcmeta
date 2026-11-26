@@ -9,10 +9,22 @@
   "overlays": {
     "entries": [
       {
+        "directory": "overlay_compat",
+        "min_format": 13,
+        "max_format": 13,
+        "formats": { "min_inclusive": 13, "max_inclusive": 13 }
+      },
+      {
         "directory": "overlay_26_1",
         "min_format": 84,
         "max_format": 999,
         "formats": { "min_inclusive": 84, "max_inclusive": 999 }
+      },
+      {
+        "directory": "overlay_26_2",
+        "min_format": 88,
+        "max_format": 88,
+        "formats": { "min_inclusive": 88, "max_inclusive": 88 }
       }
     ]
   }

@@ -14,20 +14,33 @@ LOG = np.log10
 #   small objects    : 0 = 0.5 mm of water,                    1 = 5 cm of steel
 LO_BLOCK, HI_BLOCK = LOG(xp.tau_eff(MATS["foliage"], 100)), LOG(xp.tau_eff(MATS["gold"], 100))
 LO_OBJ, HI_OBJ = LOG(xp.tau_eff(MATS["water"], 0.05)), LOG(xp.tau_eff(MATS["steel"], 5))
-RELATIVE_KINDS = {"gui", "font", "misc", "map", "colormap", "palettes", "environment", "particle", "effect"}
-DETAIL = 1.2   # texture shading modulates density/path length (cosmetic mottle, clipped to x0.3..x1.7)
+RELATIVE_KINDS = {"gui", "font", "map", "colormap", "palettes", "particle", "effect"}
+BLEND_MASKS = ("misc/", "environment/")
+# The game multiplies water by the biome colour (default #3F76E4). These textures are divided by it in
+# advance, so water comes out gray there; the price is that it cannot be brighter than 0x3F.
+WATER = ("block/water_still", "block/water_flow", "block/water_overlay")
+WATER_TINT = np.array([0x3F, 0x76, 0xE4], float)
+MIN_ITEM_ALPHA = 55  # display floor: things fainter than ~0.1 alpha are discarded by the game
+# thin water in air: an X-ray passes straight through
+AIRBORNE = ("environment/clouds", "environment/rain", "environment/snow")
+DETAIL = 1.2   #texture shading modulates density/path length (cosmetic mottle, clipped to x0.3..x1.7)
 
 def render(rel, arr, asg):
     h, w = arr.shape[:2]
     first = clusters.first_frame(arr)
     cl = asg["clusters"]
-    if not cl or not (arr[..., 3] > 0).any():      # fully transparent texture: nothing to attenuate
+    if rel.startswith(AIRBORNE) or not cl or not (arr[..., 3] > 0).any():      # nothing that attenuates
         return np.zeros((h, w, 4), np.uint8)
     cen = np.array([c["rgb"] for c in cl], float)
     rgb = arr[..., :3].astype(float)
     lum = (0.299 * rgb[..., 0] + 0.587 * rgb[..., 1] + 0.114 * rgb[..., 2]) / 255
     d = ((rgb[:, :, None, :] - cen[None, None]) ** 2).sum(-1)
     lab = d.argmin(-1)
+    if rel.startswith(BLEND_MASKS):
+        # screen effects and sky: the game uses brightness as a blend mask (black = no effect),
+        # so keep the exact source luminance instead of a density gray
+        g = np.where(arr[..., 3] > 0, np.rint(lum * 255), 0).astype(np.uint8)
+        return np.dstack([g, g, g, arr[..., 3]]).astype(np.uint8)
     clum = (0.299 * cen[:, 0] + 0.587 * cen[:, 1] + 0.114 * cen[:, 2]) / 255
     kind = asg.get("kind", rel.split("/")[0])
     is_block = rel.startswith("block/")
@@ -47,7 +60,12 @@ def render(rel, arr, asg):
     valid = src_a > 0
     if is_block:
         gray = 40 + 215 * s
-        alpha = (12 + 243 * s) * src_a / 255
+        # real opacity 1 - transmission (Beer-Lambert); s only sets the gray. Water's own alpha is
+        # the game's see-through look, so it is ignored.
+        alpha = -np.expm1(-10.0 ** logt) * (np.where(valid, 255.0, 0.0) if rel.startswith(WATER) else src_a)
+    elif rel.startswith("particle/") or (rel.startswith("item/") and kind not in RELATIVE_KINDS):
+        gray = 150 + 105 * s   # bright, so whatever attenuates reads lighter than the background
+        alpha = np.maximum(-np.expm1(-10.0 ** logt) * 255, MIN_ITEM_ALPHA) * src_a / 255
     elif kind in RELATIVE_KINDS:
         lt = logt[valid]
         rel_s = (logt - lt.min()) / (lt.max() - lt.min()) if valid.any() and lt.max() > lt.min() else np.full_like(logt, 0.8)
@@ -61,6 +79,10 @@ def render(rel, arr, asg):
     gray = gray + rng.normal(0, 2.0, size=gray.shape) * (1 if is_block else 0.5)
     g = np.where(valid, np.clip(np.rint(gray), 0, 255), 0).astype(np.uint8)
     a = np.where(valid, np.clip(np.rint(alpha), 0, 255), 0).astype(np.uint8)
+    if rel.startswith(WATER):
+        v = g / max(g.max(), 1) * WATER_TINT.min()
+        rgb = np.clip(np.rint(v[..., None] * 255 / WATER_TINT), 0, 255).astype(np.uint8)
+        return np.dstack([rgb, a])
     return np.dstack([g, g, g, a])
 
 def main():

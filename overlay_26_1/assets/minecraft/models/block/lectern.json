@@ -60,6 +60,38 @@
     "top": {
       "force_translucent": true,
       "sprite": "block/lectern_top"
+    },
+    "xray_lectern_base_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/lectern_base_d200"
+    },
+    "xray_oak_planks_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/oak_planks_d200"
+    },
+    "xray_lectern_front_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/lectern_front_d800"
+    },
+    "xray_lectern_sides_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/lectern_sides_d800"
+    },
+    "xray_lectern_sides_d1300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/lectern_sides_d1300"
+    },
+    "xray_lectern_sides_d1598": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/lectern_sides_d1598"
+    },
+    "xray_lectern_top_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/lectern_top_d400"
+    },
+    "xray_oak_planks_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/oak_planks_d400"
     }
   },
   "elements": [
@@ -123,7 +155,7 @@
             16
           ],
           "rotation": 180,
-          "texture": "#base"
+          "texture": "#xray_lectern_base_d200"
         },
         "down": {
           "uv": [
@@ -132,7 +164,7 @@
             16,
             16
           ],
-          "texture": "#bottom",
+          "texture": "#xray_oak_planks_d200",
           "cullface": "down"
         }
       }
@@ -156,7 +188,7 @@
             8,
             13
           ],
-          "texture": "#front"
+          "texture": "#xray_lectern_front_d800"
         },
         "east": {
           "uv": [
@@ -166,7 +198,7 @@
             8
           ],
           "rotation": 90,
-          "texture": "#sides"
+          "texture": "#xray_lectern_sides_d800"
         },
         "south": {
           "uv": [
@@ -175,7 +207,7 @@
             16,
             16
           ],
-          "texture": "#front"
+          "texture": "#xray_lectern_front_d800"
         },
         "west": {
           "uv": [
@@ -185,7 +217,7 @@
             16
           ],
           "rotation": 90,
-          "texture": "#sides"
+          "texture": "#xray_lectern_sides_d800"
         }
       }
     },
@@ -217,7 +249,7 @@
             16,
             4
           ],
-          "texture": "#sides"
+          "texture": "#xray_lectern_sides_d1300"
         },
         "east": {
           "uv": [
@@ -226,7 +258,7 @@
             13,
             8
           ],
-          "texture": "#sides"
+          "texture": "#xray_lectern_sides_d1598"
         },
         "south": {
           "uv": [
@@ -235,7 +267,7 @@
             16,
             8
           ],
-          "texture": "#sides"
+          "texture": "#xray_lectern_sides_d1300"
         },
         "west": {
           "uv": [
@@ -244,7 +276,7 @@
             13,
             8
           ],
-          "texture": "#sides"
+          "texture": "#xray_lectern_sides_d1598"
         },
         "up": {
           "uv": [
@@ -254,7 +286,7 @@
             14
           ],
           "rotation": 180,
-          "texture": "#top"
+          "texture": "#xray_lectern_top_d400"
         },
         "down": {
           "uv": [
@@ -263,7 +295,7 @@
             16,
             13
           ],
-          "texture": "#bottom"
+          "texture": "#xray_oak_planks_d400"
         }
       }
     }

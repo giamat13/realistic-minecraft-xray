@@ -9,7 +9,15 @@
       "force_translucent": true,
       "sprite": "block/mangrove_roots_top"
     },
-    "particle": "#side"
+    "particle": "#side",
+    "xray_mangrove_roots_top_d0": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/mangrove_roots_top_d0"
+    },
+    "xray_mangrove_roots_side_d0": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/mangrove_roots_side_d0"
+    }
   },
   "elements": [
     {
@@ -95,7 +103,7 @@
             16,
             0
           ],
-          "texture": "#top",
+          "texture": "#xray_mangrove_roots_top_d0",
           "cullface": "up"
         },
         "up": {
@@ -105,7 +113,7 @@
             16,
             16
           ],
-          "texture": "#top",
+          "texture": "#xray_mangrove_roots_top_d0",
           "cullface": "up"
         }
       }
@@ -129,7 +137,7 @@
             16,
             16
           ],
-          "texture": "#top",
+          "texture": "#xray_mangrove_roots_top_d0",
           "cullface": "down"
         },
         "up": {
@@ -139,7 +147,7 @@
             16,
             0
           ],
-          "texture": "#top",
+          "texture": "#xray_mangrove_roots_top_d0",
           "cullface": "down"
         }
       }
@@ -163,7 +171,7 @@
             16,
             16
           ],
-          "texture": "#side",
+          "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "north"
         },
         "south": {
@@ -173,7 +181,7 @@
             0,
             16
           ],
-          "texture": "#side",
+          "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "north"
         }
       }
@@ -197,7 +205,7 @@
             0,
             16
           ],
-          "texture": "#side",
+          "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "south"
         },
         "south": {
@@ -207,7 +215,7 @@
             16,
             16
           ],
-          "texture": "#side",
+          "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "south"
         }
       }
@@ -231,7 +239,7 @@
             0,
             16
           ],
-          "texture": "#side",
+          "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "west"
         },
         "west": {
@@ -241,7 +249,7 @@
             16,
             16
           ],
-          "texture": "#side",
+          "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "west"
         }
       }
@@ -265,7 +273,7 @@
             16,
             16
           ],
-          "texture": "#side",
+          "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "east"
         },
         "west": {
@@ -275,7 +283,7 @@
             0,
             16
           ],
-          "texture": "#side",
+          "texture": "#xray_mangrove_roots_side_d0",
           "cullface": "east"
         }
       }

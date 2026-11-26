@@ -44,6 +44,10 @@
     "particle": {
       "force_translucent": true,
       "sprite": "block/end_rod"
+    },
+    "xray_end_rod_d100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/end_rod_d100"
     }
   },
   "elements": [
@@ -66,7 +70,7 @@
             2,
             2
           ],
-          "texture": "#end_rod",
+          "texture": "#xray_end_rod_d100",
           "cullface": "down"
         },
         "up": {
@@ -76,7 +80,7 @@
             6,
             6
           ],
-          "texture": "#end_rod"
+          "texture": "#xray_end_rod_d100"
         },
         "north": {
           "uv": [

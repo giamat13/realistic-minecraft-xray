@@ -32,6 +32,616 @@
     "west": {
       "force_translucent": true,
       "sprite": "minecraft:block/dried_ghast_hydration_3_west"
+    },
+    "xray_dried_ghast_hydration_3_north_d1000": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dried_ghast_hydration_3_north_d1000"
+    },
+    "xray_dried_ghast_hydration_3_east_d1000": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dried_ghast_hydration_3_east_d1000"
+    },
+    "xray_dried_ghast_hydration_3_south_d1000": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dried_ghast_hydration_3_south_d1000"
+    },
+    "xray_dried_ghast_hydration_3_west_d1000": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dried_ghast_hydration_3_west_d1000"
+    },
+    "xray_dried_ghast_hydration_3_top_d1000": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dried_ghast_hydration_3_top_d1000"
+    },
+    "xray_dried_ghast_hydration_3_bottom_d1000": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dried_ghast_hydration_3_bottom_d1000"
+    },
+    "xray_dried_ghast_hydration_3_tentacles_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dried_ghast_hydration_3_tentacles_d200"
+    },
+    "xray_dried_ghast_hydration_3_tentacles_d300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dried_ghast_hydration_3_tentacles_d300"
+    },
+    "xray_dried_ghast_hydration_3_tentacles_d100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dried_ghast_hydration_3_tentacles_d100"
     }
-  }
+  },
+  "elements": [
+    {
+      "name": "body",
+      "from": [
+        3,
+        0,
+        3
+      ],
+      "to": [
+        13,
+        10,
+        13
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          11,
+          0,
+          11
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_north_d1000"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_east_d1000"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_south_d1000"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_west_d1000"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "rotation": 180,
+          "texture": "#xray_dried_ghast_hydration_3_top_d1000"
+        },
+        "down": {
+          "uv": [
+            10,
+            0,
+            0,
+            10
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_bottom_d1000",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "left_tent_1",
+      "from": [
+        0,
+        0,
+        5
+      ],
+      "to": [
+        3,
+        1,
+        7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          13
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            1.5,
+            2.5,
+            2
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "east": {
+          "uv": [
+            0,
+            1.5,
+            1,
+            2
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            1.5,
+            5,
+            2
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "west": {
+          "uv": [
+            2.5,
+            1.5,
+            3.5,
+            2
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            1.5,
+            1.5,
+            0
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100"
+        },
+        "down": {
+          "uv": [
+            2.5,
+            1.5,
+            3.5,
+            0
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "left_tent_2",
+      "from": [
+        0,
+        0,
+        9
+      ],
+      "to": [
+        3,
+        1,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          17
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            3.5,
+            2.5,
+            4
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "east": {
+          "uv": [
+            0,
+            3.5,
+            1,
+            4
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            3.5,
+            5,
+            4
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "west": {
+          "uv": [
+            2.5,
+            3.5,
+            3.5,
+            4
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            3.5,
+            1.5,
+            2
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100"
+        },
+        "down": {
+          "uv": [
+            2.5,
+            3.5,
+            3.5,
+            2
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "right_tent_1",
+      "from": [
+        13,
+        0,
+        5
+      ],
+      "to": [
+        16,
+        1,
+        7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          13
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2.5,
+            7.5,
+            1,
+            8
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            7.5,
+            2.5,
+            8
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [
+            5,
+            7.5,
+            3.5,
+            8
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "west": {
+          "uv": [
+            1,
+            7.5,
+            0,
+            8
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            6,
+            1.5,
+            7.5
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100"
+        },
+        "down": {
+          "uv": [
+            2.5,
+            6,
+            3.5,
+            7.5
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "right_tent_2",
+      "from": [
+        13,
+        0,
+        9
+      ],
+      "to": [
+        16,
+        1,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          17
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2.5,
+            5.5,
+            1,
+            6
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            5.5,
+            2.5,
+            6
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [
+            5,
+            5.5,
+            3.5,
+            6
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "west": {
+          "uv": [
+            1,
+            5.5,
+            0,
+            6
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            4,
+            1.5,
+            5.5
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100"
+        },
+        "down": {
+          "uv": [
+            2.5,
+            4,
+            3.5,
+            5.5
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "back_tent_2",
+      "from": [
+        9,
+        0,
+        13
+      ],
+      "to": [
+        11,
+        1,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          10.5,
+          0.5,
+          14.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            2.5,
+            5,
+            3
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            2.5,
+            6,
+            3
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            2.5,
+            7.5,
+            3
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            10,
+            2.5,
+            8.5,
+            3
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "up": {
+          "uv": [
+            6,
+            2.5,
+            7.5,
+            1.5
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100"
+        },
+        "down": {
+          "uv": [
+            7.5,
+            1.5,
+            9,
+            2.5
+          ],
+          "rotation": 270,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "back_tent_1",
+      "from": [
+        5,
+        0,
+        13
+      ],
+      "to": [
+        7,
+        1,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          5.5,
+          0.5,
+          14.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            1,
+            5,
+            1.5
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            1,
+            6,
+            1.5
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            1,
+            7.5,
+            1.5
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d300",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            10,
+            1,
+            8.5,
+            1.5
+          ],
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d200"
+        },
+        "up": {
+          "uv": [
+            6,
+            1,
+            7.5,
+            0
+          ],
+          "rotation": 90,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100"
+        },
+        "down": {
+          "uv": [
+            7.5,
+            0,
+            9,
+            1
+          ],
+          "rotation": 270,
+          "texture": "#xray_dried_ghast_hydration_3_tentacles_d100",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
 }

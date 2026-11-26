@@ -7,6 +7,10 @@
     "particle": {
       "force_translucent": true,
       "sprite": "block/straw_bed_particle"
+    },
+    "xray_straw_bed_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/straw_bed_d400"
     }
   },
   "elements": [
@@ -69,7 +73,7 @@
             2,
             3.25
           ],
-          "texture": "#all"
+          "texture": "#xray_straw_bed_d400"
         },
         "down": {
           "uv": [
@@ -78,7 +82,7 @@
             6,
             5.25
           ],
-          "texture": "#all",
+          "texture": "#xray_straw_bed_d400",
           "cullface": "down"
         }
       }

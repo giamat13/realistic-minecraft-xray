@@ -16,6 +16,10 @@
     "bottom": {
       "force_translucent": true,
       "sprite": "block/scaffolding_bottom"
+    },
+    "xray_scaffolding_top_d1": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/scaffolding_top_d1"
     }
   },
   "elements": [
@@ -32,11 +36,11 @@
       ],
       "faces": {
         "up": {
-          "texture": "#top",
+          "texture": "#xray_scaffolding_top_d1",
           "cullface": "up"
         },
         "down": {
-          "texture": "#top",
+          "texture": "#xray_scaffolding_top_d1",
           "uv": [
             0,
             16,

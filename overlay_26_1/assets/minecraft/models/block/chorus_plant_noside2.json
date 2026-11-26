@@ -12,6 +12,18 @@
     "particle": {
       "force_translucent": true,
       "sprite": "block/chorus_plant"
+    },
+    "xray_chorus_plant_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/chorus_plant_d800"
+    },
+    "xray_chorus_plant_d600": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/chorus_plant_d600"
+    },
+    "xray_chorus_plant_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/chorus_plant_d200"
     }
   },
   "elements": [
@@ -28,7 +40,7 @@
       ],
       "faces": {
         "north": {
-          "texture": "#inside"
+          "texture": "#xray_chorus_plant_d800"
         }
       }
     },
@@ -45,19 +57,19 @@
       ],
       "faces": {
         "down": {
-          "texture": "#texture"
+          "texture": "#xray_chorus_plant_d600"
         },
         "up": {
-          "texture": "#texture"
+          "texture": "#xray_chorus_plant_d600"
         },
         "north": {
-          "texture": "#texture"
+          "texture": "#xray_chorus_plant_d200"
         },
         "west": {
-          "texture": "#texture"
+          "texture": "#xray_chorus_plant_d600"
         },
         "east": {
-          "texture": "#texture"
+          "texture": "#xray_chorus_plant_d600"
         }
       }
     }

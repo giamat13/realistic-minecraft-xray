@@ -4,6 +4,140 @@
     "texture": {
       "force_translucent": true,
       "sprite": "minecraft:block/bamboo_fence"
+    },
+    "xray_bamboo_fence_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/bamboo_fence_d200"
+    },
+    "xray_bamboo_fence_d300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/bamboo_fence_d300"
     }
-  }
+  },
+  "elements": [
+    {
+      "name": "top bar",
+      "from": [
+        7,
+        12,
+        0
+      ],
+      "to": [
+        9,
+        15,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            13,
+            4,
+            15,
+            7
+          ],
+          "rotation": 180,
+          "texture": "#texture",
+          "cullface": "north"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            13,
+            7
+          ],
+          "texture": "#xray_bamboo_fence_d200"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            13,
+            7
+          ],
+          "texture": "#xray_bamboo_fence_d200"
+        },
+        "up": {
+          "uv": [
+            13,
+            7,
+            15,
+            16
+          ],
+          "texture": "#xray_bamboo_fence_d300"
+        },
+        "down": {
+          "uv": [
+            13,
+            7,
+            15,
+            16
+          ],
+          "texture": "#xray_bamboo_fence_d300"
+        }
+      }
+    },
+    {
+      "name": "lower bar",
+      "from": [
+        7,
+        6,
+        0
+      ],
+      "to": [
+        9,
+        9,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            13,
+            4,
+            15,
+            7
+          ],
+          "rotation": 180,
+          "texture": "#texture",
+          "cullface": "north"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            13,
+            7
+          ],
+          "texture": "#xray_bamboo_fence_d200"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            13,
+            7
+          ],
+          "texture": "#xray_bamboo_fence_d200"
+        },
+        "up": {
+          "uv": [
+            13,
+            7,
+            15,
+            16
+          ],
+          "texture": "#xray_bamboo_fence_d300"
+        },
+        "down": {
+          "uv": [
+            13,
+            7,
+            15,
+            16
+          ],
+          "texture": "#xray_bamboo_fence_d300"
+        }
+      }
+    }
+  ]
 }

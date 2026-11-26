@@ -4,6 +4,142 @@
     "texture": {
       "force_translucent": true,
       "sprite": "minecraft:block/nether_bricks"
+    },
+    "xray_nether_bricks_d300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/nether_bricks_d300"
+    },
+    "xray_nether_bricks_d900": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/nether_bricks_d900"
+    },
+    "xray_nether_bricks_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/nether_bricks_d200"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        7,
+        12,
+        0
+      ],
+      "to": [
+        9,
+        15,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            0,
+            9,
+            9
+          ],
+          "texture": "#xray_nether_bricks_d300"
+        },
+        "up": {
+          "uv": [
+            7,
+            0,
+            9,
+            9
+          ],
+          "texture": "#xray_nether_bricks_d300"
+        },
+        "north": {
+          "uv": [
+            7,
+            1,
+            9,
+            4
+          ],
+          "texture": "#xray_nether_bricks_d900",
+          "cullface": "north"
+        },
+        "west": {
+          "uv": [
+            0,
+            1,
+            9,
+            4
+          ],
+          "texture": "#xray_nether_bricks_d200"
+        },
+        "east": {
+          "uv": [
+            0,
+            1,
+            9,
+            4
+          ],
+          "texture": "#xray_nether_bricks_d200"
+        }
+      },
+      "__comment": "top bar"
+    },
+    {
+      "from": [
+        7,
+        6,
+        0
+      ],
+      "to": [
+        9,
+        9,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            0,
+            9,
+            9
+          ],
+          "texture": "#xray_nether_bricks_d300"
+        },
+        "up": {
+          "uv": [
+            7,
+            0,
+            9,
+            9
+          ],
+          "texture": "#xray_nether_bricks_d300"
+        },
+        "north": {
+          "uv": [
+            7,
+            7,
+            9,
+            10
+          ],
+          "texture": "#xray_nether_bricks_d900",
+          "cullface": "north"
+        },
+        "west": {
+          "uv": [
+            0,
+            7,
+            9,
+            10
+          ],
+          "texture": "#xray_nether_bricks_d200"
+        },
+        "east": {
+          "uv": [
+            0,
+            7,
+            9,
+            10
+          ],
+          "texture": "#xray_nether_bricks_d200"
+        }
+      },
+      "__comment": "lower bar"
+    }
+  ]
 }

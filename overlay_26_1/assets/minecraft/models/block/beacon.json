@@ -16,6 +16,22 @@
     "beacon": {
       "force_translucent": true,
       "sprite": "block/beacon"
+    },
+    "xray_obsidian_d290": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/obsidian_d290"
+    },
+    "xray_obsidian_d1200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/obsidian_d1200"
+    },
+    "xray_beacon_d1100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/beacon_d1100"
+    },
+    "xray_beacon_d1000": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/beacon_d1000"
     }
   },
   "elements": [
@@ -108,7 +124,7 @@
             14,
             14
           ],
-          "texture": "#obsidian"
+          "texture": "#xray_obsidian_d290"
         },
         "up": {
           "uv": [
@@ -117,7 +133,7 @@
             14,
             14
           ],
-          "texture": "#obsidian"
+          "texture": "#xray_obsidian_d290"
         },
         "north": {
           "uv": [
@@ -126,7 +142,7 @@
             14,
             16
           ],
-          "texture": "#obsidian"
+          "texture": "#xray_obsidian_d1200"
         },
         "south": {
           "uv": [
@@ -135,7 +151,7 @@
             14,
             16
           ],
-          "texture": "#obsidian"
+          "texture": "#xray_obsidian_d1200"
         },
         "west": {
           "uv": [
@@ -144,7 +160,7 @@
             14,
             16
           ],
-          "texture": "#obsidian"
+          "texture": "#xray_obsidian_d1200"
         },
         "east": {
           "uv": [
@@ -153,7 +169,7 @@
             14,
             16
           ],
-          "texture": "#obsidian"
+          "texture": "#xray_obsidian_d1200"
         }
       }
     },
@@ -177,7 +193,7 @@
             13,
             13
           ],
-          "texture": "#beacon"
+          "texture": "#xray_beacon_d1100"
         },
         "up": {
           "uv": [
@@ -186,7 +202,7 @@
             13,
             13
           ],
-          "texture": "#beacon"
+          "texture": "#xray_beacon_d1100"
         },
         "north": {
           "uv": [
@@ -195,7 +211,7 @@
             13,
             13
           ],
-          "texture": "#beacon"
+          "texture": "#xray_beacon_d1000"
         },
         "south": {
           "uv": [
@@ -204,7 +220,7 @@
             13,
             13
           ],
-          "texture": "#beacon"
+          "texture": "#xray_beacon_d1000"
         },
         "west": {
           "uv": [
@@ -213,7 +229,7 @@
             13,
             13
           ],
-          "texture": "#beacon"
+          "texture": "#xray_beacon_d1000"
         },
         "east": {
           "uv": [
@@ -222,7 +238,7 @@
             13,
             13
           ],
-          "texture": "#beacon"
+          "texture": "#xray_beacon_d1000"
         }
       }
     }

@@ -19,6 +19,10 @@
     "inside": {
       "force_translucent": true,
       "sprite": "block/cake_inner"
+    },
+    "xray_cake_side_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/cake_side_d800"
     }
   },
   "elements": [
@@ -51,7 +55,7 @@
           "texture": "#inside"
         },
         "east": {
-          "texture": "#side"
+          "texture": "#xray_cake_side_d800"
         }
       }
     }

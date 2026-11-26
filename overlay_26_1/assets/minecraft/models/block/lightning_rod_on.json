@@ -4,6 +4,147 @@
     "texture": {
       "force_translucent": true,
       "sprite": "block/lightning_rod_on"
+    },
+    "xray_lightning_rod_on_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/lightning_rod_on_d400"
+    },
+    "xray_lightning_rod_on_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/lightning_rod_on_d200"
+    },
+    "xray_lightning_rod_on_d1200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/lightning_rod_on_d1200"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        12,
+        6
+      ],
+      "to": [
+        10,
+        16,
+        10
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#xray_lightning_rod_on_d400"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#xray_lightning_rod_on_d400"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#xray_lightning_rod_on_d400"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#xray_lightning_rod_on_d400"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#xray_lightning_rod_on_d400"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            0,
+            0
+          ],
+          "texture": "#xray_lightning_rod_on_d400"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        0,
+        7
+      ],
+      "to": [
+        9,
+        12,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            4,
+            2,
+            16
+          ],
+          "texture": "#xray_lightning_rod_on_d200"
+        },
+        "south": {
+          "uv": [
+            0,
+            4,
+            2,
+            16
+          ],
+          "texture": "#xray_lightning_rod_on_d200"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            2,
+            16
+          ],
+          "texture": "#xray_lightning_rod_on_d200"
+        },
+        "east": {
+          "uv": [
+            0,
+            4,
+            2,
+            16
+          ],
+          "texture": "#xray_lightning_rod_on_d200"
+        },
+        "down": {
+          "uv": [
+            0,
+            4,
+            2,
+            6
+          ],
+          "texture": "#xray_lightning_rod_on_d1200"
+        }
+      }
+    }
+  ]
 }

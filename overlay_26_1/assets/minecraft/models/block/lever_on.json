@@ -12,6 +12,18 @@
     "lever": {
       "force_translucent": true,
       "sprite": "block/lever"
+    },
+    "xray_cobblestone_d300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/cobblestone_d300"
+    },
+    "xray_cobblestone_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/cobblestone_d800"
+    },
+    "xray_cobblestone_d600": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/cobblestone_d600"
     }
   },
   "elements": [
@@ -34,7 +46,7 @@
             11,
             12
           ],
-          "texture": "#base",
+          "texture": "#xray_cobblestone_d300",
           "cullface": "down"
         },
         "up": {
@@ -44,7 +56,7 @@
             11,
             12
           ],
-          "texture": "#base"
+          "texture": "#xray_cobblestone_d300"
         },
         "north": {
           "uv": [
@@ -53,7 +65,7 @@
             11,
             3
           ],
-          "texture": "#base"
+          "texture": "#xray_cobblestone_d800"
         },
         "south": {
           "uv": [
@@ -62,7 +74,7 @@
             11,
             3
           ],
-          "texture": "#base"
+          "texture": "#xray_cobblestone_d800"
         },
         "west": {
           "uv": [
@@ -71,7 +83,7 @@
             12,
             3
           ],
-          "texture": "#base"
+          "texture": "#xray_cobblestone_d600"
         },
         "east": {
           "uv": [
@@ -80,7 +92,7 @@
             12,
             3
           ],
-          "texture": "#base"
+          "texture": "#xray_cobblestone_d600"
         }
       }
     },

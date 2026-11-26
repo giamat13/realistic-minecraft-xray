@@ -8,6 +8,76 @@
     "pane": {
       "force_translucent": true,
       "sprite": "minecraft:block/pink_stained_glass"
+    },
+    "xray_pink_stained_glass_pane_top_d700": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/pink_stained_glass_pane_top_d700"
+    },
+    "xray_pink_stained_glass_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/pink_stained_glass_d200"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        7,
+        0,
+        9
+      ],
+      "to": [
+        9,
+        16,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            0,
+            9,
+            7
+          ],
+          "texture": "#edge"
+        },
+        "up": {
+          "uv": [
+            7,
+            0,
+            9,
+            7
+          ],
+          "texture": "#edge"
+        },
+        "south": {
+          "uv": [
+            7,
+            0,
+            9,
+            16
+          ],
+          "texture": "#xray_pink_stained_glass_pane_top_d700",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            7,
+            0,
+            0,
+            16
+          ],
+          "texture": "#xray_pink_stained_glass_d200"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            7,
+            16
+          ],
+          "texture": "#xray_pink_stained_glass_d200"
+        }
+      }
+    }
+  ]
 }

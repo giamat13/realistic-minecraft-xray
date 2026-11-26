@@ -16,6 +16,18 @@
     "side": {
       "force_translucent": true,
       "sprite": "block/honey_block_side"
+    },
+    "xray_honey_block_bottom_d1400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/honey_block_bottom_d1400"
+    },
+    "xray_honey_block_top_d1400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/honey_block_top_d1400"
+    },
+    "xray_honey_block_side_d1400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/honey_block_side_d1400"
     }
   },
   "elements": [
@@ -76,7 +88,7 @@
             15,
             15
           ],
-          "texture": "#down"
+          "texture": "#xray_honey_block_bottom_d1400"
         },
         "up": {
           "uv": [
@@ -85,7 +97,7 @@
             15,
             15
           ],
-          "texture": "#up"
+          "texture": "#xray_honey_block_top_d1400"
         },
         "north": {
           "uv": [
@@ -94,7 +106,7 @@
             15,
             15
           ],
-          "texture": "#side"
+          "texture": "#xray_honey_block_side_d1400"
         },
         "south": {
           "uv": [
@@ -103,7 +115,7 @@
             15,
             15
           ],
-          "texture": "#side"
+          "texture": "#xray_honey_block_side_d1400"
         },
         "west": {
           "uv": [
@@ -112,7 +124,7 @@
             15,
             15
           ],
-          "texture": "#side"
+          "texture": "#xray_honey_block_side_d1400"
         },
         "east": {
           "uv": [
@@ -121,7 +133,7 @@
             15,
             15
           ],
-          "texture": "#side"
+          "texture": "#xray_honey_block_side_d1400"
         }
       }
     }

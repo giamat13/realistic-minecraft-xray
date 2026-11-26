@@ -8,6 +8,30 @@
     "body": {
       "force_translucent": true,
       "sprite": "block/anvil"
+    },
+    "xray_anvil_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/anvil_d400"
+    },
+    "xray_anvil_d1200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/anvil_d1200"
+    },
+    "xray_anvil_d100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/anvil_d100"
+    },
+    "xray_anvil_d1000": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/anvil_d1000"
+    },
+    "xray_anvil_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/anvil_d800"
+    },
+    "xray_anvil_d600": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/anvil_d600"
     }
   },
   "display": {
@@ -67,7 +91,7 @@
             14,
             14
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d400",
           "rotation": 180,
           "cullface": "down"
         },
@@ -78,7 +102,7 @@
             14,
             14
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d400",
           "rotation": 180
         },
         "north": {
@@ -88,7 +112,7 @@
             14,
             16
           ],
-          "texture": "#body"
+          "texture": "#xray_anvil_d1200"
         },
         "south": {
           "uv": [
@@ -97,7 +121,7 @@
             14,
             16
           ],
-          "texture": "#body"
+          "texture": "#xray_anvil_d1200"
         },
         "west": {
           "uv": [
@@ -106,7 +130,7 @@
             4,
             14
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d1200",
           "rotation": 90
         },
         "east": {
@@ -116,7 +140,7 @@
             0,
             14
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d1200",
           "rotation": 270
         }
       }
@@ -141,7 +165,7 @@
             12,
             13
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d100",
           "rotation": 180
         },
         "north": {
@@ -151,7 +175,7 @@
             12,
             12
           ],
-          "texture": "#body"
+          "texture": "#xray_anvil_d1000"
         },
         "south": {
           "uv": [
@@ -160,7 +184,7 @@
             12,
             12
           ],
-          "texture": "#body"
+          "texture": "#xray_anvil_d1000"
         },
         "west": {
           "uv": [
@@ -169,7 +193,7 @@
             5,
             13
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d800",
           "rotation": 90
         },
         "east": {
@@ -179,7 +203,7 @@
             4,
             13
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d800",
           "rotation": 270
         }
       }
@@ -204,7 +228,7 @@
             10,
             11
           ],
-          "texture": "#body"
+          "texture": "#xray_anvil_d800"
         },
         "south": {
           "uv": [
@@ -213,7 +237,7 @@
             10,
             11
           ],
-          "texture": "#body"
+          "texture": "#xray_anvil_d800"
         },
         "west": {
           "uv": [
@@ -222,7 +246,7 @@
             10,
             12
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d400",
           "rotation": 90
         },
         "east": {
@@ -232,7 +256,7 @@
             5,
             12
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d400",
           "rotation": 270
         }
       }
@@ -257,7 +281,7 @@
             13,
             16
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d600",
           "rotation": 180
         },
         "up": {
@@ -295,7 +319,7 @@
             16,
             16
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d1000",
           "rotation": 90
         },
         "east": {
@@ -305,7 +329,7 @@
             10,
             16
           ],
-          "texture": "#body",
+          "texture": "#xray_anvil_d1000",
           "rotation": 270
         }
       }

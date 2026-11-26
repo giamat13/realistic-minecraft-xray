@@ -20,6 +20,14 @@
     "particle": {
       "force_translucent": true,
       "sprite": "block/big_dripleaf_top"
+    },
+    "xray_big_dripleaf_tip_d0": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/big_dripleaf_tip_d0"
+    },
+    "xray_big_dripleaf_side_d0": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/big_dripleaf_side_d0"
     }
   },
   "elements": [
@@ -76,7 +84,7 @@
             16,
             4
           ],
-          "texture": "#tip",
+          "texture": "#xray_big_dripleaf_tip_d0",
           "cullface": "north"
         },
         "south": {
@@ -86,7 +94,7 @@
             0,
             4
           ],
-          "texture": "#tip"
+          "texture": "#xray_big_dripleaf_tip_d0"
         }
       }
     },
@@ -110,7 +118,7 @@
             0,
             4
           ],
-          "texture": "#side"
+          "texture": "#xray_big_dripleaf_side_d0"
         },
         "west": {
           "uv": [
@@ -119,7 +127,7 @@
             16,
             4
           ],
-          "texture": "#side",
+          "texture": "#xray_big_dripleaf_side_d0",
           "cullface": "west"
         }
       }
@@ -144,7 +152,7 @@
             0,
             4
           ],
-          "texture": "#side",
+          "texture": "#xray_big_dripleaf_side_d0",
           "cullface": "east"
         },
         "west": {
@@ -154,7 +162,7 @@
             16,
             4
           ],
-          "texture": "#side"
+          "texture": "#xray_big_dripleaf_side_d0"
         }
       }
     },

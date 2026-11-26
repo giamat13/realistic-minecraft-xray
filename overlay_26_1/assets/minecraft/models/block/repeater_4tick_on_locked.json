@@ -20,6 +20,18 @@
     "lock": {
       "force_translucent": true,
       "sprite": "block/bedrock"
+    },
+    "xray_smooth_stone_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/smooth_stone_d200"
+    },
+    "xray_bedrock_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/bedrock_d200"
+    },
+    "xray_bedrock_d1200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/bedrock_d1200"
     }
   },
   "elements": [
@@ -42,7 +54,7 @@
             16,
             16
           ],
-          "texture": "#slab",
+          "texture": "#xray_smooth_stone_d200",
           "cullface": "down"
         },
         "up": {
@@ -115,7 +127,7 @@
             9,
             14
           ],
-          "texture": "#lock",
+          "texture": "#xray_bedrock_d200",
           "rotation": 90
         },
         "north": {
@@ -125,7 +137,7 @@
             14,
             9
           ],
-          "texture": "#lock"
+          "texture": "#xray_bedrock_d200"
         },
         "south": {
           "uv": [
@@ -134,7 +146,7 @@
             14,
             9
           ],
-          "texture": "#lock"
+          "texture": "#xray_bedrock_d200"
         },
         "west": {
           "uv": [
@@ -143,7 +155,7 @@
             8,
             9
           ],
-          "texture": "#lock"
+          "texture": "#xray_bedrock_d1200"
         },
         "east": {
           "uv": [
@@ -152,7 +164,7 @@
             8,
             9
           ],
-          "texture": "#lock"
+          "texture": "#xray_bedrock_d1200"
         }
       }
     },

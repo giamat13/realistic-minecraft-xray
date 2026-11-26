@@ -4,6 +4,85 @@
     "texture": {
       "force_translucent": true,
       "sprite": "minecraft:block/jungle_planks"
+    },
+    "xray_jungle_planks_d100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/jungle_planks_d100"
+    },
+    "xray_jungle_planks_d1400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/jungle_planks_d1400"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        1,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        1,
+        15
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            1,
+            15,
+            15
+          ],
+          "texture": "#xray_jungle_planks_d100",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            1,
+            1,
+            15,
+            15
+          ],
+          "texture": "#xray_jungle_planks_d100"
+        },
+        "north": {
+          "uv": [
+            1,
+            15,
+            15,
+            16
+          ],
+          "texture": "#xray_jungle_planks_d1400"
+        },
+        "south": {
+          "uv": [
+            1,
+            15,
+            15,
+            16
+          ],
+          "texture": "#xray_jungle_planks_d1400"
+        },
+        "west": {
+          "uv": [
+            1,
+            15,
+            15,
+            16
+          ],
+          "texture": "#xray_jungle_planks_d1400"
+        },
+        "east": {
+          "uv": [
+            1,
+            15,
+            15,
+            16
+          ],
+          "texture": "#xray_jungle_planks_d1400"
+        }
+      }
+    }
+  ]
 }

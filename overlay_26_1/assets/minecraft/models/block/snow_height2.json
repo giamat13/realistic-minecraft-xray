@@ -8,6 +8,10 @@
     "texture": {
       "force_translucent": true,
       "sprite": "block/snow"
+    },
+    "xray_snow_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/snow_d200"
     }
   },
   "elements": [
@@ -30,7 +34,7 @@
             16,
             16
           ],
-          "texture": "#texture",
+          "texture": "#xray_snow_d200",
           "cullface": "down"
         },
         "up": {
@@ -40,7 +44,7 @@
             16,
             16
           ],
-          "texture": "#texture"
+          "texture": "#xray_snow_d200"
         },
         "north": {
           "uv": [
@@ -104,7 +108,7 @@
             16,
             16
           ],
-          "texture": "#texture"
+          "texture": "#xray_snow_d200"
         }
       }
     }

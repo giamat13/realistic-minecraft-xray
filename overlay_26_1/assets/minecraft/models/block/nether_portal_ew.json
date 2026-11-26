@@ -7,6 +7,10 @@
     "portal": {
       "force_translucent": true,
       "sprite": "block/nether_portal"
+    },
+    "xray_nether_portal_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/nether_portal_d400"
     }
   },
   "elements": [
@@ -29,7 +33,7 @@
             16,
             16
           ],
-          "texture": "#portal"
+          "texture": "#xray_nether_portal_d400"
         },
         "west": {
           "uv": [
@@ -38,7 +42,7 @@
             16,
             16
           ],
-          "texture": "#portal"
+          "texture": "#xray_nether_portal_d400"
         }
       }
     }

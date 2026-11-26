@@ -8,6 +8,76 @@
     "pane": {
       "force_translucent": true,
       "sprite": "minecraft:block/gray_stained_glass"
+    },
+    "xray_gray_stained_glass_pane_top_d700": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/gray_stained_glass_pane_top_d700"
+    },
+    "xray_gray_stained_glass_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/gray_stained_glass_d200"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        7,
+        0,
+        0
+      ],
+      "to": [
+        9,
+        16,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            0,
+            9,
+            7
+          ],
+          "texture": "#edge"
+        },
+        "up": {
+          "uv": [
+            7,
+            0,
+            9,
+            7
+          ],
+          "texture": "#edge"
+        },
+        "north": {
+          "uv": [
+            7,
+            0,
+            9,
+            16
+          ],
+          "texture": "#xray_gray_stained_glass_pane_top_d700",
+          "cullface": "north"
+        },
+        "west": {
+          "uv": [
+            16,
+            0,
+            9,
+            16
+          ],
+          "texture": "#xray_gray_stained_glass_d200"
+        },
+        "east": {
+          "uv": [
+            9,
+            0,
+            16,
+            16
+          ],
+          "texture": "#xray_gray_stained_glass_d200"
+        }
+      }
+    }
+  ]
 }

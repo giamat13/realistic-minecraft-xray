@@ -5,7 +5,15 @@
       "force_translucent": true,
       "sprite": "block/chorus_plant"
     },
-    "particle": "#texture"
+    "particle": "#texture",
+    "xray_chorus_plant_d1200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/chorus_plant_d1200"
+    },
+    "xray_chorus_plant_d1400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/chorus_plant_d1400"
+    }
   },
   "elements": [
     {
@@ -36,7 +44,7 @@
             14,
             2
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "south": {
           "uv": [
@@ -45,7 +53,7 @@
             14,
             2
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "west": {
           "uv": [
@@ -54,7 +62,7 @@
             14,
             2
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "east": {
           "uv": [
@@ -63,7 +71,7 @@
             14,
             2
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         }
       }
     },
@@ -86,7 +94,7 @@
             14,
             2
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "up": {
           "uv": [
@@ -95,7 +103,7 @@
             2,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "north": {
           "uv": [
@@ -104,7 +112,7 @@
             16,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "south": {
           "uv": [
@@ -113,7 +121,7 @@
             2,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "west": {
           "uv": [
@@ -145,7 +153,7 @@
             2,
             0
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "up": {
           "uv": [
@@ -154,7 +162,7 @@
             14,
             2
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "north": {
           "uv": [
@@ -172,7 +180,7 @@
             2,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "east": {
           "uv": [
@@ -181,7 +189,7 @@
             16,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         }
       }
     },
@@ -204,7 +212,7 @@
             2,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "up": {
           "uv": [
@@ -213,7 +221,7 @@
             14,
             16
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "south": {
           "uv": [
@@ -231,7 +239,7 @@
             16,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "east": {
           "uv": [
@@ -240,7 +248,7 @@
             2,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         }
       }
     },
@@ -263,7 +271,7 @@
             0,
             2
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "up": {
           "uv": [
@@ -272,7 +280,7 @@
             16,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "north": {
           "uv": [
@@ -281,7 +289,7 @@
             2,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "south": {
           "uv": [
@@ -290,7 +298,7 @@
             16,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "east": {
           "uv": [
@@ -322,7 +330,7 @@
             14,
             14
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1400"
         },
         "down": {
           "uv": [
@@ -331,7 +339,7 @@
             2,
             2
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1400"
         },
         "north": {
           "uv": [
@@ -340,7 +348,7 @@
             14,
             16
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "south": {
           "uv": [
@@ -349,7 +357,7 @@
             14,
             16
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "west": {
           "uv": [
@@ -358,7 +366,7 @@
             14,
             16
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         },
         "east": {
           "uv": [
@@ -367,7 +375,7 @@
             14,
             16
           ],
-          "texture": "#bottom"
+          "texture": "#xray_chorus_plant_d1200"
         }
       }
     }

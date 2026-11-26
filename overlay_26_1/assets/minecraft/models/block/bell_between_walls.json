@@ -7,6 +7,10 @@
     "bar": {
       "force_translucent": true,
       "sprite": "block/dark_oak_planks"
+    },
+    "xray_dark_oak_planks_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dark_oak_planks_d200"
     }
   },
   "elements": [
@@ -29,7 +33,7 @@
             14,
             4
           ],
-          "texture": "#bar"
+          "texture": "#xray_dark_oak_planks_d200"
         },
         "east": {
           "uv": [
@@ -48,7 +52,7 @@
             14,
             5
           ],
-          "texture": "#bar"
+          "texture": "#xray_dark_oak_planks_d200"
         },
         "west": {
           "uv": [
@@ -67,7 +71,7 @@
             14,
             5
           ],
-          "texture": "#bar"
+          "texture": "#xray_dark_oak_planks_d200"
         },
         "down": {
           "uv": [
@@ -76,7 +80,7 @@
             14,
             5
           ],
-          "texture": "#bar"
+          "texture": "#xray_dark_oak_planks_d200"
         }
       }
     }

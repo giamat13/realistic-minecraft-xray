@@ -9,7 +9,31 @@
       "force_translucent": true,
       "sprite": "block/shelf_mushroom_particle"
     },
-    "particle": "#mat1"
+    "particle": "#mat1",
+    "xray_shelf_mushroom_stage1_d1000": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/shelf_mushroom_stage1_d1000"
+    },
+    "xray_shelf_mushroom_stage1_d1400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/shelf_mushroom_stage1_d1400"
+    },
+    "xray_shelf_mushroom_stage1_d300": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/shelf_mushroom_stage1_d300"
+    },
+    "xray_shelf_mushroom_stage1_d600": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/shelf_mushroom_stage1_d600"
+    },
+    "xray_shelf_mushroom_stage1_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/shelf_mushroom_stage1_d800"
+    },
+    "xray_shelf_mushroom_stage1_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/shelf_mushroom_stage1_d200"
+    }
   },
   "elements": [
     {
@@ -32,7 +56,7 @@
             14,
             4.5
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d1000"
         },
         "east": {
           "uv": [
@@ -41,7 +65,7 @@
             12,
             1.5
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d1400"
         },
         "south": {
           "uv": [
@@ -50,7 +74,7 @@
             14,
             6
           ],
-          "texture": "#large",
+          "texture": "#xray_shelf_mushroom_stage1_d1000",
           "cullface": "south"
         },
         "west": {
@@ -60,7 +84,7 @@
             12,
             3
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d1400"
         },
         "up": {
           "uv": [
@@ -69,7 +93,7 @@
             0,
             0
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d300"
         },
         "down": {
           "uv": [
@@ -78,7 +102,7 @@
             0,
             10
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d300"
         }
       }
     },
@@ -102,7 +126,7 @@
             8,
             13
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d600"
         },
         "east": {
           "uv": [
@@ -111,7 +135,7 @@
             7,
             11
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d800"
         },
         "south": {
           "uv": [
@@ -120,7 +144,7 @@
             8,
             14
           ],
-          "texture": "#large",
+          "texture": "#xray_shelf_mushroom_stage1_d600",
           "cullface": "south"
         },
         "west": {
@@ -130,7 +154,7 @@
             7,
             12
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d800"
         },
         "up": {
           "uv": [
@@ -139,7 +163,7 @@
             0,
             10
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d200"
         },
         "down": {
           "uv": [
@@ -148,7 +172,7 @@
             0,
             16
           ],
-          "texture": "#large"
+          "texture": "#xray_shelf_mushroom_stage1_d200"
         }
       }
     }

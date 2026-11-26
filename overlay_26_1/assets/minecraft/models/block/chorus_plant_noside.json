@@ -12,6 +12,10 @@
     "particle": {
       "force_translucent": true,
       "sprite": "block/chorus_plant"
+    },
+    "xray_chorus_plant_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/chorus_plant_d800"
     }
   },
   "elements": [
@@ -28,7 +32,7 @@
       ],
       "faces": {
         "north": {
-          "texture": "#inside"
+          "texture": "#xray_chorus_plant_d800"
         }
       }
     }

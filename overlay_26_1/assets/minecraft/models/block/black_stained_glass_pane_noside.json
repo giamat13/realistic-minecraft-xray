@@ -4,6 +4,35 @@
     "pane": {
       "force_translucent": true,
       "sprite": "minecraft:block/black_stained_glass"
+    },
+    "xray_black_stained_glass_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/black_stained_glass_d200"
     }
-  }
+  },
+  "elements": [
+    {
+      "from": [
+        7,
+        0,
+        7
+      ],
+      "to": [
+        9,
+        16,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            9,
+            0,
+            7,
+            16
+          ],
+          "texture": "#xray_black_stained_glass_d200"
+        }
+      }
+    }
+  ]
 }

@@ -12,6 +12,10 @@
     "dirt": {
       "force_translucent": true,
       "sprite": "block/dirt"
+    },
+    "xray_dirt_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dirt_d400"
     }
   },
   "elements": [
@@ -284,7 +288,7 @@
             10,
             10
           ],
-          "texture": "#dirt"
+          "texture": "#xray_dirt_d400"
         }
       }
     },

@@ -7,6 +7,10 @@
     "inside": {
       "force_translucent": true,
       "sprite": "block/composter_compost"
+    },
+    "xray_composter_compost_d1100": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/composter_compost_d1100"
     }
   },
   "elements": [
@@ -23,7 +27,7 @@
       ],
       "faces": {
         "up": {
-          "texture": "#inside"
+          "texture": "#xray_composter_compost_d1100"
         }
       }
     }

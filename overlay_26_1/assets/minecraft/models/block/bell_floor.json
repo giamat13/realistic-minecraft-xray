@@ -11,6 +11,18 @@
     "post": {
       "force_translucent": true,
       "sprite": "block/stone"
+    },
+    "xray_dark_oak_planks_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/dark_oak_planks_d200"
+    },
+    "xray_stone_d400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/stone_d400"
+    },
+    "xray_stone_d200": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/stone_d200"
     }
   },
   "elements": [
@@ -33,7 +45,7 @@
             14,
             4
           ],
-          "texture": "#bar"
+          "texture": "#xray_dark_oak_planks_d200"
         },
         "south": {
           "uv": [
@@ -42,7 +54,7 @@
             14,
             5
           ],
-          "texture": "#bar"
+          "texture": "#xray_dark_oak_planks_d200"
         },
         "up": {
           "uv": [
@@ -51,7 +63,7 @@
             14,
             5
           ],
-          "texture": "#bar"
+          "texture": "#xray_dark_oak_planks_d200"
         },
         "down": {
           "uv": [
@@ -60,7 +72,7 @@
             14,
             5
           ],
-          "texture": "#bar"
+          "texture": "#xray_dark_oak_planks_d200"
         }
       }
     },
@@ -83,7 +95,7 @@
             2,
             16
           ],
-          "texture": "#post"
+          "texture": "#xray_stone_d400"
         },
         "east": {
           "uv": [
@@ -92,7 +104,7 @@
             4,
             16
           ],
-          "texture": "#post"
+          "texture": "#xray_stone_d200"
         },
         "south": {
           "uv": [
@@ -101,7 +113,7 @@
             2,
             16
           ],
-          "texture": "#post"
+          "texture": "#xray_stone_d400"
         },
         "west": {
           "uv": [
@@ -110,7 +122,7 @@
             4,
             16
           ],
-          "texture": "#post"
+          "texture": "#xray_stone_d200"
         },
         "up": {
           "uv": [
@@ -153,7 +165,7 @@
             2,
             16
           ],
-          "texture": "#post"
+          "texture": "#xray_stone_d400"
         },
         "east": {
           "uv": [
@@ -162,7 +174,7 @@
             4,
             16
           ],
-          "texture": "#post"
+          "texture": "#xray_stone_d200"
         },
         "south": {
           "uv": [
@@ -171,7 +183,7 @@
             2,
             16
           ],
-          "texture": "#post"
+          "texture": "#xray_stone_d400"
         },
         "west": {
           "uv": [
@@ -180,7 +192,7 @@
             4,
             16
           ],
-          "texture": "#post"
+          "texture": "#xray_stone_d200"
         },
         "up": {
           "uv": [

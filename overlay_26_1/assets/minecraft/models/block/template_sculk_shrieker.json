@@ -20,6 +20,22 @@
     "particle": {
       "force_translucent": true,
       "sprite": "block/sculk_shrieker_bottom"
+    },
+    "xray_sculk_shrieker_inner_top_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/sculk_shrieker_inner_top_d800"
+    },
+    "xray_sculk_shrieker_bottom_d800": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/sculk_shrieker_bottom_d800"
+    },
+    "xray_sculk_shrieker_side_d1400": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/sculk_shrieker_side_d1400"
+    },
+    "xray_sculk_shrieker_top_d700": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/sculk_shrieker_top_d700"
     }
   },
   "elements": [
@@ -83,7 +99,7 @@
             16,
             16
           ],
-          "texture": "#inner_top"
+          "texture": "#xray_sculk_shrieker_inner_top_d800"
         },
         "down": {
           "uv": [
@@ -92,7 +108,7 @@
             16,
             16
           ],
-          "texture": "#bottom",
+          "texture": "#xray_sculk_shrieker_bottom_d800",
           "cullface": "down"
         }
       }
@@ -117,7 +133,7 @@
             15,
             8
           ],
-          "texture": "#side"
+          "texture": "#xray_sculk_shrieker_side_d1400"
         },
         "east": {
           "uv": [
@@ -126,7 +142,7 @@
             15,
             8
           ],
-          "texture": "#side"
+          "texture": "#xray_sculk_shrieker_side_d1400"
         },
         "south": {
           "uv": [
@@ -135,7 +151,7 @@
             15,
             8
           ],
-          "texture": "#side"
+          "texture": "#xray_sculk_shrieker_side_d1400"
         },
         "west": {
           "uv": [
@@ -144,7 +160,7 @@
             15,
             8
           ],
-          "texture": "#side"
+          "texture": "#xray_sculk_shrieker_side_d1400"
         },
         "up": {
           "uv": [
@@ -153,7 +169,7 @@
             15,
             15
           ],
-          "texture": "#top"
+          "texture": "#xray_sculk_shrieker_top_d700"
         }
       }
     },

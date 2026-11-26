@@ -20,6 +20,14 @@
     "saw": {
       "force_translucent": true,
       "sprite": "block/stonecutter_saw"
+    },
+    "xray_stonecutter_bottom_d900": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/stonecutter_bottom_d900"
+    },
+    "xray_stonecutter_top_d900": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/xray/stonecutter_top_d900"
     }
   },
   "elements": [
@@ -42,7 +50,7 @@
             16,
             16
           ],
-          "texture": "#bottom",
+          "texture": "#xray_stonecutter_bottom_d900",
           "cullface": "down"
         },
         "up": {
@@ -52,7 +60,7 @@
             16,
             16
           ],
-          "texture": "#top"
+          "texture": "#xray_stonecutter_top_d900"
         },
         "north": {
           "uv": [

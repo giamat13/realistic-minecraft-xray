@@ -1,8 +1,8 @@
 """Locate the source (vanilla) texture for a path relative to assets/minecraft/textures/.
 Search order: 26.3 client jar, then older versions newest-first (extracted under /tmp/mc/v)."""
-import io, pathlib, zipfile
+import io, os, pathlib, zipfile
 from PIL import Image
-JAR = "/tmp/mc/client.jar"; V = pathlib.Path("/tmp/mc/v")
+JAR = os.environ.get("MC_JAR", "/tmp/mc/client.jar"); V = pathlib.Path(os.environ.get("MC_VERSIONS", "/tmp/mc/v"))
 def _key(s): return [int(x) if x.isdigit() else x for x in s.split(".")]
 _z = None
 def all_paths():
